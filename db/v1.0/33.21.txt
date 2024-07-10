@@ -1,0 +1,263 @@
+33.21.12_Bonang_59511|59552
+.2012_Betahwalang_59552
+.2017_Bonangrejo_59552
+.2008_Gebang_59552
+.2007_Gebangarum_59552
+.2020_Jali_59552
+.2001_Jatimulyo_59552
+.2016_Jatirogo_59552
+.2006_Karangrejo_59552
+.2005_Kembangan_59511
+.2002_Krajanbogo_59552
+.2009_Margolinduk_59552
+.2010_Morodemak_59552
+.2018_Poncoharjo_59552
+.2011_Purworejo_59552
+.2013_Serangan_59552
+.2003_Sukodono_59552
+.2004_Sumberejo_59552
+.2015_Tlogoboyo_59552
+.2014_Tridonorejo_59552
+.2021_Weding_59552
+.2019_Wonosari_59552
+33.21.11_Demak_59511|59517
+.2002_Bango_59517
+.1017_Betokan_59512
+.1018_Bintoro_59511
+.2001_Bolo_59517
+.2008_Cabean_59517
+.2013_Donorojo (Donorejo)_59517
+.1019_Kadilangu_59517
+.1015_Kalicilik_59514
+.2012_Kalikondang_59517
+.2010_Karangmlati_59517
+.2011_Katonsari_59516
+.2003_Kedondong_59517
+.1014_Mangunjiwan_59515
+.2005_Mulyorejo_59517
+.2007_Raji_59517
+.2004_Sedo_59517
+.1016_Singorejo_59513
+.2009_Tempuran_59517
+.2006_Turirejo_59517
+33.21.07_Dempet_59573
+.2008_Balerejo_59573
+.2009_Baleromo_59573
+.2004_Botosengon_59573
+.2007_Brakas_59573
+.2017_Dempet_59573
+.2013_Gempoldenok_59573
+.2015_Harjowinangun_59573
+.2005_Jerukgulung_59573
+.2002_Karangrejo_59573
+.2012_Kebonsari_59573
+.2010_Kedungori_59573
+.2016_Kramat_59573
+.2006_Kunir_59573
+.2011_Kuwu_59573
+.2001_Merak_59573
+.2003_Sidomulyo_59573
+33.21.08_Gajah_59581
+.2011_Banjarsari_59581
+.2012_Boyolali_59581
+.2013_Gajah_59581
+.2004_Gedangalas_59581
+.2002_Jatisono_59581
+.2003_Kedondong_59581
+.2008_Medini_59581
+.2009_Mlatiharjo_59581
+.2015_Mlekang_59581
+.2017_Mojosimo_59581
+.2005_Sambiroto_59581
+.2016_Sambung_59581
+.2014_Sari (Sarirejo)_59581
+.2001_Surodadi_59581
+.2010_Tambirejo_59581
+.2006_Tanjunganyar_59581
+.2018_Tlogopandogan_59581
+.2007_Wilalung_59581
+33.21.03_Guntur_59565
+.2014_Bakalrejo_59565
+.2002_Banjarejo_59565
+.2001_Blerong_59565
+.2007_Bogosari_59565
+.2016_Bumiharjo_59565
+.2010_Gaji_59565
+.2015_Guntur_59565
+.2011_Krandon_59565
+.2005_Pamongan_59565
+.2004_Sarirejo_59565
+.2019_Sidoharjo_59565
+.2009_Sidokumpul_59565
+.2008_Sukorejo_59565
+.2012_Tangkis_59565
+.2013_Temuroso_59565
+.2017_Tlogorejo_59565
+.2006_Tlogoweru_59565
+.2018_Trimulyo_59565
+.2020_Turitempel_59565
+.2003_Wonorejo_59565
+33.21.09_Karanganyar_59582
+.2015_Bandungrejo_59582
+.2005_Cangkring_59582
+.2004_Cangkringrembang (Cangkring Rembang)_59582
+.2001_Jatirejo_59582
+.2012_Karanganyar_59582
+.2013_Kedungwaru Kidul_59582
+.2014_Kedungwaru Lor_59582
+.2009_Ketanjung_59582
+.2017_Kotaan (Kotakan)_59582
+.2002_Ngaluran_59582
+.2010_Ngemplikwetan (Ngemplik Wetan)_59582
+.2016_Tugu Lor_59582
+.2006_Tuwang_59582
+.2007_Undaan Kidul_59582
+.2008_Undaan Lor_59582
+.2003_Wonoketingal_59582
+.2011_Wonorejo_59582
+33.21.02_Karangawen_59566
+.2010_Brambang_59566
+.2009_Bumirejo_59566
+.2001_Jragung_59566
+.2007_Karangawen_59566
+.2008_Kuripan_59566
+.2003_Margohayu_59566
+.2012_Pundenarum_59566
+.2006_Rejosari_59566
+.2011_Sidorejo (Sido Rejo)_59566
+.2004_Teluk_59566
+.2005_Tlogorejo_59566
+.2002_Wonosekar_59566
+33.21.05_Karangtengah (Karang Tengah)_59561
+.2014_Batu_59561
+.2004_Donorejo_59561
+.2009_Dukun_59561
+.2002_Grogol_59561
+.2010_Karangsari_59561
+.2011_Karangtowo_59561
+.2008_Kedunguter_59561
+.2006_Klitih_59561
+.2005_Pidodo_59561
+.2001_Ploso_59561
+.2003_Pulosari_59561
+.2015_Rejosari_59561
+.2007_Sampang_59561
+.2017_Tambakbulusan_59561
+.2016_Wonoagung_59561
+.2013_Wonokerto_59561
+.2012_Wonowoso_59561
+33.21.14_Kebonagung_59583
+.2007_Babat (Babad)_59583
+.2002_Kebonagung_59583
+.2003_Klampok Lor_59583
+.2008_Mangunanlor (Mangunan Lor)_59583
+.2006_Mangunrejo_59583
+.2014_Megonten_59583
+.2004_Mijen_59583
+.2001_Pilangwetan_59583
+.2010_Prigi_59583
+.2011_Sarimulyo_59583
+.2013_Sokokidul (Soko Kidul)_59583
+.2012_Solowire_59583
+.2009_Tlogosih_59583
+.2005_Werdoyo_59583
+33.21.10_Mijen_59584
+.2012_Bakung_59584
+.2004_Bantengmati (Banteng Mati)_59584
+.2013_Bremi (Bermi)_59584
+.2015_Gempolsongo_59584
+.2001_Geneng_59584
+.2009_Jleper_59584
+.2014_Mijen_59584
+.2003_Mlaten_59584
+.2008_Ngegot_59584
+.2005_Ngelokulon (Ngelo Kulon)_59584
+.2002_Ngelowetan (Ngelo Wetan)_59584
+.2006_Pasir_59584
+.2010_Pecuk_59584
+.2007_Rejosari_59584
+.2011_Tanggul_59584
+33.21.01_Mranggen_59567
+.2008_Bandungrejo_59567
+.2001_Banyumeneng_59567
+.2007_Batursari_59567
+.2009_Brumbung_59567
+.2019_Candisari_59567
+.2015_Jamus_59567
+.2004_Kalitengah_59567
+.2005_Kangkung_59567
+.2011_Karangsono_59567
+.2002_Kebonbatur_59567
+.2010_Kembangarum_59567
+.2014_Menur_59567
+.2006_Mranggen_59567
+.2013_Ngemplak_59567
+.2003_Sumberejo_59567
+.2012_Tamansari_59567
+.2018_Tegalarum_59567
+.2017_Waru_59567
+.2016_Wringinjajar (Wringin Jajar)_59567
+33.21.04_Sayung_59563
+.2020_Banjarsari_59563
+.2012_Bedono_59563
+.2001_Bulusari_59563
+.2002_Dombo_59563
+.2015_Gemulak_59563
+.2003_Jetaksari_59563
+.2004_Kalisari_59563
+.2005_Karangasem_59563
+.2009_Loireng_59563
+.2007_Pilangsari_59563
+.2006_Prampelan (Perampelan)_59563
+.2013_Purwosari_59563
+.2010_Sayung_59563
+.2014_Sidogemah_59563
+.2019_Sidorejo_59563
+.2011_Sriwulan_59563
+.2017_Surodadi_59563
+.2008_Tambakroto_59563
+.2016_Timbulsloko_59563
+.2018_Tugu_59563
+33.21.13_Wedung_59554
+.2015_Babalan_59554
+.2007_Berahan Kulon_59554
+.2008_Berahan Wetan_59554
+.2005_Buko_59554
+.2009_Bungo_59554
+.2011_Jetak_59554
+.2013_Jungpasir_59554
+.2012_Jungsemi_59554
+.2020_Kedungkarang_59554
+.2019_Kedungmutih_59554
+.2018_Kendalasem_59554
+.2004_Kenduren_59554
+.2006_Mandung_59554
+.2016_Mutihkulon (Mutih Kulon)_59554
+.2014_Mutihwetan (Mutih Wetan)_59554
+.2002_Ngawen_59554
+.2003_Ruwit_59554
+.2017_Tedunan_59554
+.2010_Tempel_59554
+.2001_Wedung_59554
+33.21.06_Wonosalam_59571
+.2010_Botorejo_59571
+.2015_Bunderan_59571
+.2001_Doreng_59571
+.2016_Getas_59571
+.2009_Jogoloyo_59571
+.2002_Kalianyar_59571
+.2008_Karangrejo_59571
+.2004_Karangrowo_59571
+.2006_Kendaldoyong_59571
+.2014_Kerangkulon_59571
+.2018_Kuncir_59571
+.2005_Lempuyang_59571
+.2017_Mojodemak_59571
+.2021_Mranak_59571
+.2020_Mrisen_59571
+.2012_Pilangrejo_59571
+.2011_Sidomulyo (Sido Mulyo)_59571
+.2003_Tlogodowo_59571
+.2013_Tlogorejo_59571
+.2019_Trengguli_59571
+.2007_Wonosalam_59571

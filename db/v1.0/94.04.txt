@@ -1,0 +1,170 @@
+94.04.02_Agimuga_99964
+.2002_Amungun_99964
+.2003_Aramsolki_99964
+.2007_Emkoma Halama_99964
+.2006_Emogoma_99964
+.2004_Fakafuku_99964
+.2008_Hinat Untung_99964
+.2001_Kiliarma_99964
+.2005_Masasimamo_99964
+94.04.18_Alama_99966
+.2002_Alama_99966
+.2005_Bemoki_99966
+.2001_Enggin_99966
+.2007_Geselema_99966
+.2009_Jenggelo_99966
+.2011_Kilmit_99966
+.2010_Purua_99966
+.2003_Senawak_99966
+.2006_Tagaralma_99966
+.2004_Unimogom_99966
+.2008_Wuarem_99966
+94.04.17_Amar_99973
+.2001_Amar_99973
+.2004_Ipiri_99973
+.2002_Kawar_99973
+.2003_Manuare_99973
+.2005_Paripi_99973
+.2006_Yaraya_99973
+94.04.14_Hoya_99960
+.2001_Hoya_99960
+.2006_Jawa_99960
+.2003_Jinonin_99960
+.2004_Kulama Ogom_99960
+.2002_Mamontoga_99960
+.2005_Puti (Puti Semula)_99960
+94.04.15_Iwaka_99968
+.2003_Iwaka_99968
+.2007_Limau Asri Barat_99968
+.2001_Limau Asri Timur_99968
+.2005_Mulia Kencana_99968
+.2004_Naena Muktipura_99968
+.2006_Pigapu_99968
+.2002_Wangirja_99968
+94.04.06_Jila_99961
+.2011_Amua Ogom_99961
+.2009_Bunaraugin_99961
+.2002_Diloa_99961
+.2025_Diloa Dua_99961
+.2007_Jengkon_99961
+.2001_Jila_99961
+.2003_Noemun_99961
+.2006_Pasir Putih_99961
+.2008_Pilik Ogom_99961
+.2022_Pusuwe_99961
+.2010_Umpliga_99961
+.2024_Wandud_99961
+94.04.05_Jita_99965
+.2008_Bulumen_99965
+.2010_Jaitak_99965
+.2009_Kanmapiri_99965
+.2003_Noema_99965
+.2001_Sempan Timur_99965
+.2005_Sumapro_99965
+.2006_Wacakam_99965
+.2007_Waituku_99965
+.2004_Wapu_99965
+.2002_Wenin_99965
+94.04.09_Kuala Kencana_99969
+.2007_Bhintuka_99969
+.2013_Jimbi_99969
+.1005_Karang Senang_99969
+.2010_Karya Kencana_99969
+.1001_Kuala Kencana_99969
+.2009_Mimika Gunung_99969
+.2008_Tioka Kencana_99969
+.2006_Utikini Baru_99969
+.2011_Utikini Dua_99969
+.2012_Utikini Tiga_99969
+94.04.13_Kwamki Narama_99951
+.2008_Amole_99951
+.2005_Bintang Lima_99951
+.2006_Damai_99951
+.1001_Harapan_99951
+.2009_Lamopi_99951
+.2003_Landun Mekar_99951
+.2002_Meekurima_99951
+.2004_Olaroa_99951
+.2010_Tunas Matoa_99951
+.2007_Walani_99951
+94.04.04_Mimika Barat_99975
+.2011_Aparuka_99975
+.2013_Apuri_99975
+.2012_Atapo_99975
+.2003_Kiura_99975
+.2001_Kokonao_99975
+.2002_Migiwia_99975
+.2004_Mimika_99975
+94.04.11_Mimika Barat Jauh_99974
+.2003_Aiduna (Aindua)_99974
+.2001_Potowai Buru (Potowayburu / Potowaiburu)_99974
+.2004_Tapomai (Tapormai)_99974
+.2005_Umar_99974
+.2002_Yapkoka (Yapakopa)_99974
+94.04.12_Mimika Barat Tengah_99976
+.2005_Akar_99976
+.2001_Kapiraya_99976
+.2007_Kipia_99976
+.2006_Mapar_99976
+.2003_Mapuruku (Mapuruka/Mupuruka)_99976
+.2008_Pronggo_99976
+.2002_Uta_99976
+.2009_Wakia_99976
+.2004_Wumuka_99976
+94.04.01_Mimika Baru_99952
+.1032_Dingo Narama_99952
+.2013_Hangaitji_99952
+.1029_Kebun Sirih_99952
+.1001_Koperapoka_99952
+.1002_Kwamki_99952
+.2012_Minabua_99952
+.2010_Nayaro_99952
+.1030_Otomona_99952
+.1027_Pasar Sentral_99952
+.1031_Perintis_99952
+.1026_Sempan_99952
+.1033_Timika Indah_99952
+.1007_Timika Jaya_99952
+.1028_Wanagon_99952
+94.04.08_Mimika Tengah_99972
+.2004_Aikawapuka_99972
+.2001_Atuka_99972
+.2005_Kamoro_99972
+.2003_Keakwa_99972
+.2002_Tiwaka_99972
+94.04.03_Mimika Timur_99962
+.2007_Hiripau_99962
+.2002_Kaugapa_99962
+.2005_Muare_99962
+.2003_Poumako_99962
+.2004_Tipuka_99962
+.1001_Wania_99962
+94.04.07_Mimika Timur Jauh_99971
+.2002_Amamapare_99971
+.2001_Ayuka_99971
+.2005_Fanamo_99971
+.2003_Ohotya_99971
+.2004_Omawita_99971
+94.04.10_Tembagapura_99967
+.2014_Aingogin_99967
+.2003_Arwanop_99967
+.2015_Baluni_99967
+.2007_Banigogom_99967
+.2013_Banti Dua_99967
+.2009_Doliningokngin_99967
+.2006_Jagamin_99967
+.2018_Jongkogama_99967
+.2017_Meningimponogama_99967
+.2016_Noselanop_99967
+.2008_Opitawak_99967
+.1001_Tembagapura_99967
+.2004_TSinga (T Singa)_99967
+.2002_Waa_99967
+94.04.16_Wania_99963
+.1005_Inauga_99963
+.2001_Kadun Jaya_99963
+.1002_Kamoro Jaya_99963
+.2007_Mandiri Jaya_99963
+.2006_Mawokau Jaya_99963
+.2004_Nawaripi_99963
+.1003_Wonosari Jaya_99963

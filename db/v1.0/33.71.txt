@@ -1,0 +1,20 @@
+33.71.01_Magelang Selatan_56123|56126
+.1009_Jurangombo Selatan_56123
+.1008_Jurangombo Utara_56123
+.1007_Magersari_56126
+.1003_Rejowinangun Selatan_56124
+.1011_Tidar Selatan_56125
+.1010_Tidar Utara_56125
+33.71.03_Magelang Tengah_56111|56127
+.1002_Cacaban_56121
+.1006_Gelangan_56112
+.1001_Kemirirejo_56122
+.1004_Magelang_56117
+.1005_Panjang_56111
+.1003_Rejowinangun Utara_56127
+33.71.02_Magelang Utara_56113|56116
+.1005_Kedungsari_56114
+.1009_Kramat Selatan_56115
+.1008_Kramat Utara_56115
+.1004_Potrobangsan_56116
+.1003_Wates_56113

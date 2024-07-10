@@ -1,0 +1,110 @@
+14.10.05_Merbau_28752
+.2004_Bagan Melibur_28752
+.2003_Lukit_28752
+.2023_Mayang Sari_28752
+.2021_Mekar Sari_28752
+.2002_Meranti Bunting_28752
+.2018_Pelantai_28752
+.2026_Sungai Anak Kamal_28752
+.2027_Sungai Tengah_28752
+.2019_Tanjung Kulim_28752
+.1001_Teluk Belitung_28752
+14.10.06_Pulaumerbau_28750
+.2003_Baran Melintang_28750
+.2008_Batang Meranti_28750
+.2006_Centai_28750
+.2011_Ketapang Permai_28750
+.2001_Kuala Merbau_28750
+.2010_Padang Kamal_28750
+.2009_Pangkalan Balai_28750
+.2002_Renak Dungun_28750
+.2005_Semukut_28750
+.2007_Tanjungbunga_28750
+.2004_Teluk Ketapang_28750
+14.10.03_Rangsang_28755
+.2014_Citra Damai_28755
+.2016_Dwi Tunggal_28755
+.2004_Gemala Sari_28755
+.2008_Penyagun_28755
+.2010_Repan_28755
+.2013_Sungai Gayung Kiri_28755
+.2011_Tanjung Bakau_28755
+.2020_Tanjung Gemuk_28755
+.2002_Tanjung Medang_28755
+.2001_Tanjung Samak_28755
+.2018_Tebun_28755
+.2012_Teluk Samak_28755
+.2007_Topang_28755
+.2017_Wonosari_28755
+14.10.02_Rangsang Barat_28756
+.2003_Anak Setatah_28756
+.2002_Bantar_28756
+.2012_Bina Maju_28756
+.2005_Bokor_28756
+.2004_Lemang_28756
+.2017_Mekar Baru_28756
+.2007_Melai_28756
+.2016_Permai_28756
+.2001_Segomeng_28756
+.2015_Sialang Pasung_28756
+.2006_Sungai Cina_28756
+.2011_Telaga Baru_28756
+14.10.09_Rangsang Pesisir_28757
+.2002_Beting_28757
+.2005_Bungur_28757
+.2008_Kayu Ara_28757
+.2010_Kedabu Rapat_28757
+.2007_Sendaur_28757
+.2003_Sokop_28757
+.2009_Sonde_28757
+.2011_Tanah Merah_28757
+.2001_Tanjung Kedabu_28757
+.2004_Telesung_28757
+.2006_Tenggayun Raya_28757
+14.10.08_Tasik Putri Puyu_28751
+.2006_Bandul_28751
+.2004_Dedap_28751
+.2005_Kudap_28751
+.2003_Mekar Delima_28751
+.2010_Mengkirau_28751
+.2009_Mengkopot_28751
+.2002_Putri Puyu_28751
+.2007_Selat Akar_28751
+.2001_Tanjung Padang_28751
+.2008_Tanjung Pisang_28751
+14.10.01_Tebing Tinggi_28753
+.2006_Alah Air_28753
+.2007_Alah Air Timur_28753
+.2005_Banglas_28753
+.2016_Banglas Barat_28753
+.1002_Selatpanjang Barat_28753
+.1001_Selatpanjang Kota_28753
+.1003_Selatpanjang Selatan_28753
+.1004_Selatpanjang Timur_28753
+.2008_Sesap_28753
+14.10.04_Tebing Tinggi Barat_28758
+.2001_Alai_28758
+.2013_Alai Selatan_28758
+.2008_Batang Malas_28758
+.2010_Gogok Darussalam_28758
+.2003_Insit_28758
+.2006_Kundur_28758
+.2011_Maini Darul Aman_28758
+.2009_Mantiasa_28758
+.2007_Mekong_28758
+.2012_Mengkikip_28758
+.2004_Tanjung_28758
+.2014_Tanjung Darul Takzim_28758
+.2005_Tanjung Peranap_28758
+.2002_Tenan_28758
+14.10.07_Tebing Tinggi Timur_28754
+.2010_Batin Suir_28754
+.2007_Kepau Baru_28754
+.2001_Lukun_28754
+.2003_Nipah Sendanu_28754
+.2009_Sendanu Darul Ihsan_28754
+.2002_Sungai Tohor_28754
+.2008_Sungai Tohor Barat_28754
+.2005_Tanjung Gadai_28754
+.2004_Tanjung Sari_28754
+.2006_Teluk Buntal_28754

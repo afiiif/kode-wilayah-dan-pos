@@ -1,0 +1,116 @@
+73.10.05_Balocci_90661
+.1001_Balleanging (Balleangin)_90661
+.1002_Balocci Baru_90661
+.1004_Majannang_90661
+.2005_Tompobulu (Tompo Bulu)_90661
+.1003_Tonasa_90661
+73.10.06_Bungoro_90651
+.2008_Biring Ere_90651
+.1001_Boriappaka_90651
+.2004_Bowong Cindea_90651
+.2007_Bulu Cindea_90651
+.2006_Mangilu_90651
+.1002_Samalewa_90651
+.1003_Sapanang_90651
+.2005_Tabo-Tabo_90651
+73.10.07_Labakkang_90653
+.2013_Bara Batu_90653
+.2008_Batara_90653
+.2011_Bonto Manai_90653
+.1004_Borimasunggu_90653
+.2007_Gentung_90653
+.2010_Kanaungan_90653
+.2012_Kassi Loe_90653
+.1001_Labakkang_90653
+.2006_Manakku_90653
+.1002_Mangallekana_90653
+.2005_Pattalassang (Patallassang)_90653
+.1003_Pundata Baji_90653
+.2009_Taraweang_90653
+73.10.02_Liukang Kalmas (Kalukuang Masalima)_90672
+.2007_Dewakang_90672
+.2005_Doang Doangan Lompo (Doang Doanganlompo)_90672
+.1001_Kalukuang (Kalu-Kalukuang)_90672
+.2004_Kanyurang_90672
+.2006_Mara Sende (Marasende)_90672
+.2002_Pammas_90672
+.2003_Sabaru_90672
+73.10.01_Liukang Tangaya_90673
+.2003_Balo Baloang_90673
+.2008_Kapoposan Bali_90673
+.2009_Poleonro_90673
+.2004_Sabalana_90673
+.2002_Sabaru_90673
+.2006_Sailus_90673
+.1001_Sapuka_90673
+.2007_Satanger_90673
+.2005_Tampaang_90673
+73.10.03_Liukang Tupabbiring_90671
+.2015_Mattaro Adae_90671
+.1016_Mattiro Bintang_90671
+.2013_Mattiro Bone_90671
+.2002_Mattiro Deceng_90671
+.2011_Mattiro Dolangeng_90671
+.2003_Mattiro Langi_90671
+.2009_Mattiro Matae_90671
+.1001_Mattiro Sompe_90671
+.2010_Mattiro Ujung_90671
+73.10.13_Liukang Tupabbiring Utara_90670
+.2002_Mattiro Baji_90670
+.2004_Mattiro Bombang_90670
+.2003_Mattiro Bulu_90670
+.2001_Mattiro Kanja_90670
+.2005_Mattiro Labangeng_90670
+.2006_Mattiro Uleng_90670
+.2007_Mattiro Walie_90670
+73.10.11_Mandalle_90655
+.2001_Benteng_90655
+.2005_Boddie_90655
+.2006_Coppo Tompong_90655
+.2004_Mandalle_90655
+.2002_Manggalung_90655
+.2003_Tama'rupa_90655
+73.10.08_Marang (Ma Rang)_90654
+.2010_Alesipitto_90654
+.1004_Attang Salo_90654
+.1001_Bonto-Bonto_90654
+.1003_Marang (Ma Rang)_90654
+.2005_Padang Lampe_90654
+.2008_Pitue_90654
+.2007_Pitusunggu (Pitu Sunggu)_90654
+.2009_Punranga_90654
+.1002_Talaka_90654
+.2006_Tamangapa_90654
+73.10.10_Minasa Tene_90614|90619
+.1003_Biraeng_90614
+.1004_Bonto Kio (Bontokio)_90614
+.1006_Bonto Langkasa_90618
+.1005_Bontoa_90615
+.2007_Kabba_90619
+.1002_Kalabbirang_90615
+.1001_Minasa Tene_90615
+.2008_Panaikang_90619
+73.10.04_Pangkajene_90611|90617
+.1004_Anrong Appaka_90612
+.1009_Bonto Perak_90617
+.1001_Jagong_90611
+.1002_Mappa Saile (Mappasaile)_90617
+.1003_Pabundukang_90616
+.1006_Padoang Doangan (Paddoang Doangan)_90617
+.1005_Sibatua_90613
+.1008_Tekolabbua_90617
+.1007_Tumampua_90611
+73.10.09_Segeri_90656
+.2005_Baring_90656
+.1004_Bawa Salo (Bawasalo)_90656
+.1003_Bone_90656
+.1001_Bonto Matene_90656
+.2006_Parenreng_90656
+.1002_Segeri_90656
+73.10.12_Tondong Tallasa_90566
+.2001_Banti Murung (Bantimurung)_90566
+.2006_Bonto Birao_90566
+.2004_Bulutellue (Bulu Tellue)_90566
+.2003_Lanne_90566
+.2005_Malaka_90566
+.2002_Tondong Kura (Tondongkura)_90566

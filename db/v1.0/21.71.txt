@@ -1,0 +1,76 @@
+21.71.10_Batam Kota_29431|29464
+.1001_Baloi Permai_29431
+.1004_Belian_29464
+.1005_Sukajadi_29432
+.1006_Sungai Panas_29433
+.1002_Taman Baloi_29432
+.1003_Teluk Tering_29461
+21.71.12_Batu Aji_29422|29438
+.1004_Bukit Tempayan_29438
+.1002_Buliang_29438
+.1003_Kibing_29422
+.1001_Tanjung Uncang_29424
+21.71.02_Batu Ampar_29451|29456
+.1003_Batu Merah_29452
+.1004_Kampung Seraya_29454
+.1002_Sungai Jodoh_29453
+.1001_Tanjung Sengkuang_29453
+21.71.01_Belakang Padang_29411|29416
+.1003_Kasu_29413
+.1005_Pecong_29414
+.1002_Pemping_29412
+.1004_Pulau Terung (Pulau Terong)_29416
+.1007_Sekanak Raya_29416
+.1006_Tanjung Sari_29416
+21.71.09_Bengkong_29432|29458
+.1001_Bengkong Indah_29458
+.1002_Bengkong Laut_29458
+.1003_Sadai_29432
+.1004_Tanjung Buntung_29432
+21.71.05_Bulang_29471|29476
+.1004_Batu Legong_29474
+.1001_Bulang Lintang_29471
+.1005_Pantai Gelam_29473
+.1002_Pulau Buluh_29472
+.1006_Pulau Setokok_29476
+.1003_Temoyong_29475
+21.71.08_Galang_29481|29487
+.1008_Air Raja_29483
+.1003_Galang Baru (Pulau)_29484
+.1002_Karas (Pulau Karas)_29486
+.1007_Pulau Abang_29487
+.1005_Rempang Cate_29482
+.1004_Sembulang (Pulau Rempang)_29481
+.1001_Sijantung_29485
+.1006_Subang Mas_29483
+21.71.06_Lubuk Baja_29432|29445
+.1006_Baloi Indah_29432
+.1004_Batu Selicin_29441
+.1001_Kampung Pelita_29443
+.1003_Lubuk Baja Kota_29444
+.1005_Tanjung Uma_29445
+21.71.04_Nongsa_29465|29468
+.1002_Batu Besar_29466
+.1003_Kabil_29467
+.1004_Ngenang_29468
+.1001_Sambau_29465
+21.71.11_Sagulung_29439
+.1004_Sagulung Kota_29439
+.1002_Sungai Binti_29439
+.1005_Sungai Langkai_29439
+.1003_Sungai Lekop_29439
+.1006_Sungai Pelenggut/Pelunggut_29439
+.1001_Tembesi_29439
+21.71.07_Sei Beduk (Sungai Beduk)_29433|29437
+.1002_Duriangkang (Duriangka)_29437
+.1003_Mangsang (Mangsa)_29437
+.1001_Muka Kuning_29433
+.1004_Tanjung Piayu_29437
+21.71.03_Sekupang_29424|29428
+.1008_Patam Lestari_29427
+.1001_Sungai Harapan_29428
+.1002_Tanjung Pinggir_29428
+.1003_Tanjung Riau_29425
+.1006_Tiban Baru_29426
+.1005_Tiban Indah_29426
+.1007_Tiban Lama_29425

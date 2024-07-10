@@ -1,0 +1,126 @@
+72.05.06_Biau_94563
+.1007_Bugis_94563
+.1001_Buol_94563
+.1002_Kali_94563
+.1006_Kulango_94563
+.1005_Kumaligon_94563
+.1004_Leok I_94563
+.1003_Leok II_94563
+72.05.03_Bokat_94564
+.2018_Bokat_94564
+.2015_Bokat IV_94564
+.2003_Bongo_94564
+.2021_Bukamog_94564
+.2019_Butukan_94564
+.2004_Doulan_94564
+.2023_Duamayo (Duwamayo)_94564
+.2010_Kantanan_94564
+.2011_Kodolagon_94564
+.2024_Langudon_94564
+.2014_Negeri Lama_94564
+.2002_Poongan_94564
+.2022_Tang_94564
+.2001_Tayadun_94564
+.2020_Tikopo_94564
+72.05.08_Bukal_94571
+.2001_Biau_94571
+.2010_Binuang_94571
+.2014_Bukal_94571
+.2002_Bungkudu_94571
+.2008_Diat_94571
+.2005_Modo I (Modo)_94571
+.2012_Mooyong_94571
+.2007_Mopu_94571
+.2013_Mulat_94571
+.2009_Potangoan_94571
+.2003_Rantemaranu_94571
+.2006_Unone_94571
+.2004_Winangun_94571
+.2011_Yugut_94571
+72.05.04_Bunobogu_94567
+.2003_Botugolu_94567
+.2004_Bunobogu (Bonobogu)_94567
+.2016_Bunobogu Selatan_94567
+.2015_Domag Mekar_94567
+.2007_Inalatan_94567
+.2005_Kenamukan (Konamukan)_94567
+.2001_Lonu_94567
+.2017_Pokobo_94567
+.2006_Ponipingan_94567
+.2002_Tamit_94567
+72.05.09_Gadung_94568
+.2006_Bulagidun_94568
+.2010_Bulogidon Tanjung (Bulagidun Tanjung)_94568
+.2007_Diapati (Diapatih)_94568
+.2005_Labuton_94568
+.2009_Lipubogu_94568
+.2001_Lokodidi_94568
+.2004_Lokodoka_94568
+.2002_Matinan_94568
+.2008_Nandu_94568
+.2011_Pandangan_94568
+.2003_Taat_94568
+72.05.10_Karamat_94572
+.2003_Baruga_94572
+.2005_Busak I_94572
+.2006_Busak II_94572
+.2007_Lamakan_94572
+.2002_Mendaan_94572
+.2001_Mokupo_94572
+.2004_Monano_94572
+72.05.02_Lakea (Lipunoto)_94573
+.2017_Bukaan_94573
+.2019_Ilambe_94573
+.2011_Lakea I (Leok 1)_94573
+.2010_Lakea II (Leok II)_94573
+.2012_Lakuan Buol (Buol)_94573
+.2018_Ngune_94573
+.2009_Tuinan_94573
+72.05.01_Momunu_94565
+.2010_Guamonial_94565
+.2011_Lamadong I_94565
+.2008_Lamadong II_94565
+.2023_Mangubi_94565
+.2001_Momunu_94565
+.2012_Pajeko_94565
+.2006_Panimbul_94565
+.2002_Pinamula_94565
+.2022_Pinamula Baru_94565
+.2009_Pomayagon_94565
+.2005_Potugu_94565
+.2003_Pujimulyo_94565
+.2021_Soraya_94565
+.2004_Taluan_94565
+.2007_Tongon_94565
+.2020_Wakat_94565
+72.05.05_Paleleh_94569
+.2005_Baturata (Batu Rata)_94569
+.2017_Dopalak_94569
+.2018_Dotuno (Dutuno)_94569
+.2006_Kwalabesar (Kuala Besar)_94569
+.2003_Lilito_94569
+.2009_Lintidu_94569
+.2002_Mulangato_94569
+.2008_Paleleh_94569
+.2014_Pionoto_94569
+.2004_Talaki_94569
+.2007_Tolau_94569
+.2001_Umu_94569
+72.05.11_Paleleh Barat_94574
+.2001_Bodi_94574
+.2003_Harmoni_94574
+.2007_Hulubalang_94574
+.2004_Lunguto_94574
+.2006_Oyak_94574
+.2002_Tayokan_94574
+.2005_Timbulon_94574
+72.05.07_Tiloan_94566
+.2003_Air Terang (Airterang)_94566
+.2007_Balau_94566
+.2001_Boilan_94566
+.2005_Jatimulya (Jatimulyo)_94566
+.2002_Kokobuka_94566
+.2006_Lomuli_94566
+.2008_Maniala_94566
+.2009_Monggonit_94566
+.2004_Panilan Jaya_94566

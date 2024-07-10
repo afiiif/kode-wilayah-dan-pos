@@ -1,0 +1,257 @@
+33.03.09_Bobotsari_53353
+.2004_Banjarsari_53353
+.2006_Bobotsari_53353
+.2013_Dagan_53353
+.2001_Gandasuli_53353
+.2010_Gunungkarang_53353
+.2002_Kalapacung_53353
+.2007_Karangduren_53353
+.2003_Karangmalang_53353
+.2009_Karangtalun_53353
+.2015_Limbasari_53353
+.2005_Majapura_53353
+.2008_Pakuncen_53353
+.2014_Palumbungan (Palumbungan Kulon)_53353
+.2016_Palumbungan Wetan_53353
+.2011_Talagening_53353
+.2012_Tlagayasa_53353
+33.03.14_Bojongsari_53362
+.2004_Banjaran_53362
+.2009_Beji_53362
+.2006_Bojongsari_53362
+.2001_Brobot_53362
+.2013_Bumisari_53362
+.2003_Galuh_53362
+.2002_Gembong_53362
+.2007_Kajongan_53362
+.2008_Karangbanjar_53362
+.2012_Metenggeng_53362
+.2010_Pagedangan_53362
+.2005_Patemon_53362
+.2011_Pekalongan_53362
+33.03.02_Bukateja_53382
+.2014_Bajong_53382
+.2012_Bukateja_53382
+.2004_Cipawon_53382
+.2005_Karangcengis_53382
+.2006_Karanggedang_53382
+.2007_Karangnangka_53382
+.2009_Kebutuh_53382
+.2011_Kedungjati_53382
+.2003_Kembangan_53382
+.2008_Kutawis_53382
+.2013_Majasari_53382
+.2010_Penaruban_53382
+.2001_Tidu_53382
+.2002_Wirasaba_53382
+33.03.04_Kaligondang_53331|53391
+.2015_Arenan_53391
+.2009_Brecek_53391
+.2003_Cilapar_53391
+.2008_Kaligondang_53391
+.2012_Kalikajar_53391
+.2013_Kembaran Wetan_53391
+.2001_Lamongan_53391
+.2017_Pagerandong_53391
+.2011_Penaruban_53331
+.2004_Penolih_53391
+.2006_Selakambang_53391
+.2007_Selanegara_53391
+.2010_Sempor Lor_53391
+.2016_Sidanegara_53391
+.2018_Sidareja_53391
+.2005_Sinduraja_53391
+.2014_Slinga_53391
+.2002_Tejasari_53391
+33.03.06_Kalimanah_53321|53371
+.2017_Babakan_53371
+.2003_Blater_53371
+.2010_Grecol_53371
+.2001_Jompo_53371
+.1013_Kalikabong_53321
+.2006_Kalimanah Kulon_53371
+.2009_Kalimanah Wetan_53371
+.1012_Karangmanyar_53371
+.2008_Karangpetir_53371
+.2005_Karangsari_53371
+.2016_Kedungwuluh_53371
+.2015_Klapasawit_53371
+.2004_Manduraga_53371
+.1011_Mewek_53371
+.2002_Rabak_53371
+.2014_Selabaya_53371
+.2007_Sidakangen_53371
+33.03.11_Karanganyar_53354
+.2012_Banjarkerta_53354
+.2003_Brakas_53354
+.2002_Buara_53354
+.2004_Bungkanel_53354
+.2008_Jambudesa_53354
+.2007_Kabunderan_53354
+.2013_Kalijaran_53354
+.2014_Kaliori_53354
+.2010_Karanganyar_53354
+.2006_Karanggedang_53354
+.2005_Lumpang_53354
+.2009_Maribaya_53354
+.2001_Ponjen_53354
+33.03.17_Karangjambu_53357
+.2006_Danasari_53357
+.2005_Jingkang_53357
+.2003_Karangjambu_53357
+.2001_Purbasari_53357
+.2004_Sanguwatang_53357
+.2002_Sirandu_53357
+33.03.12_Karangmoncol_53355
+.2008_Baleraksa_53355
+.2004_Grantung_53355
+.2001_Karangsari_53355
+.2010_Kramat_53355
+.2003_Pekiringan_53355
+.2002_Pepedan_53355
+.2005_Rajawana_53355
+.2011_Sirau_53355
+.2006_Tajug_53355
+.2007_Tamansari_53355
+.2009_Tunjungmuli_53355
+33.03.10_Karangreja_53358
+.2007_Gondang_53358
+.2006_Karangreja_53358
+.2002_Kutabawa_53358
+.2001_Serang_53358
+.2003_Siwarak_53358
+.2005_Tlahab Kidul_53358
+.2004_Tlahab Lor_53358
+33.03.03_Kejobong_53314|53392
+.2001_Bandingan_53392
+.2004_Gumiwang_53392
+.2012_Kedarpan_53392
+.2008_Kejobong_53392
+.2005_Krenceng_53392
+.2002_Lamuk_53392
+.2009_Langgar_53392
+.2006_Nangkasawit_53392
+.2011_Nangkod_53392
+.2007_Pandansari_53392
+.2013_Pangempon_53392
+.2003_Sokanegara_53392
+.2010_Timbang_53314
+33.03.01_Kemangkon_53381
+.2008_Bakulan_53381
+.2002_Bokol_53381
+.2016_Gambarsari_53381
+.2018_Jetis_53381
+.2013_Kalialang_53381
+.2009_Karangkemiri_53381
+.2014_Karangtengah_53381
+.2001_Kedungbenda_53381
+.2005_Kedunglegok_53381
+.2006_Kemangkon_53381
+.2019_Majasem_53381
+.2004_Majatengah_53381
+.2015_Muntang_53381
+.2007_Panican_53381
+.2010_Pegandekan_53381
+.2003_Pelumutan (Plumutan)_53381
+.2011_Senon_53381
+.2012_Sumilir_53381
+.2017_Toyareka_53381
+33.03.18_Kertanegara_53351
+.2004_Adiarsa_53351
+.2007_Condong_53351
+.2002_Darma_53351
+.2005_Karangasem_53351
+.2006_Karangpucung_53351
+.2009_Karangtengah (Karang Tengah)_53351
+.2008_Kasih_53351
+.2010_Kertanegara_53351
+.2001_Krangean_53351
+.2003_Langkap_53351
+.2011_Margasana (Mergasana)_53351
+33.03.07_Kutasari_53361
+.2013_Candinata_53361
+.2011_Candiwulan_53361
+.2010_Cendana_53361
+.2008_Karangaren_53361
+.2012_Karangcegak_53361
+.2014_Karangjengkol_53361
+.2006_Karangklesem_53361
+.2001_Karanglewas_53361
+.2007_Karangreja_53361
+.2005_Kutasari_53361
+.2009_Limbangan_53361
+.2004_Meri_53361
+.2002_Munjul_53361
+.2003_Sumingkir_53361
+33.03.08_Mrebet_53352
+.2017_Binangun_53352
+.2011_Bojong_53352
+.2014_Campakoah_53352
+.2016_Cipaku_53352
+.2009_Karangnangka (Karang Nangka)_53352
+.2001_Karangturi_53352
+.2005_Kradenan_53352
+.2006_Lambur_53352
+.2008_Mangunegara_53352
+.2010_Mrebet_53352
+.2002_Onje_53352
+.2015_Pagerandong (Pager Andong)_53352
+.2018_Pengalusan_53352
+.2019_Sangkanayu_53352
+.2007_Selaganggeng_53352
+.2012_Serayu Karanganyar_53352
+.2013_Serayu Larangan_53352
+.2003_Sindang_53352
+.2004_Tangkisan_53352
+33.03.15_Padamara_53372
+.2005_Bojanegara_53372
+.2007_Dawuhan_53372
+.2006_Gemuruh_53372
+.2011_Kalitinggar_53372
+.2014_Kalitinggar Kidul_53372
+.2013_Karanggambas_53372
+.2003_Karangjambe_53372
+.2001_Karangpule_53372
+.1004_Karangsentul_53372
+.2012_Mipiran_53372
+.2009_Padamara_53372
+.2008_Prigi_53372
+.2010_Purbayasa_53372
+.2002_Sokawera_53372
+33.03.16_Pengadegan_53393
+.2006_Bedagas_53393
+.2005_Karangjoho_53393
+.2002_Larangan_53393
+.2001_Panunggalan_53393
+.2003_Pasunggingan_53393
+.2004_Pengadegan (Pangadegan)_53393
+.2008_Tegalpingen_53393
+.2009_Tetel_53393
+.2007_Tumanggal_53393
+33.03.05_Purbalingga_53311|53319
+.1005_Bancar_53316
+.1001_Bojong_53319
+.2004_Jatisaba_53316
+.1009_Kandanggampang (Kandang Gampang)_53319
+.1003_Kedungmenjangan (Kedung Menjangan)_53315
+.1012_Kembaran Kulon_53319
+.1007_Penambongan_53314
+.1008_Purbalingga Kidul_53313
+.1010_Purbalingga Kulon_53312
+.1011_Purbalingga Lor_53311
+.1006_Purbalingga Wetan_53317
+.2002_Toyareja_53315
+.1013_Wirasana_53318
+33.03.13_Rembang_53356
+.2002_Bantarbarang_53356
+.2006_Bodaskarangjati (Bodas Karangjati)_53356
+.2004_Gunungwuled_53356
+.2003_Karangbawang_53356
+.2005_Losari_53356
+.2009_Makam_53356
+.2012_Panusupan_53356
+.2010_Sumampir_53356
+.2011_Tanalum_53356
+.2008_Wanogara Kulon_53356
+.2007_Wanogara Wetan_53356
+.2001_Wlahar_53356

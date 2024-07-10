@@ -1,0 +1,332 @@
+16.08.03_Belitang_32382
+.2015_Bedilan_32382
+.2024_Gedung Rejo_32382
+.2014_Gumawang_32382
+.2026_Gunung Mas_32382
+.2008_Harjo Winangun_32382
+.2028_Karang Kemiri_32382
+.2029_Mojosari_32382
+.2009_Pujo Rahayu (Pujorahayu)_32382
+.2022_Serbaguna_32382
+.2017_Sido Gede (Sidogede)_32382
+.2018_Sido Makmur_32382
+.2007_Sido Mulyo (Sidomulyo)_32382
+.2001_Sido Rahayu_32382
+.2025_Sidodadi_32382
+.2021_Suka Jadi (Sukajadi)_32382
+.2023_Sukarami_32382
+.2013_Suko Sari (Sukosari)_32382
+.2011_Sumber Suko_32382
+.2027_Sumbersuko jaya (Sumber Suko Jaya)_32382
+.2006_Tanjung Raya_32382
+.2002_Tawang Rejo_32382
+.2016_Tegal Rejo_32382
+.2010_Triyoso_32382
+16.08.09_Belitang II_32383
+.2022_Bangun Rejo_32383
+.2023_Batu Mas_32383
+.2027_Darma Buana_32383
+.2020_Karang Jaya_32383
+.2016_Karang Manik_32383
+.2018_Keli Rejo_32383
+.2021_Kemuning Jaya_32383
+.2012_Margo Mulyo_32383
+.2029_Purworejo_32383
+.2015_Purwosari_32383
+.2005_Raman Jaya_32383
+.2028_Rejo Mulyo_32383
+.2010_Sri Bantolo_32383
+.2025_Srijaya_32383
+.2024_Suka Jaya_32383
+.2017_Sumber Harapan_32383
+.2006_Sumber Jaya_32383
+.2011_Sumber Rahayu_32383
+.2007_Sumber Rejo_32383
+.2008_Sumber Sari_32383
+.2004_Tanjung Kemuning_32383
+.2026_Tegal Besar_32383
+.2009_Tegal Sari_32383
+.2019_Toto Rejo_32383
+16.08.10_Belitang III_32385
+.2018_Dadi Rejo_32385
+.2019_Ganti Warno_32385
+.2017_Karang Jadi_32385
+.2011_Karang Sari_32385
+.2023_Karya Maju_32385
+.2001_Kutosari_32385
+.2008_Nusa Agung_32385
+.2005_Nusa Bakti_32385
+.2004_Nusa Bali_32385
+.2006_Nusa Jaya_32385
+.2009_Nusa Maju_32385
+.2002_Nusa Raya (Nusaraya)_32385
+.2007_Nusa Tenggara_32385
+.2003_Nusa Tunggal_32385
+.2022_Ringin Sari_32385
+.2010_Senu Marga_32385
+.2020_Sinar Bali_32385
+.2016_Suka Negara (Sukanegara)_32385
+.2021_Sumber Rejo_32385
+.2013_Trikarya (Tri Karya)_32385
+16.08.17_Belitang Jaya_32380
+.2012_Argomulyo (Argo Mulyo)_32380
+.2003_Banjar Rejo_32380
+.2010_Giri Mulyo_32380
+.2007_Karsa Jaya_32380
+.2009_Karya Makmur_32380
+.2011_Magugondo (Madu Gondo)_32380
+.2005_Margo Koyo_32380
+.2004_Panca Tunggal_32380
+.2001_Rejosari_32380
+.2013_Rejosari Jaya_32380
+.2002_Sido Rejo (Sidorejo)_32380
+.2006_Sumber Agung_32380
+.2008_Windusari_32380
+16.08.18_Belitang Madang Raya_32363
+.2002_Bangsa Negara_32363
+.2007_Jati Mulyo I_32363
+.2006_Karang Binangun_32363
+.2016_Karang Binangun II_32363
+.2011_Lubuk Harjo_32363
+.2015_Marga Cinta_32363
+.2010_Mekar Jaya_32363
+.2008_Pandan Sari I_32363
+.2009_Pelita Jaya_32363
+.2013_Rantau Jaya_32363
+.2012_Tanah Merah_32363
+.2014_Tebing Sari Mulya_32363
+.2003_Tugu Harum_32363
+.2001_Tugu Mulyo_32363
+.2004_Tulus Ayu_32363
+.2005_Yosowinangun_32363
+16.08.19_Belitang Mulya_32388
+.2012_Mulya Sari_32388
+.2005_Petanggan_32388
+.2006_Purwodadi_32388
+.2004_Rejo Sari (Rejosari)_32388
+.2001_Sari Guna_32388
+.2002_Sido Waluyo (Sidowaluyo)_32388
+.2007_Sri Mulyo_32388
+.2009_Sribudaya (Sri Budaya)_32388
+.2003_Sugih Waras_32388
+.2010_Sukoharjo_32388
+.2011_Tulung Sari_32388
+.2008_Ulak Buntar_32388
+16.08.02_Buay Madang_32361
+.2035_Aman Jaya_32361
+.2034_Cipta Muda_32361
+.2037_Ganjar Agung_32361
+.2002_Kurungan Nyawa_32361
+.2031_Kurungan Nyawa I_32361
+.2032_Kurungan Nyawa II_32361
+.2033_Kurungan Nyawa III_32361
+.2039_Muda Sentosa_32361
+.2038_Mulyo Agung_32361
+.2003_Pisang Jaya_32361
+.2006_Sridadi (Sri Dadi / Saridati)_32361
+.2001_Suka Raja (Sukaraja)_32361
+.2036_Sukaraja Tuha_32361
+.2004_Sumber Agung_32361
+.2009_Tanjung Bulan_32361
+.2005_Tebat Jaya_32361
+.2010_Way Halom_32361
+16.08.12_Buay Madang Timur_32360
+.2011_Bangun Harjo_32360
+.2023_Banyumas Asri_32360
+.2029_Berasan Mulya_32360
+.2027_Bukit Mas_32360
+.2024_Gumuk Rejo_32360
+.2010_Karang Tengah_32360
+.2021_Kedu_32360
+.2022_Kedung Rejo_32360
+.2019_Kumpul Rejo_32360
+.2007_Liman Sari (Limansari)_32360
+.2020_Metro Rejo_32360
+.2013_Pengandonan_32360
+.2026_Raman Agung_32360
+.2014_Rejo Dadi (Rejodadi)_32360
+.2017_Rowodadi_32360
+.2006_Srikaton (Sri Katon)_32360
+.2005_Suka Maju_32360
+.2018_Sukodadi_32360
+.2015_Sukoharjo_32360
+.2004_Sumber Asri_32360
+.2008_Sumber Harjo_32360
+.2009_Sumber Mulyo_32360
+.2030_Sumber Tani_32360
+.2016_Sumedang Sari_32360
+.2012_Tambak Boyo_32360
+.2028_Tanjung Agung_32360
+.2001_Tanjung Mas (Tanjungmas)_32360
+.2025_Tanjung Mulya_32360
+.2002_Tanjungsari_32360
+.2003_Toko Rejo_32360
+16.08.20_Buay Pemuka Bangsa Raja_32364
+.2002_Anyar_32364
+.2006_Muncak Kabau_32364
+.2003_Pandan Sari III_32364
+.2004_Rawasari_32364
+.2007_Sri Bulan_32364
+.2001_Sri Bunga_32364
+.2005_Surya Menang_32364
+16.08.05_Buay Pemuka Peliung_32367
+.2011_Bandar Jaya_32367
+.2010_Bantan_32367
+.2013_Bantan Pelita_32367
+.2004_Banu Ayu (Banuayu)_32367
+.2003_Banu Mas (Banumas)_32367
+.2002_Negeri Agung_32367
+.2012_Negeri Agung Jaya_32367
+.2001_Negeri Pakuan_32367
+.2009_Pahang Asri_32367
+.2008_Pemetung Besuki (Pemetung Basuki)_32367
+.2005_Pulau Negara_32367
+.2006_Saung Dadi_32367
+.2007_Terantang/Trantang Sakti_32367
+16.08.11_Bunga Mayang_32387
+.2001_Batu Raja Bungin (Baturaja Bungin)_32387
+.2004_Negeri Ratu_32387
+.2006_Negeri Ratu Baru_32387
+.2005_Peracak_32387
+.2003_Sabahlioh (Sabah Lioh)_32387
+.2008_Sukabaru (Suka Baru)_32387
+.2002_Tulang Bawang_32387
+.2007_Tunas Peracak_32387
+16.08.04_Cempaka_32384
+.2014_Campang Tiga Hulu (Campang Tiga Ulu)_32384
+.2018_Campang Tiga Ilir_32384
+.2021_Campang Tiga Jaya_32384
+.2016_Cempaka_32384
+.2001_Gunung Batu_32384
+.2011_Gunung Jati_32384
+.2020_Harisan Jaya_32384
+.2012_Kuripan_32384
+.2019_Maluai Indah (Meluai Indah)_32384
+.2013_Negeri Sakti_32384
+.2017_Sukabumi_32384
+.2015_Sukaraja_32384
+.2010_Ulak Baru_32384
+16.08.16_Jayapura_32381
+.2002_Bunga Mayang_32381
+.2006_Condong_32381
+.2001_Jayapura_32381
+.2008_Kambang_32381
+.2004_Mendah_32381
+.2007_Peracak Jaya_32381
+.2005_Tumijaya_32381
+.2003_Way Salak_32381
+16.08.07_Madang Suku I_32362
+.2022_Agung Jati_32362
+.2003_Gunung Terang_32362
+.2014_Harjo Mulyo_32362
+.2024_Harjo Mulyo Jaya_32362
+.2019_Jati Sari (Jatisari)_32362
+.2015_Jaya Bakti_32362
+.2004_Karta Mulya_32362
+.2002_Mendayun_32362
+.2017_Mengulak_32362
+.2016_Rasuan_32362
+.2023_Rasuan Darat_32362
+.2007_SP. Kerta Mulya (Simpang Karta Mulya)_32362
+.2021_Tri Dadi (Tridadi)_32362
+16.08.06_Madang Suku II_32366
+.2020_Banbanrejo (Banban Rejo)_32366
+.2023_Dadimulyo (Dadi Mulyo)_32366
+.2011_Jati Mulya II_32366
+.2028_Kalirejo_32366
+.2001_Karang Negara_32366
+.2006_Karta Negara (Kertanegara)_32366
+.2005_Kota Negara_32366
+.2026_Kota Negara Timur_32366
+.2010_Margo Tani_32366
+.2025_Margotani II_32366
+.2007_Pandan Agung_32366
+.2012_Pandan Jaya_32366
+.2014_Rasuan Baru_32366
+.2002_Riang Bandung_32366
+.2024_Riang Bandung Ilir_32366
+.2009_Sri Mulyo_32366
+.2022_Srikencana (Sri Kencana)_32366
+.2021_Suka Negara (Sukanegara)_32366
+.2027_Talang Giring_32366
+16.08.13_Madang Suku III_32365
+.2001_Banding Agung_32365
+.2005_Batu Marta VI (Batumarta VI)_32365
+.2009_Batu Marta X (Batumarta X)_32365
+.2007_Bina Amarta_32365
+.2006_Karya Makmur_32365
+.2010_Marta V Jaya_32365
+.2002_Nikan_32365
+.2008_Suka Damai_32365
+.2003_Surabaya_32365
+.2004_Wana Bakti_32365
+16.08.01_Martapura_32311|32319
+.1016_Bukit Sari_32315
+.1007_Dusun Martapura_32313
+.2010_Keromongan_32316
+.2009_Kota Baru_32311
+.2020_Kotabaru Barat (Kota Baru Barat)_32315
+.2021_Kotabaru Selatan (Kota Baru Selatan)_32315
+.1014_Paku Sengkunyit_32314
+.1008_Pasar Martapura_32312
+.2011_Perjaya_32318
+.2022_Perjaya Barat_32317
+.2015_Sukomulyo_32319
+.1017_Sunagituha Jaya (Sungai Tuha Jaya)_32315
+.2006_Tanjung Kemala_32315
+.2023_Tanjung Kemala Barat_32315
+.1018_Terukis Rahayu_32315
+.1019_Veteran Jaya_32315
+16.08.14_Semendawai Barat_32184
+.2006_Adu Manis_32184
+.2002_Betung_32184
+.2011_Betung Timur_32184
+.2008_Kangkung_32184
+.2010_Kangkung Ilir_32184
+.2004_Menanga Besar_32184
+.2012_Menanga Sari_32184
+.2005_Menanga Tengah_32184
+.2009_Sri Tanjung_32184
+.2007_Suka Negeri_32184
+.2001_Tanjung Kukuh_32184
+.2003_Tanjung Mas_32184
+16.08.08_Semendawai Suku III_32386
+.2015_Cahaya/Cahya Negeri_32386
+.2003_Gunung Sugih_32386
+.2002_Jaya Mulia/Mulya_32386
+.2013_Karang Endah_32386
+.2029_Karang Marga_32386
+.2011_Krujon_32386
+.2007_Margo Rejo (Margorejo)_32386
+.2027_Margodadi_32386
+.2025_Mujo Rahayu_32386
+.2014_Sriwangi_32386
+.2031_Sriwangi Ulu_32386
+.2016_Suka Mulya_32386
+.2010_Taman Agung_32386
+.2026_Taman Harjo_32386
+.2032_Taman Mulyo_32386
+.2017_Taraman_32386
+.2028_Taraman Jaya_32386
+.2030_Trimo Rejo_32386
+.2009_Trimoharjo_32386
+16.08.15_Semendawai Timur_32185
+.2018_Bawang Tikar_32185
+.2007_Brunai Mulia (Burnai Mulya)_32185
+.2009_Bungin Jaya_32185
+.2010_Burnai Jaya_32185
+.2015_Harapan Jaya_32185
+.2003_Karang Anyar_32185
+.2001_Karang Melati_32185
+.2002_Karang Menjangan_32185
+.2013_Karang Mulya_32185
+.2019_Karya Bakti_32185
+.2008_Kota Mulya_32185
+.2005_Kota Tanah_32185
+.2016_Melati Agung_32185
+.2012_Melati Jaya_32185
+.2011_Mulia Jaya_32185
+.2006_Nirwana_32185
+.2004_Tulung Harapan_32185
+.2017_Wana Makmur_32185
+.2014_Wanasari_32185

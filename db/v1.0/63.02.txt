@@ -1,0 +1,224 @@
+63.02.14_Hampang_72163
+.2003_Cantung Kanan_72163
+.2002_Cantung Kiri Hulu_72163
+.2001_Hampang_72163
+.2008_Hulu Sampanahan_72163
+.2005_Lalapin_72163
+.2009_Limbungan_72163
+.2007_Limbur_72163
+.2004_Muara Orie_72163
+.2006_Peramasan Dua Kali Sanga_72163
+63.02.18_Kelumpang Barat_72164|72167
+.2003_Batang Kulur_72164
+.2002_Bungkukan_72164
+.2005_Magalau Hilir_72167
+.2006_Magalau Hulu_72167
+.2001_Siayuh (Si Ayuh)_72164
+.2004_Tanjung Sari_72164
+63.02.17_Kelumpang Hilir_72161
+.2003_Langadai_72161
+.2007_Mandala_72161
+.2005_Pelajau Baru_72161
+.2004_Pulau Panci_72161
+.2009_Sahapi_72161
+.2001_Serongga_72161
+.2002_Tarjun_72161
+.2006_Tegal Rejo_72161
+.2008_Telagasari (Telaga Sari)_72161
+63.02.08_Kelumpang Hulu_72162
+.2006_Bangkalaan Dayak_72162
+.2005_Bangkalaan Melayu_72162
+.2003_Banua Lawas_72162
+.2001_Cantung Kiri Hilir_72162
+.2008_Karang Liwar_72162
+.2002_Karang Payau_72162
+.2007_Laburan_72162
+.2009_Mangkirana_72162
+.2010_Sidomulyo (Sido Mulyo)_72162
+.2004_Sungai Kupang_72162
+63.02.07_Kelumpang Selatan_72160
+.2017_Bumi Asih_72160
+.2007_Pantai_72160
+.2016_Pantai Baru_72160
+.2005_Pembelacanan (Pembelancanan)_72160
+.2009_Sangking Baru_72160
+.2014_Suka Maju_72160
+.2015_Sungai Kupang Jaya_72160
+.2006_Sungai Nipah_72160
+.2004_Tanjung Pangga_72160
+63.02.09_Kelumpang Tengah_72164
+.2017_Geronggang_72164
+.2007_Sang-Sang_72164
+.2004_Sebuli_72164
+.2005_Sembilang_72164
+.2014_Senakin_72164
+.2013_Senakin Seberang_72164
+.2011_Sungai Pinang_72164
+.2002_Sungai Punggawa_72164
+.2006_Tamiang Bakung_72164
+.2003_Tanah Rata_72164
+.2001_Tanjung Batu_72164
+.2012_Tanjung Selayar_72164
+.2016_Tebing Tinggi_72164
+63.02.10_Kelumpang Utara_72165
+.2004_Mangga_72165
+.2003_Pudi_72165
+.2006_Pudi Seberang_72165
+.2007_Sulangkit_72165
+.2001_Sungai Hanyar_72165
+.2002_Sungai Seluang_72165
+.2005_Wilas_72165
+63.02.19_Pamukan Barat_72169
+.2005_Batuah_72169
+.2004_Mangka_72169
+.2003_Marga Jaya_72169
+.2002_Mayang Sari_72169
+.2001_Sengayam_72169
+63.02.11_Pamukan Selatan_72168
+.2002_Gunung Calang_72168
+.2010_Mulyodadi_72168
+.2009_Pondok Labu_72168
+.2007_Rampa Cengal (Rampacengal)_72168
+.2006_Sakadoyan_72168
+.2004_Sakalimau_72168
+.2001_Sekandis_72168
+.2008_Sesulung_72168
+.2011_Sukadana_72168
+.2003_Talusi_72168
+.2005_Tanjung Samalantakan_72168
+63.02.13_Pamukan Utara_72169
+.2006_Bakau_72169
+.2009_Balaimea_72169
+.2002_Bepara_72169
+.2004_Betung_72169
+.2007_Binturung_72169
+.2008_Harapan Baru_72169
+.2011_Kalian_72169
+.2015_Lintang Jaya_72169
+.2012_Mulyoharjo (Mulyo Harjo)_72169
+.2013_Pamukan Indah_72169
+.2005_Sekayu Baru_72169
+.2010_Tamiang (Tamiyang)_72169
+.2014_Wonorejo_72169
+63.02.02_Pulau Laut Barat (Pulaulaut Barat)_72153
+.2015_Gemuruh_72153
+.2005_Lontar Selatan_72153
+.2006_Lontar Timur_72153
+.2018_Lontar Utara_72153
+.2007_Sebanti_72153
+.2009_Semaras_72153
+.2008_Sepagar_72153
+.2022_Subur Makmur_72153
+.2021_Sumber Sari_72153
+.2017_Tapian Balai (Tepian Balai)_72153
+.2012_Terangkih (Terangkeh)_72153
+63.02.20_Pulau Laut Kepulauan (Pulaulaut Kepulauan)_72154
+.2004_Kerayaan Utara_72154
+.2009_Oka-Oka_72154
+.2005_Pulau Kerasian_72154
+.2003_Pulau Kerayaan_72154
+.2006_Pulau Kerumputan_72154
+.2002_Tanjung Lalak Selatan_72154
+.2001_Tanjung Lalak Utara_72154
+.2007_Teluk Aru_72154
+.2008_Teluk Kemuning_72154
+63.02.03_Pulau Laut Selatan (Pulaulaut Selatan)_72157
+.2011_Alle-Alle_72157
+.2015_Labuan Mas_72157
+.2007_Sungai Bahim_72157
+.2013_Sungai Bulan_72157
+.2008_Tanjung Seloka_72157
+.2016_Tanjung Seloka Utara_72157
+.2009_Tanjung Serudung_72157
+.2006_Teluk Sirih_72157
+63.02.21_Pulau Laut Tanjung Selayar_72151
+.2009_Bandar Raya_72151
+.2010_Bangun Rejo_72151
+.2006_Gosong Panjang_72151
+.2007_Kampung Baru_72151
+.2004_Tanjung Kunyit_72151
+.2001_Tanjung Pelayar_72151
+.2002_Tanjung Sungkai_72151
+.2003_Tanjung Tengah_72151
+.2008_Tata Mekar_72151
+.2005_Teluk Tamiang (Teluk Tamiyang)_72151
+63.02.16_Pulau Laut Tengah (Pulaulaut Tengah)_72156
+.2003_Mekarpura (Mekar Pura)_72156
+.2006_Pantai Baru (Pantaibaru)_72156
+.2007_Salino_72156
+.2004_Selaru_72156
+.2001_Semisir_72156
+.2002_Sungai Pasir_72156
+.2005_Sungup Kanan_72156
+63.02.04_Pulau Laut Timur (Pulaulaut Timur)_72152
+.2001_Batu Tunau_72152
+.2003_Bekambit_72152
+.2014_Bekambit Asri_72152
+.2007_Berangas_72152
+.2009_Betung_72152
+.2013_Karangsari Indah (Karang Sari Indah)_72152
+.2012_Kulipak_72152
+.2004_Langkang Baru_72152
+.2005_Langkang Lama_72152
+.2002_Sejakah_72152
+.2006_Sungai Limau_72152
+.2008_Tanjung Pengharapan_72152
+.2011_Teluk Gosong_72152
+.2010_Teluk Mesjid_72152
+63.02.06_Pulau Laut Utara (Pulaulaut Utara)_72111|72117
+.2015_Dirgahayu_72116
+.2025_Gunung Sari_72114
+.2022_Gunung Ulin_72114
+.1001_Kotabaru Hulu_72114
+.2009_Megasari (Mega Sari)_72114
+.2012_Rampa_72114
+.2010_Sebelimbingan_72114
+.2014_Semayap_72117
+.2011_Stagen_72114
+.2013_Sungai Taib_72114
+63.02.05_Pulau Sebuku (Pulausebuku)_72155
+.2006_Balambus_72155
+.2002_Kanibungan_72155
+.2003_Mandin_72155
+.2007_Rampa_72155
+.2001_Sekapung_72155
+.2004_Serakaman (Sarakaman)_72155
+.2005_Sungai Bali_72155
+.2008_Ujung_72155
+63.02.01_Pulau Sembilan (Pulausembilan)_72181
+.2001_Labuan Barat_72181
+.2003_Maradapan_72181
+.2005_Tanjung Nyiur (Tanjungnyiur)_72181
+.2002_Teluk Sungai_72181
+.2004_Tengah_72181
+63.02.22_Pulaulaut Sigam_72111|72115
+.1009_Baharu Selatan_72115
+.2004_Baharu Utara_72112
+.2003_Batuah_72112
+.2006_Gedambaan_72114
+.2002_Hilir Muara_72111
+.1011_Kotabaru Hilir_72111
+.1010_Kotabaru Tengah_72113
+.2007_Sarang Tiung_72114
+.2001_Sebatung_72113
+.2008_Sigam_72112
+.2005_Tirawan_72112
+63.02.12_Sampanahan_72166
+.2009_Banjarsari (Banjar Sari)_72166
+.2003_Basuang_72166
+.2004_Gunung Batu Besar_72166
+.2007_Papaan_72166
+.2006_Rampa Manunggul_72166
+.2005_Sampanahan_72166
+.2008_Sampanahan Hilir_72166
+.2001_Sepapah_72166
+.2010_Sukamaju (Suka Maju)_72166
+.2002_Sungai Betung_72166
+63.02.15_Sungai Durian (Sungaidurian)_72167
+.2001_Buluh Kuning_72167
+.2002_Gendang Timburu_72167
+.2007_Manunggul Baru_72167
+.2004_Manunggul Lama_72167
+.2006_Rantau Buda (Rantau Budha)_72167
+.2009_Rantau Jaya_72167
+.2008_Terombong Sari (Terobong Sari)_72167

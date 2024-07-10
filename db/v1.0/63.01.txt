@@ -1,0 +1,146 @@
+63.01.10_Bajuin_70815
+.2001_Bajuin_70815
+.2005_Galam_70815
+.2003_Ketapang_70815
+.2007_Kunyit_70815
+.2006_Pemalongan (Pamalungan / Pamalongan)_70815
+.2002_Sei/Sungai Bakar_70815
+.2009_Tanjung_70815
+.2008_Tebing Siring_70815
+.2004_Tirta Jaya_70815
+63.01.05_Bati Bati_70852
+.2001_Banua Raya (Benua Raya)_70852
+.2007_Banyu Irang_70852
+.2002_Bati Bati_70852
+.2006_Bentok Darat_70852
+.2005_Bentok Kampung_70852
+.2013_Kait Kait_70852
+.2014_Kait-Kait Baru_70852
+.2004_Liang Anggang_70852
+.2008_Nusa Indah_70852
+.2010_Padang_70852
+.2009_Pandahan_70852
+.2012_Sambangan_70852
+.2003_Ujung_70852
+.2011_Ujung Baru_70852
+63.01.09_Batu Ampar_70882
+.2006_Ambawang_70882
+.2001_Batu Ampar_70882
+.2009_Bluru_70882
+.2013_Damar Lima_70882
+.2007_Damit_70882
+.2011_Damit Hulu_70882
+.2005_Durian Bungkuk_70882
+.2002_Gunung Mas_70882
+.2008_Gunung Melati_70882
+.2004_Jilatan_70882
+.2012_Jilatan Alur_70882
+.2010_Pantai Linuh_70882
+.2003_Tajau Mulya (Tajau Mulia)_70882
+.2014_Tajau Pecah_70882
+63.01.11_Bumi Makmur_70853
+.2003_Bumi Harapan_70853
+.2001_Handil Babirik_70853
+.2008_Handil Birayang Atas_70853
+.2009_Handil Birayang Bawah_70853
+.2007_Handil Gayam_70853
+.2011_Handil Labuan (Amas)_70853
+.2010_Handil Maluka_70853
+.2006_Handil Suruk_70853
+.2002_Kurau Utara_70853
+.2005_Pantai Harapan_70853
+.2004_Sei/Sungai Rasau_70853
+63.01.02_Jorong_70881
+.2007_Alur_70881
+.2003_Asam Asam_70881
+.2010_Asam Jaya_70881
+.2008_Asri Mulya (Asri Mulia)_70881
+.2004_Batalang_70881
+.2002_Jorong_70881
+.2009_Karang Rejo_70881
+.2006_Muara Asam Asam_70881
+.2001_Sabuhur_70881
+.2011_Simpang Empat Sungai Baru (Sungaibaru)_70881
+.2005_Swarangan_70881
+63.01.07_Kintap_70883
+.2011_Bukit Mulia_70883
+.2012_Kebun Raya_70883
+.2002_Kintap_70883
+.2008_Kintap Kecil_70883
+.2003_Kintap Pura (Kintapura)_70883
+.2013_Mekar Raya (Mekarsari)_70883
+.2006_Muara Kintap_70883
+.2001_Pandan Sari (Pandansari)_70883
+.2009_Pasir Putih_70883
+.2005_Riam Adungan_70883
+.2007_Salaman_70883
+.2014_Sebamban Baru_70883
+.2004_Sei/Sungai Cuka_70883
+.2010_Sumber Jaya_70883
+63.01.04_Kurau_70851
+.2003_Bawah Layung_70851
+.2006_Handil Negara_70851
+.2005_Kali Besar_70851
+.2008_Kurau_70851
+.2002_Maluka Baulin (Maluka Bualin)_70851
+.2007_Padang Luas_70851
+.2018_Raden_70851
+.2019_Sarikandi_70851
+.2001_Sungai Bakau (Sei Bakau)_70851
+.2017_Tambak Karya_70851
+.2004_Tambak Sarinan/Sarinah_70851
+63.01.06_Panyipatan_70871
+.2005_Batakan_70871
+.2009_Batu Mulya_70871
+.2001_Batu Tungku_70871
+.2010_Bumi Asih_70871
+.2003_Kandangan Baru_70871
+.2004_Kandangan Lama_70871
+.2006_Kuringkit_70871
+.2002_Panyipatan_70871
+.2008_Suka Ramah_70871
+.2007_Tanjung Dewa_70871
+63.01.03_Pelaihari_70812|70815
+.2024_Ambungan_70815
+.1004_Angsau_70814
+.2012_Atu Atu_70815
+.2006_Bumi Jaya_70815
+.2025_Guntung Besar_70815
+.2026_Kampung Baru_70815
+.1002_Karang Taruna_70812
+.1005_Pabahanan_70815
+.2015_Panggung_70815
+.2020_Panggung Baru_70815
+.2011_Panjaratan_70815
+.1003_Pelaihari_70815
+.2029_Pemuda_70815
+.1001_Sarang Halang_70815
+.2008_Sei/Sungai Riam_70815
+.2027_Sumber Mulia_70815
+.2009_Tampang_70815
+.2010_Telaga_70815
+.2016_Tungkaran_70815
+.2017_Ujung Batu_70815
+63.01.01_Takisung_70861
+.2001_Banua lawas (Benua Lawas)_70861
+.2006_Banua Tengah (Benua Tengah)_70861
+.2009_Batilai_70861
+.2005_Gunung Makmur_70861
+.2003_Kuala Tambangan_70861
+.2008_Pagatan Besar (Pegatan Besar)_70861
+.2007_Ranggang_70861
+.2010_Ranggang Dalam_70861
+.2012_Sumber Makmur_70861
+.2002_Tabanio_70861
+.2004_Takisung_70861
+.2011_Telaga Langsat_70861
+63.01.08_Tambang Ulang_70854
+.2005_Bingkulu_70854
+.2006_Gunung Raja_70854
+.2008_Kayu Abang_70854
+.2003_Martadah_70854
+.2009_Martadah Baru_70854
+.2007_Pulau Sari_70854
+.2004_Sei/Sungai Jelai_70854
+.2002_Sei/Sungai Pinang_70854
+.2001_Tambang Ulang_70854

@@ -1,0 +1,53 @@
+13.09.10_Pagai Selatan_25391
+.2002_Bulasat_25391
+.2004_Makalo_25391
+.2003_Malakopa (Malakopak)_25391
+.2001_Sinaka (Sinakak)_25391
+13.09.01_Pagai Utara_25390
+.2007_Betumonga_25390
+.2009_Saumanganya (Saumanganyak)_25390
+.2008_Silabu_25390
+13.09.05_Siberut Barat_25394
+.2003_Sigapokna_25394
+.2002_Simalegi/Simaligi_25394
+.2001_Simatalu Sipokak_25394
+13.09.06_Siberut Barat Daya_25393
+.2001_Katurai/Katurei_25393
+.2003_Pasakiat Taileleu (Pasakiat Taleleu)_25393
+.2002_Sagulubbeg (Sagulubek / Sagalubeg / Sagalubbek)_25393
+13.09.03_Siberut Selatan_25397
+.2007_Madobag (Madobak Ugai)_25397
+.2003_Maileppet/Maleppet_25397
+.2005_Matotonan_25397
+.2002_Muara/Muaro Siberut_25397
+.2004_Muntei_25397
+13.09.07_Siberut Tengah_25396
+.2002_Cimpungan_25396
+.2001_Saibi Muara (Saibi Samukop/Samokop)_25396
+.2003_Saliguma_25396
+13.09.04_Siberut Utara_25395
+.2003_Bojakan_25395
+.2008_Malancan (Malancang)_25395
+.2005_Mongan Poula/Paula_25395
+.2006_Muara/Muaro Sikabaluan_25395
+.2007_Sirilogui_25395
+.2004_Sotboyak_25395
+13.09.09_Sikakap_25399
+.2003_Matobe (Matobek)_25399
+.2001_Sikakap_25399
+.2002_Taikako_25399
+13.09.02_Sipora Selatan_25392
+.2002_Beriulou_25392
+.2001_Bosua_25392
+.2004_Mara_25392
+.2007_Matobe (Matobek)_25392
+.2003_Nemnemleleu (Nem-Nem Leleu)_25392
+.2008_Saureinu (Saureinuk)_25392
+.2006_Sioban_25392
+13.09.08_Sipora Utara_25398
+.2001_Betumonga (Beutomonga)_25398
+.2005_Bukit Pamewa_25398
+.2002_Gosooinan (Goisooinan)_25398
+.2004_Sido Makmur_25398
+.2006_Sipora Jaya_25398
+.2003_Tuapejat_25398

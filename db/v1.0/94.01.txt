@@ -1,0 +1,96 @@
+94.01.14_Dipa_98843
+.2002_Dikia (Dikiya)_98843
+.2001_Epouwa (Epowa)_98843
+.2005_Jainoa_98843
+.2004_Jigikebo_98843
+.2003_Tagauto (Tadautu)_98843
+94.01.07_Makimi_98863
+.2003_Biha_98863
+.2004_Lagari Jaya (Legari Jaya)_98863
+.2005_Maidei_98863
+.2001_Makimi_98863
+.2006_Manunggal Jaya_98863
+.2002_Nifasi_98863
+94.01.15_Menou_98855
+.2001_Kunupi / Obaipoto_98855
+.2003_Lokodimi / Bokomidi_98855
+.2002_Ogiyai (Ogiay/Waisai)_98855
+.2004_Yegeugi (Yageugi)_98855
+94.01.13_Moora_98864
+.2005_Arui_98864
+.2002_Hariti_98864
+.2004_Kama_98864
+.2001_Mambor_98864
+.2003_Moor_98864
+94.01.01_Nabire_98811|98822
+.1004_Girimulyo_98814
+.1002_Kali Bobo (Kalibobo)_98818
+.2012_Kali Harapan_98822
+.2011_Kalisusu (Kali Susu)_98821
+.1007_Karang Mulia_98815
+.1005_Karang Tumaritis_98812
+.1003_Morgo_98811
+.1009_Nabarua_98817
+.1006_Oyehe_98816
+.2013_Sanoba (Sanoba Pantai)_98819
+.1010_Siriwini_98820
+.1001_Wonorejo (Bumi Wonorejo)_98813
+94.01.12_Nabire Barat_98856
+.2001_Bumi Raya_98856
+.2003_Gerbang Sadu_98856
+.2004_Kali Semen (Kalisemen)_98856
+.2005_Wadio_98856
+.2002_Waroki_98856
+94.01.02_Napan_98862
+.2004_Masipawa_98862
+.2001_Napan_98862
+.2005_Weinami_98862
+94.01.06_Siriwo_98841
+.2002_Aibone (Aibore)_98841
+.2003_Epomani_98841
+.2005_Mabua / Mabou_98841
+.2004_Tibai_98841
+.2006_Ugida_98841
+.2001_Unipa (Siriwo / Unipo)_98841
+94.01.09_Teluk Kimi_98831|98835
+.2005_Air Mandidi_98831
+.2003_Kimi_98832
+.2004_Lani_98833
+.2001_Samabusa_98834
+.2002_Waharia_98835
+94.01.08_Teluk Umar_98851
+.2003_Bawei_98851
+.2004_Goni_98851
+.2001_Napan Yaur_98851
+.2002_Yeretuar_98851
+94.01.04_Uwapa_98842
+.2016_Argo Mulyo (Argomulyo)_98842
+.2018_Gamei Jaya_98842
+.2015_Marga Jaya (Margajaya)_98842
+.2005_Topo_98842
+.2017_Topo Jaya_98842
+.2013_Urumusu_98842
+94.01.05_Wanggar_98854
+.2001_Bumi Mulia (Bumi Mulya / Bumimulia)_98854
+.2010_Karadiri_98854
+.2013_Wanggar Makmur_98854
+94.01.11_Wapoga_98861
+.2003_Kamarisanoi_98861
+.2005_Keuw_98861
+.2002_Samanui_98861
+.2004_Taumi_98861
+.2001_Totoberi_98861
+94.01.10_Yaro_98853
+.2007_Bomopai_98853
+.2004_Jaya Mukti_98853
+.2006_Ororodo_98853
+.2008_Parauto_98853
+.2005_Wanggar Pantai_98853
+.2001_Wanggar Sari_98853
+.2002_Wiraska_98853
+.2003_Yaro Makmur_98853
+94.01.03_Yaur_98852
+.2002_Akudiomi (Akuidiomi)_98852
+.2004_Sima_98852
+.2008_Wami (Wamijaya)_98852
+.2001_Yaur_98852

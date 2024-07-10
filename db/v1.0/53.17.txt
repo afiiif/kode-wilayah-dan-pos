@@ -1,0 +1,71 @@
+53.17.01_Katiku Tana_87282
+.2023_Anakalang_87282
+.2024_Dewa Jara_87282
+.2003_Kabela Wuntu_87282
+.2001_Makata Keri_87282
+.2025_Mata Redi_87282
+.2004_Mata Woga_87282
+.2019_Umbu Riri_87282
+53.17.05_Katiku Tana Selatan (Katikutana Selatan)_87280
+.2005_Dameka_87280
+.2008_Elu_87280
+.2001_Konda Maloba_87280
+.2003_Malinjak_87280
+.2007_Manurara_87280
+.2009_Oka Wacu_87280
+.2002_Tana Modu_87280
+.2004_Wailawa_87280
+.2006_Waimanu_87280
+53.17.03_Mamboro_87258
+.2010_Bondo Sulla_87258
+.2005_Cendana_87258
+.2013_Cendana Barat_87258
+.2008_Manu Wolu_87258
+.2007_Ole Ate_87258
+.2012_Ole Dewa_87258
+.2011_Susu Wendewa_87258
+.2009_Watu Asa_87258
+.2006_Wee Luri_87258
+.2004_Wendewa Barat_87258
+.2002_Wendewa Selatan_87258
+.2001_Wendewa Timur_87258
+.2003_Wendewa Utara_87258
+53.17.04_Umbu Ratu Nggay_87283
+.2007_Lenang_87283
+.2017_Lenang Selatan_87283
+.2001_Mbilur Pangadu_87283
+.2010_Ngadu Bolu_87283
+.2016_Ngadu Olu_87283
+.2009_Padira Tana_87283
+.2003_Praikoruku Jangga (Prai Koruku Jangga)_87283
+.2002_Soru_87283
+.2008_Tana Mbanas_87283
+.2015_Tana Mbanas Barat_87283
+.2014_Tana Mbanas Selatan_87283
+53.17.02_Umbu Ratu Nggay Barat_87281
+.2005_Anajiaka_87281
+.2023_Anapalu_87281
+.2024_Daha Elu_87281
+.2025_Dewa Tana_87281
+.2004_Maderi_87281
+.2027_Mata Waikajawi_87281
+.2003_Pondok_87281
+.2002_Praimadeta_87281
+.2022_Umbu Jodu_87281
+.2007_Umbu Kawolu_87281
+.2010_Umbu Langang_87281
+.2008_Umbu Mamijuk_87281
+.2009_Umbu Pabal_87281
+.2021_Umbu Pabal Selatan_87281
+.2006_Wairasa_87281
+53.17.06_Umbu Ratu Nggay Tengah_87281|87283
+.2001_Bolu Bokat_87283
+.2007_Bolu Bokat Barat_87283
+.2004_Bolu Bokat Utara_87283
+.2010_Holur Kambata_87281
+.2002_Mara Desa_87283
+.2006_Maradesa Selatan_87283
+.2005_Maradesa Timur_87283
+.2009_Sambali Loku_87281
+.2008_Wangga Waiyengu_87281
+.2003_Weluk Praimemang (Weluk Prai Memang)_87283

@@ -1,0 +1,230 @@
+11.18.06_Bandar Baru_24184
+.2038_Abah Lueng_24184
+.2039_Aki Neungoh_24184
+.2041_Alue_24184
+.2018_Ara_24184
+.2016_Balee_24184
+.2003_Baro (Gampong Meunasah Baro / Baro Nyong)_24184
+.2028_Baroh Cot_24184
+.2019_Baroh Lancok_24184
+.2014_Baroh Musa_24184
+.2007_Beurandeh_24184
+.2032_Blang Baro_24184
+.2009_Blang Glong_24184
+.2029_Blang Iboh (Blang Iboih)_24184
+.2035_Blang Krueng_24184
+.2030_Blang Sukon_24184
+.2025_Cut Langgien (Cut Langien)_24184
+.2001_Cut Nyong (Gampong Cut Nyong)_24184
+.2006_Daboih_24184
+.2027_Dayah Langgien (Dayah Langien)_24184
+.2005_Dayah Nyong_24184
+.2036_Jijiem_24184
+.2008_Kaye Raya (Kayee Raya)_24184
+.2031_Kayee Jatoe_24184
+.2012_Keude Lueng Putu_24184
+.2034_Keude Paru (Paru Keude)_24184
+.2033_Lancang (Lancang Paru)_24184
+.2020_Manyang_24184
+.2021_Mesjid (Mesjid Lancok)_24184
+.2002_Meunasah Gampong (Gampong Nyong)_24184
+.2015_Musa Teungoh (Teungoh Musa)_24184
+.2043_Paru Cot_24184
+.2013_Peub Lueng Nibong (Pueb Lueng Nibong)_24184
+.2022_Pulo Pueb_24184
+.2004_Pulo Rheng_24184
+.2026_Sagoe_24184
+.2037_Sarah Panyang_24184
+.2023_Sawang_24184
+.2011_Siren_24184
+.2042_Tanoh Mirah_24184
+.2024_Tuha Lada (Tualada)_24184
+.2010_Tutong_24184
+.2017_Udeung_24184
+.2040_Ujong Lebat (Ujong Leubat)_24184
+11.18.04_Bandar Dua_24188
+.2025_Adan_24188
+.2008_Alue Ketapang (Alue Keutapang)_24188
+.2014_Alue Mee (Alue Me)_24188
+.2017_Alue Sane_24188
+.2038_Asan Kumbang_24188
+.2011_Babah Krueng_24188
+.2035_Beurasan_24188
+.2003_Blang Dalam_24188
+.2015_Blang Kuta_24188
+.2034_Blang Miroe (Blang Mirou)_24188
+.2021_Cot Geurefai (Cot Geurufai)_24188
+.2036_Cot Keng_24188
+.2039_Drien Bungong_24188
+.2016_Drien Tujoh_24188
+.2018_Gahru (Gaharu)_24188
+.2005_Gampong Baro (Kampung Baro)_24188
+.2002_Gampong Ulee Gle (Gampong Ulee Glee)_24188
+.2009_Jaulanga Barat (Jeulanga Barat)_24188
+.2031_Jeulanga Mata Ie_24188
+.2032_Jeulanga Mesjid_24188
+.2001_Keude Ulee Gle (Keude Ulee Glee)_24188
+.2037_Krueng Kiran_24188
+.2010_Kumba_24188
+.2045_Kuta Krueng_24188
+.2019_Lhok Pusong_24188
+.2026_Meugit Kayee Panyang (Meugit Kayei Panyang)_24188
+.2027_Meugit Sagoe_24188
+.2044_Meuko Baroh_24188
+.2023_Meuko Buloh (Muko Buloh)_24188
+.2006_Meuko Kuthang_24188
+.2030_Meunasah Paku_24188
+.2028_Meurandeh Alue_24188
+.2022_Muko Dayah (Meuko Dayah)_24188
+.2043_Paya Baroh_24188
+.2020_Paya Pisang Klat_24188
+.2041_Paya Tunong_24188
+.2040_Peulakan Cebrek_24188
+.2042_Peulakan Tambo_24188
+.2024_Peulakan Tunong_24188
+.2012_Pohroh_24188
+.2004_Pulo_24188
+.2033_Pulo Gapu_24188
+.2029_Reudeup Melayu_24188
+.2013_Seunong_24188
+.2007_Uteun Bayu_24188
+11.18.03_Jangka Buya (Jangka Buaya)_24186
+.2012_Buket Teungoh_24186
+.2014_Gampong Cot_24186
+.2017_Jurong Ara_24186
+.2015_Jurong Binje_24186
+.2016_Jurong Teungoh_24186
+.2018_Keude Jangka Buya (Keudee Jangka Buya)_24186
+.2008_Keurisi Meunasah Beurembang (Meunasah Beurembang)_24186
+.2007_Keurisi Meunasah Lueng_24186
+.2006_Keurisi Meunasah Raya_24186
+.2005_Kiran Baroh_24186
+.2004_Kiran Dayah_24186
+.2011_Kiran Krueng_24186
+.2002_Kuta Baroh_24186
+.2001_Meuko Jurong (Muko Jurong)_24186
+.2003_Meuko Meugit_24186
+.2010_Meunasah Kumbang_24186
+.2009_Meunasah Mee (Meunasah Me)_24186
+.2013_Reului Mangat_24186
+11.18.05_Meurah Dua_24186
+.2016_Beuringen (Beringin)_24186
+.2011_Blang Cut_24186
+.2017_Buangan_24186
+.2012_Dayah Kruet_24186
+.2014_Dayah Usen (Dayah Husen / Usien)_24186
+.2010_Gampong Blang_24186
+.2009_Geunteng_24186
+.2004_Lancok_24186
+.2001_Lhok Sandeng_24186
+.2015_Lueng Bimba_24186
+.2007_Meunasah Bie_24186
+.2018_Meunasah Jurong_24186
+.2005_Meunasah Kulam (Meunasah Kulam Rentang)_24186
+.2013_Meunasah Mancang_24186
+.2008_Meunasah Raya_24186
+.2006_Meunasah Teungoh_24186
+.2019_Pante Beureune_24186
+.2002_Sarah Mane (Sarahmane)_24186
+.2003_Seunong_24186
+11.18.01_Meureudu_24186
+.2008_Beurawang_24186
+.2005_Blang Awe_24186
+.2017_Bunot_24186
+.2016_Dayah Timu_24186
+.2024_Dayah Tuha_24186
+.2015_Geuleudah (Geulidah)_24186
+.2018_Glumpang Tutong_24186
+.2028_Grong Grong_24186
+.2002_Kota Meureudu_24186
+.2021_Kudrang_24186
+.2029_Kuta Trieng_24186
+.2022_Lampoh Lada_24186
+.2007_Manyang Cut_24186
+.2006_Manyang Lancok (Manyang Lamcok)_24186
+.2003_Mesjid Tuha_24186
+.2001_Meunasah Balek_24186
+.2019_Meunasah Hagu_24186
+.2027_Meunasah Kulam (Ms Kulam Beuracan)_24186
+.2012_Meunasah Lhok_24186
+.2013_Meuraksa_24186
+.2023_Mulieng (Meunasah Mulieng)_24186
+.2020_Pohroh_24186
+.2014_Pulo U_24186
+.2026_Rambong_24186
+.2009_Rhing Blang_24186
+.2010_Rhing Krueng_24186
+.2011_Rhing Mancang_24186
+.2025_Rumpuen_24186
+.2004_Rungkom_24186
+.2030_Teupin Peuraho_24186
+11.18.07_Panteraja_24185
+.2003_Hagu_24185
+.2001_Keude Panteraja (Keudee Pante Raja)_24185
+.2005_Lhok Puuk_24185
+.2006_Mesjid (Mesjid Pante Raja)_24185
+.2004_Muka Blang_24185
+.2009_Peurade (Peuradeu)_24185
+.2010_Reudeup_24185
+.2007_Teungoh (Teungoh Pantee Raja)_24185
+.2002_Tu_24185
+.2008_Tunong (Tunong Pantee Raja)_24185
+11.18.08_Trienggadeng_24185
+.2023_Buloh_24185
+.2026_Cot Lheue Rheng (Cot Lheu Rheng)_24185
+.2022_Cot Makaso_24185
+.2020_Deah Pangwa (Dayah Pangwa)_24185
+.2008_Deah Teumanah (Dayah Teumanah)_24185
+.2017_Deah Ujong Baroh (Dayah Ujong Baroh)_24185
+.2006_Dee (De / Gampong Dee)_24185
+.2010_Keude Trienggadeng_24185
+.2025_Kuta Pangwa_24185
+.2016_Matang_24185
+.2024_Mee Pangwa (Me Pangwa)_24185
+.2002_Mee Peuduek (Me Peuduek / Peudok Baroh)_24185
+.2003_Mesjid Peuduek_24185
+.2014_Mesjid Trienggadeng_24185
+.2021_Meucat (Meucat Pangwa)_24185
+.2013_Meue_24185
+.2007_Panton Raya_24185
+.2012_Paya_24185
+.2018_Peulandok Teungoh_24185
+.2019_Peulandok Tunong_24185
+.2027_Rawasari_24185
+.2011_Raya_24185
+.2005_Reuseb_24185
+.2001_Sagoe (Sagou)_24185
+.2009_Tampui_24185
+.2015_Teungkluet (Tungkluet / Tung Kleut)_24185
+.2004_Tuha_24185
+11.18.02_Ulim_24187
+.2029_Alue Keumiki_24187
+.2013_Balee Ulim (Bale Ulim)_24187
+.2020_Bidok_24187
+.2030_Blang Cari_24187
+.2026_Blang Rheue_24187
+.2027_Cot Seutui (Cot Seutuy)_24187
+.2001_Dayah Baroh_24187
+.2009_Dayah Leubue_24187
+.2006_Geulanggang_24187
+.2014_Grong Grong Capa_24187
+.2011_Keude Ulim_24187
+.2028_Lhok Gajah_24187
+.2007_Mesjid Ulim Baroh_24187
+.2017_Mesjid Ulim Tunong_24187
+.2012_Meunasah Bueng_24187
+.2005_Meunasah Krueng (Krueng)_24187
+.2015_Meunasah Kumbang_24187
+.2025_Meunasah Mesjid_24187
+.2022_Meunasah Pupu_24187
+.2024_Nangrhoe Timu (Nanggroe Timur)_24187
+.2023_Nangrhou Barat_24187
+.2021_Pantang Cot Baloi_24187
+.2008_Pulo Lhok_24187
+.2018_Pulo Ulim_24187
+.2002_Reuleut_24187
+.2003_Sambungan Baro (Sambongan Baro)_24187
+.2019_Siblah Coh_24187
+.2016_Tanjong Ulim_24187
+.2010_Tijien Daboh (Tijin Daboh)_24187
+.2004_Tijien Husen (Tijin Husen)_24187

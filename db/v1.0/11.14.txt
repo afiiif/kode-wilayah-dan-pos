@@ -1,0 +1,181 @@
+11.14.08_Darul Hikmah_23656
+.2011_Alue Gajah_23656
+.2007_Arongan_23656
+.2017_Babah Dua_23656
+.2003_Blang Dalam_23656
+.2006_Cot Pange_23656
+.2016_Gampong Baro Lamteungoh (Gampong Baro L)_23656
+.2002_Gampong Baro Patek (Gampong Baro P)_23656
+.2013_Gunong Cut (Gunung Cut)_23656
+.2009_Krueng Tho_23656
+.2015_Lam Teungoh_23656
+.2018_Masen_23656
+.2004_Pajar_23656
+.2010_Panton Krueng_23656
+.2001_Patek_23656
+.2008_Paya Santeut_23656
+.2005_Reuntang_23656
+.2012_Sayeung_23656
+.2019_Teupin Asan_23656
+.2014_Ujong Rimba_23656
+11.14.07_Indra Jaya_23657
+.2008_Alue Mie_23657
+.2007_Babah Dua_23657
+.2014_Ceunamprong_23657
+.2002_Janguet (Jangeut)_23657
+.2012_Kareung Ateuh (Kareng Ateuh)_23657
+.2013_Keude Unga_23657
+.2010_Kuala_23657
+.2011_Meudhang Ghon (Meudang Ghon)_23657
+.2003_Meunasah Rayeuk_23657
+.2005_Meunasah Teungoh_23657
+.2006_Meunasah Tutong_23657
+.2004_Mukhan_23657
+.2009_Teumareum_23657
+.2001_Ujong Muloh_23657
+11.14.05_Jaya_23658
+.2016_Alue Rayeuk_23658
+.2020_Babah Ie_23658
+.2028_Babah Krueng_23658
+.2027_Bak Paoh_23658
+.2029_Cot Dulang_23658
+.2040_Darat_23658
+.2041_Gampong Baro_23658
+.2039_Gle Jong_23658
+.2032_Gle Putoh_23658
+.2023_Jambo Masi_23658
+.2022_Krueng Tunong_23658
+.2015_Lam Asan (Lamasan)_23658
+.2030_Lam Durian_23658
+.2034_Lam Me (Lamme)_23658
+.2024_Lam Tui (Lamtui)_23658
+.2018_Lambaroh_23658
+.2036_Leupe_23658
+.2038_Lhuet_23658
+.2014_Mareu_23658
+.2019_Meudheun_23658
+.2035_Meunasah Serba_23658
+.2026_Meunasah Weh_23658
+.2037_Meutara_23658
+.2044_Nusa_23658
+.2011_Pante Cermin_23658
+.2033_Pante Keutapang_23658
+.2042_Panton Makmur_23658
+.2025_Pasar Lamno_23658
+.2031_Putue_23658
+.2043_Rumpet_23658
+.2012_Sabet_23658
+.2013_Sango_23658
+.2017_Sapek_23658
+.2021_Ujong Sedheun (Ujong Sudeun)_23658
+11.14.02_Krueng Sabee_23654
+.2015_Alue Tho_23654
+.2001_Bahagia_23654
+.2012_Buntha_23654
+.2014_Curek_23654
+.2010_Datar Luas_23654
+.2003_Dayah Baro_23654
+.2008_Kabong_23654
+.2004_Kampung Blang (Gampong Blang)_23654
+.2007_Keude Krueng Sabee_23654
+.2005_Keutapang_23654
+.2016_Mon Mata_23654
+.2009_Padang Datar_23654
+.2013_Panggong_23654
+.2006_Panton Makmur_23654
+.2017_Paya Seumantok_23654
+.2011_Ranto Panyang_23654
+.2002_Sentosa_23654
+11.14.06_Panga (Keude Panga)_23653
+.2013_Alue Abed (Alue Abet)_23653
+.2007_Alue Pande_23653
+.2021_Alue Piet_23653
+.2015_Alue Raya_23653
+.2016_Alue Teungoh_23653
+.2017_Babah Ceupan_23653
+.2008_Batee Meutudong_23653
+.2009_Gampong Harapan_23653
+.2006_Gle Putoh (Gleputoh)_23653
+.2010_Gunong Buloh_23653
+.2014_Gunong Mantok_23653
+.2011_Gunong Meulinteung_23653
+.2001_Keude Panga_23653
+.2002_Kuta Tuha_23653
+.2004_Ladang Baro_23653
+.2019_Panton Kabu_23653
+.2005_Panton Krueng_23653
+.2018_Tuwi Eumpeuk (Tuwi Empeuk)_23653
+.2003_Tuwi Kareung (Tuwi Kareung Panga)_23653
+.2020_Tuwi Kayee_23653
+11.14.09_Pasie Raya_23653
+.2010_Alue Jang_23653
+.2002_Alue Krueng_23653
+.2012_Alue Punti_23653
+.2013_Bintah_23653
+.2014_Buket Keumuneng_23653
+.2011_Ceuraceu_23653
+.2005_Krueng Beukah_23653
+.2007_Lhok Guci_23653
+.2003_Pasi Teubee_23653
+.2001_Pulo Tinggi_23653
+.2009_Sarah Raya_23653
+.2004_Timpleung (Tim Pleung)_23653
+.2006_Tuwi Kareung (Tuwi Kareung I)_23653
+.2008_Tuwi Peuriya (Tuwi Perya)_23653
+11.14.04_Sampoi Niet (Sampoiniet)_23659
+.2005_Alue Gro_23659
+.2007_Babah Nipah_23659
+.2011_Blang Monlung_23659
+.2009_Cot Langsat_23659
+.2036_Cot Punti (Ex Upt V Patek)_23659
+.2004_Crak Mong_23659
+.2016_Ie Jeureungeh_23659
+.2008_Jeumpheuk_23659
+.2037_Krueng Ayon_23659
+.2012_Krueng No_23659
+.2020_Kuala Bakong_23659
+.2006_Kuala Ligan_23659
+.2001_Lhok Kruet_23659
+.2015_Ligan_23659
+.2010_Mataie (Mata IE)_23659
+.2003_Meunasah Kulam_23659
+.2002_Pulo Raya_23659
+.2014_Ranto Sabon_23659
+.2013_Seumantok_23659
+11.14.03_Setia Bhakti (Setia Bakti)_23655
+.2010_Gampong Baro_23655
+.2008_Gampong Baroh_23655
+.2007_Glee Seubak (Gle Subak)_23655
+.2004_Gunong Meunasah_23655
+.2012_Lhok Bot_23655
+.2011_Lhok Buya_23655
+.2002_Lhok Geulumpang_23655
+.2009_Lhok Timon_23655
+.2003_Padang_23655
+.2006_Pante Kuyun_23655
+.2013_Paya Laot (Paya Laut)_23655
+.2005_Sapek_23655
+.2001_Sawang_23655
+11.14.01_Teunom_23653
+.2002_Alue Ambang_23653
+.2016_Alue Meuraksa / Meurasa_23653
+.2012_Batee-Roo_23653
+.2009_Blang Baro_23653
+.2019_Cot Trap_23653
+.2006_Gampong Baro_23653
+.2001_Keude Teunom_23653
+.2015_Kubu_23653
+.2020_Leung Gayo (Lueng Gayo)_23653
+.2003_Padang Kleng_23653
+.2004_Panton_23653
+.2021_Pasi Geulima_23653
+.2008_Pasi Pawang_23653
+.2022_Pasi Timon_23653
+.2005_Pasi Tulak Bala_23653
+.2017_Paya Baro_23653
+.2007_Rambong Payong_23653
+.2014_Seumira_23653
+.2013_Seuneubok Padang_23653
+.2010_Tanoh Anou / Anoe_23653
+.2011_Tanoh Manyang_23653
+.2018_Teupin Ara_23653

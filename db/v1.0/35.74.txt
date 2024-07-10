@@ -1,0 +1,34 @@
+35.74.01_Kademangan_67221|67226
+.1008_Kademangan_67225
+.1001_Ketapang_67222
+.1009_Pilang_67221
+.1007_Pohsangit Kidul_67226
+.1003_Triwung Kidul_67224
+.1002_Triwung Lor_67223
+35.74.04_Kanigaran_67221|67225
+.1005_Curahgrinting_67212
+.1003_Kanigaran_67213
+.1006_Kebonsari Kulon_67214
+.1004_Kebonsari Wetan_67214
+.1002_Sukoharjo_67215
+.1001_Tisnonegaran_67211
+35.74.05_Kedopok (Kedopak)_67227|67239
+.1001_Jrebeng Kulon_67229
+.1004_Jrebeng Lor_67238
+.1006_Jrebeng Wetan_67239
+.1002_Kareng Lor_67228
+.1005_Kedopok_67231
+.1003_Sumber Wetan_67227
+35.74.03_Mayangan_67216|67219
+.1004_Jati_67217
+.1002_Mangunharjo_67217
+.1001_Mayangan_67218
+.1007_Sukabumi_67219
+.1010_Wiroborang_67216
+35.74.02_Wonoasih_67232|67239
+.1001_Jrebeng Kidul_67233
+.1005_Kedung Asem (Kedungasem)_67236
+.1003_Kedunggaleng_67239
+.1002_Pakistaji_67239
+.1006_Sumber Taman_67237
+.1007_Wonoasih_67232

@@ -1,0 +1,184 @@
+35.78.28_Asem Rowo (Asemrowo)_60182|60184
+.1001_Asem Rowo_60182
+.1002_Genting Kalianak_60183
+.1005_Tambak Sarioso_60184
+35.78.19_Benowo_60191|60199
+.1001_Kandangan_60199
+.1005_Romokalisari_60192
+.1003_Sememi_60198
+.1004_Tambak Osowilangun_60191
+35.78.13_Bubutan_60171|60174
+.1001_Alun-alun Contong (Alon Alon Contong)_60174
+.1002_Bubutan_60174
+.1003_Gundih_60172
+.1004_Jepara_60171
+.1005_Tembok Dukuh_60173
+35.78.29_Bulak_60121|60125
+.1004_Bulak_60124
+.1001_Kedung Cowek_60125
+.1003_Kenjeran_60123
+.1005_Sukolilo Baru_60122
+35.78.21_Dukuh Pakis_60224|60226
+.1002_Dukuh Kupang_60225
+.1001_Dukuh Pakis_60225
+.1003_Gunung Sari (Gunungsari)_60224
+.1004_Pradah Kali Kendal_60226
+35.78.22_Gayungan_60231|60235
+.1003_Dukuh Menanggal_60234
+.1001_Gayungan_60235
+.1004_Ketintang_60231
+.1002_Menanggal_60234
+35.78.07_Genteng_60271|60275
+.1001_Embong Kaliasin_60271
+.1002_Genteng_60275
+.1003_Kapasari_60273
+.1004_Ketabang_60272
+.1005_Peneleh_60274
+35.78.08_Gubeng_60281|60286
+.1003_Airlangga_60286
+.1005_Baratajaya_60284
+.1001_Gubeng_60281
+.1004_Kertajaya_60282
+.1002_Mojo_60285
+.1006_Pucang Sewu_60283
+35.78.25_Gunung Anyar (Gununganyar)_60293|60294
+.1001_Gunung Anyar_60294
+.1004_Gunung Anyar (Gunung Anyar Tambak)_60294
+.1003_Rungkut Menanggal_60293
+.1002_Rungkut Tengah_60293
+35.78.23_Jambangan_60232|60233
+.1001_Jambangan_60232
+.1002_Karah_60232
+.1003_Kebonsari_60233
+.1004_Pagesangan_60233
+35.78.01_Karang Pilang (Karangpilang)_60221|60223
+.1001_Karangpilang_60221
+.1002_Kebraon_60222
+.1003_Kedurus_60223
+.1004_Warugunung (Waru Gunung)_60221
+35.78.17_Kenjeran_60126|60129
+.1003_Bulak Banteng_60127
+.1002_Sidotopo/Sidoropo Wetan_60128
+.1004_Tambak Wedi_60126
+.1001_Tanah Kali Kedinding_60129
+35.78.15_Krembangan_60175|60179
+.1004_Dupak_60179
+.1002_Kemayoran_60176
+.1001_Krembangan Selatan_60175
+.1005_Morokrembangan (Moro Krembangan)_60178
+.1003_Perak Barat_60177
+35.78.18_Lakarsantri_60211|60215
+.1001_Bangkingan_60214
+.1002_Jeruk_60212
+.1003_Lakarsantri (Lakar Santri)_60211
+.1004_Lidah Kulon_60213
+.1005_Lidah Wetan_60213
+.1006_Sumur Welut_60215
+35.78.26_Mulyorejo_60112|60116
+.1005_Dukuh Sutorejo_60113
+.1006_Kalijudan_60114
+.1004_Kalisari_60112
+.1003_Kejawaan Putih Tambak (Kejawen Putih Tambak)_60112
+.1002_Manyar Sabrangan_60116
+.1001_Mulyorejo_60115
+35.78.12_Pabean Cantian (Pabean Cantikan)_60161|60165
+.1001_Bongkaran_60161
+.1003_Krembangan Utara_60163
+.1002_Nyamplungan_60162
+.1006_Tanjung Perak_60164
+35.78.30_Pakal_60192|60197
+.1002_Babat Jerawat_60197
+.1005_Benowo_60195
+.1001_Pakal_60196
+.1004_Sumber Rejo_60192
+35.78.03_Rungkut_60293|60298
+.1001_Kalirungkut (Kali Rungkut)_60293
+.1003_Kedung Baruk_60298
+.1006_Medokan Ayu_60295
+.1004_Penjaringansari (Penjaringan Sari)_60297
+.1002_Rungkut Kidul_60293
+.1005_Wonorejo_60296
+35.78.31_Sambikerep_60195|60219
+.1003_Bringin_60218
+.1004_Lontar_60216
+.1002_Made_60219
+.1001_Sambikerep_60217
+35.78.06_Sawahan_60253|60256
+.1003_Banyu Urip_60254
+.1005_Kupang Krajan_60253
+.1006_Pakis_60256
+.1001_Petemon_60252
+.1004_Putat Jaya_60255
+.1002_Sawahan_60251
+35.78.16_Semampir_60151|60155
+.1001_Ampel_60151
+.1002_Pegirikan (Pegirian)_60153
+.1005_Sidotopo_60152
+.1004_Ujung_60155
+.1003_Wonokusumo_60154
+35.78.11_Simokerto_60141|60145
+.1002_Kapasan_60141
+.1003_Sidodadi_60145
+.1001_Simokerto_60143
+.1004_Simolawang_60144
+.1005_Tambakrejo_60142
+35.78.09_Sukolilo_60111|60119
+.1002_Gebang Putih_60117
+.1001_Keputih_60111
+.1003_Klampis Ngasem_60117
+.1007_Medokan Semampir_60119
+.1004_Menur Pumpungan_60118
+.1005_Nginden Jangkungan_60118
+.1006_Semolowaru_60119
+35.78.27_Sukomanunggal_60187|60281
+.1004_Putat Gede_60189
+.1005_Simomulyo_60281
+.1006_Simomulyo Baru_60281
+.1003_Sonokwijenan_60189
+.1001_Sukomanunggal (Suko Manunggal)_60188
+.1002_Tanjungsari_60187
+35.78.10_Tambaksari_60131|60138
+.1008_Dukuh Setro_60138
+.1003_Gading_60134
+.1007_Kapas Madya Baru (Kapasmadya Baru)_60137
+.1006_Pacarkeling (Pacar Keling)_60131
+.1004_Pacarkembang (Pacar Kembang)_60132
+.1002_Ploso_60133
+.1005_Rangkah_60135
+.1001_Tambaksari_60136
+35.78.14_Tandes_60184|60187
+.1007_Balongsari (Balong Sari)_60186
+.1012_Banjar Sugian / Sugihan_60185
+.1006_Karang Poh (Gadel, Tubanan)_60186
+.1009_Manukan Kulon_60185
+.1011_Manukan Wetan (Bibis, Buntaran)_60184
+.1002_Tandes (Kidul, Lor, Gedang Asin)_60187
+35.78.05_Tegalsari_60261|60265
+.1002_Dr. Soetomo (Dr. Sutomo)_60264
+.1003_Kedungdoro_60261
+.1004_Keputran_60265
+.1001_Tegalsari_60262
+.1005_Wonorejo_60263
+35.78.24_Tenggilis Mejoyo_60291|60299
+.1002_Kendangsari_60292
+.1001_Kutisari_60291
+.1004_Panjang Jiwo_60299
+.1003_Tenggilis Mejoyo (Tengilis Mejoyo)_60292
+35.78.20_Wiyung_60222|60229
+.1003_Babatan_60227
+.1004_Balas Klumprik_60222
+.1002_Jajar Tunggal (Jajartunggal)_60229
+.1001_Wiyung_60228
+35.78.02_Wonocolo_60236|60239
+.1002_Bendul Merisi_60239
+.1004_Jemur Wonosari_60237
+.1003_Margorejo_60238
+.1001_Sidosermo_60239
+.1005_Siwalankerto_60236
+35.78.04_Wonokromo_60241|60246
+.1005_Darmo_60241
+.1002_Jagir_60244
+.1003_Ngagel_60246
+.1004_Ngagel Rejo (Ngagelrejo)_60245
+.1006_Sawunggaling_60242
+.1001_Wonokromo_60243

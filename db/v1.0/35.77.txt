@@ -1,0 +1,30 @@
+35.77.01_Kartoharjo_63111|63119
+.1007_Kanigoro_63118
+.1008_Kartoharjo_63117
+.1009_Kelun_63112
+.1003_Klegen_63117
+.1001_Oro Oro Ombo_63119
+.1005_Pilangbango_63119
+.1004_Rejomulyo_63111
+.1002_Sukosari_63119
+.1006_Tawangrejo_63113
+35.77.02_Manguharjo_63121|63129
+.1006_Madiun Lor_63122
+.1001_Manguharjo_63127
+.1009_Nambangan Kidul_63128
+.1008_Nambangan Lor_63129
+.1004_Ngegong_63125
+.1007_Pangongangan_63121
+.1003_Patihan_63123
+.1002_Sogaten_63129
+.1005_Winongo_63126
+35.77.03_Taman_63131|63139
+.1003_Banjarejo_63137
+.1008_Demangan_63136
+.1007_Josenan_63134
+.1006_Kejuron_63132
+.1004_Kuncen_63135
+.1005_Manisrejo_63138
+.1001_Mojorejo_63139
+.1002_Pandean_63133
+.1009_Taman_63131

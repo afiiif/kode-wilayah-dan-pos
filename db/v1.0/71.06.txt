@@ -1,0 +1,141 @@
+71.06.03_Airmadidi_95371
+.1008_Airmadidi Atas_95371
+.1005_Airmadidi Bawah_95371
+.1006_Rap-Rap_95371
+.2003_Sampiri_95371
+.1011_Sarongsong II (Sarongsong Dua)_95371
+.1007_Saronsong I (Sarongsong Satu)_95371
+.2004_Sawangan_95371
+.1009_Sukur_95371
+.2002_Tanggari_95371
+71.06.05_Dimembe_95373
+.2016_Dimembe_95373
+.2005_Klabat_95373
+.2004_Laikit_95373
+.2014_Lumpias_95373
+.2003_Matungkas_95373
+.2006_Pinilih_95373
+.2007_Tatelu_95373
+.2020_Tatelu Rondor_95373
+.2009_Tetey_95373
+.2008_Warukapas_95373
+.2013_Wasian_95373
+71.06.08_Kalawat_95378
+.2010_Kalawat_95378
+.2006_Kaleosan_95378
+.2003_Kawangkoan_95378
+.2009_Kawangkoan Baru_95378
+.2004_Kolongan_95378
+.2008_Kolongan Tetempangan_95378
+.2002_Kuwil_95378
+.2005_Maumbi_95378
+.2001_Suwaan_95378
+.2007_Watutumou (Watutumou I)_95378
+.2011_Watutumou Dua (Watutumou II)_95378
+.2012_Watutumou Tiga (Watutumou III)_95378
+71.06.02_Kauditan_95372
+.2007_Kaasar_95372
+.2005_Kaima_95372
+.2006_Karegesan_95372
+.2002_Kauditan I (Kauditan Satu)_95372
+.2001_Kauditan II (Kauditan Dua)_95372
+.2003_Kawiley (Kawilei)_95372
+.2008_Lembean_95372
+.2009_Paslaten_95372
+.2004_Treman_95372
+.2010_Tumaluntung_95372
+.2011_Watudambo_95372
+.2012_Watudambo Dua_95372
+71.06.01_Kema_95379
+.2007_Kema I (Kema Satu)_95379
+.2006_Kema II (Kema Dua)_95379
+.2005_Kema III (Kema Tiga)_95379
+.2004_Lansot_95379
+.2003_Lilang_95379
+.2001_Makalisung_95379
+.2009_Tontaalete Rok-rok_95379
+.2008_Tontalete_95379
+.2002_Waleo_95379
+.2010_Waleo Dua_95379
+71.06.06_Likupang Barat_95377
+.2004_Airbanua_95377
+.2011_Bahoi_95377
+.2017_Bulutui_95377
+.2001_Gangga I_95377
+.2002_Gangga II_95377
+.2009_Jayakarsa_95377
+.2019_Kinabuhutan_95377
+.2006_Maliambao_95377
+.2015_Mubune_95377
+.2016_Munte_95377
+.2005_Palaes_95377
+.2008_Paputungan_95377
+.2013_Serei_95377
+.2014_Sonsilo_95377
+.2003_Talise_95377
+.2020_Tambun_95377
+.2010_Tanah Putih_95377
+.2012_Tarabitan_95377
+.2007_Termaal_95377
+.2018_Wawunian_95377
+71.06.10_Likupang Selatan_95374
+.2006_Batu_95374
+.2004_Kaweruan_95374
+.2002_Kokoleh Dua_95374
+.2001_Kokoleh Satu_95374
+.2003_Paslaten_95374
+.2005_Wangurer_95374
+.2007_Werot_95374
+71.06.07_Likupang Timur_95375
+.2025_Ehe_95375
+.2020_Kahuhu (Kahuku)_95375
+.2016_Kalinaun_95375
+.2023_Kinunang_95375
+.2021_Libas_95375
+.2019_Lihunu_95375
+.2008_Likupang I (Likupang Satu)_95375
+.2009_Likupang II (Likupang Dua)_95375
+.2022_Likupang Kampung Ambong_95375
+.2012_Maen_95375
+.2014_Marinsow (Marinsouw)_95375
+.2018_Pinenek_95375
+.2015_Pulisan_95375
+.2024_Resetlemen_95375
+.2017_Rinondoran_95375
+.2010_Sarawet (Serawet)_95375
+.2011_Wineru_95375
+.2013_Winuri_95375
+71.06.09_Talawaan_95370
+.2002_Kolongan_95370
+.2004_Mapanget_95370
+.2001_Paniki Atas_95370
+.2012_Paniki Baru_95370
+.2009_Patokaan_95370
+.2003_Talawaan_95370
+.2010_Teepwarisa (Teep Warisa)_95370
+.2007_Tumbohon_95370
+.2006_Warisa_95370
+.2011_Warisa Kampung Baru_95370
+.2008_Winetin_95370
+.2005_Wusa_95370
+71.06.04_Wori_95376
+.2006_Budo_95376
+.2014_Bulo_95376
+.2007_Darunu_95376
+.2003_Kima Bajo_95376
+.2013_Kulu_95376
+.2015_Lansa_95376
+.2016_Lantung_95376
+.2011_Mantehage Bango_95376
+.2010_Mantehage Buhias_95376
+.2012_Mantehage II Tangkasi (Mantehage Tangkas)_95376
+.2008_Mantehage III Tinongko (Mantehage Tinongko)_95376
+.2018_Minaesa_95376
+.2009_Nain_95376
+.2020_Nain Satu_95376
+.2019_Nain Tatampi_95376
+.2017_Pontoh (Ponto)_95376
+.2005_Talawaan Atas_95376
+.2004_Talawaan Bantik_95376
+.2001_Tiwoho_95376
+.2002_Wori_95376

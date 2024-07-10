@@ -1,0 +1,117 @@
+73.14.04_Baranti_91652|91653
+.1001_Baranti_91652
+.1003_Benteng_91652
+.1002_Duampanua_91652
+.1004_Manisa_91652
+.1005_Panreng_91652
+.2006_Passeno_91652
+.2007_Sipodeceng_91652
+.2009_Tonrong Rijang_91653
+.2008_Tonrongnge (Tonronge)_91652
+73.14.09_Dua Pitue_91681
+.2006_Bila_91681
+.2003_Kalosi_91681
+.2005_Kalosi Alau_91681
+.2010_Kampale_91681
+.2004_Padangloang_91681
+.2007_Padangloang Alau_91681
+.2008_Salobukkang_91681
+.1002_Salomalori_91681
+.2009_Taccimpo_91681
+.1001_Tanru Tedong_91681
+73.14.06_Kulo_91653
+.2006_Abbokongeng_91653
+.2005_Bina Baru_91653
+.2002_Kulo_91653
+.2003_Maddenra (Madenra)_91653
+.2004_Mario_91653
+.2001_Rijang Panua_91653
+73.14.07_Maritengngae_91611|91615
+.2010_Allakuang_91611
+.2009_Kanie_91611
+.1002_Lautang Benteng_91611
+.1005_Lekessi (Lakessi)_91611
+.1003_Majjelling_91611
+.1007_Majjelling Watang (Majelling Watang)_91611
+.1001_Pangkajene_91611
+.1006_Rijang Pitu (Rijang Pittu)_91611
+.2008_Sereang_91615
+.2011_Tanete_91611
+.2012_Tekkalasi (Takkalasi)_91611
+.1004_Wala_91611
+73.14.01_Panca Lautang_91672
+.2009_Alesalewo_91672
+.2008_Bapangi_91672
+.1001_Bilokka_91672
+.2010_Cenrana_91672
+.2006_Corawali_91672
+.1003_Lajonga_91672
+.2007_Lise_91672
+.2004_Wanio_91672
+.2005_Wanio Timoreng_91672
+.1002_Wette'E_91672
+73.14.05_Panca Rijang_91651
+.2007_Bulo_91651
+.2006_Bulowattang (Bulo Wattang)_91651
+.2008_Cipotakari_91651
+.1004_Kadidi_91651
+.1002_Lelebata (Lalebata)_91651
+.1003_Maccorawalie (Macorawalie)_91651
+.1001_Rappang_91651
+.2005_Timoreng Panua_91651
+73.14.11_Pitu Riase_91691
+.1001_Batu_91691
+.2003_Belawae_91691
+.2005_Bila Riase_91691
+.2006_Bola Bulu_91691
+.2004_Botto_91691
+.2011_Buntu Buanging_91691
+.2002_Compong_91691
+.2010_Dengeng-Dengeng_91691
+.2009_Lagading_91691
+.2012_Lepangeng (Leppangeng)_91691
+.2008_Lombo_91691
+.2007_Tanatoro_91691
+73.14.10_Pitu Riawa_91683
+.2003_Ajubissue_91683
+.2007_Anabannae_91683
+.2006_Betao_91683
+.2008_Betao Riase_91683
+.2005_Bulucenrana_91683
+.2009_Dongi_91683
+.2012_Kalempang_91683
+.1001_Lancirang_91683
+.2010_Lasiwala_91683
+.2004_Otting_91683
+.1002_PongrangaE_91683
+.2011_Sumpangmango_91683
+73.14.02_Tellu Limpoe_91662
+.1001_Amparita_91662
+.1006_Arateng_91662
+.1005_Baula_91662
+.1002_Messape (Massepe)_91662
+.1004_Pajalele_91662
+.2008_Polewali_91662
+.2009_Teppo_91662
+.2007_Teteaji_91662
+.1003_Toddang Pulu (Todang Pulu)_91662
+73.14.03_Watang Pulu_91661
+.1002_Arawa_91661
+.1003_Bangkai_91661
+.1005_Batu Lappa (Batulappa)_91661
+.2008_Buae_91661
+.2007_Carawali_91661
+.2010_Ciro-Ciroe_91661
+.2006_Lainungan_91661
+.1001_Lawawoi_91661
+.2009_Mattirotasi_91661
+.1004_Uluale_91661
+73.14.08_Watang Sidenreng (Wattang Sidenreng)_91613|91682
+.2007_Aka-Akae_91613
+.2005_Damai_91616
+.1001_Empagae_91613
+.1003_Kanyuara_91613
+.2004_Mojong_91614
+.1002_Sidenreng (Watang Sidenreng)_91682
+.2008_Talawe_91613
+.2006_Talumae_91613

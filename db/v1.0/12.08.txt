@@ -1,0 +1,445 @@
+12.08.23_Bandar_21162|21184
+.2006_Bah Lias_21184
+.2012_Bandar Jawa_21184
+.2005_Bandar Pulo_21184
+.2004_Bandar Rakyat_21184
+.2016_Landbouw_21184
+.2002_Marihat Bandar_21162
+.2003_Nagori Bandar_21184
+.2007_Pardagangan II (Perdagangan II)_21184
+.2010_Pem.Kerasaan Rejo (Pematang Kerasaan Rejo)_21184
+.2001_Pematang Kerasaan_21184
+.1014_Perdagangan I_21184
+.1015_Perdagangan III_21184
+.2008_Perlanaan_21184
+.2013_Sidotani_21184
+.2009_Sugarang Bayu_21184
+.2011_Timbaan_21184
+12.08.22_Bandar Huluan_21184
+.2002_Bah Gunung_21184
+.2008_Bandar Betsy I_21184
+.2009_Bandar Betsy II_21184
+.2003_Bandar Tonga (Bandar Tongah)_21184
+.2004_Dolok Parmonangan_21184
+.2005_Laras_21184
+.2001_Naga Jaya I_21184
+.2006_Naga Jaya II_21184
+.2010_Naga Soppa_21184
+.2007_Tanjung Hataran_21184
+12.08.24_Bandar Masilam_21185
+.2010_Bandar Gunung_21185
+.2001_Bandar Masilam_21185
+.2006_Bandar Masilam II_21185
+.2009_Bandar Rejo_21185
+.2003_Bandar Silou_21185
+.2008_Bandar Tinggi_21185
+.2005_Gunung Serawan_21185
+.2002_Lias Baru_21185
+.2004_Panombean Baru_21185
+.2007_Patimbalan (Partimbalan)_21185
+12.08.08_Bosar Maligas_21183
+.2012_Adil Makmur_21183
+.2003_Boluk_21183
+.1013_Bosar Maligas_21183
+.2007_Dusun Pengkolan_21183
+.2005_Gunung Bayu_21183
+.2010_Marihat Butar_21183
+.2009_Marihat Tanjung_21183
+.2002_Mayang_21183
+.2016_Mekar Rejo_21183
+.2017_Nanggar Bayu_21183
+.2001_Parbutaran_21183
+.2004_Sei Mangkei_21183
+.2008_Sei Torop_21183
+.2015_Sidomulyo_21183
+.2011_Teladan_21183
+.2006_Telun/Talun Saragih_21183
+.2014_Tempel Jaya_21183
+12.08.32_Dolog Masagal_21164
+.2004_Bah Bolon_21164
+.2006_Bangun Pane_21164
+.2003_Bintang Mariah_21164
+.2002_Dolog Huluan_21164
+.2010_Pamatang Sinaman_21164
+.2007_Parjalangan_21164
+.2008_Partuahan_21164
+.2001_Raya Huluan_21164
+.2005_Raya Usang_21164
+.2009_Sinaman Labah_21164
+12.08.17_Dolok Batu Nanggar_21155
+.1016_Aman Sari_21155
+.2002_Bah Tobu_21155
+.2014_Bahung Huluan_21155
+.2006_Bahung Kahean_21155
+.2003_Bandar Selamat_21155
+.2004_Dolok Ilir I_21155
+.2005_Dolok Ilir II_21155
+.2012_Dolok Kataran_21155
+.2007_Dolok Mainu_21155
+.2008_Dolok Merangir I_21155
+.2009_Dolok Merangir II_21155
+.2011_Dolok Tenera_21155
+.2010_Kahean_21155
+.2013_Padang Mainu_21155
+.1015_Serbelawan_21155
+.2001_Silenduk_21155
+12.08.13_Dolok Panribuan_21173
+.2008_Bandar Dolok_21173
+.2002_Dolok Parmonangan_21173
+.2003_Dolok Tomuan_21173
+.2009_Gunung Mariah_21173
+.2014_Lumban Gorat_21173
+.2004_Marihat Dolok_21173
+.2011_Marihat Marsada_21173
+.2013_Marihat Pondok_21173
+.2007_Marihat Raja_21173
+.2001_Negeri Dolok_21173
+.2015_Palianopat_21173
+.2012_Pondok Buluh_21173
+.2010_Siatasan_21173
+.2005_Tiga Dolok_21173
+.2006_Ujung Bondar_21173
+12.08.20_Dolok Pardamean_21163
+.2007_Butu Bayu Pane Raja (Butu Bayu Panei Raja)_21163
+.2004_Dolok Saribu_21163
+.2016_Nagori Bayu_21163
+.2002_Parik Sabungan_21163
+.2003_Sibuntuon_21163
+.2015_Sihemum Baru_21163
+.2009_Silabah Jaya_21163
+.2011_Sirube-rube Gunung Purba_21163
+.2014_Tanjung Saribu_21163
+.2001_Tigaras_21163
+.2010_Togu Domu Nauli_21163
+12.08.26_Dolok Silou (Dolok Silau)_21168
+.2007_Bawang_21168
+.2013_Bosi Sinumbah_21168
+.2001_Cingkes_21168
+.2006_Dolok Mariah_21168
+.2008_Huta Saing_21168
+.2004_Mariah Dolok_21168
+.2005_Marubun Lokkung_21168
+.2002_Paribuan_21168
+.2010_Perasmian_21168
+.2003_Saran Padang_21168
+.2012_Silau Marawan_21168
+.2011_Tanjung Purba_21168
+.2009_Togur (Tagur)_21168
+.2014_Ujung Bawang_21168
+12.08.16_Girsang Sipangan Bolon_21174
+.1003_Girsang_21174
+.1004_Parapat_21174
+.2002_Sabaganding (Sibaganding)_21174
+.2001_Sipangan Bolon_21174
+.2006_Sipangan Bolon Mekar_21174
+.1005_Tiga Raja_21174
+12.08.02_Gunung Malela_21175
+.2008_Bandar Siantar_21175
+.2010_Bangun_21175
+.2012_Bukit Maraja_21175
+.2001_Dolok Malela_21175
+.2016_Lingga_21175
+.2005_Margo Mulyo (Margo Muliyo)_21175
+.2014_Marihat Bukit_21175
+.2011_Nagori Malela_21175
+.2009_Pamatang Gajing (Pematang Gajing)_21175
+.2013_Pamatang Syahkuda (Pematang Syahkuda / Sah Kuda)_21175
+.2003_Pematang Asilum_21175
+.2002_Senio_21175
+.2004_Serapuh_21175
+.2007_Silau Malela_21175
+.2006_Silulu_21175
+.2015_Syahkuda Bayu (Sah Kuda Bayu)_21175
+12.08.03_Gunung Maligas_21176
+.2009_Bandar Malela_21176
+.2008_Ganjing (Gajing)_21176
+.2007_Hutadipar_21176
+.2002_Karang Anyer_21176
+.2003_Karang Rejo_21176
+.2004_Karang Sari_21176
+.2006_Rabuhit_21176
+.2001_Silau Bayu_21176
+.2005_Tumorang_21176
+12.08.15_Haranggaol Horisan (Haranggaol Horison)_21177
+.1005_Haranggaol_21177
+.2001_Nagori Purba (Nagori Purba Saribu)_21177
+.2003_Nagori Purba Horison / Harison / Harisan_21177
+.2004_Nagori Purba Pasir_21177
+.2002_Nagori Sihalpe_21177
+12.08.12_Hatonduhan_21178
+.2002_Bosar Nauli_21178
+.2001_Buttu Bayu (Buntu Bayu)_21178
+.2004_Buttu Turunan (Buntu Turunan)_21178
+.2006_Jawa Tonga (Jawa Tongah)_21178
+.2009_Jawa Tongah II_21178
+.2008_Parhundalian Jw.Dipar (Parhundalian Jawadipar)_21178
+.2005_Saribu Asih_21178
+.2003_Tangga Batu_21178
+.2007_Tonduhan_21178
+12.08.18_Huta Bayu Raja_21182
+.2012_Bahal Batu_21182
+.2010_Bosar Bayu_21182
+.2005_Dolok Sinumbah_21182
+.1013_Huta Bayu_21182
+.2007_Jawa Baru_21182
+.2006_Maligas Bayu_21182
+.2008_Mancuk_21182
+.2015_Manrayap Baru_21182
+.2001_Mariah Hombang_21182
+.2009_Marihat Mayang_21182
+.2014_Pokan Baru_21182
+.2002_Pulo Bayu_21182
+.2004_Raja Maligas_21182
+.2011_Raja Maligas I_21182
+.2003_Silakkidir_21182
+.2016_Talang Bayu_21182
+12.08.19_Jawa Maraja Bah Jambi_21153
+.2008_Bah Jambi (Bah Jambi I)_21153
+.2007_Bah Joga_21153
+.2003_Bahalat Bayu_21153
+.2001_Jawa Maraja_21153
+.2006_Mariah Jambi_21153
+.2004_Mekar Bahalat_21153
+.2002_Moho_21153
+.2005_Tanjung Maraja_21153
+12.08.06_Jorlang Hataran_21172
+.2005_Bah Birong Ulu_21172
+.2004_Bah Sampuran_21172
+.2010_Dipar Hataran_21172
+.2007_Dolok Marlawan_21172
+.2012_Dolok Parriasan_21172
+.2003_Jorlang Hataran_21172
+.2001_Kasindir_21172
+.2011_Pagar Pinang_21172
+.2009_Panombean Hutaurung (Panombean Huta Urung)_21172
+.2013_Parmonangan_21172
+.2006_Pinang Ratus_21172
+.2002_Sibunga Bunga_21172
+.1008_Tiga Balata_21172
+12.08.10_Pamatang Sidamanik (Pematang Sidamanik)_21188
+.2004_Bandar Manik_21188
+.2010_Gorak_21188
+.2005_Jorlang Huluan_21188
+.2002_Pematang Sidamanik_21188
+.2007_Pematang Tambun Raya_21188
+.2001_Sait Buttu Saribu_21188
+.2003_Sarimattin_21188
+.2006_Sihaporas_21188
+.2008_Simantin_21188
+.1009_Sipolha Horison (Sipolha Horisan)_21188
+12.08.31_Pamatang Silima Huta (Pematang)_21167
+.2010_Bandar Saribu_21167
+.2004_Mardingding (Mardinding)_21167
+.2011_Naga Bosar_21167
+.2005_Naga Saribu_21167
+.2007_Saribu Jandi_21167
+.2003_Siboras_21167
+.2002_Silimakuta Barat_21167
+.2008_Sinar Naga Mariah_21167
+.2009_Ujung Mariah_21167
+.2001_Ujung Saribu_21167
+12.08.04_Panei_21161
+.2008_Bah Bolon Tonga (Bah Bolon Tongah)_21161
+.2015_Bah Liran Siborna_21161
+.2013_Bangun Das Mariah_21161
+.2005_Bangun Rakyat_21161
+.2014_Bangun Sitolu Bah_21161
+.2001_Janggir Leto_21161
+.2009_Mekar Sari Raya_21161
+.2016_Nauli Baru_21161
+.1011_Panei Tongah_21161
+.2017_Rawang Pardomuan Nauli_21161
+.2003_Siborna_21161
+.2006_Sigodang_21161
+.2007_Sigodang Barat_21161
+.2010_Simantin Pane Dame_21161
+.2002_Simpang Pane Raya_21161
+.2012_Simpang Raya Dasma_21161
+.2004_Sipoldas_21161
+12.08.05_Panombeian Panei / Pane_21165
+.2010_Banuh Raya_21165
+.2004_Marjandi_21165
+.2009_Marjandi Pisang_21165
+.2003_Nagori Bosar_21165
+.2001_Panombeian_21165
+.2008_Pematang Pane_21165
+.2002_Pematang Panombean (Pematang Panombeian)_21165
+.2011_Rukun Mulyo_21165
+.2007_Simbolon Tengkoh_21165
+.2005_Simpang Panei_21165
+.2006_Talun Kondot_21165
+12.08.21_Pematang Bandar_21186
+.2008_Bandar Manis_21186
+.2004_Kandangan_21186
+.1009_Kerasaan I_21186
+.2007_Kerasaan II_21186
+.2003_Mariah Bandar_21186
+.2005_Pardomuan Nauli_21186
+.1010_Pematang Bandar_21186
+.2006_Purba Ganda_21186
+.2013_Purwodadi_21186
+.2001_Purwosari_21186
+.2002_Talun Madear_21186
+.2012_Talun Rejo_21186
+.2011_Wana Rejo_21186
+12.08.14_Purba_21166
+.2011_Bandar Sauhur_21166
+.2012_Bunga Sampang_21166
+.2005_Hinalang_21166
+.2010_Huta Raja_21166
+.2013_Nagori Tongah_21166
+.2002_Pematang Purba_21166
+.2006_Purba Dolok (Purba Dolog)_21166
+.2004_Purba Sipinggan_21166
+.2001_Purba Tongah_21166
+.2009_Seribu Jandi (Seribu Jadi)_21166
+.2007_Tano Tinggir_21166
+.1008_Tiga Runggu_21166
+.2014_Urung Pane_21166
+.2003_Urung Purba_21166
+12.08.29_Raya_21160
+.2007_Bahapal Raya_21160
+.1018_Baringin Raya_21160
+.2016_Bongguran Kariahan_21160
+.1002_Dalig Raya_21160
+.2020_Dame Raya_21160
+.2021_Limag Raya_21160
+.2022_Lokkung Raya_21160
+.1001_Merek Raya_21160
+.1011_Pematang Raya_21160
+.2004_Raya Bayu_21160
+.2013_Raya Bosi_21160
+.2012_Sihubu Raya_21160
+.2015_Silou Buttu_21160
+.2014_Silou Huluan_21160
+.2017_Simbou Baru_21160
+.2010_Siporkas_21160
+.1005_Sondi Raya_21160
+12.08.07_Raya Kahean_21156
+.2003_Ambarokan Pane Raya (Amborokan Pane Raya)_21156
+.2005_Bah Bulian_21156
+.2004_Bah Tonang_21156
+.2006_Bangun Raya_21156
+.2013_Banjaran_21156
+.2011_Banu Raya_21156
+.2007_Durian Banggal_21156
+.2009_Gunung Datas_21156
+.2012_Marubun Siboras_21156
+.2002_Panduman_21156
+.2010_Puli Buah_21156
+.2001_Sambosar Raya_21156
+.1008_Sindar Raya_21156
+.2008_Sorba Dolog_21156
+12.08.01_Siantar_21151
+.2013_Dolok Hataran_21151
+.2003_Dolok Marlawan_21151
+.2008_Karang Bangun_21151
+.2012_Laras Dua_21151
+.2011_Lestari Indah_21151
+.2002_Marihat Baris_21151
+.2009_Nusa Harapan_21151
+.2014_Pantoan Maju_21151
+.2017_Pematang Silampuyang_21151
+.2015_Pematang Simalungun_21151
+.2004_Rambung Merah_21151
+.2006_Sejahtera_21151
+.2007_Siantar Estate_21151
+.2001_Silampuyang_21151
+.2016_Silau Malaha_21151
+.2005_Silou Manik (Silau Manik)_21151
+.2010_Sitalasari_21151
+12.08.09_Sidamanik_21171
+.2003_Ambarisan_21171
+.2010_Bah Biak_21171
+.2001_Bah Butong I_21171
+.2005_Bah Butong II_21171
+.2006_Bahal Gajah_21171
+.2011_Birong Ulu Manriah_21171
+.2015_Bukit Rejo_21171
+.2012_Kebun Sayur Bah Butong_21171
+.2007_Manik Hataran_21171
+.2009_Manik Maraja_21171
+.2014_Manik Rambung_21171
+.2008_Mekar Sidamanik_21171
+.1013_Sarimatondang_21171
+.2002_Sidamanik_21171
+.2004_Tiga Bolon_21171
+12.08.25_Silimakuta_21169
+.2003_Bangun Mariah/Meriah_21169
+.2004_Purba Sinombah_21169
+.2006_Purba Tua_21169
+.2009_Purba Tua Baru_21169
+.2016_Purbatua Etek_21169
+.1012_Seribu Dolok (Saribu Dolok)_21169
+.2014_Sinar Baru_21169
+12.08.27_Silou Kahean_21157
+.2013_Bah Sarimah_21157
+.2004_Bandar Maruhur_21157
+.2009_Bandar Nagori_21157
+.2011_Buttu Bayu_21157
+.2014_Damaritang_21157
+.2006_Dolok Marawa_21157
+.2008_Dolok Saribu Bangun_21157
+.2007_Maria Buttu (Mariah Buttu)_21157
+.2012_Nagori Tani_21157
+.2003_Negeri Dolok_21157
+.2016_Pardomuan Bandar_21157
+.2002_Pardomuan Tongah_21157
+.2005_Silau/Silou Dunia_21157
+.2010_Silau/Silou Paribuan_21157
+.2001_Simanabun_21157
+.2015_Sinasih_21157
+12.08.11_Tanah Jawa_21181
+.2006_Bah Jambi II_21181
+.2017_Bah Jambi III_21181
+.2007_Bah Kisat_21181
+.2004_Baja Dolok_21181
+.2015_Baliju_21181
+.2003_Balimbingan_21181
+.2016_Bayu Bagasan_21181
+.2005_Bosar Galugur_21181
+.2012_Maligas Tonga (Maligas Tongah)_21181
+.2020_Marubun Bayu_21181
+.2013_Marubun Jaya_21181
+.2011_Mekar Mulia_21181
+.2009_Muara Mulia_21181
+.2014_Pagar Jambi_21181
+.2008_Panembean Marjanji (Panambean Marjandi)_21181
+.2019_Parbalogan_21181
+.2010_Pardamean Asih_21181
+.1018_Pematang Tanah Jawa_21181
+.2001_Tanjung Pasir_21181
+.2002_Totap Majawa_21181
+12.08.28_Tapian Dolok_21154
+.2001_Batu Silangit_21154
+.2005_Dolok Kahean_21154
+.2002_Dolok Maraja_21154
+.2011_Dolok Simbolon_21154
+.2003_Dolok Ulu_21154
+.2006_Naga Dolok_21154
+.2004_Nagur Usang_21154
+.2010_Negri Bayu Muslimin (Negeri Bayu Muslimin)_21154
+.2008_Pematang Dolok Kahean_21154
+.2007_Purbasari_21154
+.1009_Sinaksak_21154
+12.08.30_Ujung Padang_21187
+.2012_Aek Gerger Sidodadi_21187
+.2011_Bangun Sordang_21187
+.2019_Banjar Hulu_21187
+.2003_Dusun Ulu_21187
+.2002_Huta Parik_21187
+.2017_Kampung Lalang_21187
+.2010_Pagar Bosi_21187
+.2013_Pulo Pitu Marihat_21187
+.2020_Rawa Masin_21187
+.2015_Riah Na Poso_21187
+.2005_Sayur Matinggi_21187
+.2016_Sei Merbau_21187
+.2014_Siringan Ringan_21187
+.2018_Sordang Baru_21187
+.2007_Sordang Bolon_21187
+.2009_Tanjung Rapuan_21187
+.2006_Taratak Nagodang_21187
+.2008_Teluk Lapian (Teluk Tapian)_21187
+.2004_Tinjoan_21187
+.1001_Ujung Padang_21187

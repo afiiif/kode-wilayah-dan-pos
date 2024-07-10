@@ -1,0 +1,61 @@
+12.72.02_Siantar Barat_21111|21118
+.1007_Banjar_21112
+.1003_Bantan_21111
+.1001_Dwikora_21118
+.1002_Proklamasi_21117
+.1005_Simarito_21113
+.1006_Sipinggolpinggol (Sipinggol Pinggol)_21114
+.1008_Teladan_21115
+.1004_Timbang Galung_21116
+12.72.05_Siantar Marihat_21127|21129
+.1005_Baringin Pancur Nauli (Bp Nauli)_21129
+.1010_Mekar Nauli_21129
+.1006_Pardamean_21128
+.1008_Parhorasan Nauli_21129
+.1007_Sukamaju_21127
+.1009_Sukamakmur_21128
+.1002_Sukaraja_21128
+12.72.08_Siantar Marimbun_21127|21129
+.1006_Marihat Jaya_21128
+.1003_Naga Huta (Nagahuta)_21129
+.1004_Naga Huta Timur_21129
+.1005_Pematang Marihat_21127
+.1001_Simarimbun_21129
+.1002_Tong Marimbun_21129
+12.72.06_Siantar Martoba_21137|21139
+.1007_Naga Pita_21137
+.1010_Naga Pitu_21137
+.1008_Pondok Sayur_21137
+.1001_Sumber Jaya_21137
+.1003_Tambun Nabolon_21137
+.1011_Tanjung Pinggir_21137
+.1009_Tanjung Tongah_21137
+12.72.04_Siantar Selatan_21121|21126
+.1006_Aek Nauli_21126
+.1002_Karo_21122
+.1005_Kristen_21124
+.1004_Martimbang_21125
+.1003_Simalungun_21121
+.1001_Toba_21123
+12.72.07_Siantar Sitalasari_21137|21139
+.1002_Bah Kapul_21139
+.1005_Bah Sorma_21139
+.1004_Bukit Sofa/Shofa_21137
+.1001_Gurilla_21137
+.1003_Setia Negara_21137
+12.72.01_Siantar Timur_21131|21139
+.1004_Asuhan_21136
+.1001_Kebun Sayur_21134
+.1005_Merdeka_21135
+.1003_Pahlawan_21132
+.1006_Pardomuan_21131
+.1007_Siopat Suhu_21139
+.1002_Tomuan_21133
+12.72.03_Siantar Utara_21141|21147
+.1007_Bane_21142
+.1003_Baru_21145
+.1005_Kahean_21147
+.1002_Martoba_21143
+.1001_Melayu_21144
+.1006_Sigulanggulang (Sigulang Gulang I)_21141
+.1004_Sukadame_21146

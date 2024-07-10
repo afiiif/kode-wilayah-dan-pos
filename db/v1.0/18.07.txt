@@ -1,0 +1,288 @@
+18.07.15_Bandar Sribhawono (Bandar Sribawono)_34389
+.2006_Bandar Agung_34389
+.2007_Mekar Jaya_34389
+.2002_Sadar Sriwijaya_34389
+.2001_Sribhawono (Sri Bawono / Bhawono)_34389
+.2003_Srimenanti (Sri Menanti)_34389
+.2004_Sripendowo (Sri Pendowo)_34389
+.2005_Waringin Jaya_34389
+18.07.06_Batanghari_34381
+.2005_Adiwarno (Adi Warno)_34381
+.2003_Balekencono (Balai Kencono)_34381
+.2010_Balerejo (Bale Rejo)_34381
+.2001_Banarjoyo (Banar Joyo)_34381
+.2009_Banjarejo (Banjar Rejo)_34381
+.2011_Batangharjo (Batang Harjo)_34381
+.2002_Buana Sakti_34381
+.2012_Bumi Harjo_34381
+.2013_Bumi Mas_34381
+.2007_Nampirejo (Nampi Rejo)_34381
+.2017_Purwodadi Mekar_34381
+.2004_Rejo Agung_34381
+.2014_Selorejo (Selo Rejo)_34381
+.2015_Sri Basuki_34381
+.2016_Sumber Agung_34381
+.2008_Sumberejo (Sumber Rejo)_34381
+.2006_Telogorejo (Telogo Rejo)_34381
+18.07.13_Batanghari Nuban_34372
+.2010_Bumi Jawa_34372
+.2008_Cempaka Nuban_34372
+.2009_Gedung Dalem (Gedung Dalam)_34372
+.2011_Gunung Tiga_34372
+.2004_Kedaton (Kedaton Induk)_34372
+.2005_Kedaton I (Satu)_34372
+.2006_Kedaton II (Dua)_34372
+.2012_Negara Ratu_34372
+.2002_Purwosari_34372
+.2013_Sukacari_34372
+.2001_Sukaraja Nuban_34372
+.2007_Trisnomulyo (Trisno Mulyo)_34372
+.2003_Tulung Balak_34372
+18.07.22_Braja Selebah (Braja Slebah)_34196
+.2002_Braja Gemilang_34196
+.2001_Braja Harjosari_34196
+.2003_Braja Indah_34196
+.2005_Braja Kencana_34196
+.2006_Braja Luhur_34196
+.2007_Braja Mulya_34196
+.2004_Braja Yekti_34196
+18.07.14_Bumi Agung_34182
+.2003_Bumi Tinggi_34182
+.2006_Catur Swako_34182
+.2001_Donomulyo_34182
+.2004_Lehan_34182
+.2005_Marga Mulya_34182
+.2007_Mulyo Asri_34182
+.2002_Nyampir_34182
+18.07.18_Gunung Pelindung_34388
+.2001_Negeri Agung_34388
+.2005_Nibung_34388
+.2004_Pelindung Jaya_34388
+.2002_Pempen_34388
+.2003_Way Mili (Wai Mili)_34388
+18.07.03_Jabung_34384
+.2020_Adi Luhur (Adiluhur)_34384
+.2003_Adirejo_34384
+.2002_Asahan_34384
+.2015_Belimbing Sari_34384
+.2014_Betengsari (Benteng Sari)_34384
+.2004_Gunung Mekar_34384
+.2005_Gunung Sugih Kecil_34384
+.2007_Jabung_34384
+.2016_Mekar Jaya_34384
+.2018_Mumbang Jaya_34384
+.2001_Negara Batin_34384
+.2008_Negara Saka_34384
+.2006_Pematang Tahalo_34384
+.2021_Sambirejo (Sambi Rejo)_34384
+.2019_Tanjung Sari_34384
+18.07.02_Labuhan Maringgai_34198
+.2004_Bandar Negeri_34198
+.2010_Karang Anyar_34198
+.2005_Karya Makmur_34198
+.2006_Karya Tani (Karyatani)_34198
+.2001_Labuhan Maringgai (Labuhan Maringai)_34198
+.2007_Margasari_34198
+.2011_Maringgai_34198
+.2002_Muara Gading Mas_34198
+.2009_Srigading (Sri Gading)_34198
+.2003_Sriminosari (Sri Minosari)_34198
+.2008_Sukorahayu_34198
+18.07.21_Labuhan Ratu_34375
+.2001_Labuhan Ratu_34375
+.2010_Labuhan Ratu Delapan (VIII)_34375
+.2003_Labuhan Ratu Empat (IV)_34375
+.2005_Labuhan Ratu Enam (VI)_34375
+.2004_Labuhan Ratu Lima (V)_34375
+.2011_Labuhan Ratu Sembilan (IX)_34375
+.2002_Labuhan Ratu Tiga (III)_34375
+.2009_Labuhan Ratu Tujuh (VII)_34375
+.2006_Rajabasa Lama (Raja Basa Lama)_34375
+.2007_Rajabasa Lama I (Raja Basa Lama Satu / I)_34375
+.2008_Rajabasa Lama II (Raja Basa Lama Dua / II)_34375
+18.07.24_Marga Sekampung_34383
+.2002_Batu Badak_34383
+.2008_Bukit Raya_34383
+.2001_Bungkuk_34383
+.2005_Giri Mulyo_34383
+.2006_Gunung Mas_34383
+.2004_Gunung Raya_34383
+.2003_Peniangan_34383
+.2007_Purwosari_34383
+18.07.11_Marga Tiga (Margatiga)_34386
+.2007_Gedung Wani_34386
+.2012_Gedungwani Timur (Gedung Wani Timur)_34386
+.2008_Jaya Guna_34386
+.2010_Nabang Baru_34386
+.2004_Negeri Agung_34386
+.2005_Negeri Jemanten_34386
+.2003_Negeri Katon_34386
+.2002_Negeri Tua_34386
+.2009_Sukadana Baru_34386
+.2006_Sukaraja Tiga_34386
+.2011_Surya Mataram_34386
+.2001_Tanjung Harapan_34386
+.2013_Trisinar_34386
+18.07.16_Mataram Baru_34199
+.2007_Kebon Damar_34199
+.2006_Mandala Sari_34199
+.2001_Mataram Baru_34199
+.2002_Rajabasa Baru_34199
+.2003_Teluk Dalem_34199
+.2005_Tulung Pasik (Tulungpasik)_34199
+.2004_Way Areng (Wai Arang)_34199
+18.07.17_Melinting_34377
+.2005_Itik Renday (Rendai)_34377
+.2004_Sido Makmur (Sidomakmur)_34377
+.2006_Sumber Hadi (Sumberhadi)_34377
+.2002_Tanjung Aji_34377
+.2003_Tebing_34377
+.2001_Wana_34377
+18.07.10_Metro Kibang_34331|34335
+.2007_Jaya Asri_34331
+.2001_Kibang_34331
+.2002_Marga Jaya (Margo Jaya / Margajaya)_34335
+.2006_Margasari (Margo Sari)_34335
+.2003_Margototo (Margo Toto)_34335
+.2004_Purbosembodo (Purbo Sembodo)_34333
+.2005_Sumber Agung_34332
+18.07.19_Pasir Sakti_34387
+.2005_Kedung Ringin_34387
+.2006_Labuhan Ratu_34387
+.2008_Mekar Sari_34387
+.2002_Mulyo Sari_34387
+.2001_Pasir Sakti_34387
+.2003_Purworejo_34387
+.2004_Rejo Mulyo_34387
+.2007_Sumur Kucing_34387
+18.07.04_Pekalongan_34391
+.2012_Adijaya_34391
+.2002_Adirejo_34391
+.2008_Ganti Warno_34391
+.2011_Gantimulyo_34391
+.2004_Gondangrejo (Gondang Rejo)_34391
+.2007_Jojog_34391
+.2009_Kalibening (Kali Bening)_34391
+.2001_Pekalongan_34391
+.2003_Sidodadi_34391
+.2005_Siraman_34391
+.2006_Tulusrejo (Tulus Rejo)_34391
+.2010_Wonosari (Wono Sari)_34391
+18.07.08_Purbolinggo_34192
+.2002_Taman Asri_34192
+.2003_Taman Bogo_34192
+.2005_Taman Cari_34192
+.2006_Taman Endah_34192
+.2001_Taman Fajar (Taman Pajar)_34192
+.2004_Tambah Dadi_34192
+.2011_Tambah Luhur_34192
+.2009_Tanjung Inten_34192
+.2012_Tanjung Kesuma_34192
+.2007_Tegal Gondo_34192
+.2010_Tegal Yoso_34192
+.2008_Toto Harjo_34192
+18.07.09_Raman Utara_34371
+.2001_Kota Raman_34371
+.2011_Rama Puja_34371
+.2002_Raman Aji_34371
+.2007_Raman Endra_34371
+.2008_Raman Fajar_34371
+.2006_Rantau Fajar_34371
+.2004_Ratna Daya_34371
+.2005_Rejo Binangun_34371
+.2010_Rejo Katon_34371
+.2009_Restu Rahayu_34371
+.2003_Rukti Sedyo (Rukti Sudiyo)_34371
+18.07.05_Sekampung_34382
+.2005_Girikarto_34382
+.2009_Giriklopomulyo (Giri Klopo / Kelopo Mulyo)_34382
+.2006_Hargomulyo_34382
+.2015_Jadi Mulyo (Jadimulyo)_34382
+.2013_Karya Mukti_34382
+.2016_Mekar Mukti_34382
+.2014_Mekar Mulya/Mulyo_34382
+.2017_Mekar Sari_34382
+.2011_Sambikarto_34382
+.2010_Sidodadi_34382
+.2002_Sidomukti_34382
+.2003_Sidomulyo_34382
+.2008_Sukoharjo (Suko Harjo)_34382
+.2001_Sumber Gede_34382
+.2012_Sumber Sari (Sumbersari)_34382
+.2004_Trimulyo_34382
+.2007_Wonokarto_34382
+18.07.12_Sekampung Udik_34385
+.2004_Banjar Agung_34385
+.2008_Bauh Gunung Sari_34385
+.2005_Bojong_34385
+.2012_Brawijaya_34385
+.2014_Bumi Mulyo_34385
+.2006_Gunung Agung_34385
+.2013_Gunung Mulyo_34385
+.2009_Gunung Pasir Jaya_34385
+.2010_Gunung Sugih Besar_34385
+.2002_Mengandung Sari_34385
+.2001_Pugung Raharjo_34385
+.2015_Purwokencono (Purwo Kencono)_34385
+.2011_Sidorejo_34385
+.2007_Sindang Anom_34385
+.2003_Toba/Tuba_34385
+18.07.01_Sukadana_34194
+.2013_Bumi Ayu_34194
+.2003_Bumi Nabung Udik_34194
+.2007_Mataram Marga_34194
+.2011_Muara Jaya_34194
+.2005_Negara Nabung_34194
+.2002_Pakuan Aji_34194
+.2008_Pasar Sukadana_34194
+.2017_Putra Aji I (Putra Aji Satu)_34194
+.2016_Putra Aji II (Putra Aji Dua)_34194
+.2004_Rajabasa Batanghari (Raja Basa Batanghari)_34194
+.2010_Rantau Jaya Udik (Rantau Jaya Udik I)_34194
+.2015_Rantau Jaya Udik II_34194
+.2001_Sukadana_34194
+.2012_Sukadana Ilir_34194
+.2019_Sukadana Jaya_34194
+.2018_Sukadana Selatan_34194
+.2020_Sukadana Tengah_34194
+.2014_Sukadana Timur_34194
+.2009_Surabaya Udik_34194
+.2006_Terbangi Marga (Terbanggi Marga)_34194
+18.07.20_Waway Karya_34376
+.2005_Jembrana_34376
+.2010_Karang Anom_34376
+.2011_Karya Basuki_34376
+.2007_Marga Batin_34376
+.2008_Mekar Karya_34376
+.2002_Ngesti Karya_34376
+.2004_Sidorahayu (Sido Rahayu)_34376
+.2009_Sumber Jaya_34376
+.2001_Sumberejo (Sumber Rejo)_34376
+.2006_Tanjung Wangi_34376
+.2003_Tri Tunggal_34376
+18.07.23_Way Bungur_34373
+.2008_Kali Pasir_34373
+.2006_Taman Negeri_34373
+.2001_Tambah Subur_34373
+.2002_Tanjung Qencono (Tanjung Kencono)_34373
+.2003_Tanjung Tirto_34373
+.2007_Tegal Ombo_34373
+.2004_Toto Mulyo_34373
+.2005_Toto Projo_34373
+18.07.07_Way Jepara_34396
+.2011_Braja Asri_34396
+.2005_Braja Caka_34396
+.2004_Braja Dewa_34396
+.2003_Braja Emas_34396
+.2002_Braja Fajar_34396
+.2001_Braja Sakti_34396
+.2007_Jepara_34396
+.2016_Labuhan Ratu Baru_34396
+.2015_Labuhan Ratu Danau_34396
+.2010_Labuhan Ratu Dua (II)_34396
+.2012_Labuhan Ratu Satu (I)_34396
+.2008_Sri Rejosari_34396
+.2006_Sri Wangi_34396
+.2014_Sumber Marga_34396
+.2009_Sumberejo (Sumberjo)_34396
+.2013_Sumur Bandung_34396

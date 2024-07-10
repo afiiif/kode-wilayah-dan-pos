@@ -1,0 +1,97 @@
+74.13.02_Barangka_93650
+.2007_Barangka_93650
+.2006_Bungkolo_93650
+.2002_Lafinde_93650
+.2008_Lapolea_93650
+.2005_Sawerigadi_93650
+.2004_Walelei_93650
+.2003_Waulai_93650
+.2001_Wuna_93650
+74.13.10_Kusambi_93655
+.2010_Bakeramba_93655
+.2007_Guali_93655
+.2002_Kasakamu_93655
+.1008_Konawe_93655
+.2009_Kusambi_93655
+.2005_Lakawoghe_93655
+.2006_Lapokainse_93655
+.2001_Lemoambo_93655
+.2004_Sidamangura_93655
+.2003_Tanjung Pinang_93655
+74.13.03_Lawa_93651
+.2001_Lagadi_93651
+.2004_Lalemba_93651
+.1008_Lapadaku_93651
+.2003_Latompe_93651
+.2002_Latugho_93651
+.2005_Madampi_93651
+.1007_Wamelai_93651
+.2006_Watumela_93651
+74.13.06_Maginti_93643
+.2004_Abadi Jaya_93643
+.2007_Bangko_93643
+.2005_Gala_93643
+.2001_Kangkunawe_93643
+.2008_Kembar Maminasa_93643
+.2002_Maginti_93643
+.2003_Pajala_93643
+.2006_Pasipadanga_93643
+74.13.11_Napano Kusambi_93658
+.2004_Kombikuno_93658
+.2002_Lahaji_93658
+.2005_Latawe_93658
+.2001_Masara_93658
+.2006_Tangkumaho_93658
+.2003_Umba_93658
+74.13.01_Sawerigadi_93657
+.2003_Kampobalano_93657
+.2008_Lakalamba_93657
+.2009_Lawada Jaya_93657
+.2010_Lombu Jaya_93657
+.2004_Maperaha_93657
+.2006_Marobea_93657
+.2005_Nihi_93657
+.2007_Ondoke_93657
+.2001_Wakoila_93657
+.2002_Waukuni_93657
+74.13.09_Tiworo Kepulauan_93653
+.2001_Katela_93653
+.2002_Lasama_93653
+.2007_Laworo_93653
+.2003_Sido Makmur_93653
+.1005_Tiworo_93653
+.2009_Wandoke_93653
+.2006_Waturempe_93653
+.1004_Waumere_93653
+.2008_Wulanga Jaya_93653
+74.13.05_Tiworo Selatan_93644
+.2005_Barakkah (Barakka)_93644
+.2003_Kasimpa Jaya_93644
+.2002_Katangana_93644
+.2001_Parura Jaya_93644
+.2004_Sangia Tiworo_93644
+74.13.07_Tiworo Tengah_93654
+.2002_Labukolo_93654
+.2007_Lakabu_93654
+.2003_Langku Langku_93654
+.2004_Mekar Jaya_93654
+.2006_Momuntu_93654
+.2008_Suka Damai (Sukadamai)_93654
+.2001_Wanseriwu_93654
+.2005_Wapae Jaya_93654
+74.13.08_Tiworo Utara_93656
+.2003_Bero_93656
+.2002_Mandike_93656
+.2004_Santigi_93656
+.2006_Santiri_93656
+.2001_Tasipi_93656
+.2007_Tiga_93656
+.2005_Tondasi_93656
+74.13.04_Wadaga_93652
+.2007_Kampani_93652
+.2005_Katobu_93652
+.2001_Lailangga_93652
+.2004_Lakanaha_93652
+.2002_Lasosodo_93652
+.2006_Lindo_93652
+.2003_Wakontu_93652

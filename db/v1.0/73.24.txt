@@ -1,0 +1,139 @@
+73.24.05_Angkona_92985
+.2006_Balirejo_92985
+.2008_Lamaeto_92985
+.2007_Maliwowo_92985
+.2005_Mantadulu_92985
+.2003_Solo_92985
+.2002_Tampinna_92985
+.2004_Taripa_92985
+.2001_Tawakua_92985
+.2010_Wanasari_92985
+.2009_Watangpanua_92985
+73.24.07_Burau_92975
+.2016_Asana_92975
+.2011_Batu Putih_92975
+.2010_Benteng_92975
+.2006_Bonepute_92975
+.2001_Burau_92975
+.2015_Burau Pantai_92975
+.2014_Cendana_92975
+.2018_Harapan_92975
+.2002_Jalajja_92975
+.2017_Kalatiri_92975
+.2013_Lagego_92975
+.2004_Lambarese_92975
+.2012_Lanosi (Lagosi)_92975
+.2009_Laro_92975
+.2005_Lauwo_92975
+.2003_Lewonu_92975
+.2007_Lumbewe_92975
+.2008_Mabonta_92975
+73.24.10_Kalaena_92973
+.2005_Argomulyo_92973
+.2001_Kalaena Kiri_92973
+.2007_Mekar Sari_92973
+.2004_Non Blok_92973
+.2003_Pertasi Kencana_92973
+.2002_Sumber Agung_92973
+.2006_Sumber Makmur_92973
+73.24.04_Malili_92981
+.2011_Atue_92981
+.2010_Balantang_92981
+.2006_Baruga_92981
+.2001_Harapan_92981
+.2007_Lakawali_92981
+.2015_Lakawali Pantai_92981
+.2002_Laskap_92981
+.1003_Malili_92981
+.2004_Manurung_92981
+.2014_Pasipasi_92981
+.2012_Pongkeru_92981
+.2013_Puncuk Indah (Puncak Indah)_92981
+.2009_Tarabbi_92981
+.2008_Ussu_92981
+.2005_Wewang Riu (Wewangriu)_92981
+73.24.01_Mangkutana_92974
+.2011_Balai Kembang_92974
+.2009_Kasintuwu_92974
+.2016_Koroncia_92974
+.2001_Maleku_92974
+.2007_Manggala_92974
+.2003_Margolembo_92974
+.2013_Panca Karsa_92974
+.2014_Sindu Agung_92974
+.2004_Teromu_92974
+.2002_Wonorejo_92974
+.2015_Wonorejo Timur_92974
+73.24.02_Nuha_92983
+.1007_Magani_92983
+.2005_Matano_92983
+.2003_Nekkel (Nikkel)_92983
+.2001_Nuha_92983
+.2009_Sorowako (Soroako / Soroaku)_92983
+73.24.08_Tomoni_92972
+.2015_Bangun Jaya_92972
+.2019_Bangun Karya_92972
+.2001_Bayondo_92972
+.2012_Beringin Jaya_92972
+.2008_Kalpataru_92972
+.2007_Lestari_92972
+.2016_Mandiri_92972
+.2002_Mulyasri_92972
+.2020_Rante Mario_92972
+.2017_Sumber Alam_92972
+.2011_Tadulako_92972
+.1003_Tomoni_92972
+.2018_Ujung Baru_92972
+73.24.09_Tomoni Timur_92970
+.2007_Alam Buana_92970
+.2002_Cendana Hitam_92970
+.2008_Cendana Hitam Timur_92970
+.2001_Kertoraharjo (Kertaraharjo)_92970
+.2005_Manunggal_92970
+.2006_Margomulyo_92970
+.2004_Pattengko (Patengko)_92970
+.2003_Purwosari_92970
+73.24.03_Towuti_92982
+.2010_Asuli_92982
+.2011_Bantilang_92982
+.2007_Baruga_92982
+.2018_Buangin_92982
+.2017_Kalosi_92982
+.2005_Langkae Raya_92982
+.2016_Libukan Mandiri_92982
+.2009_Lioka_92982
+.2001_Loeha_92982
+.2002_Mahalona_92982
+.2012_Masiku_92982
+.2014_Matompi_92982
+.2008_Pekaloa_92982
+.2013_Rante Angin_92982
+.2003_Timampu_92982
+.2006_Tokalimbo_92982
+.2015_Tole_92982
+.2004_Wawondula_92982
+73.24.11_Wasuponda_92984
+.2006_Balambano_92984
+.2002_Kawata_92984
+.2001_Ledu-Ledu_92984
+.2005_Parumpanai_92984
+.2003_Tabarano_92984
+.2004_Wasuponda_92984
+73.24.06_Wotu_92971
+.2017_Arolipu_92971
+.2009_Bahari_92971
+.2012_Balo-Balo (Balobalo)_92971
+.2005_Bawalipu_92971
+.2004_Cendana Hijau_92971
+.2006_Kalaena_92971
+.2008_Kanawatu_92971
+.2010_Karambua (Korombua)_92971
+.2001_Lampenai_92971
+.2007_Lera_92971
+.2015_Madani_92971
+.2003_Maramba_92971
+.2011_Pepuro Barat_92971
+.2013_Rinjani_92971
+.2016_Tabaroge_92971
+.2002_Tarengge_92971
+.2014_Tarengge Timur_92971

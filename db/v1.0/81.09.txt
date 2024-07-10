@@ -1,0 +1,87 @@
+81.09.03_Ambalau_97546
+.2007_Elara_97546
+.2004_Kampung Baru_97546
+.2001_Lumoy_97546
+.2002_Masawoy_97546
+.2006_Selasi_97546
+.2005_Siwar_97546
+.2003_Ulima_97546
+81.09.06_Fena Fafan_97542
+.2011_Batu Karang_97542
+.2004_Fakal_97542
+.2002_Mangeswaen_97542
+.2001_Nusarua_97542
+.2008_Siwatlahin_97542
+.2009_Trukat_97542
+.2005_Uneth_97542
+.2003_Waekatin_97542
+.2010_Waeken_97542
+.2007_Waelo_97542
+.2006_Waeraman (Waereman)_97542
+81.09.04_Kepala Madan_97541
+.2009_Air Ternate_97541
+.2012_Bala-bala_97541
+.2001_Balpetu_97541
+.2013_Batu Layar_97541
+.2003_Biloro_97541
+.2015_Emguhen (Emhugen)_97541
+.2006_Fogi_97541
+.2004_Nanali_97541
+.2005_Pasir Putih_97541
+.2010_Sekat_97541
+.2014_Siopot_97541
+.2011_Waeha_97541
+.2016_Waehotong_97541
+.2002_Waekeka_97541
+.2007_Waepandan_97541
+.2008_Walbele_97541
+81.09.05_Leksula_97543
+.2005_Erwiri (Ewiri)_97543
+.2029_Grahwaen_97543
+.2010_Kase_97543
+.2008_Leksula_97543
+.2016_Liang_97543
+.2007_Mepa_97543
+.2009_Nalbessy_97543
+.2015_Neath_97543
+.2018_Slealale_97543
+.2030_Terkuri_97543
+.2006_Tifu_97543
+.2003_Waehaka_97543
+.2004_Waemala_97543
+.2001_Waemulang_97543
+.2026_Waenamaolon_97543
+.2002_Waeturen_97543
+.2025_Waewali (Wewali)_97543
+.2024_Wahaolon_97543
+.2023_Walunhelat (Walunghelat)_97543
+81.09.01_Namrole_97544
+.2017_Batu Tulis_97544
+.2005_Elfule_97544
+.2004_Fatmite_97544
+.2013_Kamlanglale_97544
+.2009_Labuang_97544
+.2003_Lektama_97544
+.2006_Leku_97544
+.2012_Masnana_97544
+.2015_Namrinat_97544
+.2007_Oki Baru_97544
+.2008_Oki Lama_97544
+.2011_Tikbary_97544
+.2016_Waefusi_97544
+.2002_Waenalut_97544
+.2014_Waenono_97544
+.2010_Wali_97544
+.2001_Wamkana_97544
+81.09.02_Waesama_97545
+.2011_Batu Kasa_97545
+.2009_Hote_97545
+.2003_Lena_97545
+.2007_Pohon Batu_97545
+.2004_Simi_97545
+.2005_Waelikut_97545
+.2010_Waemasing_97545
+.2002_Waesili_97545
+.2001_Waetawa_97545
+.2008_Waeteba (Waetaba)_97545
+.2006_Wamsisi_97545

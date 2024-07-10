@@ -1,0 +1,47 @@
+51.71.03_Denpasar Barat_80112|80119
+.1005_Dauh Puri_80113
+.2006_Dauh Puri Kangin_80112
+.2003_Dauh Puri Kauh_80113
+.2004_Dauh Puri Klod/Kelod_80114
+.2011_Padang Sambian Kaja (Padangsambian Kaja)_80117
+.1010_Padangsambian_80117
+.2001_Padangsambian Klod/Kelod_80117
+.1007_Pemecutan_80119
+.2002_Pemecutan Klod/Kelod_80119
+.2008_Tegal Harum_80119
+.2009_Tegal Kertha_80119
+51.71.01_Denpasar Selatan_80221|80229
+.1004_Panjer_80225
+.1002_Pedungan_80222
+.2008_Pemogan_80221
+.1005_Renon_80226
+.1006_Sanur_80228
+.2009_Sanur Kaja_80227
+.2010_Sanur Kauh_80227
+.1001_Serangan_80229
+.1003_Sesetan_80223
+.2007_Sidakarya_80224
+51.71.02_Denpasar Timur_80232|80239
+.1010_Dangin Puri_80232
+.2001_Dangin Puri Kelod (Dangin Puri Klod)_80234
+.1003_Kesiman_80237
+.2005_Kesiman Kertalangu_80237
+.2004_Kesiman Petilan_80237
+.1014_Penatih_80238
+.2015_Penatih Dangin Puri_80238
+.1006_Sumerta_80235
+.2007_Sumerta Kaja_80236
+.2008_Sumerta Kauh_80236
+.2002_Sumerta Kelod/Klod_80239
+51.71.04_Denpasar Utara_80111|80239
+.2003_Dangin Puri Kaja_80231
+.2001_Dangin Puri Kangin_80233
+.2002_Dangin Puri Kauh_80231
+.2006_Dauh Puri Kaja_80111
+.1009_Peguyangan_80115
+.2010_Peguyangan Kaja_80115
+.2011_Peguyangan Kangin_80115
+.2005_Pemecutan Kaja_80118
+.1004_Tonja_80239
+.1007_Ubung_80116
+.2008_Ubung Kaja_80116

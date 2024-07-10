@@ -1,0 +1,49 @@
+35.71.02_Kota (Kediri Kota)_64121|64129
+.1002_Balowerti_64129
+.1012_Banjaran_64124
+.1003_Dandangan_64122
+.1011_Jagalan_64125
+.1013_Kaliombo_64126
+.1005_Kampung Dalem_64126
+.1010_Kemasan_64125
+.1015_Manisrenggo_64128
+.1004_Ngadirejo_64122
+.1014_Ngronggo_64127
+.1008_Pakelan_64123
+.1016_Pocanan_64123
+.1017_Rejomulyo_64129
+.1007_Ringinanom (Ringin Anom)_64129
+.1001_Semampir_64121
+.1009_Setonogedong (Setono Gedong)_64129
+.1006_Setonopande (Setono Pande)_64129
+35.71.01_Mojoroto_64111|64119
+.1002_Bandar Kidul_64118
+.1001_Bandar Lor_64114
+.1003_Banjar Mlati (Banjar Melati / Banjarmlati)_64119
+.1006_Bujel_64119
+.1012_Campurejo_64116
+.1009_Dermo_64111
+.1007_Gayam_64113
+.1013_Lirboyo_64117
+.1011_Mojoroto_64112
+.1008_Mrican_64111
+.1010_Ngampel_64112
+.1004_Pojok_64115
+.1005_Sukorame_64114
+.1014_Tamanan_64116
+35.71.03_Pesantren_64131|64139
+.1014_Banaran_64133
+.1001_Bangsal_64131
+.1009_Bawang_64136
+.1007_Betet_64134
+.1006_Blabak_64135
+.1015_Burengan_64131
+.1004_Jamsaren_64132
+.1012_Ketami_64139
+.1010_Ngletih_64137
+.1002_Pakunden_64132
+.1013_Pesantren_64131
+.1005_Singonegaran_64132
+.1011_Tampurejo (Tempurejo)_64138
+.1008_Tinalan_64132
+.1003_Tosaren_64133

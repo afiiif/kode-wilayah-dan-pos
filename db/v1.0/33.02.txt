@@ -1,0 +1,358 @@
+33.02.14_Ajibarang_53163
+.2011_Ajibarang Kulon_53163
+.2012_Ajibarang Wetan_53163
+.2005_Banjarsari (Banjarsari Kidul)_53163
+.2015_Ciberung_53163
+.2001_Darmakradenan_53163
+.2004_Jingkang_53163
+.2006_Kalibenda_53163
+.2009_Karangbawang_53163
+.2010_Kracak_53163
+.2013_Lesmana_53163
+.2008_Pancasan_53163
+.2007_Pancurendang_53163
+.2014_Pandansari_53163
+.2003_Sawangan_53163
+.2002_Tipar (Tipar Kidul)_53163
+33.02.11_Banyumas_53192
+.2001_Binangun_53192
+.2006_Danaraja_53192
+.2011_Dawuhan_53192
+.2010_Kalisube_53192
+.2004_Karangrau_53192
+.2003_Kedunggede_53192
+.2007_Kedunguter_53192
+.2005_Kejawar_53192
+.2012_Papringan_53192
+.2002_Pasinggangan_53192
+.2009_Pekunden_53192
+.2008_Sudagaran_53192
+33.02.22_Baturraden (Baturaden)_53126|53151
+.2007_Karang Tengah (Karangtengah)_53151
+.2011_Karangmangu_53151
+.2009_Karangsalam Lor_53151
+.2006_Kebumen_53151
+.2008_Kemutug Kidul_53151
+.2010_Kemutug Lor_53151
+.2012_Ketenger_53151
+.2002_Kutasari_53151
+.2004_Pamijen_53151
+.2003_Pandak_53151
+.2001_Purwosari_53126
+.2005_Rempoah_53151
+33.02.17_Cilongok_53162
+.2008_Batuanten_53162
+.2012_Cikidang_53162
+.2010_Cilongok_53162
+.2009_Cipete_53162
+.2019_Gununglurah_53162
+.2002_Jatisaba_53162
+.2014_Kalisari_53162
+.2013_Karanglo_53162
+.2015_Karangtengah_53162
+.2003_Kasegeran_53162
+.2005_Langgongsari_53162
+.2006_Pageraji_53162
+.2016_Panembangan_53162
+.2001_Panusupan_53162
+.2004_Pejogol_53162
+.2011_Pernasidi_53162
+.2017_Rancamaya_53162
+.2018_Sambirata_53162
+.2020_Sokawera_53162
+.2007_Sudimara_53162
+33.02.15_Gumelar_53165
+.2003_Cihonje_53165
+.2007_Cilangkap_53165
+.2004_Gancang_53165
+.2006_Gumelar_53165
+.2001_Karangkemojing_53165
+.2005_Kedungurang_53165
+.2002_Paningkaban_53165
+.2009_Samudra_53165
+.2010_Samudra Kulon_53165
+.2008_Tlaga_53165
+33.02.03_Jatilawang_53174
+.2006_Adisara_53174
+.2008_Bantar_53174
+.2011_Gentawangi_53174
+.2001_Gunung Wetan_53174
+.2004_Karanganyar_53174
+.2003_Karanglewas_53174
+.2007_Kedungwringin_53174
+.2005_Margasana_53174
+.2002_Pekuncen_53174
+.2009_Tinggarjaya_53174
+.2010_Tunjung (Tanjung)_53174
+33.02.10_Kalibagor_53191
+.2007_Kalibagor_53191
+.2010_Kalicupak Kidul (Kalipucak Kidul)_53191
+.2011_Kalicupak Lor (Kalipucak Lor)_53191
+.2003_Kaliori_53191
+.2012_Kalisogra Wetan_53191
+.2006_Karangdadap_53191
+.2008_Pajerukan (Pejerukan)_53191
+.2005_Pekaja_53191
+.2009_Petir_53191
+.2001_Srowot_53191
+.2002_Suro_53191
+.2004_Wlahar Wetan_53191
+33.02.18_Karanglewas_53161
+.2012_Babakan_53161
+.2009_Jipang_53161
+.2010_Karanggude (Karanggude Kulon)_53161
+.2005_Karangkemiri_53161
+.2004_Karanglewas Kidul_53161
+.2001_Kediri_53161
+.2002_Pangebatan (Pengebatan)_53161
+.2008_Pasir Kulon_53161
+.2007_Pasir Lor_53161
+.2006_Pasir Wetan_53161
+.2011_Singasari_53161
+.2013_Sunyalangu_53161
+.2003_Tamansari_53161
+33.02.05_Kebasen_53172
+.2001_Adisana_53172
+.2002_Bangsa_53172
+.2008_Cindaga_53172
+.2010_Gambarsari_53172
+.2007_Kalisalak_53172
+.2005_Kaliwedi_53172
+.2003_Karangsari_53172
+.2009_Kebasen_53172
+.2012_Mandirancan_53172
+.2004_Randegan_53172
+.2006_Sawangan_53172
+.2011_Tumiyang_53172
+33.02.23_Kedungbanteng (Kedung Banteng)_53152
+.2009_Baseh_53152
+.2004_Beji_53152
+.2008_Dawuhan Kulon_53152
+.2007_Dawuhan Wetan_53152
+.2012_Kalikesur_53152
+.2010_Kalisalak_53152
+.2005_Karangnangka_53152
+.2001_Karangsalam Kidul_53152
+.2002_Kebocoran_53152
+.2003_Kedungbanteng_53152
+.2006_Keniten_53152
+.2013_Kutaliman_53152
+.2014_Melung_53152
+.2011_Windujaya_53152
+33.02.20_Kembaran_53182
+.2014_Bantarwuni_53182
+.2010_Bojongsari_53182
+.2012_Dukuhwaluh_53182
+.2004_Karang Tengah (Karangtengah)_53182
+.2015_Karangsari_53182
+.2011_Karangsoka_53182
+.2009_Kembaran_53182
+.2005_Kramat_53182
+.2001_Ledug_53182
+.2016_Linggasari_53182
+.2002_Pliken_53182
+.2008_Purbadana_53182
+.2003_Purwodadi_53182
+.2007_Sambeng Kulon_53182
+.2006_Sambeng Wetan_53182
+.2013_Tambaksari Kidul_53182
+33.02.06_Kemranjen_53194
+.2012_Alasmalang_53194
+.2001_Grujugan_53194
+.2014_Karanggintung_53194
+.2008_Karangjati_53194
+.2015_Karangsalam_53194
+.2009_Kebarongan_53194
+.2006_Kecila_53194
+.2005_Kedungpring_53194
+.2007_Nusamangir_53194
+.2011_Pageralang_53194
+.2013_Petarangan_53194
+.2003_Sibalung_53194
+.2004_Sibrama_53194
+.2010_Sidamulya_53194
+.2002_Sirau_53194
+33.02.01_Lumbir_53177
+.2004_Besuki_53177
+.2002_Canduk_53177
+.2006_Cidora_53177
+.2010_Cingebul_53177
+.2001_Cirahab_53177
+.2008_Dermaji_53177
+.2005_Karanggayam_53177
+.2009_Kedunggede_53177
+.2007_Lumbir_53177
+.2003_Parungkamal_53177
+33.02.12_Patikraja_53171
+.2011_Karanganyar_53171
+.2006_Karangendep_53171
+.2009_Kedungrandu_53171
+.2013_Kedungwringin_53171
+.2008_Kedungwuluh Kidul_53171
+.2010_Kedungwuluh Lor_53171
+.2005_Notog_53171
+.2004_Patikraja_53171
+.2003_Pegalongan_53171
+.2007_Sawangan Wetan_53171
+.2012_Sidabowa_53171
+.2002_Sokawera (Sokawera Kidul)_53171
+.2001_Wlahar Kulon_53171
+33.02.16_Pekuncen_53164
+.2008_Banjaranyar_53164
+.2002_Candinegara_53164
+.2005_Cibangkong_53164
+.2004_Cikawung_53164
+.2001_Cikembulan_53164
+.2012_Glempang_53164
+.2014_Karangkemiri_53164
+.2003_Karangklesem_53164
+.2016_Krajan_53164
+.2015_Kranggan_53164
+.2010_Pasiraman Kidul_53164
+.2009_Pasiraman Lor_53164
+.2013_Pekuncen_53164
+.2006_Petahunan_53164
+.2007_Semedo_53164
+.2011_Tumiyang_53164
+33.02.13_Purwojati_53175
+.2001_Gerduren_53175
+.2008_Kaliputih_53175
+.2010_Kalitapen_53175
+.2003_Kaliurip_53175
+.2009_Kaliwangi_53175
+.2007_Karangmangu_53175
+.2002_Karangtalun Kidul_53175
+.2004_Karangtalun Lor_53175
+.2006_Klapasawit_53175
+.2005_Purwojati_53175
+33.02.25_Purwokerto Barat_53131|53137
+.1005_Bantarsoka_53133
+.1001_Karanglewas Lor_53136
+.1007_Kedungwuluh_53131
+.1006_Kober_53132
+.1002_Pasir Kidul_53135
+.1004_Pasirmuncang_53137
+.1003_Rejasari_53134
+33.02.24_Purwokerto Selatan_53141|53147
+.1003_Berkoh_53146
+.1001_Karangklesem (Karang Klesem)_53144
+.1006_Karangpucung (Karang Pucung)_53142
+.1004_Purwokerto Kidul_53147
+.1005_Purwokerto Kulon_53141
+.1007_Tanjung_53144
+.1002_Teluk_53145
+33.02.26_Purwokerto Timur_53111|53116
+.1006_Arcawinangun_53113
+.1002_Kranji_53116
+.1005_Mersi_53112
+.1003_Purwokerto Lor_53114
+.1004_Purwokerto Wetan_53111
+.1001_Sokanegara_53115
+33.02.27_Purwokerto Utara_53121|53127
+.1002_Bancarkembar_53121
+.1007_Bobosan_53127
+.1005_Grendeng_53122
+.1006_Karangwangkal_53123
+.1004_Pabuaran_53124
+.1001_Purwanegara_53127
+.1003_Sumampir_53125
+33.02.04_Rawalo_53173
+.2003_Banjarparakan_53173
+.2001_Losari_53173
+.2002_Menganti_53173
+.2007_Pesawahan_53173
+.2004_Rawalo_53173
+.2009_Sanggreman_53173
+.2006_Sidamulih_53173
+.2005_Tambaknegara_53173
+.2008_Tipar_53173
+33.02.19_Sokaraja_53181
+.2010_Banjaranyar_53181
+.2007_Banjarsari Kidul_53181
+.2009_Jompo Kulon_53181
+.2001_Kalikidang_53181
+.2012_Karangduren_53181
+.2003_Karangkedawung_53181
+.2017_Karangnanas_53181
+.2018_Karangrau_53181
+.2014_Kedondong_53181
+.2006_Klahang_53181
+.2011_Lemberang_53181
+.2015_Pamijen_53181
+.2005_Sokaraja Kidul_53181
+.2016_Sokaraja Kulon_53181
+.2013_Sokaraja Lor_53181
+.2004_Sokaraja Tengah_53181
+.2008_Sokaraja Wetan_53181
+.2002_Wiradadi_53181
+33.02.09_Somagede_53193
+.2007_Kanding_53193
+.2005_Kemawi_53193
+.2004_Klinting_53193
+.2006_Piasa Kulon_53193
+.2009_Plana_53193
+.2002_Sokawera_53193
+.2003_Somagede_53193
+.2008_Somakaton_53193
+.2001_Tanggeran_53193
+33.02.21_Sumbang_53183
+.2010_Banjarsari Kulon_53183
+.2011_Banjarsari Wetan_53183
+.2012_Banteran_53183
+.2013_Ciberem_53183
+.2009_Datar_53183
+.2016_Gandatapa_53183
+.2003_Karangcegak_53183
+.2008_Karanggintung_53183
+.2002_Karangturi_53183
+.2007_Kawungcarang_53183
+.2006_Kebanggan_53183
+.2019_Kedungmalang (Kedung Malang)_53183
+.2017_Kotayasa_53183
+.2018_Limpakuwus_53183
+.2015_Sikapat_53183
+.2001_Silado_53183
+.2004_Sumbang_53183
+.2014_Susukan_53183
+.2005_Tambaksogra_53183
+33.02.07_Sumpiuh_53195
+.2010_Banjarpanepen_53195
+.2009_Bogangin_53195
+.2003_Karanggedang_53195
+.1012_Kebokura_53195
+.2004_Kemiri_53195
+.2011_Ketanda_53195
+.1014_Kradenan_53195
+.2006_Kuntili_53195
+.2007_Lebeng_53195
+.2001_Nusadadi_53195
+.2005_Pandak_53195
+.2002_Selandaka_53195
+.2008_Selanegara_53195
+.1013_Sumpiuh_53195
+33.02.08_Tambak_53196
+.2007_Buniayu_53196
+.2005_Gebangsari_53196
+.2003_Gumelar Kidul_53196
+.2002_Gumelar Lor_53196
+.2010_Kamulyan_53196
+.2004_Karangpetir_53196
+.2009_Karangpucung_53196
+.2008_Pesantren_53196
+.2001_Plangkapan_53196
+.2006_Prembun_53196
+.2011_Purwodadi_53196
+.2012_Watuagung_53196
+33.02.02_Wangon_53176
+.2006_Banteran_53176
+.2009_Cikakak_53176
+.2007_Jambu_53176
+.2008_Jurangbahas_53176
+.2004_Klapagading_53176
+.2012_Klapagading Kulon_53176
+.2003_Pengadegan (Pangadegan)_53176
+.2001_Randegan_53176
+.2002_Rawaheng_53176
+.2005_Wangon_53176
+.2011_Windunegara_53176
+.2010_Wlahar_53176

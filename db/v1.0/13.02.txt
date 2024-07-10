@@ -1,0 +1,88 @@
+13.02.08_Bukit Sundi_27381
+.2003_Bukit Tandang_27381
+.2005_Dilam_27381
+.2002_Kinari_27381
+.2001_Muaro Paneh_27381
+.2004_Parambahan_27381
+13.02.19_Danau Kembar_27383
+.2002_Kampung Batu Dalam_27383
+.2001_Simpang Tanjuang Nan Ampek/IV_27383
+13.02.07_Gunung Talang_27365
+.2007_Aie Batumbuak (Aia Batumbuak)_27365
+.2006_Batang Barus_27365
+.2001_Cupak_27365
+.2004_Jawi Jawi_27365
+.2003_Koto Gadang Guguak_27365
+.2008_Koto Gaek Guguk_27365
+.2005_Sungai Janiah_27365
+.2002_Talang_27365
+13.02.17_Hiliran Gumanti_27372
+.2002_Sariak Alahan Tigo (Sarik Alahan Tigo)_27372
+.2003_Sungai Abu_27372
+.2001_Talang Babungo_27372
+13.02.09_IX Koto Sungai Lasi_27388
+.2005_Bukik Bais (Bukit Bais)_27388
+.2007_Guguak Sarai (Guguk Sarai)_27388
+.2009_Indudur_27388
+.2008_Koto Laweh_27388
+.2003_Pianggu_27388
+.2002_Siaro Aro_27388
+.2004_Sungai Durian_27388
+.2006_Sungai Jambur_27388
+.2001_Taruang Taruang_27388
+13.02.13_Junjung Sirih_27389
+.2002_Muaro Pingai_27389
+.2001_Paninggahan_27389
+13.02.10_Kubung_27361
+.2005_Gantuang Ciri_27361
+.2004_Gaung_27361
+.2001_Koto Baru_27361
+.2007_Koto Hilalang_27361
+.2003_Panyakalan_27361
+.2006_Saok Laweh_27361
+.2002_Selayo_27361
+.2008_Tanjung Bingkung_27361
+13.02.04_Lembah Gumanti_27371
+.2004_Aie Dingin (Aia Dingin)_27371
+.2001_Alahan Panjang_27371
+.2003_Salimpat_27371
+.2002_Sungai Nanam_27371
+13.02.06_Lembang Jaya_27384
+.2002_Batu Bajanjang_27384
+.2001_Batu Banyak_27384
+.2005_Koto Gadang Koto Anau (Koto Anau)_27384
+.2003_Koto Laweh_27384
+.2004_Limau Lunggo_27384
+.2006_Selayo Tanang B. Sileh (Salayo)_27384
+13.02.03_Pantai Cermin_27373
+.2001_Lolo_27373
+.2002_Surian_27373
+13.02.05_Payung Sekaki_27387
+.2003_Aie Luo (Aia Luo)_27387
+.2002_Sirukam_27387
+.2001_Supayang_27387
+13.02.18_Tigo Lurah_27374
+.2002_Batu Bajanjang (Batu Banjajang)_27374
+.2003_Garabak Data_27374
+.2001_Rangkiang Luluih_27374
+.2005_Simanau_27374
+.2004_Tanjung Balik Sumiso_27374
+13.02.12_X Koto Diatas_27355
+.2007_Bukit Kanduang_27355
+.2005_Katialo_27355
+.2004_Kuncir_27355
+.2009_Labuh Panjang_27355
+.2003_Paninjauan_27355
+.2006_Pasilihan_27355
+.2008_Sibarambang_27355
+.2001_Sulit Air_27355
+.2002_Tanjung Balik_27355
+13.02.11_X Koto Singkarak_27356
+.2005_Aripan_27356
+.2006_Kacang_27356
+.2003_Koto Sani_27356
+.2008_Saniangbaka (Saning Baka)_27356
+.2004_Singkarak_27356
+.2001_Sumani_27356
+.2007_Tanjung Alai_27356
+.2002_Tikalak_27356

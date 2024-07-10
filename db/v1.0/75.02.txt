@@ -1,0 +1,89 @@
+75.02.06_Botumoito (Botumoita)_96264
+.2007_Bolihutuo_96264
+.2006_Botumoito_96264
+.2009_Dulangea (Dulangeya)_96264
+.2002_Hutamonu_96264
+.2003_Patoameme_96264
+.2005_Potanga_96264
+.2008_Rumbia_96264
+.2004_Tapadaa_96264
+.2001_Tutulo_96264
+75.02.03_Dulupi_96267
+.2001_Dulupi_96267
+.2003_Kotaraja_96267
+.2005_Pangi_96267
+.2004_Polohungo_96267
+.2002_Tabongo_96267
+.2007_Tanah Putih_96267
+.2008_Tangga Barito_96267
+.2006_Tangga Jaya_96267
+75.02.05_Mananggu_96265
+.2004_Bendungan_96265
+.2006_Buti_96265
+.2002_Kaaruyan_96265
+.2008_Kramat (Keramat)_96265
+.2005_Mananggu_96265
+.2007_Pontolo_96265
+.2003_Salilama_96265
+.2001_Tabulo_96265
+.2009_Tabulo Selatan_96265
+75.02.01_Paguyaman_96260
+.2025_Balate Jaya_96260
+.2020_Batu Kramat_96260
+.2005_Bongo IV_96260
+.2004_Bongo Nol_96260
+.2011_Bongo Tua_96260
+.2021_Bualo_96260
+.2027_Diloato_96260
+.2019_Girisa_96260
+.2024_Hulawa_96260
+.2015_Huwongo_96260
+.2016_Karya Murni_96260
+.2012_Kuala Lumpur (Kualalumpur)_96260
+.2006_Molombulahe_96260
+.2013_Mustika_96260
+.2007_Mutiara_96260
+.2023_Permata_96260
+.2026_Rejonegoro_96260
+.2008_Saripi_96260
+.2022_Sosial_96260
+.2010_Tangkobu_96260
+.2014_Tenilo_96260
+.2009_Wonggahu_96260
+75.02.07_Paguyaman Pantai_96261
+.2005_Apitalawu (Apitalawo)_96261
+.2006_Bangga_96261
+.2001_Bubaa_96261
+.2004_Bukit Karya_96261
+.2003_Limbatihu_96261
+.2002_Lito_96261
+.2008_Olibu_96261
+.2007_Towayu_96261
+75.02.04_Tilamuta_96263
+.2003_Ayuhulalo_96263
+.2008_Bajo_96263
+.2004_Hungayonaa_96263
+.2010_Lahumbo_96263
+.2011_Lamu_96263
+.2001_Limbato_96263
+.2005_Modelomo_96263
+.2009_Mohungo_96263
+.2006_Pentadu Barat_96263
+.2007_Pentadu Timur_96263
+.2002_Piloliyanga_96263
+.2018_Tenilo_96263
+75.02.02_Wonosari_96262
+.2002_Bongo II (Bongo Dua)_96262
+.2003_Bongo III (Bongo Tiga)_96262
+.2010_Dimito_96262
+.2014_Dulohupa_96262
+.2001_Harapan_96262
+.2007_Jatimulya_96262
+.2004_Mekarjaya (Mekar Jaya)_96262
+.2006_Pangeya_96262
+.2012_Raharja_96262
+.2009_Sari Tani_96262
+.2008_Suka Mulya (Sukamulya)_96262
+.2005_Sukamaju_96262
+.2011_Tanjung Harapan_96262
+.2013_Trirukun (Tri Rukun)_96262

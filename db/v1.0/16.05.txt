@@ -1,0 +1,213 @@
+16.05.14_BTS Ulu_31652
+.1017_Bangun Jaya_31652
+.2002_Gunung Kembang Baru_31652
+.2003_Gunung Kembang Lama_31652
+.2001_Kembang Tanjung_31652
+.2015_Kota Baru_31652
+.2010_Lubuk Pauh_31652
+.2018_Mekar Jaya_31652
+.2012_Mulyo Harjo_31652
+.2006_Pangkalan Tarum Lama_31652
+.2009_Pelawe_31652
+.2014_Raksa Budi_31652
+.2007_Sadu_31652
+.2019_Sembatu Jaya (Sembatu Jaya Spi)_31652
+.2013_Suka Makmur_31652
+.2004_Sungai Bunut_31652
+.2005_Sungai Naik_31652
+.2008_Tambangan_31652
+.2011_Tri Jaya (Trijaya)_31652
+.2016_Trimukti_31652
+16.05.08_Jayaloka (Jaya Loka)_31665
+.2004_Bumi Rejo_31665
+.2012_Dono Rejo_31665
+.2001_Giri Yoso (Giriyoso)_31665
+.2002_Kertosono_31665
+.2007_Marga Tani (Margatani)_31665
+.1006_Marga Tunggal (Margatunggal)_31665
+.2003_Margoyoso_31665
+.2015_Ngesti Boga I (Ngestiboga I)_31665
+.2016_Ngesti Boga II (Ngestiboga II)_31665
+.2020_Ngestikarya_31665
+.2010_Purwodadi_31665
+.2005_Sidodadi_31665
+.2008_Sukowono_31665
+16.05.12_Megang Sakti_31657
+.2010_Campur Sari_31657
+.2006_Jajaran Baru_31657
+.2018_Jajaran Baru II_31657
+.2015_Karya Mulia_31657
+.2012_Marga Puspita_31657
+.1001_Megang Sakti I_31657
+.2003_Megang Sakti II_31657
+.2004_Megang Sakti III_31657
+.2005_Megang Sakti IV_31657
+.2013_Megang Sakti V_31657
+.2009_Mekar Sari (Mekarsari)_31657
+.2002_Muara Megang_31657
+.2019_Muara Megang I_31657
+.2020_Mulyo Sari_31657
+.2014_Pagar Ayu_31657
+.2008_Rejo Sari (Rejosari)_31657
+.2007_Sumber Rejo_31657
+.1021_Talang Ubi_31657
+.2011_Tegal Sari_31657
+.2017_Trisakti_31657
+.2016_Wonosari_31657
+16.05.09_Muara Beliti_31661
+.2020_Air Lesing_31661
+.2017_Air Satan_31661
+.2005_Bumi Agung_31661
+.2018_Durian Remuk_31661
+.2016_Ketuan Jaya_31661
+.2004_Mana Resmi_31661
+.2002_Muara Beliti Baru_31661
+.1003_Pasar Muara Beliti_31661
+.2001_Pedang (Dusun Pedang)_31661
+.2019_Satan Indah Jaya_31661
+.2014_Suro (Dusun Suro)_31661
+.2015_Tanah Periuk (Tanah Periuk I)_31661
+16.05.03_Muara Kelingi_31663
+.2024_Beliti Jaya_31663
+.2016_Bingin Janggut_31663
+.2001_Binjai_31663
+.2023_Karya Mukti_31663
+.2021_Karya Sakti_31663
+.2026_Karya Teladan_31663
+.2031_Lubuk Muda_31663
+.2014_Lubuk Tua_31663
+.2015_Mambang_31663
+.2012_Mandi Aur_31663
+.2030_Mangan Jaya_31663
+.2019_Marga Sakti_31663
+.2029_Mekar Sari_31663
+.1013_Muara Kelingi_31663
+.2022_Petrans Jaya_31663
+.2002_Pulau Panggung_31663
+.2032_Sukamenang_31663
+.2003_Tanjung Lama_31663
+.2028_Temuan Jaya_31663
+.2027_Temuan Sari_31663
+.2017_Tugu Sempurna_31663
+16.05.02_Muara Lakitan_31666
+.2003_Anyar_31666
+.2014_Bumi Makmur (Bumi Makmur Jaya)_31666
+.2016_Harapan Makmur_31666
+.2009_Lubuk Pandan_31666
+.2012_Marga Baru_31666
+.1019_Muara Lakitan_31666
+.2004_Muara Rengas_31666
+.2015_Mukti Karya_31666
+.2010_Pelita Jaya_31666
+.2013_Pendingan_31666
+.2017_Pian Raya (Pian Jaya)_31666
+.2008_Prabumulih I_31666
+.2007_Prabumulih II_31666
+.2020_Semanggus Baru (Semangus Baru)_31666
+.2002_Semangus_31666
+.2006_Semeteh_31666
+.2011_Sidomulyo (Sido Mulyo)_31666
+.2018_Sindang Laya (Sindang Jaya)_31666
+.2005_Sungai Pinang_31666
+.2001_Tri Anggun Jaya (Tri Anggunjaya)_31666
+16.05.13_Purwodadi_31668
+.2001_Bangun Sari_31668
+.2006_Karya Dadi (Karyadadi)_31668
+.2002_Kerto Sari (Kertosari)_31668
+.1007_Mangun Harjo_31668
+.2004_Mardi Harjo (Mardiharjo)_31668
+.2003_Pagar Sari (Pagarsari)_31668
+.2010_Purwakarya (Purwa Karya)_31668
+.1005_Purwodadi_31668
+.2008_Rejo Sari (Rejosari)_31668
+.2009_Sadar Karya_31668
+.2011_Tri Karya (Trikarya)_31668
+16.05.11_Selangit_31625
+.2006_Batu Gane_31625
+.2007_Karang Panggung_31625
+.2002_Lubuk Ngin_31625
+.2012_Lubuk Ngin Baru_31625
+.2008_Muara Nilau_31625
+.2003_Napal Melintang_31625
+.2009_Prabu/Perabu Menang_31625
+.1001_Selangit_31625
+.2011_Taba Gindo_31625
+.2005_Taba Remanik_31625
+.2010_Taba Rena (Taba Renah)_31625
+.2004_Taba Tengah_31625
+16.05.10_STL Ulu Terawas (Suku Tengah Lakitan Ulu Terawas)_30771
+.2016_Babat_30771
+.2021_Kosgoro_30771
+.2015_Paduraksa_30771
+.2018_Pasenan_30771
+.2011_Sri Mulyo_30771
+.2003_Suka Karya (Sukakarya)_30771
+.2020_Sukamana_30771
+.2014_Sukamerindu_30771
+.2019_Sukaraya_30771
+.2022_Sukaraya Baru_30771
+.2002_Suko Rejo (Sukarejo)_30771
+.2001_Sumber Karya_30771
+.1017_Terawas_30771
+16.05.21_Suka Karya (Sukakarya)_31665
+.2003_Bangun Rejo_31665
+.2004_Ciptodadi_31665
+.2008_Ciptodadi II_31665
+.2007_Rantau Alih_31665
+.2002_Sugih Waras_31665
+.2005_Sukarena_31665
+.2001_Sukowarno_31665
+.2006_Yudha Karya Bakti (Yudha Karya Bhakti)_31665
+16.05.19_Sumber Harta_30772
+.2004_Jamburejo_30772
+.2008_Madang_30772
+.2006_Suka Mulya (Sukamulya)_30772
+.2007_Sukajaya_30772
+.2003_Sukamaju_30772
+.2009_Sukarami Jaya_30772
+.2010_Sumber Asri_30772
+.1002_Sumber Harta_30772
+.2001_Sumber Jaya_30772
+.2005_Sumber Sari_30772
+16.05.18_Tiang Pumpung Kepungut_31660
+.2002_Batu Bandung_31660
+.2008_Kebur_31660
+.2010_Kebur Jaya_31660
+.2001_Lubuk Besar_31660
+.2006_Muara Kati Baru I_31660
+.2007_Muara Kati Baru II_31660
+.2005_Muara Kati Lama_31660
+.2003_Rantau Bingin_31660
+.2004_Rantau Serik_31660
+.2009_Simpang Gegas Temuan_31660
+16.05.20_Tuah Negeri_31664
+.2009_Air Beliti_31664
+.2011_Bamasco (Bamasko)_31664
+.2001_Banpres_31664
+.2004_Dharma/Darma Sakti_31664
+.2005_Jaya Bhakti (Jaya Bakti)_31664
+.2002_Jaya Tunggal_31664
+.2010_Leban Jaya (Lebanjaya)_31664
+.2008_Lubuk Rumbai_31664
+.2007_Petunang_31664
+.2006_Remayu_31664
+.2003_Sukamulya_31664
+16.05.01_Tugumulyo_31662
+.1001_B. Srikaton_31662
+.2012_Dwijaya_31662
+.2005_Kalibening_31662
+.2014_Mataram_31662
+.2008_Nawangsasi (Nawangsari)_31662
+.2011_Ngadirejo_31662
+.2017_Sidoharjo_31662
+.2013_Siti Harjo_31662
+.2009_Sukomulyo_31662
+.2002_Surodadi_31662
+.2015_Tambahasri_31662
+.2003_Tegal Rejo_31662
+.2004_Trikoyo_31662
+.2018_Triwikaton_31662
+.2006_Widodo_31662
+.2007_Wonokerto_31662
+.2016_Wonorejo_31662
+.2010_Wukirsari_31662

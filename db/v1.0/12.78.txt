@@ -1,0 +1,107 @@
+12.78.01_Gunungsitoli_22810
+.2001_Bawodesolo (Bawadesolo)_22810
+.2002_Boyo_22810
+.2003_Dahadano Gawu Gawu_22810
+.2004_Dahana Tabaloho_22810
+.2005_Fadoro Lasara_22810
+.2006_Hilihao (Hili Hao)_22810
+.2007_Hilimbaruzo_22810
+.2008_Hilina'a (Hilina A)_22810
+.1032_Ilir_22810
+.2009_Iraonogeba_22810
+.2010_Lasara Bahili_22810
+.2011_Lolowonu Niko'otano (Lelewonu Nikootano)_22810
+.2013_Madolaoli_22810
+.2012_Madula_22810
+.2015_Miga_22810
+.2016_Mo'awo (Moawo)_22810
+.2014_Mudik_22810
+.2017_Ombolata Ulu_22810
+.2018_Onowaembo (Ono Waembo)_22810
+.2019_Onozitoli Olora_22810
+.2020_Onozitoli Sifaoroasi (Siforoasi)_22810
+.1030_Pasar Gunungsitoli (Pasar Gunung Sitoli)_22810
+.2021_Saewe_22810
+.1031_Saombo_22810
+.2022_Sifalaete Tabaloho_22810
+.2023_Sifalaete Ulu_22810
+.2024_Sihare'o II Tabaloho (Sihareo II Tabaloho)_22810
+.2025_Simandraolo_22810
+.2027_Sisarahili Sisambualahe (Sisarahili Sisambalahe)_22810
+.2026_Sisarahiligamo (Sisarahili Gamo)_22810
+.2028_Sisobahili Tabaloho_22810
+.2029_Tuhemberua Ulu_22810
+12.78.05_Gunungsitoli Alo'oa_22851
+.2006_Fadoro Hilimbowo_22851
+.2007_Fadoro You_22851
+.2003_Iraonolase (Irano Lase / Iraono Lase)_22851
+.2008_Lololawa_22851
+.2001_Nazalou Alo'oa_22851
+.2009_Nazalou Lolowua_22851
+.2002_Niko'otano Dao_22851
+.2004_Orahili Tanose'o_22851
+.2005_Tarakhaini_22851
+12.78.06_Gunungsitoli Barat_22811
+.2004_Gada_22811
+.2007_Hilinakhe_22811
+.2005_Lolomoyo Tuhemberua_22811
+.2009_Ononamolo II Lot (Ononamolo II)_22811
+.2008_Onozikho_22811
+.2003_Orahili Tumori_22811
+.2006_Sihare'o Siwahili (Sihareo Siwahili)_22811
+.2001_Tumori_22811
+.2002_Tumori Balohili_22811
+12.78.04_Gunungsitoli Idanoi_22870
+.2018_Awa'ai (Awaai)_22870
+.2004_Bawodesolo_22870
+.2012_Binaka_22870
+.2003_Dahana_22870
+.2020_Fadoro_22870
+.2011_Fowa_22870
+.2009_Helefanikha_22870
+.2017_Hilihambawa_22870
+.2002_Hilimbawodesolo (Hilimbawo Desolo)_22870
+.2022_Hilimbowo Idanoi_22870
+.2021_Hiliweto Idanoi_22870
+.2007_Humene_22870
+.2013_Idanotae_22870
+.2019_Lewuoguru Idanoi_22870
+.2015_Lolo'ana'a Idanoi (Loloanaa Idanoi)_22870
+.2024_Ombolata_22870
+.2023_Onowaembo_22870
+.2025_Samasi_22870
+.2001_Sifalaete_22870
+.2006_Simanaere_22870
+.2016_Siwalubanua I_22870
+.2008_Siwalubanua II_22870
+.2010_Tetehosi I_22870
+.2014_Tetehosi II_22870
+.2005_Tuhegeo I_22870
+.2026_Tuhegeo II_22870
+12.78.02_Gunungsitoli Selatan_22851
+.2003_Faekhu_22851
+.2002_Fodo_22851
+.2011_Hiligara_22851
+.2014_Hiligodu Ombolata_22851
+.2004_Lolofaoso Tabaloho_22851
+.2008_Lololakha_22851
+.2005_Lolomboli_22851
+.2012_Luahalaraga (Luaha Laraga)_22851
+.2006_Mazingo Tabaloho_22851
+.2010_Ombolata Simenari (Simanari)_22851
+.2001_Ononamolo I Lot_22851
+.2007_Onozitoli Tabaloho_22851
+.2009_Sihare'o I Tabaloho (Sihareo I Tabaloho)_22851
+.2013_Sisobahili II Tanose'o (Tanoseo)_22851
+.2015_Tetehosi Ombolata_22851
+12.78.03_Gunungsitoli Utara_22851
+.2001_Afia_22851
+.2007_Gawu-Gawu Bo'uso (Gawu Gawu Bouso / Bauso)_22851
+.2006_Hambawa_22851
+.2010_Hiligodu Ulu_22851
+.2009_Hilimbowo Olora_22851
+.2003_Lasara Sowu_22851
+.2002_Lolo'ana'a Lolomoyo (Loloanaa)_22851
+.2008_Olora_22851
+.2004_Telukbelukar (Teluk Belukar)_22851
+.2005_Tetehosi Afia_22851

@@ -1,0 +1,18 @@
+13.74.02_Padang Panjang Barat_27111|27118
+.1008_Balai-Balai_27114
+.1001_Bukik/Bukit Surungan_27115
+.1003_Kampung Manggis_27111
+.1006_Pasar Baru_27113
+.1002_Pasar Usang_27116
+.1005_Silaing Atas_27117
+.1004_Silaing Bawah_27118
+.1007_Tanah Hitam_27112
+13.74.01_Padang Panjang Timur_27121|27128
+.1003_Ekor Lubuk_27125
+.1001_Ganting_27127
+.1005_Guguk Malintang_27128
+.1007_Koto Katik_27123
+.1006_Koto Panjang_27122
+.1004_Ngalau_27124
+.1002_Sigando_27126
+.1008_Tanah Pak Lambik_27121

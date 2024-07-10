@@ -1,0 +1,48 @@
+52.08.04_Bayan_83354
+.2005_Akat Akar (Akar Akar)_83354
+.2011_Andalan_83354
+.2003_Anyar_83354
+.2012_Batu Rakit_83354
+.2001_Bayan_83354
+.2010_Gunjan Asri_83354
+.2009_Karang Bajo_83354
+.2002_Loloan_83354
+.2007_Mumbul Sari_83354
+.2008_Sambik Elen_83354
+.2006_Senaru_83354
+.2004_Sukadana_83354
+52.08.02_Gangga_83353
+.2002_Bentek_83353
+.2003_Genggelang_83353
+.2001_Gondang_83353
+.2004_Rempek_83353
+.2007_Rempek Darussalam_83353
+.2005_Sambik Bangkol_83353
+.2008_Segara Katon_83353
+.2006_Selelos_83353
+52.08.03_Kayangan_83356
+.2007_Dangiang_83356
+.2005_Gumantar_83356
+.2001_Kayangan_83356
+.2009_Pansor_83356
+.2008_Pendua_83356
+.2006_Salut_83356
+.2002_Santong_83356
+.2010_Santong Mulia_83356
+.2003_Selengen_83356
+.2004_Sesait_83356
+52.08.05_Pemenang_83352
+.2003_Gili Indah_83352
+.2004_Malaka_83352
+.2005_Menggala_83352
+.2002_Pemenang Barat_83352
+.2001_Pemenang Timur_83352
+52.08.01_Tanjung_83350
+.2003_Jenggala_83350
+.2006_Medana_83350
+.2008_Sama Guna_83350
+.2005_Sigar Penjalin (Pinjalin)_83350
+.2002_Sokong_83350
+.2001_Tanjung_83350
+.2004_Tegal Maja_83350
+.2007_Teniga_83350

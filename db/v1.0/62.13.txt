@@ -1,0 +1,113 @@
+62.13.04_Awang_73681
+.2006_Ampari_73681
+.2007_Apar Batu_73681
+.2002_Bangkirayen_73681
+.2008_Biwan_73681
+.2010_Danau_73681
+.2003_Hayaping_73681
+.2001_Janah Jari_73681
+.2009_Janah Mansiwui_73681
+.2011_Pianggu_73681
+.2004_Tangkan_73681
+.2005_Wungkur Nanakan_73681
+62.13.02_Banua Lima_73661
+.2004_Bagok_73661
+.2005_Bamban_73661
+.2003_Banyu Landas_73661
+.2007_Gudang Seng_73661
+.2002_Kandris_73661
+.1001_Pasar Panas/Taniran_73661
+.2006_Tewah Pupuh_73661
+62.13.05_Dusun Tengah_73652
+.2010_Ampah II (Ampah Dua)_73652
+.1011_Ampah Kota_73652
+.2025_Muara Awang_73652
+.2018_Netampin (Netapin)_73652
+.2012_Putai_73652
+.2009_Rodok_73652
+.2008_Saing_73652
+.2024_Sumber Garunggung (Sumber Garonggong)_73652
+62.13.01_Dusun Timur_73612|73618
+.2009_Didi_73617
+.2008_Dorong_73614
+.2022_Gumpa_73618
+.2024_Harara_73618
+.2011_Haringen_73615
+.2006_Jaar_73617
+.2018_Jaweten_73617
+.2010_Karang Langit_73617
+.2005_Magantis_73612
+.2021_Mangkarap (angkarap)_73618
+.2020_Maragut_73618
+.2007_Matabu_73613
+.2019_Matarah_73618
+.2003_Pulau Patai_73617
+.2004_Sarapat (Ex. Harara)_73617
+.2023_Sumur_73618
+.1012_Tamianglayang (Tamiang Layang)_73617
+62.13.10_Karusen Janang_73650
+.2001_Dayu_73650
+.2003_Ipu Mea_73650
+.2007_Kandris_73650
+.2004_Lagan_73650
+.2005_Putut Tawuluh_73650
+.2006_Simpang Naneng_73650
+.2002_Wuran_73650
+62.13.07_Paju Epat_73617
+.2007_Balawa_73617
+.2001_Juru Banu_73617
+.2008_Kali Napu_73617
+.2005_Maipe_73617
+.2006_Murutuwu_73617
+.2009_Siong_73617
+.2003_Tampulangit_73617
+.2004_Telang (Telang Siong)_73617
+.2002_Telang Baru_73617
+62.13.09_Paku_73654
+.2006_Bantai Napu_73654
+.2009_Gandrung_73654
+.2002_Kalamus_73654
+.2011_Kupang Baru_73654
+.2012_Luau Jawuk_73654
+.2008_Paku Beto_73654
+.2010_Pangkan_73654
+.2004_Patung_73654
+.2005_Runggu Raya_73654
+.2003_Simpang Bingkuang_73654
+.2001_Tampa_73654
+.2007_Tarinsing (Taringsing)_73654
+62.13.03_Patangkep Tutui_73671
+.2005_Ampari Bura (Ampari Bora)_73671
+.2004_Bentot_73671
+.2008_Betang Nalong_73671
+.2010_Jango_73671
+.2002_Kambitin_73671
+.2006_Kotam_73671
+.2011_Lalap_73671
+.2009_Mawani (Muani)_73671
+.2001_Pulau Padang_73671
+.2003_Ramania_73671
+62.13.06_Pematang Karau_73653
+.2009_Bambulung_73653
+.2008_Bararawa_73653
+.2002_Ketab (Ketap)_73653
+.2003_Kupang Bersih_73653
+.2007_Lampeong_73653
+.2010_Lebo_73653
+.2001_Muara Palantau_73653
+.2011_Muru Duyung_73653
+.2006_Nagaleah_73653
+.2005_Pinang Tunggal_73653
+.2013_Sumber Rejo (Sumberejo)_73653
+.2012_Tumpung Ulung_73653
+.2004_Tuyau_73653
+62.13.08_Raren Batuah_73655
+.2005_Baruyan_73655
+.2003_Batuah_73655
+.2002_Lenggang_73655
+.2007_Malintut (Malintot)_73655
+.2001_Puri_73655
+.2009_Sibung_73655
+.2008_Tangkum_73655
+.2006_Turan Amis_73655
+.2004_Unsum_73655

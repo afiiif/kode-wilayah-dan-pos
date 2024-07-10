@@ -1,0 +1,166 @@
+14.03.14_Bandar Laksamana_28762
+.2003_Api Api_28762
+.2006_Bukitkerikil (Bukit Kerikil)_28762
+.2001_Parit I Api Api (Paritsatuapi Api)_28762
+.2005_Sepahat_28762
+.2007_Tanjungleban (Tanjung Leban)_28762
+.2002_Temiang_28762
+.2004_Tenggayun_28762
+14.03.02_Bantan_28763
+.2002_Bantan Air_28763
+.2019_Bantan Sari_28763
+.2001_Bantan Tengah_28763
+.2020_Bantan Timur_28763
+.2003_Bantan Tua_28763
+.2011_Berancah_28763
+.2023_Deluk_28763
+.2008_Jangkang_28763
+.2017_Kembung Baru_28763
+.2007_Kembung Luar_28763
+.2013_Mentayan_28763
+.2009_Muntai_28763
+.2022_Muntai Barat_28763
+.2014_Pambang Pesisir_28763
+.2016_Pampang Baru_28763
+.2018_Pasiran_28763
+.2010_Resam Lapis_28763
+.2005_Selat Baru_28763
+.2015_Suka Maju_28763
+.2006_Teluk Lancar_28763
+.2021_Teluk Papal_28763
+.2004_Telukpambang_28763
+.2012_Ulu Pulau_28763
+14.03.16_Bathin Solapan_28785
+.2002_Airkulim (Air Kulim)_28785
+.2010_Balaimakam (Balai Makam)_28785
+.2007_Bathinsobanga (Bathin Sobanga)_28785
+.2009_Boncahmahang (Boncah Mahang)_28785
+.2003_Buluhmanis (Buluh Manis)_28785
+.2004_Bumbung_28785
+.2006_Kesumboampai_28785
+.2005_Pamesi_28785
+.2013_Pematangobo (Pematang Obo)_28785
+.2001_Petani_28785
+.2008_Sebangar_28785
+.2012_Simpangpadang (Simpang Padang)_28785
+.2011_Tambusaibatangdui (Tambusai Batang Dui)_28785
+14.03.01_Bengkalis_28711|28741
+.2011_Air Putih_28711
+.2029_Damai_28715
+.1002_Damon/Damun_28713
+.2004_Kelapapati (Kelapa Pati)_28716
+.2022_Kelebuk_28717
+.2018_Kelemantan_28718
+.2028_Kelemantan Barat_28719
+.2017_Ketam Putih_28720
+.1001_Kota Bengkalis (Bengkalis Kota)_28712
+.2021_Kuala Alam_28721
+.2009_Meskom_28722
+.2023_Palkun_28723
+.2006_Pangkalan Batang_28724
+.2030_Pangkalan Batang Barat_28725
+.2005_Pedekik_28726
+.2016_Pematang Duku_28727
+.2031_Pematang Duku Timur_28728
+.2013_Penampi_28729
+.2015_Penebal_28730
+.2025_Prapat Tunggal_28731
+.1003_Rimba Sekampung_28732
+.2007_Sebauk_28733
+.2012_Sei/Sungai Alam_28734
+.2019_Sekodi_28735
+.2027_Senderak_28736
+.2010_Senggoro_28714
+.2026_Simpang Ayam_28737
+.2024_Sungai Batang_28738
+.2008_Teluklatak (Teluk Latak)_28739
+.2014_Temeran_28740
+.2020_Wonosari_28741
+14.03.03_Bukit Batu_28761
+.2016_Batang Duku_28761
+.2006_Bukit Batu_28761
+.2005_Buruk Bakul_28761
+.2002_Dompas_28761
+.2017_Pakning Asal_28761
+.2003_Pangkalan Jambi_28761
+.2001_Sejangat_28761
+.2007_Sukajadi_28761
+.1010_Sungai Pakning_28761
+.2004_Sungai Selari_28761
+14.03.09_Mandau_28783
+.1001_Air Jamban_28783
+.1002_Babussalam_28783
+.1004_Balik Alam_28783
+.1003_Batang Serosa_28783
+.2021_Bathin Betuah_28783
+.1006_Duri Barat_28783
+.1007_Duri Timur_28783
+.1008_Gajah Sakti_28783
+.2011_Harapan Baru_28783
+.1010_Pematang Pudu_28783
+.1009_Talang Mandi_28783
+14.03.13_Pinggir_28784
+.2003_Balai Pungut_28784
+.1012_Balai Raja_28784
+.2016_Buluh Apo_28784
+.2005_Muara Basung_28784
+.2015_Pangkalan Libut_28784
+.2007_Pinggir_28784
+.2008_Semunai_28784
+.2014_Sungai Meranti_28784
+.2011_Tengganau_28784
+.1001_Titian Antui_28784
+14.03.10_Rupat_28781
+.1001_Batu Panjang_28781
+.2011_Darul Aman_28781
+.2016_Dungun Baru_28781
+.2008_Hutan Panjang_28781
+.2007_Makeruh_28781
+.2014_Pancur Jaya_28781
+.2009_Pangkalan Nyirih_28781
+.2015_Pangkalan Pinang_28781
+.2012_Parit Kebumen_28781
+.1002_Pergam_28781
+.2013_Sri Tanjung_28781
+.2010_Sukarjo Mesin_28781
+.2005_Sungaicingam (Sei / Sungai Cingam)_28781
+.1004_Tanjungkapal (Tanjung Kapal)_28781
+.2006_Teluklecah (Teluk Lecah)_28781
+.1003_Terkul_28781
+14.03.11_Rupat Utara_28782
+.2006_Hutan Ayu_28782
+.2004_Kador_28782
+.2008_Puteri Sembilan_28782
+.2007_Suka Damai_28782
+.2001_Tanjungmedang (Tanjung Medang)_28782
+.2003_Tanjungpunak (Tanjung Punak)_28782
+.2002_Telukrhu (Teluk Rhu)_28782
+.2005_Titi Akar_28782
+14.03.12_Siak Kecil_28771
+.2009_Bandar Jaya_28771
+.2016_Koto Raja_28771
+.2006_Langkat_28771
+.2014_Liang Banir_28771
+.2013_Lubuk Garam_28771
+.2005_Lubuk Gaung_28771
+.2001_Lubuk Muda_28771
+.2010_Muara Dua_28771
+.2007_Sadar Jaya_28771
+.2004_Sepotong_28771
+.2012_Sumber Jaya_28771
+.2008_Sungai Linau_28771
+.2017_Sungainibung (Sungai Nibung)_28771
+.2003_Sungaisiput (Sungai Siput)_28771
+.2002_Tanjungbelit (Tanjung Belit)_28771
+.2011_Tanjungdamai (Tanjung Damai)_28771
+.2015_Tanjungdatuk (Tanjung Datuk)_28771
+14.03.15_Talang Muandau_28786
+.2004_Beringin_28786
+.2005_Kotopaitberingin (Koto Pait Beringin)_28786
+.2003_Kualapenaso (Kuala Penaso)_28786
+.2006_Melibur_28786
+.2009_Seraiwangi (Serai Wangi)_28786
+.2001_Tasikserai (Tasik Serai)_28786
+.2002_Tasikserai Barat (Tasik Serai Barat)_28786
+.2007_Tasikserai Timur (Tasik Serai Timur)_28786
+.2008_Tasiktebingserai (Tasik Tebing Serai)_28786

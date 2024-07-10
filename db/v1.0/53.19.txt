@@ -1,0 +1,188 @@
+53.19.01_Borong_86571
+.2025_Balus Permai_86571
+.2035_Bangka Kantar_86571
+.2010_Benteng Raja_86571
+.2005_Benteng Riwu_86571
+.2038_Compang Ndejing_86571
+.2034_Compang Tenda_86571
+.2017_Golo Kantar_86571
+.2014_Golo Lalong_86571
+.2032_Golo Leda_86571
+.2004_Gurung Liwut_86571
+.1020_Kota Ndora_86571
+.2001_Nanga Labang_86571
+.2006_Ngampang Mas_86571
+.2018_Poco Rii_86571
+.1021_Rana Loba_86571
+.2009_Rana Masak_86571
+.1039_Satar Peot_86571
+.2031_Waling_86571
+53.19.12_Congkar_86584
+.2002_Buti_86584
+.2006_Compang Congkar_86584
+.2008_Compang Lawi_86584
+.2003_Golo Ngawan_86584
+.2009_Golo Pari_86584
+.1001_Golo Wangkung_86584
+.1007_Golo Wangkung Barat_86584
+.2005_Rana Mese_86584
+.2004_Satar Nawang_86584
+.2010_Wea_86584
+53.19.05_Elar_86581
+.2018_Biting_86581
+.2025_Compang Soba_86581
+.2026_Compang Teo_86581
+.2004_Golo Lebo_86581
+.2005_Golo Lijun_86581
+.2003_Golo Munde_86581
+.2015_Haju Ngendong_86581
+.2028_Kaju Wangi_86581
+.2016_Legur Lai_86581
+.2001_Lengko Namut_86581
+.2017_Rana Gapang_86581
+.2002_Rana Kulan_86581
+.2009_Sisir_86581
+.1020_Tiwu Kondo_86581
+.2029_Wae Lokom_86581
+53.19.09_Elar Selatan_86580
+.2011_Benteng Pau_86580
+.2004_Gising_86580
+.2010_Golo Linus_86580
+.2007_Golo Wuas_86580
+.2005_Langga Sai_86580
+.1001_Lempang Paji_86580
+.2013_Mosi Ngaran_86580
+.2008_Nanga Meje_86580
+.2014_Nanga Puun_86580
+.2009_Paan Waru_86580
+.2002_Sangan Kalo_86580
+.2003_Sipi_86580
+.2006_Teno Mese_86580
+.2012_Wae Rasan_86580
+53.19.06_Kota Komba_86572
+.2014_Bamo_86572
+.2008_Gunung_86572
+.2013_Komba_86572
+.2003_Lembur_86572
+.2006_Mbengan_86572
+.2015_Pong Ruan_86572
+.2007_Rana Kolong_86572
+.1002_Rongga Koe_86572
+.2004_Ruan_86572
+.1017_Tanah Rata_86572
+.1001_Watu Nggene_86572
+53.19.10_Kota Komba Utara_86572
+.2005_Golo Meni (Golomeni)_86572
+.2007_Golo Ndele_86572
+.2006_Golo Nderu_86572
+.2001_Golo Tolang_86572
+.2011_Gunung Baru_86572
+.2002_Mokel_86572
+.2009_Mokel Morid_86572
+.2003_Paan Leleng_86572
+.2008_Rana Mbata_86572
+.2004_Rana Mbeling_86572
+.2010_Watu Pari_86572
+53.19.03_Lamba Leda_86582
+.2014_Compang Deru_86582
+.2013_Compang Mekar_86582
+.2011_Compang Necak_86582
+.2010_Golo Lembur_86582
+.2004_Golo Munga_86582
+.2016_Golo Nimbung_86582
+.2023_Golo Paleng_86582
+.2009_Golo Rentung_86582
+.2003_Goreng Meni_86582
+.2021_Goreng Meni Utara_86582
+.2017_Lamba Keli_86582
+.2002_Tengku Lawar (Tengkulawar)_86582
+.2001_Tengku Leda_86582
+53.19.02_Lamba Leda Selatan (Poco Ranaka)_86583
+.2014_Bangka Kuleng_86583
+.1042_Bangka Leleng_86583
+.2015_Bangka Pau_86583
+.2011_Bea Waek_86583
+.2019_Compang Laho_86583
+.2032_Compang Weluk_86583
+.2029_Compang Wesang_86583
+.2037_Deno_86583
+.2013_Golo Lobos_86583
+.2026_Golo Ndari_86583
+.2016_Golo Nderu_86583
+.2033_Golo Rengket_86583
+.2030_Golo Wune_86583
+.2018_Gurung Turi_86583
+.2003_Lenang_86583
+.2031_Lento_86583
+.2005_Leong_86583
+.1027_Mandosawu (Mando Sawu)_86583
+.2004_Melo_86583
+.1028_Nggalak Leleng_86583
+.2001_Poco Lia_86583
+.2002_Pocong_86583
+.2017_Satar Tesem_86583
+.2020_Watu Lanur_86583
+53.19.08_Lamba Leda Timur (Poco Ranaka Timur)_86585
+.2002_Arus_86585
+.2015_Bangka Arus_86585
+.2006_Benteng Rampas_86585
+.2017_Benteng Wunis_86585
+.2016_Colol_86585
+.2013_Compang Raci_86585
+.2005_Compang Wunis_86585
+.2003_Golo Lero_86585
+.2007_Ngkiong Dora_86585
+.2009_Rende Nao_86585
+.2004_Rengkam_86585
+.2011_Tango Molas_86585
+.2008_Ulu Wae_86585
+.2012_Urung Dora_86585
+.2010_Wangkar Weli_86585
+.2001_Watu Arus_86585
+.2018_Wejang Mali_86585
+.2014_Wejang Mawe_86585
+53.19.11_Lamba Leda Utara_86582
+.2008_Golo Mangung_86582
+.2010_Golo Munga Barat_86582
+.2009_Golo Wontong_86582
+.2006_Haju Wangi_86582
+.2004_Lencur_86582
+.2005_Liang Deruk_86582
+.2003_Nampar Tabang_86582
+.2007_Satar Kampas_86582
+.2001_Satar Padut_86582
+.2002_Satar Punda_86582
+.2011_Satar Punda Barat_86582
+53.19.07_Rana Mese_86570
+.2014_Bangka Kempo_86570
+.2018_Bangka Masa_86570
+.2001_Bea Ngencung_86570
+.2012_Compang Kantar_86570
+.2021_Compang Kempo_86570
+.2020_Compang Loni_86570
+.2015_Compang Teber_86570
+.2007_Golo Loni_86570
+.2010_Golo Meleng_86570
+.2004_Golo Ros_86570
+.2009_Golo Rutuk_86570
+.2019_Lalang_86570
+.2017_Lidi_86570
+.2005_Rondo Woing_86570
+.2006_Sano Lokom_86570
+.2002_Satar Lahing_86570
+.2016_Satar Lenda_86570
+.2008_Sita_86570
+.2003_Torok Golo_86570
+.2011_Wae Nggori_86570
+.2013_Watu Mori_86570
+53.19.04_Sambi Rampas_86584
+.1020_Golo Wangkung Utara_86584
+.2013_Kembang Mekar_86584
+.2007_Lada Mese_86584
+.2012_Nampar Sepang_86584
+.1011_Nanga Baras_86584
+.2002_Nanga Mbaling_86584
+.2001_Nanga Mbaur_86584
+.1009_Pota_86584
+.1018_Ulung Baras_86584
+.2014_Wela Lada_86584

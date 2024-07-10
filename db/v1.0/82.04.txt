@@ -1,0 +1,279 @@
+82.04.08_Bacan_97791
+.2003_Amasing Kali_97791
+.2002_Amasing Kota_97791
+.2030_Amasing Kota Barat_97791
+.2031_Amasing Kota Utara_97791
+.2032_Awanggoa_97791
+.2010_Belang Belang_97791
+.2040_Hidayat_97791
+.2009_Indomut_97791
+.2027_Kaputusan_97791
+.2001_Labuha_97791
+.2041_Marabose_97791
+.2036_Suma Tinggi_97791
+.2026_Sumae_97791
+.2004_Tomori_97791
+82.04.09_Bacan Barat_97791
+.2001_Indari_97791
+.2030_Kokotu_97791
+.2017_Kusubibi_97791
+.2018_Nang_97791
+.2016_Nondang_97791
+.2014_Tawabi_97791
+.2015_Wiring_97791
+82.04.14_Bacan Barat Utara_97791
+.2007_Geti Baru_97791
+.2006_Geti Lama_97791
+.2008_Gilalang_97791
+.2004_Jojame_97791
+.2002_Lolarogurua (Gorua Lolaro / Lolorogurua)_97791
+.2003_Nusa Babullah (Nusa Babi)_97791
+.2001_Sidopo_97791
+.2005_Yaba_97791
+82.04.17_Bacan Selatan_97791
+.2004_Dgandasuli (Gandasuli)_97791
+.2009_Kubung_97791
+.2003_Kupal_97791
+.2001_Makian (Kampung Makian)_97791
+.2002_Mandawong (Mandaong)_97791
+.2010_Panamboang_97791
+.2007_Papaloang_97791
+.2005_Sawadai_97791
+.2008_Tembal_97791
+.2006_Tuwokona (Tuakona)_97791
+82.04.07_Bacan Timur_97791
+.2001_Babang_97791
+.2013_Bori_97791
+.2016_Goro Goro_97791
+.2023_Kaireu_97791
+.2014_Nyonyifi_97791
+.2015_Sabatang_97791
+.2017_Sali Kecil_97791
+.2021_Sayoang_97791
+.2018_Timlonga_97791
+.2022_Wayamiga_97791
+82.04.21_Bacan Timur Selatan_97791
+.2003_Liaro_97791
+.2004_Pigaraja_97791
+.2002_Silang_97791
+.2007_Tabajaya_97791
+.2006_Tabangame_97791
+.2005_Wayakuba_97791
+.2001_Wayaua_97791
+82.04.22_Bacan Timur Tengah_97791
+.2005_Bibinoi_97791
+.2006_Songa_97791
+.2004_Tabapoma_97791
+.2007_Tawa_97791
+.2002_Tomara_97791
+.2003_Tutupa_97791
+.2001_Wayatim_97791
+82.04.04_Gane Barat_97782
+.2020_Balitata_97782
+.2029_Bumi Rahmat_97782
+.2018_Cango_97782
+.2016_Doro_97782
+.2017_Koititi_97782
+.2023_Lemo Lemo_97782
+.2021_Oha_97782
+.2022_Papaceda_97782
+.2019_Saketa_97782
+.2036_Tabamasa_97782
+82.04.23_Gane Barat Selatan_97782
+.2001_Awis_97782
+.2002_Dowora_97782
+.2003_Gane Dalam_97782
+.2004_Jibubu_97782
+.2005_Pasipalele (Pasi Palele)_97782
+.2006_Sekely_97782
+.2007_Tawa_97782
+.2008_Yamli (Yamly)_97782
+82.04.24_Gane Barat Utara_97789
+.2001_Batulak_97789
+.2002_Boso_97789
+.2003_Dolik_97789
+.2004_Fulai (Jikolamo/Fulay)_97789
+.2005_Gumirah (Gumira)_97789
+.2006_Moloku_97789
+.2007_Nurjihat_97789
+.2008_Posi Posi_97789
+.2009_Samat_97789
+.2010_Samo_97789
+.2011_Suka Damai_97789
+.2012_Tokaka_97789
+82.04.03_Gane Timur_97783
+.2006_Akelamo_97783
+.2007_Batonam_97783
+.2002_Foya_97783
+.2004_Foya Tobaru_97783
+.2022_Kebun Raja_97783
+.2020_Kotalow_97783
+.2005_Lalubi_97783
+.2001_Maffa_97783
+.2014_Sumber Makmur_97783
+.2025_Tanjung Jere_97783
+.2003_Tobaru_97783
+.2008_Wosi_97783
+82.04.26_Gane Timur Selatan_97787
+.2001_Gaimu_97787
+.2002_Gane Luar_97787
+.2003_Kuwo_97787
+.2004_Ranga Ranga_97787
+.2005_Sawat_97787
+82.04.27_Gane Timur Tengah_97788
+.2001_Bisui_97788
+.2002_Lelewi_97788
+.2003_Luim_97788
+.2004_Matuting_97788
+.2005_Matuting Tanjung_97788
+.2006_Tabahidayah_97788
+.2007_Tabahijrah_97788
+.2008_Tagia (Tagea)_97788
+82.04.15_Kasiruta Barat_97790
+.2004_Arumamang_97790
+.2007_Bisori_97790
+.2006_Doko (Doku)_97790
+.2010_Imbu Imbu_97790
+.2009_Kukupang (Kakupang)_97790
+.2002_Lata Lata_97790
+.2008_Marikapal_97790
+.2005_Palamea_97790
+.2003_Sengga Baru_97790
+.2001_Sidanga_97790
+82.04.16_Kasiruta Timur_97790
+.2007_Jeret_97790
+.2008_Kasiruta Dalam_97790
+.2004_Kou Balabala (Koubalabala)_97790
+.2001_Loleo Jaya_97790
+.2005_Loleo Mekar (Loleomekar)_97790
+.2003_Marituso (Maritosu)_97790
+.2002_Tawa_97790
+.2006_Tutuhu (Tutuha)_97790
+82.04.02_Kayoa_97780
+.2022_Bajo_97780
+.2018_Buli_97780
+.2030_Dorolamo_97780
+.2005_Gafi_97780
+.2020_Gunange_97780
+.2023_Guruapin_97780
+.2024_Karamat_97780
+.2017_Kida_97780
+.2006_Laigoma_97780
+.2021_Lelei_97780
+.2016_Ligua_97780
+.2004_Siko_97780
+.2019_Talimau_97780
+.2029_Tawabi_97780
+82.04.11_Kayoa Barat_97781
+.2001_Bokimiake_97781
+.2003_Busua_97781
+.2004_Fofao_97781
+.2002_Hatejawa_97781
+82.04.12_Kayoa Selatan_97780
+.2002_Laluin_97780
+.2001_Ngute Ngute_97780
+.2005_Orimakurunga_97780
+.2006_Pasir Putih_97780
+.2003_Posi Posi_97780
+.2004_Sagawele_97780
+82.04.13_Kayoa Utara_97781
+.2004_Ake Jailolo_97781
+.2003_Gayap_97781
+.2002_Laromabati (Loromabati)_97781
+.2001_Modayama_97781
+.2006_Ngokomalako_97781
+.2005_Wayasipang_97781
+82.04.18_Kepulauan Botanglomang_97790
+.2002_Bajo_97790
+.2007_Batutaga_97790
+.2006_Kampung Baru_97790
+.2008_Paisumbaos (Pasimbaos)_97790
+.2004_Prapakanda_97790
+.2001_Sawanakar (Sawangakar/Sawangkang)_97790
+.2003_Tanjung Obit_97790
+.2005_Toin_97790
+82.04.25_Kepulauan Joronga_97786
+.2001_Gonone_97786
+.2002_Kakupang (Kukupang)_97786
+.2003_Kurunga_97786
+.2004_Liboba Hijrah_97786
+.2005_Pulau Gala_97786
+.2006_Tawabi_97786
+.2007_Yomen_97786
+82.04.10_Makian Barat_97784
+.2002_Bobawae_97784
+.2001_Malapat_97784
+.2005_Mateketen_97784
+.2003_Ombawa_97784
+.2007_Sebelei_97784
+.2006_Talapaon_97784
+.2004_Tegono_97784
+82.04.19_Mandioli Selatan_97791
+.2002_Bahu_97791
+.2004_Galala_97791
+.2003_Jiko (Jeko)_97791
+.2001_Lele_97791
+.2005_Tabalema_97791
+.2006_Yoyok_97791
+82.04.20_Mandioli Utara_97791|97792
+.2005_Akedabo_97791
+.2006_Bobo_97792
+.2002_Indong_97791
+.2004_Leleongusu (Loleongusu)_97791
+.2001_Pelita (Pelita Jaya)_97791
+.2003_Waya_97791
+82.04.06_Obi_97792
+.2014_Air Mangga Indah_97792
+.2020_Akegula_97792
+.2006_Anggai_97792
+.2002_Baru_97792
+.2003_Buton_97792
+.2004_Jikotamo_97792
+.2021_Kawasi_97792
+.2001_Laiwui_97792
+.2005_Sambiki_97792
+82.04.28_Obi Barat_97792
+.2001_Alam Kenanga_97792
+.2002_Alam Pelita_97792
+.2003_Jikohai (Jikohay)_97792
+.2004_Manatahan_97792
+.2005_Soa Sangaji (Soasangaji)_97792
+.2006_Tapa_97792
+82.04.05_Obi Selatan_97792
+.2003_Bobo_97792
+.2002_Fluk_97792
+.2008_Gambaru_97792
+.2005_Loleo_97792
+.2004_Mano_97792
+.2009_Ocimaloleo_97792
+.2007_Soligi_97792
+.2001_Wayaloar_97792
+82.04.29_Obi Timur_97792
+.2001_Kello (Kelo)_97792
+.2002_Sum_97792
+.2003_Susepe (Sosepe)_97792
+.2004_Wooi_97792
+82.04.30_Obi Utara_97792
+.2001_Cap_97792
+.2003_Galala_97792
+.2002_Madopolo (Madapolo)_97792
+.2004_Madopolo Barat (Madapolo Barat)_97792
+.2007_Madopolo Timur (Madapolo Timur)_97792
+.2006_Pasir Putih_97792
+.2005_Waringi_97792
+82.04.01_Pulau Makian_97785
+.2005_Dalam_97785
+.2012_Dauri_97785
+.2006_Gitang_97785
+.2003_Gorup_97785
+.2013_Gurua_97785
+.2007_Kyowor_97785
+.2008_Matentengin_97785
+.2011_Ploili_97785
+.2001_Rabutdaiyo_97785
+.2009_Sangapati_97785
+.2010_Suma_97785
+.2022_Waigitang_97785
+.2014_Wailoa_97785
+.2004_Walo_97785
+.2002_Waykion_97785

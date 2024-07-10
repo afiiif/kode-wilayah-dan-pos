@@ -1,0 +1,52 @@
+31.71.05_Cempaka Putih_10510|10570
+.1002_Cempaka Putih Barat_10520
+.1001_Cempaka Putih Timur_10510
+.1003_Rawasari_10570
+31.71.01_Gambir_10110|10160
+.1002_Cideng_10150
+.1006_Duri Pulo_10140
+.1001_Gambir_10110
+.1005_Kebon Kelapa_10120
+.1004_Petojo Selatan_10160
+.1003_Petojo Utara_10130
+31.71.08_Johar Baru_10530|10560
+.1003_Galur_10530
+.1001_Johar Baru_10560
+.1002_Kampung Rawa_10550
+.1004_Tanah Tinggi_10540
+31.71.03_Kemayoran_10610|10650
+.1006_Cempaka Baru_10640
+.1005_Gunung Sahari Selatan_10610
+.1003_Harapan Mulia (Harapan Mulya)_10640
+.1002_Kebon Kosong_10630
+.1001_Kemayoran_10620
+.1004_Serdang_10650
+.1007_Sumur Batu_10640
+.1008_Utan Panjang_10650
+31.71.06_Menteng_10310|10350
+.1003_Cikini_10330
+.1004_Gondangdia_10350
+.1005_Kebon Sirih_10340
+.1001_Menteng_10310
+.1002_Pegangsaan_10320
+31.71.02_Sawah Besar_10710|10750
+.1004_Gunung Sahari Utara_10720
+.1002_Karang Anyar_10740
+.1003_Kartini_10750
+.1005_Mangga Dua Selatan_10730
+.1001_Pasar Baru_10710
+31.71.04_Senen_10410|10460
+.1006_Bungur_10460
+.1002_Kenari_10430
+.1004_Kramat_10450
+.1005_Kwitang_10420
+.1003_Paseban_10440
+.1001_Senen_10410
+31.71.07_Tanah Abang_10210|10270
+.1002_Bendungan Hilir_10210
+.1001_Gelora_10270
+.1007_Kampung Bali_10250
+.1003_Karet Tengsin_10220
+.1006_Kebon Kacang_10240
+.1005_Kebon Melati_10230
+.1004_Petamburan_10260

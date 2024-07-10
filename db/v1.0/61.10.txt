@@ -1,0 +1,180 @@
+61.10.01_Belimbing_79671
+.2007_Balai Lagas (Balai Agas)_79671
+.2003_Batu Ampar_79671
+.2010_Batu Buil_79671
+.2013_Batu Nanta_79671
+.2014_Belonsat_79671
+.2011_Guhung_79671
+.2019_Labang_79671
+.2016_Laman Bukit_79671
+.2009_Langan_79671
+.2021_Nanga Entebah (Entebah)_79671
+.2023_Nanga Menunuk_79671
+.2020_Nanga Pau_79671
+.2002_Nusa Kenyikap_79671
+.2001_Pemuar_79671
+.2024_Sepan Tonak_79671
+.2017_Tekaban_79671
+.2008_Upit (Upet)_79671
+61.10.10_Belimbing Hulu_79670
+.2003_Beloyang_79670
+.2005_Junjung Permai_79670
+.2008_Kayu Bunga_79670
+.2006_Keberak (Nanga Keberak)_79670
+.2004_Nanga Raya_79670
+.2002_Nanga Tikan_79670
+.2007_Piawas_79670
+.2001_Tiong Keranji (Tiong Keranjik)_79670
+61.10.03_Ella Hilir_79681
+.2011_Bemban Permai_79681
+.2017_Domet Permai_79681
+.2019_Jabai_79681
+.2010_Kahiya_79681
+.2007_Kerangan Kora_79681
+.2002_Lengkong Nyadom_79681
+.2001_Nanga Ella Hilir_79681
+.2004_Nanga Kalan_79681
+.2006_Nanga Kempangai_79681
+.2003_Nanga Nuak_79681
+.2005_Nanga Nyuruh_79681
+.2015_Natai Compa (Nantai Compa)_79681
+.2018_Nyanggau (Nyangau)_79681
+.2016_Pelempai Jaya_79681
+.2008_Penyuguk_79681
+.2012_Perembang Nyuruh_79681
+.2009_Popai_79681
+.2013_Sungai Labuk (Sungai Labu)_79681
+.2014_Sungai Mentoba_79681
+61.10.04_Menukung_79682
+.2013_Batas nangka_79682
+.2016_Batu Badak_79682
+.2015_Batu Onap_79682
+.2010_Belaban Ella_79682
+.2002_Ella Hulu (Nanga Ella Hulu)_79682
+.2009_Laman Mumbung_79682
+.2004_Langau Leban Satu (Landau Leban)_79682
+.2018_Lihai_79682
+.2001_Menukung Kota_79682
+.2012_Nanga Keruap_79682
+.2008_Nanga Mawang Mentatai (Mawang Mentatai)_79682
+.2006_Nanga Melona Satu (Melona)_79682
+.2007_Nanga Siyai_79682
+.2014_Nusa Poring_79682
+.2017_Oyah_79682
+.2011_Pelaik Keruap_79682
+.2019_Sampak (Sei / Sungai Sampak)_79682
+.2003_Sei/Sungai Sampuk_79682
+.2005_Tanjung Beringin_79682
+61.10.02_Nanga Pinoh_79672
+.2013_Baru_79672
+.2032_Kelakik_79672
+.2040_Kenual_79672
+.2024_Labai Mandiri_79672
+.2008_Nanga Kayan_79672
+.2007_Nanga Kebebu_79672
+.2026_Nusa Pandau_79672
+.2002_Paal_79672
+.2005_Poring_79672
+.2033_Semadin Lengkong_79672
+.2003_Sidomulyo (Sido Mulyo)_79672
+.2023_Tanjung Lay_79672
+.2001_Tanjung Niaga_79672
+.2021_Tanjung Sari_79672
+.2042_Tanjung Tengang_79672
+.2038_Tebing Karangan_79672
+.2004_Tembawang Panjang_79672
+61.10.09_Pinoh Selatan_79677
+.2010_Bayur Raya_79677
+.2005_Bina Jaya_79677
+.2004_Landau Garong_79677
+.2011_Landau Tubun_79677
+.2006_Mandau Baru_79677
+.2001_Manggala_79677
+.2012_Nanga Kelawai_79677
+.2003_Nanga Pintas_79677
+.2008_Nyanggai_79677
+.2007_Pelinggang_79677
+.2009_Sei/Sungai Bakah_79677
+.2002_Senempak_79677
+61.10.08_Pinoh Utara_79678
+.2008_Engkurai_79678
+.2019_Kayan Semapau_79678
+.2018_Kompas Raya_79678
+.2002_Manding_79678
+.2011_Melamut Bersatu_79678
+.2017_Melawi Kiri Hilir_79678
+.2014_Merah Arai (Merah Atas)_79678
+.2009_Merpak_79678
+.2003_Nanga Belimbing_79678
+.2006_Nanga Man_79678
+.2012_Natai Panjang_79678
+.2007_Sei/Sungai Pinang_79678
+.2013_Sei/Sungai Raya_79678
+.2010_Senibung_79678
+.2015_Suka Damai_79678
+.2016_Tanjung Arak_79678
+.2005_Tanjung Paoh_79678
+.2001_Tekelak_79678
+.2004_Tengkajau_79678
+61.10.05_Sayan_79673
+.2017_Berobai Permai_79673
+.2007_Bora_79673
+.2005_Karangan Purun (Kerangan Purun)_79673
+.2003_Landau Sandak (Landau Sadak)_79673
+.2013_Lingkar Indah_79673
+.2004_Madya Raya_79673
+.2006_Mekar Pelita_79673
+.2008_Meta Bersatu_79673
+.2009_Nanga Kasai_79673
+.2010_Nanga Kompi_79673
+.2011_Nanga Mancur_79673
+.2015_Nanga Pak_79673
+.2018_Nanga Raku_79673
+.2001_Nanga Sayan_79673
+.2002_Pekawai_79673
+.2014_Sayan Jaya_79673
+.2012_Siling Permai_79673
+.2016_Tumbak Raya_79673
+61.10.07_Sokan_79675
+.2006_Gelata_79675
+.2004_Keluing Taja_79675
+.2017_Landau Kabu_79675
+.2013_Melana_79675
+.2016_Muara Tanjung_79675
+.2005_Nanga Betangai_79675
+.2008_Nanga Libas_79675
+.2007_Nanga Ora_79675
+.2014_Nanga Potai_79675
+.2001_Nanga Sokan_79675
+.2011_Nanga Tangkit_79675
+.2012_Penyengkuang_79675
+.2015_Sepakat_79675
+.2003_Sijau_79675
+.2018_Tanjung Mahung_79675
+.2002_Tanjung Sokan_79675
+.2009_Telaga Raya_79675
+.2010_Teluk Pongkal (Teluk Pangkal)_79675
+61.10.06_Tanah Pinoh_79674
+.2016_Bata Luar_79674
+.2001_Batu Begigi_79674
+.2004_Bina Jaya_79674
+.2005_Bina Karya_79674
+.2022_Keranjik_79674
+.2002_Loka Jaya_79674
+.2006_Madong Jaya (Madong Raya)_79674
+.2017_Maris Permai_79674
+.2019_Pelita Kenaya (Pelita Kanaya)_79674
+.2003_Suka Maju_79674
+.2020_Tanjung Beringin Raya_79674
+.2021_Tanjung Gunung_79674
+61.10.11_Tanah Pinoh Barat_79676
+.2006_Bukit Raya_79676
+.2003_Durian Jaya_79676
+.2010_Ganjang_79676
+.2002_Harapan Jaya_79676
+.2009_Keluas Hulu_79676
+.2008_Laja_79676
+.2007_Lintah Taum_79676
+.2005_Pelita Jaya_79676
+.2004_Togan Baru_79676
+.2001_Ulak Muid_79676

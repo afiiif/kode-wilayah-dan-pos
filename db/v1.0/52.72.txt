@@ -1,0 +1,46 @@
+52.72.03_Asakota_84119
+.1005_Jaibaru Timur_84119
+.1003_Jatibaru_84119
+.1002_Jatiwangi_84119
+.1004_Kolo_84119
+.1001_Melayu_84119
+.1006_Ole_84119
+52.72.05_Mpunda_84111|84119
+.1006_Lewirato_84119
+.1007_Mande_84119
+.1009_Manggemaci_84119
+.1010_Matakando_84119
+.1001_Monggonao_84111
+.1008_Panggi_84119
+.1005_Penatoi_84115
+.1002_Sadia_84112
+.1004_Sambinae_84119
+.1003_Santi_84119
+52.72.04_Raba_84113|84119
+.1004_Kendo_84119
+.1006_Nitu_84119
+.1005_Ntobo_84119
+.1003_Penanae_84119
+.1001_Penaraga_84115
+.1010_Rabadompu Barat_84113
+.1008_Rabadompu Timur_84113
+.1007_Rabangodu Selatan_84113
+.1011_Rabangodu Utara_84113
+.1009_Rite_84119
+.1002_Rontu_84119
+52.72.01_Rasanae Barat_84111|84119
+.1014_Dara (Dora)_84119
+.1002_Nae_84116
+.1013_Pane_84119
+.1001_Paruga_84111
+.1003_Sarae_84117
+.1004_Tanjung_84118
+52.72.02_Rasanae Timur_84114|84119
+.1009_Dodu_84119
+.1018_Kodo_84119
+.1004_Kumbe_84114
+.1008_Lampe_84119
+.1020_Lelamase_84119
+.1011_Nungga_84119
+.1019_Oi Fo'o_84119
+.1021_Oimbo_84114

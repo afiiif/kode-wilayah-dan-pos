@@ -1,0 +1,110 @@
+62.07.09_Batu Ampar_74281
+.2009_Batu Menangis (Batu Manangis)_74281
+.2004_Derawa_74281
+.2007_Durian Kait_74281
+.2003_Kalang_74281
+.2002_Sandul_74281
+.2001_Sebabi_74281
+.2008_Sehabu (Sahabu/Sebabu)_74281
+.2006_Suka Mulya_74281
+.2005_Wana Tirta_74281
+62.07.08_Danau Seluluk_74271
+.2001_Asam Baru_74271
+.2005_Panimba Raya_74271
+.2006_Rungau Raya (Rangau Raya)_74271
+.2002_Tanjung Hara_74271
+.2003_Tanjung Paring_74271
+.2004_Tanjung Rangas II_74271
+62.07.03_Danau Sembuluh_74261
+.2006_Banua Usang_74261
+.2002_Cempaka Baru_74261
+.2003_Palingkau_74261
+.2005_Paren_74261
+.2013_Sembuluh I (Satu)_74261
+.2014_Sembuluh II (Dua)_74261
+.2001_Telaga Pulang_74261
+.2004_Ulak Batu_74261
+62.07.04_Hanau_74270
+.2003_Bahaur_74270
+.2006_Derangga_74270
+.2002_Parang Batang_74270
+.2011_Paring Raya_74270
+.2004_Pembuang Hulu I_74270
+.2005_Pembuang Hulu II_74270
+.2001_Tanjung Hanau/Hana_74270
+62.07.01_Seruyan Hilir_74213|74215
+.2010_Baung_74214
+.2009_Jahitan_74214
+.1002_Kuala Pembuang Dua (II)_74215
+.1001_Kuala Pembuang Satu (I)_74215
+.2008_Muara Dua_74214
+.2005_Pematang Limau_74213
+.2015_Persil Raya (Persit Raya)_74215
+.2006_Sei/Sungai Perlu_74215
+.2016_Sei/Sungai Urdang_74215
+.2007_Tanjung Rangas_74214
+62.07.06_Seruyan Hilir Timur_74215
+.2003_Bangun Harja/Harjo_74215
+.2002_Halimaung Jaya_74215
+.2004_Kartika Bhakti/Bakti_74215
+.2001_Mekar Indah_74215
+.2005_Pematang Panjang_74213
+.2006_Sei/Sungai Bakau_74215
+62.07.05_Seruyan Hulu_74291
+.2034_Buntut Sapau_74291
+.2026_Majang/Mojang Baru_74291
+.2023_Marandang_74291
+.2028_Mongoh Juoi_74291
+.2027_Rantau Panjang_74291
+.2036_Riam Batang_74291
+.2030_Sepundu Hantu_74291
+.2033_Tanjung Paku_74291
+.2020_Tumbang Bahan_74291
+.2040_Tumbang Darap_74291
+.2021_Tumbang Kalam_74291
+.2039_Tumbang Kasai_74291
+.2031_Tumbang Kubang_74291
+.2032_Tumbang Laku_74291
+.2025_Tumbang Manjul_74291
+.2037_Tumbang Sepan_74291
+.2038_Tumbang Setawai_74291
+.2024_Tumbang Suei_74291
+.2035_Tumbang Taberau_74291
+.2022_Tusuk Belawan_74291
+62.07.07_Seruyan Raya_74260
+.2005_Bangkal_74260
+.2003_Lanpasa_74260
+.2002_Salunuk (Selunuk)_74260
+.2006_Tabiku_74260
+.2001_Terawan_74260
+62.07.02_Seruyan Tengah_74280
+.2011_Ayawan_74280
+.2031_Batu Agung_74280
+.2013_Bukit Buluh/Buluk_74280
+.2023_Bumi Jaya (Bumi Ayu)_74280
+.2015_Durian Tunggal_74280
+.2008_Gantung Pangayuh (Gantung Pengayuh)_74280
+.2012_Mugi Panyuhu (Mugi Panyahu / Mugie Panyuhu)_74280
+.2026_Panca Jaya_74280
+.2017_Pangke_74280
+.2018_Panyompa (Penyumpa)_74280
+.1016_Rantau Pulut_74280
+.2030_Ringin Agung_74280
+.2024_Suka Jaya (Suka Ayu)_74280
+.2033_Suka Maju_74280
+.2032_Suka Makmur_74280
+.2010_Suka Mandang_74280
+.2022_Sukorejo (Suku Rejo)_74280
+.2029_Tangga Batu_74280
+.2009_Teluk Bayur_74280
+.2014_Tumbang Bai/Bei_74280
+62.07.10_Suling Tambun_74290
+.2007_Rangkang Munduk_74290
+.2009_Rantau Betung_74290
+.2008_Tanjung Tukal_74290
+.2006_Tumbang Gugup_74290
+.2003_Tumbang Hentas_74290
+.2004_Tumbang Langkai_74290
+.2001_Tumbang Magin_74290
+.2005_Tumbang Salau_74290
+.2002_Tumbang Setoli_74290

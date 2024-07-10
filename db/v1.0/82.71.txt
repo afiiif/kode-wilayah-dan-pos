@@ -1,0 +1,86 @@
+82.71.02_Kota Ternate Selatan_97713|97734
+.1024_Bastiong Karance_97713
+.1006_Bastiong Talangame_97716
+.1003_Fitu_97718
+.1002_Gambesi_97719
+.1009_Jati_97716
+.1022_Jati Perumnas_97713
+.1004_Kalumata_97718
+.1005_Kayu Merah_97733
+.1008_Mangga Dua_97734
+.1021_Mangga Dua Utara_97713
+.1025_Ngade_97713
+.1001_Sasa_97719
+.1011_Tanah Tinggi_97715
+.1020_Tanah Tinggi Barat_97713
+.1010_Toboko_97715
+.1023_Tobona (Tabona)_97713
+.1007_Ubo-Ubo_97717
+82.71.06_Kota Ternate Tengah_97711|97732
+.1009_Gamalama_97721
+.1010_Kalumpang_97722
+.1006_Kampung Pisang_97712
+.1008_Kota Baru_97731
+.1013_Makassar Barat (Makasar Barat)_97724
+.1014_Makassar Timur (Makasar Timur)_97724
+.1005_Maliaro_97711
+.1007_Marikurubu_97711
+.1011_Moya_97723
+.1003_Muhajirin_97713
+.1015_Salahuddin_97732
+.1012_Santiong_97722
+.1004_Stadion_97712
+.1001_Takoma_97714
+.1002_Tanah Raja_97713
+.1016_Tongole_97711
+82.71.03_Kota Ternate Utara_97723|97738
+.1020_Akehuda_97735
+.1013_Dufa Dufa_97727
+.1009_Kasturian_97726
+.1010_Salero_97725
+.1012_Sangaji_97727
+.1019_Sangaji Utara_97736
+.1016_Sango_97729
+.1007_Soa_97725
+.1008_Soa Sio_97723
+.1015_Tabam_97728
+.1014_Tafure_97728
+.1017_Tarau_97737
+.1011_Toboleu_97726
+.1021_Tubo_97738
+82.71.04_Moti_97741
+.1006_Figur_97741
+.1002_Moti Kota_97741
+.1007_Tadenas_97741
+.1004_Tafaga_97741
+.1003_Tafamutu_97741
+.1001_Takofi_97741
+82.71.05_Pulau Batang Dua_97743
+.1004_Bido_97743
+.1003_Lelewi_97743
+.1001_Mayau_97743
+.1005_Pantai Sagu_97743
+.1006_Perum Bersatu_97743
+.1002_Tifure_97743
+82.71.07_Pulau Hiri_97745
+.1003_Dorari Isa_97745
+.1001_Faudu_97745
+.1005_Mado_97745
+.1006_Tafraka_97745
+.1004_Togolobe_97745
+.1002_Tomajiko_97745
+82.71.01_Pulau Ternate_97747
+.1005_Afe Taduma_97747
+.1019_Dorpedu_97747
+.1002_Foramadiahi_97747
+.1001_Jambula_97747
+.1003_Kastela_97747
+.1004_Rua_97747
+82.71.08_Ternate Barat_97747
+.1006_Bula_97747
+.1007_Kulaba_97747
+.1002_Loto_97747
+.1004_Sulamadaha_97747
+.1003_Takome_97747
+.1005_Tobololo_97747
+.1001_Togafo_97747

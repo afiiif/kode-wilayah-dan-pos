@@ -1,0 +1,311 @@
+95.02.08_Aboy_99401
+.2001_Aboy_99401
+.2005_Armise_99401
+.2004_Jubly_99401
+.2002_Luban_99401
+.2008_Lulis Wii_99401
+.2007_Pipal_99401
+.2006_Woro_99401
+95.02.11_Alemsom_99411
+.2002_Alemsom_99411
+.2006_Bakwalin Yub_99411
+.2011_Binalkom_99411
+.2009_Bondik_99411
+.2001_Eraduman_99411
+.2007_Imiryi_99411
+.2010_Muruman_99411
+.2004_Payol Masumkon_99411
+.2008_Sumtamon_99411
+.2003_Tapasik_99411
+.2005_Tapob_99411
+.2012_Tibal_99411
+95.02.18_Awinbon_99431
+.2001_Awinbon_99431
+.2004_Kawe_99431
+.2003_Mikir_99431
+.2002_Nanum Anaip_99431
+.2005_Yelobib_99431
+95.02.26_Batani_99441
+.2007_Bakata_99441
+.2002_Batani_99441
+.2001_Karye / Kariye_99441
+.2005_Palur Dua_99441
+.2004_Palur Satu_99441
+.2003_Segame_99441
+.2006_Sople_99441
+95.02.05_Batom_99442
+.2018_Abukerom_99442
+.2015_Akyako_99442
+.2001_Batom_99442
+.2014_Batom Dua_99442
+.2017_Belomo_99442
+.2009_Mongham (Mogham)_99442
+.2013_Muara_99442
+.2012_Neep_99442
+.2006_Oksip_99442
+.2016_Peteng_99442
+.2011_Sabi_99442
+95.02.10_Bime_99451
+.2001_Bime_99451
+.2004_Bob_99451
+.2010_Bunggon_99451
+.2006_Calab_99451
+.2005_Kameme_99451
+.2009_Lim Lim_99451
+.2007_Limiri_99451
+.2011_Perem_99451
+.2008_Teli_99451
+.2012_Turwe_99451
+95.02.06_Borme_99452
+.2007_Arina_99452
+.2016_Aringgon_99452
+.2015_Bordamban_99452
+.2001_Borme_99452
+.2017_Bukam_99452
+.2020_Cangdamban_99452
+.2019_Kolgir_99452
+.2018_Kwime_99452
+.2021_Laydamban_99452
+.2002_Omban_99452
+.2006_Onya_99452
+.2022_Seban_99452
+.2005_Sikibur_99452
+95.02.32_Eipumek_99453
+.2008_Barama_99453
+.2007_Basiringe_99453
+.2006_Bunyirye_99453
+.2001_Eipumek / Elpomek (Elpuna)_99453
+.2012_Kweredala_99453
+.2002_Lalakon_99453
+.2003_Londinin_99453
+.2014_Malingdam_99453
+.2013_Mungkona_99453
+.2010_Serabum_99453
+.2011_Supleyu_99453
+.2004_Talemu_99453
+.2009_Tanime_99453
+.2005_Wakidam_99453
+95.02.04_Iwur_99432
+.2008_Dinmot Arim_99432
+.2016_Dipol_99432
+.2013_Ewenkatop_99432
+.2001_Iwur_99432
+.2019_Kamyoim_99432
+.2002_Kurukim (Kurumkim/Kurumklin)_99432
+.2018_Narnger_99432
+.2017_Nenginum_99432
+.2015_Ulkubi_99432
+.2003_Walapkubun_99432
+95.02.30_Jetfa_99402
+.2006_Bris_99402
+.2001_Jetfa_99402
+.2005_Kalimbu_99402
+.2002_Lulis_99402
+.2004_Tupalma Dua_99402
+.2003_Tupalma Satu_99402
+95.02.13_Kalomdol_99412
+.2004_Arinkop_99412
+.2001_Dabolding_99412
+.2005_Imik_99412
+.2002_Kalomdol (Kalondoi)_99412
+.2003_Tulo_99412
+95.02.17_Kawor_99433
+.2001_Arintap_99433
+.2007_Ater_99433
+.2003_Kawor_99433
+.2006_Nanum_99433
+.2004_Sakup_99433
+.2002_Tarngop_99433
+.2005_Umding_99433
+95.02.02_Kiwirok_99421
+.2020_Asua_99421
+.2010_Berusaha_99421
+.2025_Delpem_99421
+.2024_Diip_99421
+.2007_Kiwi_99421
+.2004_Kukihil_99421
+.2022_Lolim_99421
+.2026_Mangoldoki_99421
+.2001_Oknanggul_99421
+.2015_Pelebib_99421
+.2023_Pomding_99421
+.2018_Sopamikma_99421
+95.02.07_Kiwirok Timur_99422
+.2006_Dikdon_99422
+.2004_Ehiptem (Ehipten/Ohiptem)_99422
+.2003_Oketur_99422
+.2013_Okhik (Oklip)_99422
+.2008_Okyako_99422
+.2011_Okyaop_99422
+.2002_Okyop (Okyob/Okyaop)_99422
+.2012_Tatam_99422
+.2005_Wantem (Wanten)_99422
+95.02.29_Mofinop_99443
+.2002_Milki_99443
+.2001_Mot / Moot_99443
+.2004_Muara Asbi_99443
+.2005_Tual_99443
+.2003_Yubu_99443
+95.02.28_Murkim_99444
+.2001_Bias_99444
+.2002_Bumi_99444
+.2004_Delemo_99444
+.2003_Tero_99444
+95.02.34_Nongme_99445
+.2006_Cangpally_99445
+.2007_Kwarban_99445
+.2001_Nongme_99445
+.2005_Omtamur_99445
+.2002_Rubol_99445
+.2004_Yarigon_99445
+.2003_Yokom_99445
+95.02.16_Ok Aom_99413
+.2005_Aplim_99413
+.2002_Bulangkop_99413
+.2001_Kungulding_99413
+.2003_Limarum_99413
+.2006_Okdo_99413
+.2004_Yumakot_99413
+95.02.25_Okbab_99403
+.2009_Atembabol_99403
+.2002_Borban_99403
+.2004_Dumpasi_99403
+.2003_Kirimu_99403
+.2005_Maksum_99403
+.2012_Markom_99403
+.2010_Omliom_99403
+.2006_Pedam_99403
+.2011_Peneli_99403
+.2001_Sabin_99403
+.2007_Tupoplyom_99403
+.2008_Yapil_99403
+95.02.12_Okbape_99414
+.2003_Akmer_99414
+.2001_Bape_99414
+.2006_Ibot_99414
+.2004_Kasawi_99414
+.2002_Masim_99414
+.2005_Tapasik Dua Bapenka (Tapasik Dua)_99414
+95.02.23_Okbemtau_99423
+.2007_Atang Doki_99423
+.2005_Bemhimiku_99423
+.2006_Bilip Bayo_99423
+.2009_Kaep_99423
+.2008_Okalut Kumal_99423
+.2003_Okbem_99423
+.2004_Okngam_99423
+.2002_Oktaru_99423
+.2001_Oktau_99423
+95.02.03_Okbibab_99404
+.2004_Abmisibil (Apmisibil)_99404
+.2016_Atoldol (Atolbol)_99404
+.2011_Iriding_99404
+.2008_Manunggal (Okipur)_99404
+.2019_Okaplo_99404
+.2001_Okbifisil (Okbifisis)_99404
+.2018_Oksemar_99404
+.2017_Oktanglap_99404
+95.02.20_Okhika_99424
+.2002_Kotyobakon_99424
+.2001_Okelwel_99424
+.2003_Okteneng_99424
+.2004_Tengnong_99424
+95.02.22_Oklip_99425
+.2007_Komok_99425
+.2005_Okamin_99425
+.2004_Okbumul_99425
+.2002_Okhim_99425
+.2001_Oklip_99425
+.2003_Oktem_99425
+.2006_Oktumi_99425
+95.02.21_Oksamol_99426
+.2005_Autpahik_99426
+.2010_Bomding_99426
+.2009_Honkuding_99426
+.2004_Okdilam_99426
+.2011_Okdunam_99426
+.2008_Okhaka_99426
+.2001_Okma_99426
+.2007_Okpa_99426
+.2002_Oktae_99426
+.2012_Paune_99426
+.2003_Tinibil_99426
+.2006_Tomka_99426
+95.02.24_Oksebang_99427
+.2001_Kubiphkop (Kubibkop)_99427
+.2004_Mangabip_99427
+.2002_Okano_99427
+.2003_Sebul_99427
+95.02.01_Oksibil_99415
+.2020_Akmakot_99415
+.2017_Aldom_99415
+.2022_Bunamdol_99415
+.2001_Kabiding (Betaabib)_99415
+.2018_Kutdol_99415
+.2021_Mabilabol_99415
+.2023_Molbib Silibib_99415
+.2019_Polsam_99415
+95.02.14_Oksop_99416
+.2005_Alutbakon_99416
+.2003_Atenor / Atenar_99416
+.2002_Mimin_99416
+.2001_Oksop_99416
+.2004_Oktumi_99416
+95.02.33_Pamek_99454
+.2007_Baramirye_99454
+.2004_Barice_99454
+.2005_Imde_99454
+.2010_Kalek_99454
+.2006_Lumdakna_99454
+.2008_Mandalak_99454
+.2001_Marikla_99454
+.2003_Pamek_99454
+.2011_Pinggon_99454
+.2002_Yabosorom_99454
+.2009_Yokul_99454
+95.02.09_Pepera_99417
+.2009_Bon Yakwol_99417
+.2008_Denom_99417
+.2010_Ok Telabe (Ok Telab)_99417
+.2006_Okbon_99417
+.2002_Pepera_99417
+.2011_Wok Bakon_99417
+.2007_Yun Muku_99417
+95.02.15_Serambakon_99418
+.2005_Modusit_99418
+.2008_Okatem_99418
+.2003_Parim_99418
+.2002_Seramkatop_99418
+.2004_Siminbuk_99418
+.2006_Wanbakon_99418
+.2007_Yakmor_99418
+.2001_Yapimakot_99418
+95.02.19_Tarup_99434
+.2006_Beten Dua_99434
+.2004_Bitipding_99434
+.2003_Imsin_99434
+.2002_Marang Tiking_99434
+.2007_Omor_99434
+.2005_Onkor_99434
+.2001_Tarup_99434
+95.02.31_Teiraplu_99405
+.2010_Bautme_99405
+.2003_Maigame_99405
+.2004_Murme_99405
+.2002_Sinami / Sinani (Yuaban)_99405
+.2001_Teiraplu_99405
+.2007_Terapdei_99405
+.2009_Teriame_99405
+.2008_Yitarget_99405
+.2006_Yuaban Dua_99405
+.2005_Yuaban Satu_99405
+95.02.27_Weime_99446
+.2008_Daluban_99446
+.2005_Limrepasikne_99446
+.2007_Mekdamgon_99446
+.2001_Merpasikne_99446
+.2004_Meryang_99446
+.2009_Nomteren_99446
+.2002_Taramlu_99446
+.2003_Weime_99446
+.2006_Youlban (Yolban)_99446

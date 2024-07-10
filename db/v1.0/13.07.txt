@@ -1,0 +1,92 @@
+13.07.13_Akabiluru_26252
+.2003_Batuhampar (Batu Hampa)_26252
+.2007_Durian Gadang_26252
+.2002_Koto Tangah Batu Ampa (Koto Tangah Batu Hampa)_26252
+.2006_Pauh Sangik_26252
+.2001_Sariak Laweh_26252
+.2004_Suayan_26252
+.2005_Sungai Balantiak (Sei / Sungai Balantik)_26252
+13.07.12_Bukik Barisan_26257
+.2002_Banja Loweh (Banja Laweh)_26257
+.2003_Baruah Gunuang_26257
+.2005_Koto Tangah_26257
+.2001_Maek_26257
+.2004_Sungai Naniang_26257
+13.07.02_Guguak (Gugu)_26253
+.2001_Guguak VIII Koto_26253
+.2004_Kubang_26253
+.2005_Simpang Sugiran_26253
+.2003_Sungai Talang_26253
+.2002_VII/Tujuh Koto Talago_26253
+13.07.08_Gunuang Omeh (Gunung Mas)_26256
+.2002_Koto Tinggi_26256
+.2001_Pandam Gadang_26256
+.2003_Talang Anau_26256
+13.07.05_Harau_26271
+.2006_Batu Balang_26271
+.2004_Bukik Limbuku_26271
+.2008_Gurun_26271
+.2005_Harau_26271
+.2010_Koto Tuo_26271
+.2009_Lubuak Batingkok_26271
+.2011_Pilubang_26271
+.2007_Sarilamak_26271
+.2002_Solok Bio-Bio_26271
+.2001_Taram_26271
+.2003_Tarantang_26271
+13.07.07_Kapur IX/Sembilan_26273
+.2005_Durian Tinggi_26273
+.2007_Galugua/Gelugur_26273
+.2002_Koto Bangun_26273
+.2004_Koto Lamo_26273
+.2003_Lubuk/Lubuak Alai_26273
+.2001_Muaro Paiti_26273
+.2006_Sialang_26273
+13.07.09_Lareh Sago Halaban_26262
+.2003_Ampalu_26262
+.2005_Balai Panjang_26262
+.2002_Batu Payuang (Batu Payung)_26262
+.2004_Bukik Sikumpa_26262
+.2006_Halaban_26262
+.2001_Labuah Gunuang_26262
+.2008_Sitanang_26262
+.2007_Tanjung/Tanjuang Gadang_26262
+13.07.04_Luak (Luhak)_26261
+.2004_Andaleh_26261
+.2002_Mungo_26261
+.2003_Sungai Kamuyang_26261
+.2001_Tj. Haro Sikabu-kabu Pd. Panjang_26261
+13.07.11_Mungka_26254
+.2001_Jopang Manganti_26254
+.2003_Mungka_26254
+.2002_Simpang Kapuak_26254
+.2005_Sungai Antuan_26254
+.2004_Talang Maur (Talang Maua)_26254
+13.07.06_Pangkalan Koto Baru_26272
+.2003_Gunuang Malintang_26272
+.2005_Koto Alam_26272
+.2001_Manggilang_26272
+.2004_Pangkalan_26272
+.2006_Tanjung Pauh (Tanjung / Tanjuang Pauah)_26272
+.2002_Tanjung/Tanjuang Balik_26272
+13.07.03_Payakumbuh_26251
+.2001_Koto Baru Simalanggang_26251
+.2007_Koto Tangah Simalanggang_26251
+.2005_Piobang_26251
+.2003_Simalanggang_26251
+.2004_Sungai Beringin_26251
+.2006_Taeh Baruah_26251
+.2002_Taeh Bukik_26251
+13.07.10_Situjuah Limo Nagari (Situjuah Lima Nagari)_26250
+.2004_Situjuah Banda Dalam_26250
+.2001_Situjuah Batua_26250
+.2005_Situjuah Gadang_26250
+.2002_Situjuah Ladang Laweh_26250
+.2003_Tungka_26250
+13.07.01_Suliki_26255
+.2006_Andiang_26255
+.2001_Kurai_26255
+.2005_Limbanang_26255
+.2004_Suliki_26255
+.2002_Sungai Rimbang_26255
+.2003_Tanjuang Bungo_26255

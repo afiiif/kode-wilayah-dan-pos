@@ -1,0 +1,123 @@
+64.03.12_Batu Putih_77372|77373
+.2005_Ampen Medang_77373
+.2006_Balik Kukuk (Balikukup)_77373
+.2003_Batu Putih_77373
+.2002_Kayu Indah_77372
+.2004_Lobang Kelatak_77373
+.2007_Sumber Agung_77372
+.2001_Tembudan_77372
+64.03.13_Biatan_77372
+.2006_Biatan Bapinang_77372
+.2007_Biatan Baru_77372
+.2002_Biatan Ilir_77372
+.2004_Biatan Lempake_77372
+.2001_Biatan Ulu_77372
+.2008_Bukit Makmur Jaya_77372
+.2003_Karangan_77372
+.2005_Manunggal Jaya_77372
+64.03.08_Biduk-Biduk_77373
+.2001_Biduk-Biduk_77373
+.2009_Giring-Giring_77373
+.2002_Pantai Harapan_77373
+.2003_Tanjung Prepat (Tanjung Perepat)_77373
+.2008_Teluk Sulaiman_77373
+.2004_Teluk Sumbang_77373
+64.03.06_Gunung Tabur_77352
+.2011_Batu-Batu_77352
+.2002_Birang_77352
+.1003_Gunung Tabur_77352
+.2004_Maluang_77352
+.2010_Melati Jaya_77352
+.2008_Merancang Ilir_77352
+.2007_Merancang Ulu_77352
+.2009_Pulau Besing_77352
+.2006_Sambakungan_77352
+.2005_Samburakat_77352
+.2001_Tasuk_77352
+64.03.01_Kelay_77362
+.2006_Lesan Dayak_77362
+.2007_Long Beliu_77362
+.2008_Long Duhung_77362
+.2010_Long Keluh_77362
+.2009_Long Lamcin_77362
+.2011_Long Pelay_77362
+.2013_Long Sului_77362
+.2012_Mapulu_77362
+.2001_Merabu_77362
+.2003_Merapun_77362
+.2005_Merasa_77362
+.2004_Muara Lesan_77362
+.2002_Panaan_77362
+.2014_Sido Bangen_77362
+64.03.11_Maratua_77381
+.2001_Bohe Silian (Maratua Bohesilian)_77381
+.2002_Payung-Payung (Maratua Payung-Payung)_77381
+.2003_Teluk Alulu (Maratua Teluk Alulu)_77381
+.2004_Teluk Harapan (Maratua Teluk Harapan)_77381
+64.03.07_Pulau Derawan_77380
+.2009_Kasai_77380
+.2001_Pegat Batumbuk (Pegat Bertumbuk)_77380
+.2004_Pulau Derawan_77380
+.2003_Tanjung Batu_77380
+.2002_Teluk Semanting_77380
+64.03.03_Sambaliung_77371
+.2010_Bebanir (Sei Bebanir Bangun)_77371
+.2015_Bena Baru_77371
+.2011_Gurimbang_77371
+.2004_Inaran_77371
+.2001_Long Lanuk_77371
+.2005_Pegat Bukur_77371
+.2009_Pesayan_77371
+.2008_Pilanjau_77371
+.2006_Rantau Panjang_77371
+.1013_Sambaliung_77371
+.2007_Suaran_77371
+.2012_Sukan Tengah_77371
+.2014_Tanjung Perangat_77371
+.2002_Tumbit Dayak_77371
+64.03.04_Segah_77361
+.2012_Batu Rajang_77361
+.2009_Bukit Makmur_77361
+.2007_Gunung Sari_77361
+.2010_Harapan Jaya_77361
+.2004_Long Ayan_77361
+.2003_Long Ayap_77361
+.2001_Long La'ai (Long Laay / Laai)_77361
+.2008_Pandan Sari_77361
+.2006_Punan Mahkam_77361
+.2005_Punan Malinau_77361
+.2002_Punan Segah_77361
+.2013_Siduung Indah_77361
+.2011_Tepian Buah_77361
+64.03.10_Tabalar_77374
+.2006_Buyung-Buyung (Radak)_77374
+.2007_Harapan Maju_77374
+.2005_Semurut_77374
+.2002_Tabalar Muara_77374
+.2004_Tabalar Ulu_77374
+.2003_Tubaan_77374
+64.03.02_Talisayan_77375
+.2015_Bumi Jaya_77375
+.2014_Campur Sari_77375
+.2023_Capuak_77375
+.2002_Dumaring_77375
+.2021_Eka Sapta_77375
+.2019_Purna Sari Jaya_77375
+.2018_Suka Murya_77375
+.2017_Sumber Mulya (Sumber Mulia)_77375
+.2003_Talisayan_77375
+.2016_Tunggal Bumi_77375
+64.03.05_Tanjung Redeb_77311|77315
+.1005_Bugis_77312
+.1006_Gayam_77315
+.1008_Gunung Panjang_77311
+.1007_Karang Ambun_77315
+.1003_Sei/Sungai Bedungun_77315
+.1004_Tanjung Redeb_77315
+64.03.09_Teluk Bayur_77313|77352
+.2004_Labanan Jaya_77352
+.2006_Labanan Makarti_77352
+.2005_Labanan Makmur_77352
+.1003_Rinding_77313
+.1002_Teluk Bayur_77315
+.2001_Tumbit Melayu_77315

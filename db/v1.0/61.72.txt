@@ -1,0 +1,31 @@
+61.72.02_Singkawang Barat_79121|79124
+.1004_Kuala_79124
+.1002_Melayu_79122
+.1001_Pasiran_79123
+.1003_Tengah_79121
+61.72.05_Singkawang Selatan_79163
+.1004_Pangmilang_79163
+.1002_Sagatani_79163
+.1001_Sedau_79163
+.1003_Sijangkung_79163
+61.72.01_Singkawang Tengah_79111|79116
+.1005_Bukit Batu_79114
+.1002_Condong_79111
+.1004_Jawa_79116
+.1001_Roban_79112
+.1006_Sei/Sungai Wie_79115
+.1003_Sekip Lama_79113
+61.72.03_Singkawang Timur_79251
+.1004_Bagak Sahwa_79251
+.1003_Maya Sopa (Mayasopa)_79251
+.1002_Nyarumkop (Nyarungkop)_79251
+.1001_Pajintan_79251
+.1005_Sanggau Kulor (Sanggau Kolor)_79251
+61.72.04_Singkawang Utara_79151
+.1002_Naram_79151
+.1003_Sei/Sungai Bulan_79151
+.1001_Sei/Sungai Garam Hilir_79151
+.1004_Sei/Sungai Rasau_79151
+.1007_Semelagi Kecil_79151
+.1006_Setapuk Besar_79151
+.1005_Setapuk Kecil_79151

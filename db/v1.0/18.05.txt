@@ -1,0 +1,166 @@
+18.05.08_Banjar Agung_34682
+.2001_Banjar Agung_34682
+.2024_Banjar Dewa_34682
+.2011_Dwi Warga Tunggal Jaya_34682
+.2009_Moris Jaya_34682
+.2007_Tri Dharma Wira Jaya_34682
+.2020_Tri Mukti Jaya_34682
+.2019_Tri Mulya Jaya_34682
+.2021_Tri Tunggal Jaya_34682
+.2010_Tunggal Warga_34682
+.2023_Warga Indah Jaya_34682
+.2022_Warga Makmur Jaya_34682
+18.05.29_Banjar Baru_34685
+.2006_Balai Murni Jaya_34685
+.2004_Bawang Sakti Jaya_34685
+.2009_Bawang Tirto Mulyo_34685
+.2008_Jaya Makmur_34685
+.2003_Kahuripan Jaya_34685
+.2010_Karya Murni Jaya_34685
+.2007_Mekar Indah Jaya_34685
+.2005_Mekar Jaya_34685
+.2002_Panca Karsa Purna Jaya_34685
+.2001_Panca Mulia (Panca Mulya)_34685
+18.05.20_Banjar Margo_34684
+.2007_Agung Dalem (Agung Dalam)_34684
+.2010_Agung Jaya_34684
+.2001_Bujuk Agung_34684
+.2004_Catur Karya Buana (Catur Karya Buana Jaya)_34684
+.2012_Mekar Jaya_34684
+.2006_Penawar Jaya_34684
+.2011_Penawar Rejo_34684
+.2005_Purwa Jaya (Purwajaya)_34684
+.2002_Ringin Sari_34684
+.2003_Sukamaju_34684
+.2008_Sumber Makmur_34684
+.2009_Tri Tunggal Jaya_34684
+18.05.25_Dente Teladas_34596
+.2007_Bratasena Adiwarna_34596
+.2008_Bratasena Mandiri_34596
+.2010_Dente Makmur_34596
+.2002_Kekatung_34596
+.2003_Kuala Teladas_34596
+.2004_Mahabang_34596
+.2006_Pasiran Jaya_34596
+.2011_Pendowo Asri_34596
+.2012_Sungai Burung_34596
+.2005_Sungai Nibung_34596
+.2001_Teladas_34596
+.2009_Way Dente_34596
+18.05.06_Gedung Aji_34681
+.2001_Aji Jaya KNPI_34681
+.2024_Aji Mesir_34681
+.2023_Aji Murni Jaya_34681
+.2025_Aji Permai Talang Buah_34681
+.2026_Bandar Aji Jaya_34681
+.2015_Gedung Aji_34681
+.2002_Kecubung Jaya_34681
+.2008_Kecubung Mulya_34681
+.2016_Penawar_34681
+.2022_Penawar Baru_34681
+18.05.27_Gedung Aji Baru_34595
+.2005_Batu Ampar_34595
+.2003_Makartitama (Makarti Tama)_34595
+.2008_Mekar Asri_34595
+.2002_Mesir Dwi Jaya_34595
+.2006_Setia Tama_34595
+.2009_Sidomekar (Sido Mekar)_34595
+.2001_Sidomukti (Sido Mukti)_34595
+.2004_Suka Bhakti_34595
+.2007_Sumber Jaya_34595
+18.05.11_Gedung Meneng_34597
+.2007_Bakung Ilir_34597
+.2018_Bakung Rahayu_34597
+.2006_Bakung Udik_34597
+.2008_Gedung Bandar Rahayu_34597
+.2017_Gedung Bandar Rejo_34597
+.2002_Gedung Meneng_34597
+.2019_Gedung Meneng Baru_34597
+.2001_Gunung Tapa_34597
+.2014_Gunung Tapa Ilir_34597
+.2015_Gunung Tapa Tengah_34597
+.2016_Gunung Tapa Udik_34597
+18.05.02_Menggala_34611|34614
+.2007_Astra Ksetra (Astra Kesetra)_34613
+.2001_Bujung Tenuk_34613
+.2013_Kagungan Rahayu_34613
+.1011_Menggala Kota_34611
+.1008_Menggala Selatan_34611
+.1010_Menggala Tengah_34611
+.2014_Tiuh Tohou (Tiuh Toho)_34611
+.1009_Ujung Gunung Ilir_34611
+.2002_Ujung Gunung Ilir_34614
+18.05.30_Menggala Timur_34615|34619
+.2008_Bedarou Indah (Badarow Indah)_34616
+.2007_Cempaka Dalem (Cempaka Dalam)_34619
+.2010_Cempaka Jaya_34617
+.2006_Kahuripan Dalam (Kuripan Dalem)_34619
+.2004_Kibang Pacing_34617
+.2001_Lebuh Dalam (Lebuh Dalem)_34615
+.2003_Lingai_34619
+.2002_Menggala_34616
+.2005_Sungai Luar_34616
+.2009_Tri Makmur Jaya_34618
+18.05.26_Meraksa Aji_34680
+.2001_Bangun Rejo_34680
+.2005_Bina Bumi_34680
+.2003_Karya Bhakti (Karya Bakti)_34680
+.2007_Kecubung Raya_34680
+.2008_Marga Jaya_34680
+.2006_Mulyo Aji (Mulya Aji)_34680
+.2002_Paduan Rajawali (Panduan Rajawali)_34680
+.2004_Sukarame_34680
+18.05.23_Penawar Aji_34592
+.2002_Gedung Asri_34592
+.2001_Gedung Harapan_34592
+.2003_Gedung Rejo Sakti_34592
+.2006_Karya Makmur_34592
+.2008_Panca Tunggal Jaya_34592
+.2004_Pasar Batang_34592
+.2005_Suka Makmur_34592
+.2009_Sumber Sari_34592
+.2007_Wono Rejo_34592
+18.05.13_Penawar Tama_34593
+.2010_Bogatama (Boga Tama)_34593
+.2021_Dwimulyo (Dwi Mulyo)_34593
+.2019_Pulo Gadung_34593
+.2022_Rejo Sari (Rejosari)_34593
+.2020_Sidodadi_34593
+.2005_Sidoharjo_34593
+.2024_Sidomakmur_34593
+.2006_Sidomulyo_34593
+.2002_Tri Jaya_34593
+.2001_Tri Rejo Mulyo_34593
+.2013_Tri Tunggal Jaya_34593
+.2025_Trikarya (Tri Karya)_34593
+.2023_Wira Agung Sari (Wiraagung Sari)_34593
+.2011_Wiratama_34593
+18.05.12_Rawa Jitu Selatan (Rawajitu Selatan)_34591
+.2009_Bumi Ratu_34591
+.2004_Gedung Karya Jitu_34591
+.2013_Hargo Mulyo_34591
+.2005_Hargo Rejo_34591
+.2014_Karya Cipta Abadi_34591
+.2008_Karya Jitu Mukti_34591
+.2010_Medasari (Meda Sari)_34591
+.2006_Wono Agung_34591
+.2003_Yudha Karya Jitu_34591
+18.05.18_Rawa Jitu Timur (Rawajitu Timur)_34590
+.2004_Bumi Dipasena Abadi_34590
+.2002_Bumi Dipasena Agung_34590
+.2003_Bumi Dipasena Jaya_34590
+.2005_Bumi Dipasena Makmur_34590
+.2007_Bumi Dipasena Mulya_34590
+.2008_Bumi Dipasena Sejahtera_34590
+.2001_Bumi Dipasena Utama_34590
+.2006_Bumi Sentosa (Bumi Dipasena Sentosa)_34590
+18.05.22_Rawa Pitu_34594
+.2005_Andalas Cermin_34594
+.2002_Batang Hari_34594
+.2008_Bumi Sari_34594
+.2007_Gedung Jaya_34594
+.2009_Mulyo Dadi_34594
+.2003_Panggung Mulya (Panggung Mulyo)_34594
+.2006_Rawa Ragil_34594
+.2001_Sumber Agung_34594
+.2004_Yoso Mulyo (Duto Yoso Mulyo)_34594

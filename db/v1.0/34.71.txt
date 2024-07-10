@@ -1,0 +1,59 @@
+34.71.04_Danurejan_55211|55213
+.1003_Bausasran_55211
+.1001_Suryatmajan_55213
+.1002_Tegalpanggung (Tegal Panggung)_55212
+34.71.05_Gedongtengen (Gedong Tengen)_55271|55272
+.1002_Pringgokusuman_55272
+.1001_Sosromenduran_55271
+34.71.03_Gondokusuman_55221|55225
+.1004_Baciro_55225
+.1001_Demangan_55221
+.1003_Klitren_55222
+.1002_Kotabaru_55224
+.1005_Terban_55223
+34.71.10_Gondomanan_55121|55122
+.1001_Ngupasan_55122
+.1002_Prawirodirjan_55121
+34.71.02_Jetis_55231|55233
+.1001_Bumijo_55231
+.1002_Cokrodiningratan_55233
+.1003_Gowongan_55232
+34.71.14_Kotagede_55171|55173
+.1002_Prenggan_55172
+.1003_Purbayan_55173
+.1001_Rejowinangun_55171
+34.71.09_Kraton_55131|55133
+.1003_Kadipaten_55132
+.1002_Panembahan_55131
+.1001_Patehan_55133
+34.71.08_Mantrijeron_55141|55143
+.1001_Gedongkiwo_55142
+.1003_Mantrijeron_55143
+.1002_Suryodiningratan_55141
+34.71.12_Mergangsan_55151|55153
+.1003_Brontokusuman_55153
+.1001_Keparakan_55152
+.1002_Wirogunan_55151
+34.71.06_Ngampilan_55261|55262
+.1001_Ngampilan_55261
+.1002_Notoprajan_55262
+34.71.11_Pakualaman_55111|55112
+.1002_Gunungketur (Gunung Ketur)_55111
+.1001_Purwokinanti (Purwo Kinanti)_55112
+34.71.01_Tegalrejo_55241|55244
+.1004_Bener_55243
+.1002_Karangwaru_55241
+.1001_Kricak_55242
+.1003_Tegalrejo_55244
+34.71.13_Umbulharjo_55161|55167
+.1007_Giwangan_55163
+.1002_Muja Muju_55165
+.1005_Pandeyan_55161
+.1001_Semaki_55166
+.1006_Sorosutan_55162
+.1003_Tahunan_55167
+.1004_Warungboto_55164
+34.71.07_Wirobrajan_55251|55253
+.1001_Pakuncen_55253
+.1003_Patangpuluhan_55251
+.1002_Wirobrajan_55252

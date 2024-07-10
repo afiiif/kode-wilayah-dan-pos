@@ -1,0 +1,75 @@
+73.03.02_Bantaeng_92411|92415
+.1007_Karatuang_92411
+.2009_Kayu Loe_92411
+.1006_Lamalaka_92412
+.1005_Lembang_92411
+.1003_Letta_92415
+.1004_Mallilingi_92411
+.1008_Onto_92413
+.1002_Pallantikang_92411
+.1001_Tappanjeng_92411
+73.03.01_Bissappu_92451
+.1004_Bonto Atu_92451
+.2009_Bonto Cinde_92451
+.2008_Bonto Jai_92451
+.1007_Bonto Jaya_92451
+.1006_Bonto Langkasa_92451
+.1002_Bonto Lebang_92451
+.2010_Bonto Loe_92451
+.1001_Bonto Manai_92451
+.1005_Bonto Rita_92451
+.2012_Bonto Salluang_92451
+.1003_Bonto Sunggu_92451
+73.03.03_Eremerasa_92414|92415
+.2003_Barua_92415
+.2004_Kampala_92415
+.2002_Lonrong_92415
+.2008_Mamampang_92415
+.2006_Mappilawing_92415
+.2005_Pa'bentengan_92415
+.2007_Pa'bumbungang_92415
+.2009_Parang Loe (Parangloe)_92415
+.2001_Ulu Galung (Ulugalung)_92414
+73.03.07_Gantarang Keke (Gantareng Keke)_92461
+.2004_Bajiminasa_92461
+.1001_Gantarang Keke (Gantarangkeke)_92461
+.2006_Kaloling_92461
+.2003_Layoa_92461
+.1002_Tanah Loe (Tanahloe)_92461
+.2005_Tombolo_92461
+73.03.05_Pajukukang_92460
+.2006_Baruga_92460
+.2015_Batu Karaeng_92460
+.2004_Biang Loe (Biangloe)_92460
+.2002_Biangkeke_92460
+.2005_Borong Loe (Borongloe)_92460
+.2014_Lumpangan_92460
+.2010_Nipa-Nipa_92460
+.2003_Pa'jukukang_92460
+.2012_Papan Loe (Papanloe)_92460
+.2013_Rappoa_92460
+73.03.08_Sinoa_92450
+.2006_Bonto Bulaeng_92450
+.2002_Bonto Karaeng_92450
+.2003_Bonto Maccini_92450
+.2005_Bonto Majannang_92450
+.2004_Bonto Mate'ne_92450
+.2001_Bonto Tiro_92450
+73.03.04_Tompo Bulu (Tompobulu)_92462
+.2011_Balumbung_92462
+.1003_Banyorang_92462
+.2009_Bonto Bontoa (Bonto-Bontoa)_92462
+.2010_Bonto Tappalang_92462
+.1004_Campaga_92462
+.1005_Ereng-Ereng_92462
+.2006_Labbo_92462
+.1001_Lembang Gantarang Keke (Lembang Gantarangkeke)_92462
+.2008_Pattalassang (Pattallassang)_92462
+.2007_Pattaneteang_92462
+73.03.06_Uluere_92452
+.2010_Bonto Daeng_92452
+.2011_Bonto Lojong_92452
+.2001_Bonto Marannu_92452
+.2007_Bonto Rannu_92452
+.2006_Bonto Tallasa_92452
+.2002_Bonto Tangnga_92452

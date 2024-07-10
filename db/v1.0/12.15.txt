@@ -1,0 +1,60 @@
+12.15.02_Kerajaan_22271
+.2004_Kuta Dame (Kutadame)_22271
+.2003_Kuta Mariah/Meriah_22271
+.2002_Kuta Saga (Kutasaga)_22271
+.2014_Majanggut I_22271
+.2015_Majanggut II_22271
+.2006_Pardomuan_22271
+.2021_Perduhapen_22271
+.2005_Perpulungen (Parpulungan / Parpulungen)_22271
+.2001_Sukaramai_22271
+.2016_Surung Mersada_22271
+12.15.06_Pagindar_22270
+.2003_Lae Mbentar_22270
+.2002_Napatalun Perlambuken_22270
+.2004_Pagindar_22270
+.2001_Sibagindar_22270
+12.15.05_Pergetteng Getteng Sengkut_22273
+.2003_Aornakan I_22273
+.2005_Aornakan II_22273
+.2001_Kecupak I_22273
+.2002_Kecupak II_22273
+.2004_Simerpara_22273
+12.15.03_Salak_22272
+.2003_Boangmanalu (Boangmanalu Salak)_22272
+.2013_Kuta Tinggi_22272
+.2014_Penanggalan Binanga Boang_22272
+.2001_Salak I_22272
+.2002_Salak II_22272
+.2009_Sibongkaras_22272
+12.15.08_Siempat Rube_22274
+.2005_Kuta Jungak_22274
+.2003_Mungkur_22274
+.2002_Siempat Rube I_22274
+.2001_Siempat Rube II_22274
+.2004_Siempat Rube IV_22274
+.2006_Traju_22274
+12.15.01_Sitelu Tali Urang Jehe (Sitellu)_22275
+.2004_Bandar Baru_22275
+.2003_Kaban Tengah_22275
+.2007_Maholida_22275
+.2009_Malum_22275
+.2010_Mbinalun_22275
+.2008_Perjaga_22275
+.2006_Perolihen_22275
+.2005_Simberruna (Simberuna)_22275
+.2001_Tanjung Meriah_22275
+.2002_Tanjung Mulia_22275
+12.15.04_Sitelu Tali Urang Julu (Sitellu)_22276
+.2005_Cikaok_22276
+.2004_Lae Langge Namuseng_22276
+.2002_Pardomuan_22276
+.2003_Silima Kuta_22276
+.2001_Ulumerah (Ulu Merah)_22276
+12.15.07_Tinada_22277
+.2006_Buluh Tellang_22277
+.2001_Kuta Babo_22277
+.2004_Mahala_22277
+.2005_Prongil_22277
+.2003_Silima Kuta_22277
+.2002_Tinada_22277

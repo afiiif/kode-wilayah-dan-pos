@@ -1,0 +1,213 @@
+82.03.04_Galela_97761
+.2031_Barataku_97761
+.2003_Mamuya_97761
+.2002_Pune_97761
+.2024_Simau_97761
+.2001_Soa Sio_97761
+.2032_Towara (Torawa)_97761
+.2016_Toweka_97761
+82.03.14_Galela Barat_97761
+.2002_Dokulamo_97761
+.2003_Duma_97761
+.2004_Gotalamo_97761
+.2009_Kira_97761
+.2005_Makete_97761
+.2006_Ngidiho_97761
+.2007_Roko_97761
+.2008_Samuda (Samudra)_97761
+.2001_Soatobaru_97761
+82.03.16_Galela Selatan_97769
+.2005_Bale_97769
+.2004_Igobula_97769
+.2007_Ori_97769
+.2001_Seki_97769
+.2003_Soakonora_97769
+.2002_Togawa_97769
+.2006_Togawabesi_97769
+82.03.15_Galela Utara_97769
+.2010_Beringin Jaya_97769
+.2003_Bobisingo (Bobi Singo)_97769
+.2008_Dodowo_97769
+.2007_Jare (Jere)_97769
+.2012_Jere Tua_97769
+.2002_Lalonga_97769
+.2001_Limau_97769
+.2011_Pelita_97769
+.2004_Salimuli_97769
+.2006_Saluta_97769
+.2009_Togasa_97769
+.2005_Tutumaloleo_97769
+82.03.07_Kao_97764
+.2036_Biang_97764
+.2050_Goruang_97764
+.2002_Jati_97764
+.2001_Kao_97764
+.2038_Kukumutuk_97764
+.2003_Kusu_97764
+.2051_Kusu Lofra_97764
+.2037_Patang_97764
+.2012_Popon_97764
+.2011_Sasur_97764
+.2010_Soa Sangaji Dim-Dim (Soasangaji Dim Dim)_97764
+.2052_Sumber Agung_97764
+.2039_Waringin Lamo_97764
+.2009_Waringin Lelewi_97764
+82.03.21_Kao Barat_97764
+.2009_Bailengit_97764
+.2020_Beringin Agung_97764
+.2001_Gaga Apok (Gagaapok)_97764
+.2013_Kai_97764
+.2006_Leleseng (Lelesang)_97764
+.2015_Makarti_97764
+.2021_Margomolyo (Margomoyo)_97764
+.2003_Momoda_97764
+.2002_Ngoali_97764
+.2011_Parseba_97764
+.2012_Pitago_97764
+.2016_Sangaji Jaya_97764
+.2007_Soa Hukum_97764
+.2008_Soa Maetek (Soamaetek)_97764
+.2017_Takimo_97764
+.2014_Toboulamo_97764
+.2005_Tolabit_97764
+.2004_Toliwang_97764
+.2018_Torawat_97764
+.2010_Tuguis_97764
+.2019_Wonosari_97764
+82.03.22_Kao Teluk_97765
+.2009_Akelamo Raya (Akelamo Kao)_97765
+.2004_Barumadehe_97765
+.2007_Bobane Igo (Bobaneigo)_97765
+.2011_Dum Dum_97765
+.2010_Gamsungi_97765
+.2005_Kuntum Mekar_97765
+.2002_Makaeling_97765
+.2006_Pasir Putih_97765
+.2008_Tetewang_97765
+.2001_Tiowor_97765
+.2003_Tobanoma_97765
+82.03.20_Kao Utara_97764
+.2008_Bobale_97764
+.2005_Bori_97764
+.2010_Boulamo_97764
+.2007_Daru_97764
+.2006_Doro_97764
+.2012_Dowongimaiti_97764
+.2009_Gamlaha_97764
+.2002_Gulo_97764
+.2004_Pediwang (Pidiwang)_97764
+.2003_Tunuo_97764
+.2011_Warudu_97764
+.2001_Wateto_97764
+82.03.19_Loloda Kepulauan_97763
+.2010_Cera_97763
+.2006_Dagasuli_97763
+.2002_Dama_97763
+.2007_Dedeta_97763
+.2003_Dowonggila_97763
+.2008_Fitako_97763
+.2005_Jikolamo_97763
+.2001_Salube_97763
+.2009_Tobo Tobo_97763
+.2004_Tuakara_97763
+82.03.09_Loloda Utara_97763
+.2002_Apule (Apulea)_97763
+.2003_Asimiro (Asmiro)_97763
+.2001_Dorume_97763
+.2004_Dotia (Doitia)_97763
+.2023_Galao_97763
+.2007_Gisik_97763
+.2022_Igo_97763
+.2006_Kailupa_97763
+.2008_Kapa Kapa_97763
+.2028_Momojiu_97763
+.2005_Ngajam_97763
+.2009_Pacao (Pocao)_97763
+.2027_Podol_97763
+.2011_Posi Posi_97763
+.2012_Supu_97763
+.2010_Tate_97763
+.2024_Teru-Teru_97763
+.2026_Wori Moi_97763
+82.03.08_Malifut_97766
+.2024_Balisosang_97766
+.2007_Bobawa_97766
+.2019_Bukit Tinggi_97766
+.2027_Gayok_97766
+.2015_Mailoa_97766
+.2014_Malapa_97766
+.2005_Matsa_97766
+.2013_Ngofa Bobawa (Ngofabobawa)_97766
+.2002_Ngofa Gita (Ngofagita)_97766
+.2001_Ngofa Kiaha (Ngofakiaha)_97766
+.2016_Peleri_97766
+.2010_Sabaleh_97766
+.2003_Samsuma_97766
+.2012_Soma_97766
+.2025_Sosol/Malifut_97766
+.2023_Tabobo (Tobobo)_97766
+.2009_Tafasoho_97766
+.2011_Tagono_97766
+.2004_Tahane_97766
+.2008_Talapao_97766
+.2022_Terpadu_97766
+.2026_Wangeotek (Wangeotak)_97766
+82.03.05_Tobelo_97762
+.2004_Gamsungi_97762
+.2014_Gosoma_97762
+.2005_Gura_97762
+.2012_Kakara (Kakara A)_97762
+.2013_Kumo_97762
+.2018_MKCM_97762
+.2015_Rawajaya_97762
+.2024_Tagalaya_97762
+.2006_Wari_97762
+.2025_Wari Ino_97762
+82.03.13_Tobelo Barat_97762
+.2004_Birinoa_97762
+.2001_Kusuri_97762
+.2002_Sukamaju_97762
+.2003_Togoliua_97762
+.2005_Wangongira_97762
+82.03.06_Tobelo Selatan_97768
+.2003_Efi Efi_97768
+.2002_Gamhoku_97768
+.2015_Kakara B_97768
+.2001_Kupa Kupa_97768
+.2022_Kupa Kupa Selatan_97768
+.2006_Leleoto_97768
+.2024_Lemah Ino_97768
+.2005_Paca_97768
+.2021_Pale_97768
+.2018_Talaga Paca_97768
+.2020_Tioua_97768
+.2009_Tobe_97768
+.2004_Tomahalu (Toma Halu)_97768
+82.03.11_Tobelo Tengah_97768
+.2006_Kali Upa_97768
+.2005_Kalipitu_97768
+.2007_Lina Ino_97768
+.2008_Mahia (Wosi/Wosia Tengah)_97768
+.2002_Pitu_97768
+.2009_Tanjung Niara (Wosi/Wosia Selatan)_97768
+.2001_Upa_97768
+.2004_WKO_97768
+.2003_Wosi (Wosia)_97768
+82.03.12_Tobelo Timur_97767
+.2005_Gonga_97767
+.2004_Katana_97767
+.2002_Mawea_97767
+.2003_Meti_97767
+.2006_Todokuiha_97767
+.2001_Yaro_97767
+82.03.10_Tobelo Utara_97767
+.2001_Gorua_97767
+.2006_Gorua Selatan_97767
+.2007_Gorua Utara_97767
+.2008_Kokota Jaya (Kokotua Jaya)_97767
+.2003_Luari_97767
+.2002_Popilo_97767
+.2004_Popilo Utara (Popila Utara)_97767
+.2009_Ruko_97767
+.2010_Tolonua Selatan_97767
+.2005_Tolonuo_97767

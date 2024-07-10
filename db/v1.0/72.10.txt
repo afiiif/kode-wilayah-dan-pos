@@ -1,0 +1,191 @@
+72.10.12_Dolo_94361
+.2011_Kabobona_94361
+.2005_Karawana_94361
+.2006_Kotapulu (Kota Pulu)_94361
+.2007_Kotarindau_94361
+.2002_Langleso (Langaleso)_94361
+.2009_Maku_94361
+.2008_Panturabate (Waturalele)_94361
+.2010_Potoya_94361
+.2004_Soulowe_94361
+.2001_Tulo_94361
+.2003_Watubula_94361
+72.10.11_Dolo Barat_94360
+.2007_Balamoa_94360
+.2011_Balaroa Pewenu_94360
+.2006_Balumpewa_94360
+.2010_Bobo_94360
+.2004_Kaleke_94360
+.2002_Kaluku Tinggu_94360
+.2012_Luku_94360
+.2009_Mantikole_94360
+.2008_Pesaku_94360
+.2003_Pewunu_94360
+.2005_Rarampadende_94360
+.2001_Sibonu_94360
+72.10.09_Dolo Selatan_94371
+.2007_Balongga_94371
+.2004_Baluase_94371
+.2001_Bangga_94371
+.2003_Bulubete_94371
+.2010_Jono_94371
+.2011_Poi_94371
+.2006_Pulu_94371
+.2012_Ramba_94371
+.2005_Rogo_94371
+.2008_Sambo_94371
+.2002_Walatana_94371
+.2009_Wisolo_94371
+72.10.08_Gumbasa_94364
+.2006_Kalawara_94364
+.2002_Omu_94364
+.2004_Pakuli_94364
+.2007_Pakuli Utara_94364
+.2005_Pandere_94364
+.2003_Simoro_94364
+.2001_Tuwa_94364
+72.10.13_Kinovaro_94362
+.2002_Balane_94362
+.2005_Bolobia_94362
+.2009_Daenggune_94362
+.2006_Doda_94362
+.2007_Kalora_94362
+.2008_Kanuna_94362
+.2010_Kayumpia_94362
+.2001_Porame_94362
+.2004_Rondingo_94362
+.2003_Uwemanje_94362
+72.10.05_Kulawi_94363
+.2002_Banggaiba_94363
+.2004_Boladangko_94363
+.2010_Bolapapu_94363
+.2005_Lonca_94363
+.2015_Marena_94363
+.2011_Mataue_94363
+.2014_Namo_94363
+.2016_Poleroa Makuhi_94363
+.2006_Rantewulu_94363
+.2013_Salua_94363
+.2001_Siwongi_94363
+.2009_Sungku_94363
+.2003_Tangkulowi_94363
+.2012_Toro_94363
+.2007_Towulu_94363
+.2008_Winatu_94363
+72.10.06_Kulawi Selatan_94373
+.2002_Gimpu_94373
+.2005_Lawua_94373
+.2001_Lempelero_94373
+.2010_Moa_94373
+.2008_O'o Parese (O'o)_94373
+.2012_Palamaki_94373
+.2009_Palimakijawa (Pilimakujawa/Makujawa)_94373
+.2007_Salutome_94373
+.2004_Tompi Bugis_94373
+.2003_Tomua_94373
+.2011_Wangka_94373
+.2006_Watukilo_94373
+72.10.04_Lindu_94369
+.2004_Anca_94369
+.2002_Langko_94369
+.2005_Olu_94369
+.2001_Puroo_94369
+.2003_Tomado_94369
+72.10.14_Marawola_94372
+.2008_Baliase_94372
+.2003_Beka_94372
+.2009_Binangga_94372
+.2002_Bomba_94372
+.2010_Boyabaliase_94372
+.2001_Lebanu_94372
+.2005_Padende_94372
+.2004_Sibedi_94372
+.2006_Sunju_94372
+.2007_Tinggede_94372
+.2011_Tinggede Selatan_94372
+72.10.15_Marawola Barat_94374
+.2005_Dombu_94374
+.2012_Lemosiranindi_94374
+.2004_Lewara_94374
+.2003_Matantimali_94374
+.2009_Ongulero_94374
+.2008_Panasibaja_94374
+.2006_Soi_94374
+.2002_Taipanggabe_94374
+.2011_Wawujai_94374
+.2001_Wayu_94374
+.2010_Wiapore_94374
+.2007_Wugaga_94374
+72.10.03_Nokilalaki_94365
+.2005_Bulili_94365
+.2003_Kadidia_94365
+.2001_Kamarora A_94365
+.2002_Kamarora B_94365
+.2004_Sopu_94365
+72.10.02_Palolo_94366
+.2007_Ampera_94366
+.2012_Bahagia_94366
+.2011_Bakubakulu_94366
+.2005_Berdikari_94366
+.2001_Bobo_94366
+.2002_Bunga_94366
+.2003_Kapirowe (Kapiroe)_94366
+.2021_Karunia_94366
+.2017_Lembantongoa_94366
+.2004_Makmur_94366
+.2006_Patimbe (Petimbe)_94366
+.2013_Rahmat_94366
+.2015_Ranteleda_94366
+.2008_Rejeki_94366
+.2022_Sarumana_94366
+.2019_Sejahtera_94366
+.2010_Sigimpu_94366
+.2009_Sintuwu_94366
+.2014_Tanah Harapan_94366
+.2016_Tongoa_94366
+.2020_Ue rani_94366
+.2018_Uwe Nuni_94366
+72.10.07_Pipikoro_94370
+.2008_Banasu_94370
+.2002_Kalamanta_94370
+.2005_Kantewu_94370
+.2012_Kantewu II_94370
+.2001_Koja_94370
+.2010_Lawe_94370
+.2009_Lonebasa_94370
+.2003_Mamu_94370
+.2007_Mapahi_94370
+.2018_Masewo_94370
+.2011_Morui_94370
+.2016_Morui II_94370
+.2006_Onu_94370
+.2004_Peana_94370
+.2015_Pelempea_94370
+.2017_Poluroa_94370
+.2013_Porelea_94370
+.2019_Porelea II_94370
+.2014_Tuwo Tanijaya_94370
+72.10.01_Sigi Biromaru_94367
+.2003_Bora_94367
+.2008_Jono Oge_94367
+.2009_Kalukubula_94367
+.2010_Lolu_94367
+.2012_Loru_94367
+.2015_Maranatha_94367
+.2013_Mpanau_94367
+.2014_Ngatabaru_94367
+.2005_Olobuju_94367
+.2011_Pombewe_94367
+.2007_Sidera_94367
+.2002_Sidondo I_94367
+.2001_Sidondo II_94367
+.2016_Sidondo III_94367
+.2017_Sidondo IV_94367
+.2006_Soulowe_94367
+.2004_Watunonju_94367
+72.10.10_Tanambulava_94368
+.2001_Lambara_94368
+.2005_Sibalaya Barat_94368
+.2002_Sibalaya Selatan_94368
+.2003_Sibalaya Utara_94368
+.2004_Sibowi_94368

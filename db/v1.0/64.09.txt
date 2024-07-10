@@ -1,0 +1,58 @@
+64.09.03_Babulu_76285
+.2001_Babulu Darat_76285
+.2003_Babulu Laut_76285
+.2004_Gunung Intan_76285
+.2005_Gunung Makmur_76285
+.2011_Gunung Mulia_76285
+.2002_Labangka_76285
+.2012_Labangka Barat_76285
+.2007_Rawa Mulia_76285
+.2010_Rintik_76285
+.2006_Sebakung Jaya_76285
+.2008_Sri Raharja_76285
+.2009_Sumber Sari_76285
+64.09.01_Penajam_76141|76146
+.2021_Bukit Subur_76141
+.1013_Buluminung (Bulu Minung)_76144
+.1017_Gersik_76145
+.2020_Giri Mukti_76141
+.2023_Giri Purwa (Giripurwa)_76143
+.1012_Gunung Seteleng_76141
+.1018_Jenebora_76146
+.1006_Kampung Baru_76143
+.1004_Lawe Lawe_76142
+.1010_Nenang_76141
+.1009_Nipah Nipah_76142
+.1019_Pantai Lango_76146
+.1005_Pejala_76143
+.1011_Penajam_76141
+.1003_Petung_76144
+.1016_Riko_76145
+.1002_Salo Loang (Saloloang)_76143
+.1008_Sei/Sungai Parit_76142
+.1015_Sepan_76145
+.1007_Sesumpu_76142
+.2022_Sidorejo_76143
+.1014_Sotek_76144
+.1001_Tanjung Tengah_76143
+64.09.04_Sepaku_76146|76149
+.2009_Argo Mulyo_76147
+.2014_Binuang_76147
+.2002_Bukit Raya (Sepaku I)_76147
+.2004_Bumi Harapan_76147
+.2013_Karang Jinawi_76148
+.1007_Maridan_76146
+.1008_Mentawir_76149
+.1006_Pemaluan_76147
+.2010_Semoi Dua (Semoi II)_76147
+.1005_Sepaku_76148
+.2003_Suka Raja (Sukaraja / Sepaku II)_76147
+.2011_Suko Mulyo_76147
+.2015_Telemow_76147
+.2001_Tengin Baru (Sepaku III)_76147
+.2012_Wono Sari (Wonosari)_76147
+64.09.02_Waru_76284
+.2001_Api Api_76284
+.2004_Bangun Mulya_76284
+.2002_Sesulu_76284
+.1003_Waru_76284

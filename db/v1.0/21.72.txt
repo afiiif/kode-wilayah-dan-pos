@@ -1,0 +1,22 @@
+21.72.04_Bukit Bestari_29122|29124
+.1002_Dompak_29124
+.1004_Sei Jang_29124
+.1003_Tanjung Ayun Sakti_29124
+.1001_Tanjung Pinang Timur_29122
+.1005_Tanjung Unggat_29122
+21.72.01_Tanjung Pinang Barat_29111|29113
+.1004_Bukit Cermin_29111
+.1003_Kampung Baru_29113
+.1002_Kemboja_29112
+.1001_Tanjung Pinang Barat_29113
+21.72.03_Tanjung Pinang Kota_29111|29115
+.1005_Kampung Bugis_29115
+.1004_Penyengat_29114
+.1003_Senggarang_29111
+.1001_Tanjung Pinang Kota_29111
+21.72.02_Tanjung Pinang Timur_29122|29125
+.1003_Air Raja_29122
+.1004_Batu IX (Sembilan)_29125
+.1002_Kampung Bulang_29122
+.1001_Melayu Kota Piring_29123
+.1005_Pinang Kencana_29122

@@ -1,0 +1,277 @@
+18.01.21_Bakauheni_35592
+.2004_Bakauheni_35592
+.2003_Hatta (Hata)_35592
+.2005_Kelawi_35592
+.2001_Semanak_35592
+.2002_Toto Harjo (Totoharjo)_35592
+18.01.17_Candipuro_35356
+.2007_Banyumas_35356
+.2001_Batuliman Indah_35356
+.2008_Beringin Kencana_35356
+.2011_Bumi Jaya_35356
+.2006_Cinta Mulya (Cintamulya)_35356
+.2014_Karya Mulya Sari_35356
+.2003_Rantau Minyak_35356
+.2010_Rawa Selapan_35356
+.2004_Sidosari (Sidoasri)_35356
+.2002_Sinar Palembang_35356
+.2009_Sinar Pasemah_35356
+.2013_Titiwangi (Candipuro)_35356
+.2012_Trimomukti_35356
+.2005_Way Gelam_35356
+18.01.13_Jati Agung_35365
+.2018_Banjar Agung_35365
+.2009_Fajar Baru_35365
+.2004_Gedung Agung_35365
+.2006_Gedung Harapan_35365
+.2008_Jati Mulyo (Jatimulyo)_35365
+.2010_Karang Anyar_35365
+.2020_Karang Rejo_35365
+.2019_Karang Sari_35365
+.2011_Marga Kaya_35365
+.2007_Marga/Margo Agung_35365
+.2012_Margo Lestari_35365
+.2003_Margo Mulyo (Margomulyo)_35365
+.2005_Margodadi (Margo Dadi / Dari)_35365
+.2021_Margorejo (Margo Rejo)_35365
+.2017_Purwotani_35365
+.2016_Rejomulyo_35365
+.2002_Sidoasri (Sidodadi Asri)_35365
+.2015_Sidoharjo_35365
+.2014_Sinar Rejeki_35365
+.2013_Sumber Jaya_35365
+.2001_Way Hui (Way Huwi)_35365
+18.01.06_Kalianda_35551
+.2025_Agom_35551
+.2013_Babulang_35551
+.2009_Buah Berak_35551
+.2020_Bulok_35551
+.1006_Bumi Agung_35551
+.2017_Canggu_35551
+.2022_Gunung Terang_35551
+.2029_Hara Banjar Manis_35551
+.2001_Jondong_35551
+.1007_Kalianda_35551
+.2012_Kecapi_35551
+.2018_Kedaton_35551
+.2010_Kesugihan_35551
+.2005_Maja_35551
+.2023_Margacatur (Marga Catur)_35551
+.2019_Merak Belatung (Merak Belantung)_35551
+.2021_Munjuk Sampurna (Munjuk Sempurna)_35551
+.2026_Negeri Pandan_35551
+.2015_Palembapang_35551
+.2003_Pauh Tanjung Iman_35551
+.2011_Pematang_35551
+.2014_Sukaratu_35551
+.2024_Sukatani (Suka Tani)_35551
+.2004_Sumur Kumbang (Sumurkumbang)_35551
+.2016_Tajimalela_35551
+.2027_Taman Agung_35551
+.2002_Tengkujuh_35551
+.1028_Wai Lubuk_35551
+.1008_Way Urang (Wayurang)_35551
+18.01.08_Katibung_35452
+.2002_Babatan_35452
+.2018_Karya Tunggal_35452
+.2009_Neglasari_35452
+.2003_Pardasuka_35452
+.2019_Rangai Tri Tunggal_35452
+.2020_Sidomekar_35452
+.2004_Sukajaya_35452
+.2006_Tanjung Agung (Tanjungagung)_35452
+.2005_Tanjung Ratu (Tanjungratu)_35452
+.2007_Tanjungan_35452
+.2001_Tarahan_35452
+.2008_Trans Tanjungan_35452
+18.01.14_Ketapang_35596
+.2001_Bangunrejo (Bangun Rejo)_35596
+.2012_Berundung_35596
+.2003_Karang Sari_35596
+.2014_Kemukus_35596
+.2004_Ketapang_35596
+.2015_Lebung Nala (Lembung Nala)_35596
+.2005_Legundi_35596
+.2011_Pematang Pasir_35596
+.2007_Ruguk_35596
+.2010_Sidoasih_35596
+.2016_Sidoluhur (Sido Luhur)_35596
+.2002_Sripendowo (Sri Pendowo)_35596
+.2009_Sumber Nadi (Sumbernadi)_35596
+.2008_Sumur_35596
+.2013_Taman Sari_35596
+.2006_Tri Dharma Yoga (Tridarmayoga)_35596
+.2017_Wai Sidomukti_35596
+18.01.18_Merbau Mataram_35357
+.2004_Baru Ranji_35357
+.2009_Batu Agung (Batuagung)_35357
+.2015_Karang Jaya_35357
+.2005_Karang Jaya (Kelurahan Karang Jaya)_35357
+.2007_Lebung Sari (Lebungsari)_35357
+.2014_Mekar Jaya_35357
+.2001_Merbau Mataram_35357
+.2013_Panca Tunggal_35357
+.2008_Puji Rahayu (Pujirahayu)_35357
+.2011_Sinar Karya_35357
+.2002_Suban_35357
+.2006_Talang Jawa_35357
+.2003_Tanjung Baru_35357
+.2010_Tanjung Harapan_35357
+.2012_Triharjo_35357
+18.01.04_Natar_35362
+.2016_Bandarejo (Bandar Rejo)_35362
+.2013_Banjar Negeri (Banjarnegeri)_35362
+.2011_Beranti/Branti Raya_35362
+.2009_Bumi Sari (Bumisari)_35362
+.2010_Candi Mas_35362
+.2012_Haduyang_35362
+.2001_Hajimena_35362
+.2024_Kali Sari_35362
+.2022_Krawang Sari_35362
+.2014_Mandah_35362
+.2007_Merak Batin_35362
+.2005_Muara Putih_35362
+.2004_Natar_35362
+.2006_Negara Ratu_35362
+.2019_Pancasila_35362
+.2003_Pemanggilan_35362
+.2018_Purwosari_35362
+.2020_Rejosari_35362
+.2015_Rulung Herok/Helok_35362
+.2026_Rulung Mulya_35362
+.2021_Rulung Raya_35362
+.2025_Rulung Sari_35362
+.2002_Sidosari_35362
+.2017_Suka Damai (Sukadamai)_35362
+.2008_Tanjung Sari (Tanjungsari)_35362
+.2023_Wai Sari_35362
+18.01.10_Palas_35594
+.2012_Bali Agung_35594
+.2010_Bandan Hurip_35594
+.2005_Bangunan_35594
+.2018_Bumi Asih_35594
+.2020_Bumi Asri_35594
+.2013_Bumi Daya_35594
+.2015_Bumi Restu_35594
+.2019_Kalirejo_35594
+.2017_Mekar Mulya_35594
+.2007_Palas Aji_35594
+.2009_Palas Jaya_35594
+.2008_Palas Pasemah_35594
+.2016_Pematang Baru_35594
+.2021_Pulau Jaya_35594
+.2011_Pulau Tengah_35594
+.2006_Rejo Mulyo_35594
+.2002_Sukabakti_35594
+.2003_Sukamulya (Suka Mulya)_35594
+.2001_Sukaraja_35594
+.2014_Tanjung Jaya_35594
+.2004_Tanjung Sari_35594
+18.01.09_Penengahan_35593
+.2012_Banjar Masin (Banjarmasin)_35593
+.2002_Belambangan_35593
+.2026_Gandri_35593
+.2015_Gayam_35593
+.2014_Gedung Harta (Gedungharta)_35593
+.2011_Kampung Baru (Kampungbaru)_35593
+.2001_Kekiling_35593
+.2007_Kelau_35593
+.2010_Klaten_35593
+.2005_Kuripan_35593
+.2004_Padan_35593
+.2009_Pasuruan_35593
+.2016_Penengahan (Panengahan)_35593
+.2020_Pisang_35593
+.2003_Rawi_35593
+.2008_Ruang Tengah_35593
+.2019_Suka Baru (Sukabaru)_35593
+.2017_Sukajaya_35593
+.2006_Taman Baru_35593
+.2021_Tanjung Heran_35593
+.2018_Tetaan_35593
+.2013_Way Kalam_35593
+18.01.16_Raja Basa (Rajabasa)_35552
+.2001_Banding_35552
+.2003_Batu Balak_35552
+.2002_Betung_35552
+.2005_Canggung_35552
+.2004_Canti_35552
+.2006_Cugung_35552
+.2007_Hargo Pancuran (Hargo Pancoran)_35552
+.2008_Kerinjing_35552
+.2010_Kota Guring_35552
+.2009_Kunjir (Kunyir)_35552
+.2011_Rajabasa_35552
+.2012_Sukaraja_35552
+.2013_Tanjung Gading_35552
+.2014_Tejang Pulau Sebesi_35552
+.2016_Wai Muli Timur_35552
+.2015_Way Muli (Waymuli)_35552
+18.01.07_Sidomulyo_35352
+.2001_Bandar Dalam_35352
+.2020_Banjar Suri_35352
+.2006_Budidaya (Budi Daya)_35352
+.2002_Campang Tiga_35352
+.2005_Kota Dalam_35352
+.2011_Seleretno (Seloretno)_35352
+.2012_Sidodadi_35352
+.2014_Sidomulyo_35352
+.2013_Sidorejo_35352
+.2015_Sidowaluyo_35352
+.2007_Siring Jaha_35352
+.2008_Suak_35352
+.2004_Suka Banjar (Sukabanjar)_35352
+.2009_Sukamaju_35352
+.2010_Sukamarga_35352
+.2003_Talang Baru_35352
+18.01.15_Sragi_35597
+.2002_Baktirasa (Bakti Rasa)_35597
+.2008_Bandar Agung_35597
+.2009_Kedaung_35597
+.2001_Kuala Sekampung_35597
+.2003_Mandala Sari (Mandalasari)_35597
+.2006_Marga Jasa (Margajasa)_35597
+.2010_Margasari_35597
+.2004_Sukapura_35597
+.2005_Sumber Agung_35597
+.2007_Sumber Sari_35597
+18.01.05_Tanjung Bintang_35361
+.2009_Budi Lestari_35361
+.2021_Galih Lunik_35361
+.2007_Jati Baru (Jatibaru)_35361
+.2011_Jati Indah_35361
+.2001_Kaliasin (Kali Asin)_35361
+.2003_Lematang_35361
+.2015_Purwodadi Simpang_35361
+.2022_Rejomulyo_35361
+.2008_Sabah Balau_35361
+.2005_Serdang_35361
+.2006_Sinar Ogan_35361
+.2013_Sindang Sari_35361
+.2023_Sri Katon_35361
+.2004_Sukanegara_35361
+.2010_Trimulyo_35361
+.2012_Way Galih_35361
+18.01.22_Tanjung Sari_35360
+.2001_Bangun Sari (Bangunsari)_35360
+.2007_Kertosari_35360
+.2008_Malangsari (Malang Sari)_35360
+.2005_Mulyosari (Mulyo Sari)_35360
+.2002_Purwodadi Dalam_35360
+.2003_Sidomukti_35360
+.2004_Wawasan_35360
+.2006_Wonodadi_35360
+18.01.24_Way Panji_35354
+.2004_Bali Nuraga_35354
+.2001_Sidoharjo (Sido Harjo)_35354
+.2002_Sidomakmur (Sido Makmur)_35354
+.2003_Sidoreno (Sido Reno)_35354
+18.01.23_Way Sulan_35456
+.2007_Banjarsari_35456
+.2008_Karang Pucung_35456
+.2001_Mekar Sari (Mekarsari)_35456
+.2004_Pamulihan (Pemulihan)_35456
+.2005_Purwodadi_35456
+.2006_Sukamaju_35456
+.2002_Sumber Agung (Sumberagung)_35456
+.2003_Talang Way Sulan_35456

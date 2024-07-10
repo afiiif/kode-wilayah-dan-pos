@@ -1,0 +1,236 @@
+35.21.15_Bringin_63285
+.2004_Bringin_63285
+.2008_Dampit_63285
+.2005_Dero_63285
+.2007_Gandong_63285
+.2010_Kenongorejo_63285
+.2003_Krompol_63285
+.2006_Legowetan (Lego Wetan)_63285
+.2002_Mojo_63285
+.2001_Sumberbening (Sumber Bening)_63285
+.2009_Suruh_63285
+35.21.05_Geneng_63271
+.2012_Baderan_63271
+.2015_Dempel_63271
+.2010_Geneng_63271
+.2013_Kasreman_63271
+.2006_Keniten_63271
+.2005_Keraswetan (Keras Wetan)_63271
+.2014_Kersikan_63271
+.2017_Kersoharjo_63271
+.2018_Klampisan_63271
+.2016_Klitik_63271
+.2011_Sidorejo_63271
+.2007_Tambakromo_63271
+.2009_Tepas_63271
+35.21.18_Gerih_63270
+.2003_Gerih_63270
+.2005_Guyung_63270
+.2004_Keraskulon (Keras Kulon)_63270
+.2001_Randusongo_63270
+.2002_Widodaren_63270
+35.21.03_Jogorogo_63262
+.2008_Brubuh_63262
+.2010_Dawung_63262
+.2004_Girimulyo_63262
+.2003_Jaten_63262
+.2009_Jogorogo_63262
+.2002_Kletekan_63262
+.2007_Macanan_63262
+.2005_Ngrayudan_63262
+.2012_Soco_63262
+.2006_Talang_63262
+.2011_Tanjungsari_63262
+.2001_Umbulrejo_63262
+35.21.17_Karanganyar_63257
+.2005_Bangunrejo_63257
+.2003_Gembol_63257
+.2001_Karanganyar (Karang Anyar)_63257
+.2002_Mengger_63257
+.2006_Pandean_63257
+.2007_Sekarjati_63257
+.2004_Sriwedari (Sri Wedari)_63257
+35.21.07_Karangjati_63284
+.2008_Brangol_63284
+.2001_Campurasri (Campur Asri)_63284
+.2002_Danguk_63284
+.2007_Dungmiri_63284
+.2003_Gempol_63284
+.2010_Jatipuro_63284
+.2013_Karangjati_63284
+.2014_Legundi_63284
+.2017_Plosolor (Ploso Lor)_63284
+.2011_Puhti_63284
+.2015_Rejomulyo_63284
+.2016_Rejuno_63284
+.2004_Ringinanom (Ringin Anom)_63284
+.2012_Sawo_63284
+.2005_Sembung_63284
+.2009_Sidokerto_63284
+.2006_Sidorejo_63284
+35.21.19_Kasreman_63281
+.2002_Cangakan_63281
+.2004_Gunungsari_63281
+.2001_Jatirejo_63281
+.2003_Karangmalang (Karang Malang)_63281
+.2005_Kasreman_63281
+.2008_Kyonten (Kiyonten)_63281
+.2006_Legokulon (Lego Kulon)_63281
+.2007_Tawun_63281
+35.21.11_Kedunggalar_63254
+.2008_Bangunrejo Kidul_63254
+.2001_Begal_63254
+.2011_Gemarang_63254
+.2006_Jatigembol (Jati Gembol)_63254
+.2009_Jenggrik_63254
+.2003_Katikan_63254
+.2012_Kawu_63254
+.2005_Kedunggalar_63254
+.2004_Palang Kidul (Pelang Kidul)_63254
+.2007_Pelanglor (Pelang Lor)_63254
+.2010_Wonokerto_63254
+.2002_Wonorejo_63254
+35.21.04_Kendal_63261
+.2009_Dadapan_63261
+.2008_Gayam_63261
+.2001_Karanggupito_63261
+.2002_Karangrejo_63261
+.2006_Kendal_63261
+.2005_Majasem_63261
+.2010_Patalan_63261
+.2004_Ploso_63261
+.2007_Sidorejo_63261
+.2003_Simo_63261
+35.21.06_Kwadungan_63283
+.2013_Banget_63283
+.2011_Budug_63283
+.2002_Dinden_63283
+.2004_Jenangan_63283
+.2014_Karangsono_63283
+.2001_Kendung_63283
+.2010_Kwadungan_63283
+.2012_Mojomanis_63283
+.2003_Pojok_63283
+.2005_Purwosari_63283
+.2008_Simo_63283
+.2007_Sumengko_63283
+.2006_Tirak_63283
+.2009_Warukkalong (Waruk Kalong)_63283
+35.21.13_Mantingan_63260
+.2007_Jatimulyo_63260
+.2003_Kedungharjo_63260
+.2002_Mantingan_63260
+.2004_Pakah_63260
+.2006_Pengkol_63260
+.2001_Sambirejo_63260
+.2005_Tambakboyo (Tambak Boyo)_63260
+35.21.09_Ngawi_63211|63218
+.2005_Banyuurip (Banyu Urip)_63218
+.2006_Beran_63216
+.2008_Grudo_63214
+.2007_Jururejo_63215
+.2002_Kandangan_63218
+.2004_Karangasri_63218
+.1014_Karangtengah (Karang Tengah)_63218
+.2011_Karangtengah Prandon_63218
+.2003_Kartoharjo_63218
+.2012_Kerek_63218
+.1015_Ketanggi_63211
+.2001_Mangunharjo_63218
+.1013_Margomulyo_63217
+.2010_Ngawi_63218
+.1016_Pelem_63212
+.2009_Watualang_63218
+35.21.02_Ngrambe_63263
+.2010_Babadan_63263
+.2013_Cepoko_63263
+.2002_Giriharjo_63263
+.2001_Hargomulyo_63263
+.2011_Krandegan_63263
+.2007_Manisharjo_63263
+.2014_Mendiro_63263
+.2009_Ngrambe_63263
+.2012_Pucangan_63263
+.2006_Sambirejo_63263
+.2003_Setono_63263
+.2008_Sidomulyo_63263
+.2005_Tawangrejo_63263
+.2004_Wakah_63263
+35.21.08_Padas_63280
+.2001_Banjaransari_63280
+.2002_Bendo_63280
+.2005_Bintoyo_63280
+.2013_Kedungprahu (Kedung Prahu)_63280
+.2015_Kwadungan Lor_63280
+.2007_Munggut_63280
+.2011_Pacing_63280
+.2012_Padas_63280
+.2014_Sambiroto_63280
+.2006_Sukowiyono_63280
+.2003_Tambakromo_63280
+.2004_Tungkulrejo_63280
+35.21.14_Pangkur_63282
+.2001_Babadan_63282
+.2004_Gandri_63282
+.2007_Ngompro_63282
+.2008_Pangkur_63282
+.2009_Paras_63282
+.2005_Pleset_63282
+.2002_Pohkonyal (Poh Konyal)_63282
+.2003_Sumber_63282
+.2006_Warutengah (Waruk Tengah)_63282
+35.21.10_Paron_63253
+.2002_Babadan_63253
+.2006_Dawu_63253
+.2013_Gelung_63253
+.2001_Gentong_63253
+.2008_Jambangan_63253
+.2011_Jeblogan_63253
+.2014_Kebon_63253
+.2004_Kedungputri (Kedung Putri)_63253
+.2012_Ngale_63253
+.2007_Paron_63253
+.2003_Semen_63253
+.2010_Sirigan_63253
+.2009_Teguhan_63253
+.2005_Tempuran_63253
+35.21.16_Pitu_63252
+.2010_Bangunrejo Lor_63252
+.2009_Banjarbanggi_63252
+.2007_Cantel_63252
+.2003_Dumplengan_63252
+.2001_Kalang_63252
+.2005_Karanggeneng_63252
+.2006_Ngancar_63252
+.2008_Papungan_63252
+.2002_Pitu_63252
+.2004_Selopuro_63252
+35.21.01_Sine_63264
+.2007_Gendol_63264
+.2003_Girikerto_63264
+.2005_Hargosari_63264
+.2014_Jagir_63264
+.2015_Kauman_63264
+.2013_Ketanggung_63264
+.2011_Kuniran_63264
+.2004_Ngrendeng_63264
+.2002_Pandansari_63264
+.2006_Pocol_63264
+.2008_Sine_63264
+.2009_Sumberejo_63264
+.2010_Sumbersari_63264
+.2012_Tulakan_63264
+.2001_Wonosari_63264
+35.21.12_Widodaren_63256
+.2001_Banyubiru (Banyu Biru)_63256
+.2009_Gendingan_63256
+.2007_Karangbanyu (Karang Banyu)_63256
+.2010_Kauman_63256
+.2005_Kayutrejo_63256
+.2002_Kedunggudel_63256
+.2003_Sekaralas (Sekar Alas)_63256
+.2004_Sekarputih (Sekar Putih)_63256
+.2006_Sidolaju_63256
+.2011_Sidomakmur_63256
+.2012_Walikukun_63256
+.2008_Widodaren_63256

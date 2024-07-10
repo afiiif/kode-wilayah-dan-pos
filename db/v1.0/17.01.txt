@@ -1,0 +1,169 @@
+17.01.08_Air Nipis_38571
+.2001_Keban Jati_38571
+.2010_Maras_38571
+.2005_Palak Bengkerung_38571
+.2008_Penandingan_38571
+.2007_Pino Baru_38571
+.2009_Suka Bandung_38571
+.2003_Suka Negeri_38571
+.2006_Sukamaju (Suka Maju)_38571
+.2004_Sukarami_38571
+.2002_Tanjung Beringin_38571
+17.01.10_Bunga Mas_38511
+.2003_Gindo Suli (Gindosuli)_38511
+.2002_Gunung Kayo_38511
+.2005_Kuripan_38511
+.2010_Padang Burnai_38511
+.2008_Padang Jawi_38511
+.2006_Padang Nibung_38511
+.2004_Talang Indah_38511
+.2009_Tanjung Aur_38511
+.2007_Tanjung Tebat_38511
+.2001_Tumbak Tebing (Tumbuk Tebing)_38511
+17.01.01_Kedurang_38553
+.2001_Batu Ampar_38553
+.2003_Bumi Agung_38553
+.2014_Durian Sebatang_38553
+.2028_Karang Agung_38553
+.2005_Keban Agung I_38553
+.2006_Keban Agung II_38553
+.2009_Keban Agung III_38553
+.2015_Lawang Agung_38553
+.2029_Lubuk Resam_38553
+.2011_Muara Tiga_38553
+.2030_Muara Tiga Ilir_38553
+.2027_Nanti Agung_38553
+.2013_Pajar Bulan_38553
+.2004_Palak Siring_38553
+.2002_Rantau Sialang_38553
+.2010_Suka Nanti (Tanjung Nanti / Sukananti)_38553
+.2007_Tanjung Alam_38553
+.2012_Tanjung Besar_38553
+.2008_Tanjung Negara_38553
+17.01.07_Kedurang Ilir_38554
+.2011_Air Sulau_38554
+.2002_Betungan_38554
+.2001_Karang Caya_38554
+.2008_Limus_38554
+.2010_Lubuk Ladung_38554
+.2004_Nanjungan_38554
+.2006_Padang Bindu_38554
+.2003_Pagar Banyu_38554
+.2007_Penindaian_38554
+.2012_Suka Jaya_38554
+.2005_Suka Rami (Sukarami I)_38554
+.2009_Sukaraja (Suka Raja)_38554
+17.01.05_Kota Manna_38511|38513
+.2006_Gelombang (Gelumbang)_38511
+.1009_Gunung Ayu (Gunung Ayu I)_38513
+.1019_Ibul_38513
+.1016_Kampung Baru_38511
+.1010_Kota Medan_38513
+.2018_Padang Berangin_38511
+.1020_Padang Kapuk_38511
+.2004_Padang Niur_38511
+.2001_Pagar Dewa_38513
+.1017_Pasar Baru_38512
+.2005_Tebat Kubu_38511
+17.01.04_Manna_38511
+.2033_Gunung Kembang_38511
+.2025_Gunung Sakti_38511
+.2026_Jeranglah Rendah_38511
+.2027_Jeranglah Tinggi_38511
+.1022_Kayu Kunyit_38511
+.2028_Kembang Ayun_38511
+.2019_Ketaping_38511
+.2023_Kota Padang_38511
+.2021_Lubuk Sirih Ilir_38511
+.2020_Lubuk Sirih Ulu_38511
+.2017_Manggul_38511
+.2024_Mela'o (Melao)_38511
+.2031_Padang Manis_38511
+.2032_Padang Pandan_38511
+.2029_Tambangan_38511
+.2016_Tanjung Besar_38511
+.2001_Tanjung Raman_38511
+.2018_Terulung_38511
+17.01.11_Pasar Manna_38513|38518
+.2001_Batu Kuning_38518
+.2002_Batu Lambang_38513
+.1005_Belakang Gedung_38514
+.1006_Gunung Mesir_38517
+.1008_Ketapang Besar_38516
+.1007_Padang Sialang_38517
+.1009_Pasar Bawah_38515
+.1004_Pasar Mulia_38518
+.1003_Tanjung Mulia_38518
+17.01.03_Pino_38570
+.2019_Air Umban_38570
+.2002_Anggut_38570
+.2015_Batu Bandung_38570
+.2025_Beringin Datar_38570
+.2021_Ganjuh_38570
+.2005_Gedung Agung_38570
+.2017_Kota Bumi_38570
+.1018_Masat_38570
+.2004_Padang Lebar_38570
+.2024_Padang Mumpo_38570
+.2023_Padang Tambak_38570
+.2022_Puding_38570
+.2020_Sebilo_38570
+.2001_Tanjung Aur I_38570
+.2003_Tanjung Eran_38570
+.2016_Ulak Lebar_38570
+17.01.06_Pino Raya (Pinoraya)_38572
+.2002_Air Kemang_38572
+.2008_Bandung Ayu_38572
+.2013_Cinto Mandi_38572
+.2015_Karang Cayo_38572
+.2018_Kemang Manis_38572
+.2014_Kembang Seri_38572
+.2017_Nanjungan_38572
+.2009_Napal Melintang_38572
+.2019_Padang Beriang_38572
+.2020_Padang Serasan_38572
+.2012_Pagar Gading_38572
+.2003_Pasar Pino_38572
+.2001_Selali (Selali I)_38572
+.2010_Serang Bulan_38572
+.2011_Suka Bandung_38572
+.2005_Talang Padang_38572
+.2004_Tanggo Raso_38572
+.2016_Tanjung Aur II (Tanjung Aur)_38572
+.2021_Telaga Dalam_38572
+.2006_Tungkal I_38572
+.2007_Tungkal II_38572
+17.01.02_Seginim_38552
+.2007_Babatan Ilir_38552
+.2008_Babatan Ulu_38552
+.2020_Banding Agung_38552
+.2005_Darat Sawah (Darat Sawah Ilir / Hilir)_38552
+.2029_Darat Sawah Ulu (Hulu)_38552
+.2018_Durian Seginim_38552
+.2031_Dusun Baru_38552
+.2022_Dusun Tengah_38552
+.2011_Gunung Ayu (Gunung Ayu II)_38552
+.2006_Kota Agung_38552
+.2015_Kota Bumi Baru_38552
+.2009_Muara Danau_38552
+.2017_Muara Payang_38552
+.2014_Muara Pulutan_38552
+.2001_Padang Lebar_38552
+.2023_Padang Siring_38552
+.2021_Pajar Bulan_38552
+.1024_Pasar Baru_38552
+.2016_Sindang Bulan_38552
+.2002_Sukaraja_38552
+.2030_Tanjung Agung_38552
+.2004_Tanjung Menang_38552
+17.01.09_Ulu Manna_38573
+.2010_Air Tenam Dalam_38573
+.2003_Bandar Agung_38573
+.2002_Batu Kuning_38573
+.2001_Batu Panco_38573
+.2009_Kayu Ajaran_38573
+.2007_Keban Jati_38573
+.2008_Lubuk Tapi_38573
+.2004_Merambung_38573
+.2005_Simpang Pino_38573
+.2006_Talang Tinggi_38573

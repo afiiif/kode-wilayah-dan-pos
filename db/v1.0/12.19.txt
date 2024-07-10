@@ -1,0 +1,163 @@
+12.19.03_Air Putih_21256
+.2008_Aras_21256
+.1001_Indrapura_21256
+.1019_Indrasakti_21256
+.2018_Kampung Kelapa_21256
+.2002_Limau Sundai_21256
+.2009_Pasar Lapan_21256
+.2003_Pematang Panjang_21256
+.2017_Perkotaan_21256
+.2010_Sipare-Pare_21256
+.2013_Suka Ramai_21256
+.2004_Sukaraja_21256
+.2007_Tanah Merah_21256
+.2014_Tanah Rendah_21256
+.2005_Tanah Tinggi_21256
+.2012_Tanjungharapan (Tanjung Harapan)_21256
+.2011_Tanjungkubah (Tanjung Kubah)_21256
+.2006_Tanjungmuda (Tanjung Muda)_21256
+.2015_Tanjungmulya_21256
+.2016_Titi Payung_21256
+12.19.10_Datuk Lima Puluh_21254|21255
+.2008_Air Hitam_21255
+.2010_Cahaya Pardomuan_21255
+.2002_Empat Negeri_21255
+.2009_Kwala Gunung_21255
+.2005_Lubuk Besar_21255
+.2004_Lubuk Hulu_21255
+.2001_Perkebunan Tanah Itam Ulu_21255
+.2006_Pulau Sejuk_21255
+.2007_Simpang Dolok_21255
+.2003_Sumber Rejo_21255
+12.19.11_Datuk Tanah Datar_21253
+.2005_Bangun Sari_21254
+.2004_Binjai Baru_21254
+.2010_Glugur Makmur_21254
+.2006_Karang Baru_21254
+.2008_Mekar Baru_21254
+.2007_Perkebunan Petatal_21254
+.2003_Perkebunan Tanah Datar_21254
+.2009_Petatal_21254
+.2002_Sei Muka_21254
+.2001_Sumber Tani_21254
+12.19.08_Laut Tador_21257
+.2005_Dewi Sri_21257
+.2010_Kandangan_21257
+.2002_Laut Tador_21257
+.2008_Mekar Sari_21257
+.2003_Pelanggiran Laut Tador_21257
+.2004_Perkebunan Tanjung Kasau_21257
+.2009_Sei Simujur_21257
+.2006_Tanjung Kasau_21257
+.2001_Tanjung Parapat_21257
+.2007_Tanjung Seri_21257
+12.19.04_Lima Puluh (Limapuluh)_21255
+.2016_Antara_21255
+.1001_Lima Puluh Kota_21255
+.2011_Mangkai Baru_21255
+.2012_Mangkai Lama_21255
+.2014_Perkebunan Dolok_21255
+.2015_Perkebunan Kwala Gunung_21255
+.2017_Perkebunan Lima Puluh_21255
+.2018_Perkebunan Limau Manis_21255
+.2019_Perkebunan Tanah Gambus_21255
+.2025_Simpang Gambus_21255
+.2026_Sumber Makmur_21255
+.2027_Sumber Padi_21255
+12.19.09_Lima Puluh Pesisir_21255
+.2004_Barung-Barung_21255
+.2009_Bulan-Bulan_21255
+.2001_Gambus Laut_21255
+.2003_Guntung_21255
+.2010_Gunung Bandung_21255
+.2011_Lubuk Cuik_21255
+.2006_Pasir Permit_21255
+.2008_Pematang Panjang_21255
+.2013_Pematang Tengah_21255
+.2002_Perupuk_21255
+.2012_Tanah Itam Ilir_21255
+.2007_Titi Merah_21255
+.2005_Titi Putih_21255
+12.19.01_Medang Deras_21258
+.2003_Aek Nauli_21258
+.2019_Cengkering Pekan_21258
+.2004_Durian_21258
+.2005_Lalang_21258
+.2016_Mandarsah_21258
+.2006_Medang_21258
+.2017_Medang Baru_21258
+.2014_Nenas Siam_21258
+.1021_Pagurawan_21258
+.2007_Pakam_21258
+.2008_Pakam Raya_21258
+.2015_Pakam Raya Selatan_21258
+.1001_Pangkalan Dodek_21258
+.1002_Pangkalan Dodek Baru_21258
+.2009_Pematang Cengkering_21258
+.2018_Pematang Nibung_21258
+.2010_Sei Buah Keras_21258
+.2020_Sei Raja_21258
+.2011_Sei Rakyat_21258
+.2012_Sidomulyo_21258
+.2013_Tanjung Sigoni_21258
+12.19.12_Nibung Hangus_21253
+.2011_Bagan Baru_21253
+.2006_Bandar Sono_21253
+.2003_Jati Mulia_21253
+.2012_Kapal Merah_21253
+.2004_Lima Laras_21253
+.2005_Mekar Laras_21253
+.2009_Pematang Rambe_21253
+.2008_Sei Mentaram_21253
+.2001_Sentang_21253
+.2010_Tali Air Permai_21253
+.2002_Tanjung Mulia_21253
+.2007_Ujung Kubu_21253
+12.19.07_Sei Balai_21252
+.2012_Benteng Jaya_21252
+.2004_Durian_21252
+.2001_Kwala Sikasim_21252
+.2016_Mekar Baru_21252
+.2009_Mekar Mulio_21252
+.2014_Perjuangan_21252
+.2005_Perkebunan Sei Balai_21252
+.2010_Perkebunan Sei Bejangkar_21252
+.2002_Sei Balai_21252
+.2008_Sei Bejangkar_21252
+.2015_Sidomulio_21252
+.2007_Suka Ramai_21252
+.2017_Suko Rejo_21252
+.2013_Tanah Timbul_21252
+12.19.02_Sei Suka_21257
+.2020_Brohol_21257
+.2011_Kwala/Kuala Indah_21257
+.2012_Kwala/Kuala Tanjung_21257
+.2009_Pematang Jering_21257
+.2010_Pematang Kuning_21257
+.1001_Perkebunan Sipare-Pare_21257
+.2007_Sei Suka Deras_21257
+.2008_Simodong_21257
+.2019_Simpang Kopi_21257
+.2018_Tanjunggading_21257
+12.19.05_Talawi_21254
+.2017_Benteng_21254
+.2015_Dahari Indah_21254
+.2004_Dahari Silebar (Dahari Selebar)_21254
+.2014_Gunungrante (Gunung Rante)_21254
+.2016_Indra Yaman_21254
+.1001_Labuhan Ruku_21254
+.2006_Mesjid Lama_21254
+.2007_Padang Genting_21254
+.2008_Pahang_21254
+.2009_Panjang_21254
+12.19.06_Tanjung Tiram_21253
+.1022_Bagan Arya_21253
+.2004_Bagan Dalam_21253
+.2018_Bandar Rahmat_21253
+.2005_Bogak_21253
+.2002_Guntung_21253
+.2019_Kampung Lalang_21253
+.2017_Pahlawan_21253
+.2016_Suka Jaya_21253
+.2006_Suka Maju_21253
+.1001_Tanjungtiram_21253

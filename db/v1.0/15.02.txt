@@ -1,0 +1,239 @@
+15.02.02_Bangko_37311|37314
+.1011_Dusun Bangko_37313
+.2004_Kungkai_37311
+.2012_Langling_37311
+.2008_Mudo (Dusun Mudo)_37311
+.1009_Pasar Atas (Pasar Atas Bangko)_37312
+.1010_Pasar Bangko_37311
+.1013_Pematang Kandis_37314
+.2024_Sungai Kapas_37311
+15.02.10_Bangko Barat_37315
+.2003_Bedeng Rejo_37315
+.2002_Biuku Tanjung_37315
+.2005_Bukit Beringin_37315
+.2001_Pulau Rengas_37315
+.2006_Pulau Rengas Ulu_37315
+.2004_Sungai Putih_37315
+15.02.12_Batang Masumai_37316
+.2006_Kedarasan Panjang (Kederasan Panjang)_37316
+.2001_Lubuk Gaung_37316
+.2004_Nibung (Tambang Nibung)_37316
+.2009_Pelangki_37316
+.2003_Pulau Baru_37316
+.2010_Pulau Layang_37316
+.2007_Rantau Alai_37316
+.2002_Salam Buku_37316
+.2008_Tambang Besi_37316
+.2005_Titian Teras_37316
+15.02.01_Jangkat_37372
+.2024_Koto Rawang_37372
+.2010_Koto Renah_37372
+.2003_Lubuk Mentilin_37372
+.2009_Lubuk Pungguk_37372
+.2011_Muara Madras (Muara Manderas)_37372
+.2008_Pulau Tengah_37372
+.2004_Rantau Kermas_37372
+.2005_Renah Alai_37372
+.2001_Renah Kemumu_37372
+.2023_Renah Pelaan_37372
+.2002_Tanjung Kasri_37372
+15.02.18_Jangkat Timur (Sungai Tenang)_37374
+.2003_Baru_37374
+.2005_Beringin Tinggi_37374
+.2008_Gedang_37374
+.2012_Jangkat (Jangkar)_37374
+.2014_Kabu_37374
+.2010_Koto Baru_37374
+.2002_Koto Teguh_37374
+.2006_Pematang Pauh_37374
+.2007_Rantau Suli_37374
+.2015_Simpang Talang Tembago_37374
+.2004_Talang Tembago_37374
+.2013_Tanjung Alam_37374
+.2011_Tanjung Benuang (Tanjung Beruang)_37374
+.2001_Tanjung Mudo_37374
+15.02.09_Lembah Masurai_37373
+.2015_Durian Mukut_37373
+.2004_Koto Rami_37373
+.2012_Muara Kelukup_37373
+.2013_Muara Lengayo_37373
+.2009_Muaro Pangi (Muara Pangi)_37373
+.2001_Nilo Dingin_37373
+.2006_Pasar Masurai_37373
+.2005_Rancan_37373
+.2007_Rantau Jering_37373
+.2010_Sungai Lalang_37373
+.2011_Talang Asal_37373
+.2014_Talang Paruh_37373
+.2002_Tanjung Berugo_37373
+.2008_Tanjung Dalam_37373
+.2003_Tuo (Dusun Tuo)_37373
+15.02.21_Margo Tabir_37359
+.2005_Lubuk Bumbun_37359
+.2004_Sido Rukun_37359
+.2003_Suko Rejo_37359
+.2002_Sumber Agung_37359
+.2001_Tanjung Rejo_37359
+.2006_Tegal Rejo_37359
+15.02.03_Muara Siau_37370
+.2015_Air Lago_37370
+.2016_Badak Tekurung_37370
+.2004_Durian Rambun_37370
+.2008_Lubuk Beringin_37370
+.2007_Lubuk Birah_37370
+.2012_Muara Siau_37370
+.2024_Pasar Muara Siau_37370
+.2010_Peradu Temberas (Peradun Temeras)_37370
+.2021_Pulau Raman_37370
+.2029_Rantau Bayur_37370
+.2017_Rantau Bidaro (Rantai Bedaro)_37370
+.2009_Rantau Macang_37370
+.2018_Rantau Panjang_37370
+.2027_Sepantai Renah_37370
+.2028_Sungai Ulas_37370
+.2011_Teluk Sikumbang_37370
+.2013_Tiaro_37370
+15.02.11_Nalo Tantan (Nalo Tatan)_37317
+.2002_Aur Berduri_37317
+.2007_Danau_37317
+.2006_Mentawak_37317
+.2005_Nalo Baru (Baru Nalo)_37317
+.2004_Nalo Gedang_37317
+.2001_Sungai Ulak_37317
+.2003_Telun_37317
+15.02.06_Pamenang_37352
+.2006_Empang Benao_37352
+.2004_Jelatang_37352
+.2011_Karang Berahi/Birahi_37352
+.2009_Keroya_37352
+.2010_Muara/Muaro Belengo_37352
+.1008_Pamenang_37352
+.2012_Pauh Menang_37352
+.2027_Pelakar Jaya_37352
+.2013_Pematang Kancil_37352
+.2007_Rejo Sari (Rejosari)_37352
+.2015_Sialang_37352
+.2026_Sungai Udang_37352
+.2014_Tanah Abang_37352
+.2005_Tanjung Gedang_37352
+15.02.13_Pamenang Barat_37318
+.2003_Karang Anyar_37318
+.2002_Limbur Merangin_37318
+.2006_Mampun Baru_37318
+.2007_Papit_37318
+.2004_Pinang Merah_37318
+.2008_PulauTujuh_37318
+.2005_Simpang Limbur Merangin_37318
+.2001_Tanjung Lamin_37318
+15.02.20_Pamenang Selatan_37319
+.2003_Pulau Bayur_37319
+.2004_Selango_37319
+.2001_Tambang Emas_37319
+.2002_Tanjung Benuang_37319
+15.02.17_Pangkalan Jambu_37361
+.2001_Baru Pangkalan Jambu_37361
+.2003_Birun_37361
+.2002_Bukit Perentak_37361
+.2005_Bungo Tanjung_37361
+.2007_Kampung Limo_37361
+.2006_Sungai Jering_37361
+.2008_Tanjung Mudo_37361
+.2004_Tiga Alur (Tiga / Tigo Alur Pangkalan Jambu)_37361
+15.02.19_Renah Pamenang (Renah Pemenang)_37351
+.2002_Bukit Bungkul_37351
+.2004_Lantak Seribu_37351
+.2001_Meranti_37351
+.2003_Rasau_37351
+15.02.16_Renah Pembarap_37362
+.2008_Air Batu_37362
+.2003_Durian Batakuk_37362
+.2006_Guguk_37362
+.2007_Markeh_37362
+.2009_Marus Jaya_37362
+.2004_Muara Bantan_37362
+.2001_Muaro Panco Barat_37362
+.2012_Muaro Panco Timur (Simpang Muaro Panco Timur)_37362
+.2005_Parit Ujung Tanjung_37362
+.2010_Renah Medan_37362
+.2011_Simpang Parit_37362
+.2002_Talang Segegah_37362
+15.02.04_Sungai Manau_37363
+.2025_Benteng_37363
+.2015_Bukit Batu_37363
+.2011_Durian Lecah_37363
+.2026_Gelanggang_37363
+.2009_Palipan_37363
+.2010_Saringat/Seringat_37363
+.2017_Sungai Manau_37363
+.2016_Sungai Nilau_37363
+.2007_Sungai/Sei Pinang_37363
+.2008_Tiangko_37363
+15.02.05_Tabir_37350
+.2014_Beluran Panjang (Buluran)_37350
+.1002_Dusun Baru_37350
+.1005_Kampung Baruh_37350
+.2007_Kandang_37350
+.2008_Koto Rayo_37350
+.2035_Lubuk Napal_37350
+.1020_Mampun_37350
+.1036_Pasar Baru Rantau_37350
+.1003_Pasar Rantau Panjang_37350
+.2015_Seling_37350
+.2011_Tanjung Ilir_37350
+15.02.23_Tabir Barat_37353
+.2008_Air Liki_37356
+.2014_Air Liki Baru_37356
+.2012_Baru Kibul_37356
+.2004_Batang Kibul_37356
+.2001_Muara Kibul_37356
+.2010_Muara Langeh (Muaro Langeh)_37356
+.2007_Ngaol_37356
+.2013_Ngaol Ilir_37356
+.2009_Pulau Lebar_37356
+.2003_Pulau Tebakar (Pulau Terbakar)_37356
+.2005_Sungai Tabir_37356
+.2011_Tanjung Beringin_37356
+.2002_Tanjung Putus_37356
+.2006_Telentam_37356
+15.02.14_Tabir Ilir_37358
+.2003_Air Batu_37358
+.2005_Kota Raja_37358
+.2007_Mekar Limau Manis_37358
+.2001_Rantau Limau Manis_37358
+.2004_Rejo Sari_37358
+.2006_Tunggul Bulin_37358
+.2002_Ulak Makam_37358
+15.02.22_Tabir Lintas_37357
+.2004_Koto Baru_37357
+.2003_Mensango_37357
+.2005_Sido Harjo_37357
+.2002_Sido Lego_37357
+.2001_Tambang Baru_37357
+15.02.08_Tabir Selatan_37354
+.2002_Bungo Antoi (Bunga Antoi)_37354
+.2005_Bungo Tanjung (Bunga Tanjung)_37354
+.2007_Gading Jaya_37354
+.2008_Mekar Jaya_37354
+.2003_Muara Delang_37354
+.2006_Rawa Jaya_37354
+.2004_Sinar Gading_37354
+.2001_Sungai Sahut_37354
+15.02.15_Tabir Timur_37355
+.2004_Bukit Subur_37355
+.2003_Sri Sembilan_37355
+.2002_Sungai Bulian_37355
+.2001_Sungai Limau_37355
+15.02.07_Tabir Ulu_37356
+.2010_Kapuk_37356
+.2013_Medan Baru_37356
+.2009_Muara Jernih_37356
+.2014_Muaro Seketuk (Muara Seketuk)_37356
+.2011_Pulau Aro_37356
+.2012_Rantau Ngarau / Ngaro_37356
+15.02.24_Tiang Pumpung_37371
+.2004_Baru Bukit Punjung_37371
+.2006_Baru Sungai Sakai_37371
+.2003_Beringin Sanggul_37371
+.2005_Rantau Limau Kapas_37353
+.2001_Sekancing (Sei Kancing)_37371
+.2002_Sekancing Ilir_37371

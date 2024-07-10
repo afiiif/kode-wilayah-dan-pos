@@ -1,0 +1,55 @@
+81.71.03_Baguala_97231|97233
+.2002_Halong_97231
+.1018_Lateri_97231
+.2003_Latta_97231
+.2005_Nania_97232
+.2004_Negeri Lama_97232
+.2001_Passo_97232
+.2006_Waiheru_97233
+81.71.05_Leitimur Selatan_97129|97237
+.2002_Ema_97129
+.2005_Hatalai_97129
+.2001_Hukurila_97129
+.2006_Hutumury (Hutumuri)_97237
+.2003_Kilang_97129
+.2008_Leahari_97237
+.2004_Naku_97129
+.2007_Rutong_97237
+81.71.01_Nusaniwe (Nusanive)_97114|97118
+.2004_Amahusu_97117
+.1008_Benteng_97117
+.1009_Kudamati_97116
+.2001_Latuhalat_97118
+.1010_Mangga Dua_97114
+.2003_Nusaniwe_97117
+.1006_Nusaniwe (Kelurahan Nusaniwe)_97117
+.2002_Seilale_97118
+.1013_Silale_97111
+.1011_Urimessing (Urimesing) Desa_97113
+.2005_Urimessing (Urimesing) Kelurahan_97113
+.1012_Waihaong_97112
+.1007_Wainitu (Wainatu)_97115
+81.71.02_Sirimau_97121|97129
+.1019_Ahusen_97127
+.1012_Amantelu_97122
+.1016_Batu Gajah (Batu Gaja / Batugajah)_97127
+.1015_Batu Meja_97125
+.2003_Batu Merah_97128
+.2002_Galala_97128
+.2001_Hative Kecil_97128
+.1018_Honipopu_97126
+.1013_Karang Panjang_97121
+.1010_Pandan Kasturi_97128
+.1011_Rijali_97123
+.2009_Soya_97129
+.1017_Uritetu_97124
+.1014_Waihoka_97129
+81.71.04_Teluk Ambon_97233|97237
+.2006_Hative Besar_97234
+.2001_Hunuth (Durian Patah)_97233
+.2007_Laha_97236
+.2002_Poka_97233
+.2003_Rumah Tiga_97234
+.2005_Tawiri_97235
+.1008_Tihu_97237
+.2004_Wayame_97234

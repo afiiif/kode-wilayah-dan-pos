@@ -1,0 +1,235 @@
+12.01.12_Andam Dewi_22651
+.2008_Bondar Sihudon I_22651
+.2012_Bondar Sihudon II_22651
+.2010_Ladang Tengah_22651
+.2011_Lobu Tua_22651
+.2002_Pangaribuan_22651
+.1007_Rina Bolak (Rinabolak)_22651
+.2014_Sawah Lamo_22651
+.2005_Sigolang_22651
+.2001_Sijungkang_22651
+.2004_Sirami Ramian_22651
+.2013_Sitiris-Tiris_22651
+.2003_Sogar_22651
+.2006_Sosor Gonting_22651
+.2009_Uratan_22651
+12.01.15_Badiri_22654
+.2004_Aek Horsik_22654
+.2005_Gunung Kelambu_22654
+.1001_Hutabalang_22654
+.2003_Jago Jago_22654
+.2006_Kebun Pisang_22654
+.1002_Lopian_22654
+.2007_Lubuk Ampolu_22654
+.2008_Pagaran Honas_22654
+.2009_Sitardas_22654
+12.01.01_Barus_22564
+.2009_Aek Dakka_22564
+.2017_Bungo Tanjung_22564
+.2011_Gabungan Hasang_22564
+.2008_Kampung Mudik_22564
+.2003_Kampung Solok_22564
+.2018_Kedai Gedang_22564
+.2007_Kinali_22564
+.1002_Padang Masiang_22564
+.1001_Pasar Batu Gerigis_22564
+.2004_Pasar Terandam_22564
+.2010_Patupangan_22564
+.2005_Sigambo Gambo_22564
+.2006_Ujung Batu_22564
+12.01.17_Barus Utara_22567
+.2001_Hutaginjang (Huta Ginjang)_22567
+.2005_Pananggahan_22567
+.2003_Parik Sinomba_22567
+.2004_Purba Tua (Purbatua)_22567
+.2006_Siharbangan_22567
+.2002_Sihorbo_22567
+12.01.06_Kolang_22562
+.2010_Hodopa Nauli (Hudopa Nauli)_22562
+.2008_Hurlang Muara Nauli_22562
+.1007_Kolang Nauli_22562
+.2011_Makarti Nauli_22562
+.2014_Pargaringan_22562
+.1006_Pasar Onan Hurlang_22562
+.2012_Rawa Makmur_22562
+.2005_Satahi Nauli_22562
+.2013_Simarpinggang_22562
+.2009_Sipakpahi Aek Lobu_22562
+.2004_Unte Mungkur I_22562
+.2003_Unte Mungkur II_22562
+.2002_Unte Mungkur III_22562
+.2001_Unte Mungkur IV_22562
+12.01.19_Lumut_22652
+.2002_Aek Gambir_22652
+.1001_Lumut_22652
+.2006_Lumut Maju_22652
+.2005_Lumut Nauli_22652
+.2003_Masundung_22652
+.2007_Sialogo_22652
+12.01.05_Manduamas_22565
+.1003_Binjohara_22565
+.2013_Binjohara Baru_22565
+.2012_Binjohara Uruk_22565
+.2009_Lae Monong_22565
+.2015_Manduamas Baru_22565
+.2006_Manduamas Lama_22565
+.2016_Muara Tapus_22565
+.2017_Pagaran Baru_22565
+.2004_Pagaran Nauli_22565
+.2018_Parsihotangan_22565
+.1001_Pasar Onan Manduamas_22565
+.1020_Perluasan_22565
+.2002_Saragih_22565
+.2010_Saragih Barat_22565
+.2011_Saragih Timur_22565
+.2005_Sarma Nauli_22565
+.2019_Tambahan Nanjur_22565
+.2007_Tumba_22565
+.2008_Tumba Jae_22565
+.2014_Tumba Nauli_22565
+12.01.03_Pandan_22611|22616
+.2014_Aek Garut_22616
+.1011_Aek Sitio Tio_22613
+.1003_Aek Tolang_22613
+.1022_Budi Luhur_22616
+.1002_Hajoran_22612
+.1026_Hajoran Indah_22616
+.1013_Kalangan_22616
+.1023_Kalangan Indah_22616
+.1004_Lubuk Tukko_22615
+.1017_Lubuk Tukko Baru_22616
+.1024_Mangga Dua_22616
+.1025_Muara Nibung_22616
+.1001_Pandan_22611
+.1016_Pandan Wangi_22616
+.1021_Pasar Baru_22616
+.1018_Sibuluan Baru_22616
+.1005_Sibuluan Indah_22614
+.1006_Sibuluan Nauli_22616
+.1012_Sibuluan Raya_22616
+.1019_Sibuluan Terpadu_22616
+.1020_Sihaporas Nauli_22616
+.2015_Sitio Tio Hilir_22616
+12.01.16_Pasaribu Tobing_22563
+.2005_Aek Nadua_22563
+.2003_Makmur_22563
+.2004_Pasaribu Tobing_22563
+.2009_PO Simargarap_22563
+.2007_Sidaling_22563
+.2006_Simargarap_22563
+.2008_Sipakpahi_22563
+.2001_Suga Suga Hutagodang_22563
+.2002_Suka Maju_22563
+12.01.04_Pinangsori_22653
+.1009_Albion Prancis_22653
+.2008_Danau Pandan_22653
+.2002_Gunung Marijo_22653
+.2006_Parjalihotan Baru_22653
+.1007_Pinangbaru (Pinang Baru)_22653
+.1001_Pinangsori_22653
+.2003_Sihaporas_22653
+.1004_Sitonong Bangun_22653
+.1010_Sori Nauli_22653
+.2005_Toga Basir_22653
+12.01.20_Sarudik_22611|22616
+.1004_Pasir Bidang_22611
+.1005_Pondok Batu_22616
+.1002_Sarudik_22616
+.1001_Sibuluan Nalambok_22616
+.2003_Sipan_22616
+12.01.08_Sibabangun_22655
+.2006_Anggoli_22655
+.2011_Hutagur-gur (Hutagurgur)_22655
+.2005_Mombang Boru_22655
+.2007_Muara Sibuntuon_22655
+.1002_Sibabangun_22655
+.2008_Sibio Bio_22655
+.2010_Simanosor_22655
+12.01.11_Sirandorung_22566
+.1001_Bajamas_22566
+.2007_Masnauli_22566
+.2008_Muara Ode (Muara Ore)_22566
+.2004_Pardomuan_22566
+.2002_Sampang Maruhur_22566
+.2006_Sigodung_22566
+.2005_Simpang III Lae Bingke (Simpang Tiga Lae Bingke)_22566
+.2003_Siordang_22566
+12.01.13_Sitahuis_22611
+.2001_Bonandolok_22611
+.2004_Mardame_22611
+.2005_Naga Timbul_22611
+.1003_Nauli_22611
+.2002_Rampa_22611
+.2006_Simaninggir_22611
+12.01.02_Sorkam_22560
+.2015_Bottot_22560
+.2011_Dolok Pantis_22560
+.2005_Fajar_22560
+.2010_Gonting Mahe_22560
+.2020_Hite Urat_22560
+.2023_Muara Nauli_22560
+.1009_Naipospos Barat_22560
+.2022_Nauli_22560
+.2019_Pagaran Julu_22560
+.2018_Pananggahan_22560
+.2006_Pardamean_22560
+.1002_Pargarutan_22560
+.2014_Pea Raja_22560
+.2007_Pelita_22560
+.2008_Rianiate_22560
+.2021_Sihapas_22560
+.1001_Sorkam_22560
+.2017_Sorkam Kiri_22560
+.2016_Sorkam Tengah_22560
+.1004_Tarutung Bolak_22560
+.2003_Teluk Roban_22560
+12.01.10_Sorkam Barat_22561
+.2005_Aek Raso_22561
+.1019_Binasi_22561
+.2020_Madani_22561
+.2014_Maduma_22561
+.2003_Pahieme I (Pahieme)_22561
+.2017_Pahieme II_22561
+.2004_Pasar Sorkam_22561
+.2006_Pasaribu Tobing Jae_22561
+.2016_Sidikalang_22561
+.2002_Sipea Pea_22561
+.1001_Sorkam Kanan (Desa)_22561
+.2018_Sorkam Kanan (Kelurahan)_22561
+12.01.09_Sosorgadong (Sosor Gadong)_22568
+.2004_Barambang_22568
+.2009_Baringin_22568
+.2007_Huta Tombak_22568
+.2006_Muara Bolak_22568
+.2005_Siantar Ca_22568
+.2008_Siantar Dolok_22568
+.2003_Sibintang_22568
+.1001_Sosor Gadong_22568
+.2002_Unte Boang_22568
+12.01.18_Suka Bangun_22656
+.2004_Janji Maria_22656
+.2001_Pulo Pakkat (Pulo Pakkat I)_22656
+.2003_Pulo Pakkat II_22656
+.2005_Sihadatuon_22656
+.2006_Sihapas_22656
+.2002_Tebing Tinggi_22656
+12.01.07_Tapian Nauli_22618
+.2005_Aloban Bair (Aloban)_22618
+.2009_Bair_22618
+.2006_Mela Dolok_22618
+.2007_Mela I_22618
+.2008_Mela II_22618
+.2002_Tapian Nauli I_22618
+.1001_Tapian Nauli II_22618
+.2003_Tapian Nauli III_22618
+.2004_Tapian Nauli IV_22618
+12.01.14_Tukka_22617|22618
+.2008_Aek Bottar (Aek Bontar)_22617
+.1009_Aek Tolang Induk_22617
+.1002_Bona Lumban_22617
+.1003_Huta Nabolon_22617
+.2006_Sait Kalangan II (Sait Nihuta Kalangan II)_22618
+.2004_Sigiring Giring_22617
+.1007_Sipange_22617
+.2005_Tapian Nauli/ Saurmanggita_22617
+.1001_Tukka_22617

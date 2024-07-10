@@ -1,0 +1,96 @@
+16.13.05_Karang Dapo_31658
+.2001_Aringin_31658
+.2002_Biaro Baru_31658
+.2003_Biaro Lama_31658
+.2009_Bina Karya_31658
+.1004_Karang Dapo I_31658
+.2007_Karang Dapo II (Karang Dapo)_31658
+.2006_Kerta Sari (Kertasari)_31658
+.2005_Rantau Kadam_31658
+.2008_Setia Marga_31658
+16.13.06_Karang Jaya_31654
+.2014_Bukit Langkap_31654
+.2001_Bukit Ulu_31654
+.2011_Embacang Baru_31654
+.2015_Embacang Baru Ilir_31654
+.2012_Embacang Lama_31654
+.1009_Karang Jaya_31654
+.2003_Lubuk Kumbung_31654
+.2004_Muara Batang Empu_31654
+.2010_Muara Tiku_31654
+.2013_Rantau Jaya_31654
+.2006_Rantau Telang_31654
+.2007_Suka Menang_31654
+.2002_Sukaraja_31654
+.2005_Tanjung Agung_31654
+.2008_Terusan_31654
+16.13.03_Nibung_31667
+.2008_Bumi Makmur_31667
+.2002_Jadi Mulya_31667
+.2011_Jadi Mulya I_31667
+.1003_Karya Makmur_31667
+.2007_Kelumpang Jaya_31667
+.2010_Krani Jaya (Kerani Jaya)_31667
+.2004_Mulya Jaya_31667
+.2006_Sri Jaya Makmur (Srijaya Makmur)_31667
+.2005_Sumber Makmur_31667
+.2009_Sumber Sari_31667
+.2001_Tebing Tinggi_31667
+16.13.04_Rawas Ilir_31655
+.2007_Air Bening_31655
+.2002_Batu Kucing_31655
+.2003_Belani_31655
+.2009_Beringin Makmur I_31655
+.2010_Beringin Makmur II_31655
+.2008_Beringin Sakti_31655
+.1005_Bingin Teluk_31655
+.2012_Ketapat Bening_31655
+.2006_Mandi Angin_31655
+.2013_Mekarsari (Mekar Sari)_31655
+.2001_Pauh_31655
+.2011_Pauh I_31655
+.2004_Tanjung Raja_31655
+16.13.02_Rawas Ulu_31656
+.2002_Kerta Dewa_31656
+.2010_Lesung Batu_31656
+.2013_Lesung Batu Muda_31656
+.2011_Lubuk Kemang_31656
+.2015_Lubuk Mas_31656
+.2001_Pangkalan_31656
+.1005_Pasar Surulangun_31656
+.2004_Pulau Lebar_31656
+.2012_Remban_31656
+.2014_Simpang Nibung Rawas_31656
+.2017_Sukomoro_31656
+.2006_Sungai Baung_31656
+.2007_Sungai Jauh_31656
+.2008_Sungai Kijang_31656
+.2016_Sungai Lanang_31656
+.2009_Surulangun_31656
+.2003_Teladas_31656
+16.13.01_Rupit_31653
+.2003_Batu Gajah_31653
+.2017_Batu Gajah Baru_31653
+.2014_Beringin Jaya_31653
+.2006_Bingin Rupit_31653
+.2012_Karang Anyar_31653
+.2011_Karang Waru_31653
+.2010_Lawang Agung_31653
+.2008_Lubuk Rumbai_31653
+.2015_Lubuk Rumbai Baru_31653
+.2005_Maur Baru_31653
+.2004_Maur Lama_31653
+.1007_Muara Rupit_31653
+.2002_Noman_31653
+.2016_Noman Baru_31653
+.2009_Pantai_31653
+.2013_Sungai Jernih_31653
+.2001_Tanjung Beringin_31653
+16.13.07_Ulu Rawas_31669
+.2001_Jangkat_31669
+.2004_Kuto Tanjung_31669
+.2005_Muara Kuis_31669
+.1007_Muara Kulam_31669
+.2002_Napal Licin (Napalicin)_31669
+.2006_Pulau Kidak_31669
+.2003_Sosokan_31669

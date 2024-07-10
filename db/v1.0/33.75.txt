@@ -1,0 +1,31 @@
+33.75.01_Pekalongan Barat_51111|51151
+.1006_Bendan Kergon_51113
+.1002_Medono_51111
+.1008_Pasirkratonkramat_51117
+.1003_Podosugih_51111
+.1012_Pringrejo_51116
+.1004_Sapuro Kebulen_51112
+.1009_Tirto_51151
+33.75.04_Pekalongan Selatan_51132|51171
+.1002_Banyurip_51139
+.1003_Buaran Kradenan_51132
+.1004_Jenggot_51133
+.1006_Kuripan Kertoharjo_51134
+.1008_Kuripan Yosorejo_51135
+.1010_Sokoduwet_51138
+33.75.02_Pekalongan Timur_51122|51129
+.1009_Gamer_51123
+.1012_Kali Baros_51128
+.1004_Kauman_51127
+.1008_Klego_51124
+.1002_Noyontaansari_51129
+.1007_Poncol_51122
+.1010_Setono_51122
+33.75.03_Pekalongan Utara_51141|51149
+.1009_Bandengan_51143
+.1007_Degayu_51148
+.1003_Kandang Panjang_51149
+.1002_Krapyak_51147
+.1006_Padukuhan Kraton_51146
+.1010_Panjang Baru_51141
+.1004_Panjang Wetan_51141

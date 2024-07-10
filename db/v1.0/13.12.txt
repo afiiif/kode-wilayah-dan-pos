@@ -1,0 +1,101 @@
+13.12.06_Gunung Tuleh (Gunungtuleh)_26571
+.2004_Bahoras_26571
+.2001_Muaro Kiawai (Muaro Kiawi)_26571
+.2006_Muaro Kiawai Barat_26571
+.2007_Muaro Kiawai Hilir_26571
+.2002_Rabi Jonggor_26571
+.2005_Ranah Sungai Magelang_26571
+.2003_Seberang Kenaikan_26571
+13.12.05_Kinali_26567
+.2003_Ampek Koto_26567
+.2004_Ampek Koto Barat_26567
+.2010_Anam Koto Selatan_26567
+.2013_Anam Koto Utara_26567
+.2005_Bancah Kariang_26567
+.2014_Bandua Balai_26567
+.2015_Bunuik_26567
+.2002_Katiagan (Katiagan Mandiangin)_26567
+.2001_Kinali_26567
+.2012_Koto Gadang Jaya_26567
+.2009_Langgam Saiyo_26567
+.2008_Langgam Sepakat_26567
+.2017_Limau Purut_26567
+.2006_Mudiak Labuah_26567
+.2016_Padang Canduh_26567
+.2011_Sigunanti_26567
+.2007_Tandikek_26567
+13.12.08_Koto Balingka_26572
+.2004_Koto Nan Duo_26572
+.2002_Koto Tangah_26572
+.2003_Koto Tuo_26572
+.2001_Parit (Parik)_26572
+.2005_Pematang Panjang_26572
+.2006_Ranah Koto Tinggi_26572
+13.12.02_Lembah Melintang_26570
+.2002_Brastagi Ujung Gading_26570
+.2005_Koto Gunung Ujung Gading_26570
+.2006_Koto Sawah Ujung Gading_26570
+.2008_Kuamang Alai Ujung Gading_26570
+.2007_Salido Saroha Ujung Gading_26570
+.2009_Situak Ujung Gading_26570
+.2004_Taluak Ambun Ujung Gading_26570
+.2003_Tampus Damai Ujung Gading_26570
+.2001_Ujung Gading_26570
+13.12.10_Luhak Nan Duo_26568
+.2003_Giri Maju_26568
+.2008_Jambak Selatan_26568
+.2002_Kapa (Kapar)_26568
+.2001_Koto Baru_26568
+.2005_Mahakarya_26568
+.2004_Ophir_26568
+.2009_Pujorahayu_26568
+.2006_Sariak_26568
+.2007_Sungai Talang_26568
+13.12.03_Pasaman_26566
+.2006_Aia Gadang_26566
+.2016_Aia Gadang Barat_26566
+.2015_Aia Gadang Timur_26566
+.2004_Aua Kuniang_26566
+.2019_Lembah Binuang Aua Kuniang_26566
+.2003_Lingkuang Aua_26566
+.2009_Lingkuang Aua Bandarajo_26566
+.2012_Lingkuang Aua Barat_26566
+.2008_Lingkuang Aua Baru_26566
+.2013_Lingkuang Aua Hilia_26566
+.2010_Lingkuang Aua Jambak_26566
+.2011_Lingkuang Aua Koto Dalam_26566
+.2007_Lingkuang Aua Timur_26566
+.2018_Lubuak Landua Aua Kuniang_26566
+.2017_Pinaga Aua Kuniang_26566
+.2014_Sukomananti Aua Kuniang_26566
+13.12.07_Ranah Batahan_26366
+.2001_Batahan_26366
+.2005_Batahan Barat_26366
+.2006_Batahan Selatan_26366
+.2004_Batahan Tengah_26366
+.2003_Batahan Utara_26366
+.2002_Desa Baru_26366
+.2007_Desa Baru Barat_26366
+13.12.11_Sasak Ranah Pasisie (Pesisir, Pasisir, Pesisie)_26367
+.2004_Maligi_26367
+.2002_Padang Harapan_26367
+.2003_Ranah Pasisie_26367
+.2001_Sasak_26367
+13.12.09_Sungai Aur (Sungaiaur)_26574
+.2006_Aua Serumpun_26574
+.2005_Kasikputih Sungaitanang_26574
+.2004_Ranah Air Haji_26574
+.2003_Ranah Malintang_26574
+.2002_Salingka Muaro_26574
+.2007_Sikilang Sungai Aur Selatan_26574
+.2001_Sungai Aua (Sungai Aur)_26574
+13.12.01_Sungai Beremas (Sei Beremas)_26573
+.2001_Aia Bangih_26573
+13.12.04_Talamau_26561
+.2001_Kajai_26561
+.2005_Kajai Selatan_26561
+.2004_Simpang Timbo Abu Kajai_26561
+.2003_Sinuruik_26561
+.2006_Sungai Janiah Talu_26561
+.2007_Tabek Sirah Talu_26561
+.2002_Talu_26561

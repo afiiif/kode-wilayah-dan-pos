@@ -1,0 +1,59 @@
+33.72.05_Banjarsari_57131|57139
+.1014_Banjarsari_57136
+.1013_Banyuanyar_57137
+.1003_Gilingan_57134
+.1015_Joglo_57136
+.1001_Kadipiro_57136
+.1006_Keprabon_57131
+.1005_Kestalan_57133
+.1008_Ketelan_57132
+.1011_Manahan_57139
+.1010_Mangkubumen_57139
+.1002_Nusukan_57135
+.1009_Punggawan_57132
+.1004_Setabelan_57139
+.1012_Sumber_57138
+.1007_Timuran_57131
+33.72.04_Jebres_57121|57162
+.1004_Gandekan_57122
+.1007_Jagalan_57162
+.1010_Jebres_57126
+.1001_Kepatihan Kulon_57129
+.1002_Kepatihan Wetan_57129
+.1011_Mojosongo_57127
+.1006_Pucangsawit_57125
+.1008_Purwodiningratan_57128
+.1005_Sewu_57129
+.1003_Sudiroprajan_57121
+.1009_Tegalharjo_57128
+33.72.01_Laweyan_57141|57149
+.1003_Bumi_57149
+.1010_Jajar_57144
+.1011_Karangasem_57145
+.1009_Kerten_57143
+.1002_Laweyan_57148
+.1001_Pajang_57146
+.1004_Panularan_57149
+.1005_Penumping_57141
+.1007_Purwosari_57142
+.1008_Sondakan_57147
+.1006_Sriwedari_57141
+33.72.03_Pasar Kliwon_57116|57199
+.1005_Baluwarti_57114
+.1004_Gajahan_57115
+.1001_Joyosuran_57116
+.1006_Kampungbaru (Kampung Baru)_57111
+.1009_Kauman_57112
+.1007_Kedunglumbu (Kedung Lumbu)_57113
+.1010_Mojo_57117
+.1003_Pasarkliwon (Pasar Kliwon)_57118
+.1008_Sangkrah_57119
+.1002_Semanggi_57117
+33.72.02_Serengan_57151|57157
+.1002_Danukusuman_57156
+.1006_Jayengan_57152
+.1001_Joyotakan_57157
+.1007_Kemlayan_57151
+.1005_Kratonan_57153
+.1003_Serengan_57155
+.1004_Tipes_57154

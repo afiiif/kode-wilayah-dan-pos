@@ -1,0 +1,188 @@
+73.22.11_Baebunta_92965
+.2004_Baebunta_92965
+.2015_Bumi Harapan_92965
+.2010_Kariango_92965
+.2008_Mario_92965
+.2011_Melli (Meli)_92965
+.2013_Palandan_92965
+.2003_Radda_92965
+.1005_Salassa_92965
+.2002_Salulemo_92965
+.2009_Sassa_92965
+.2007_Tarobok_92965
+73.22.14_Baebunta Selatan_92965
+.2003_Beringin Jaya_92965
+.2001_Lara_92965
+.2008_Lawewe_92965
+.2007_Lembang-Lembang_92965
+.2002_Marannu_92965
+.2005_Mekar Sari Jaya_92965
+.2004_Mukti Jaya_92965
+.2006_Mukti Tama_92965
+.2009_Polewali_92965
+.2010_Sumpira_92965
+73.22.02_Bone Bone_92966
+.2018_Bantimurung_92966
+.2015_Banyuurip (Banyu Urip)_92966
+.2011_Batang Tongka_92966
+.1001_Bone Bone_92966
+.2020_Muktisari_92966
+.2012_Patoloan_92966
+.2017_Pongko_92966
+.2021_Sadar_92966
+.2007_Sidomukti_92966
+.2008_Sukaraya_92966
+.2002_Tamuku_92966
+73.22.01_Malangke_92953
+.2003_Benteng_92953
+.2009_Giri Kusuma (Girikusuma)_92953
+.2008_Ladongi_92953
+.2002_Malangke_92953
+.2001_Pattimang_92953
+.2012_Pettelandung (Petta Landung)_92953
+.2014_Pince Pute_92953
+.2006_Pute Mata_92953
+.2005_Salekoe_92953
+.2011_Takkalala_92953
+.2010_Tandung_92953
+.2007_Tingkara (Tingkaran)_92953
+.2013_Tokke_92953
+.2004_Tolada (To Lada)_92953
+73.22.08_Malangke Barat_92957
+.2004_Arusu_92957
+.2005_Baku Baku (Baku-Baku)_92957
+.2001_Cening (Cenning)_92957
+.2010_Kalitata_92957
+.2009_Limbong Wara_92957
+.2002_Pangkajoang (Pengkajoang)_92957
+.2003_Pao_92957
+.2008_Pembuniang_92957
+.2012_Polejiwa (Pole Jiwa)_92957
+.2011_Pombakka_92957
+.2007_Waelawi_92957
+.2013_Waetuo (Waetuwo)_92957
+.2006_Wara_92957
+73.22.10_Mappedeceng_92917
+.2006_Benteng_92917
+.2002_Cendana Putih_92917
+.2009_Cendana Putih I (Cendana Putih Satu)_92917
+.2013_Cendana Putih II (Cendana Putih Dua)_92917
+.2016_Harapan/Kampung Baru_92917
+.2003_Hasana (Hasanah)_92917
+.2004_Kapidi_92917
+.2011_Mangalle (Mangale)_92917
+.2001_Mappedeceng_92917
+.2012_Mekar Jaya Tondok_92917
+.2014_Sumber Harum_92917
+.2010_Sumber Wangi_92917
+.2015_Tarak Tallu (Tarra Tallu)_92917
+.2007_Ujung Mattajang_92917
+.2005_Uraso_92917
+73.22.03_Masamba_92912|92961
+.1003_Baliase_92916
+.2005_Baloli (Balebo)_92912
+.1002_Bone_92914
+.2019_Kamiri_92961
+.1001_Kappuna_92913
+.1006_Kasimbong_92915
+.2016_Laba_92961
+.2009_Lantang Tallang_92961
+.2010_Lapapa_92961
+.2011_Lero_92961
+.2012_Masamba_92961
+.2013_Pandak_92961
+.2004_Pincara_92961
+.2007_Pombakka_92961
+.2015_Pongo_92961
+.2008_Rompu_92961
+.2014_Sepakat_92961
+.2018_Sumilin (Sumillin)_92961
+.2017_Toradda (Torada)_92961
+73.22.09_Rampi_92964
+.2004_Dodolo_92964
+.2003_Leboni_92964
+.2002_Onondowa (Onondoa)_92964
+.2001_Rampi_92964
+.2005_Sulaku_92964
+.2006_Tedeboe_92964
+73.22.05_Rongkong (Limbong)_92954
+.2003_Kanandede_92954
+.2006_Komba_92954
+.2007_Limbong_92954
+.2001_Marampa_92954
+.2005_Minanga_92954
+.2002_Pengkendekan_92954
+.2004_Rinding Allo_92954
+73.22.04_Sabbang_92955
+.2009_Bakka_92955
+.2014_Buntu Torpedo (Buntu Terpedo)_92955
+.2007_Malimbu_92955
+.1012_Marobo_92955
+.2003_Pararra_92955
+.2018_Pengkendekan_92955
+.2002_Sabbang_92955
+.2020_Salama_92955
+.2004_Tandung_92955
+.2008_Tullak Tallu (Tulak Tallu)_92955
+73.22.15_Sabbang Selatan_92955
+.2007_Batu Alang_92955
+.2008_Bone Subur_92955
+.2001_Buangin_92955
+.2003_Dandang_92955
+.2006_Kalotok_92955
+.2004_Kampung Baru_92955
+.2010_Mari-Mari_92955
+.2009_Pompaniki_92955
+.2005_Teteuri_92955
+.2002_Torpedo Jaya_92955
+73.22.07_Seko_92956
+.2008_Beroppa_92956
+.2006_Embonatana (Embonatanah)_92956
+.2011_Hoyane_92956
+.2009_Lodang_92956
+.2002_Malimongan_92956
+.2012_Marante_92956
+.2004_Padang Balua_92956
+.2005_Padang Raya_92956
+.2010_Taloto_92956
+.2003_Tanamakaleang (Tanama Kaleang)_92956
+.2001_Tirobali_92956
+.2007_Wono_92956
+73.22.06_Sukamaju_92963
+.2004_Kaluku_92963
+.2002_Katulungan_92963
+.2001_Lampuawa_92963
+.2019_Minanga Tallu_92963
+.2021_Mulyasari_92963
+.2003_Salulemo_92963
+.2022_Saptamarga_92963
+.2006_Sukadamai_92963
+.2005_Sukamaju_92963
+.2010_Tamboke_92963
+.2013_Tolangi_92963
+.2014_Tulung Indah_92963
+.2024_Tulungsari (Tulung Sari)_92963
+.2020_Wonosari_92963
+73.22.13_Sukamaju Selatan_92963
+.2006_Banyuwangi_92963
+.2008_Lino_92963
+.2001_Mulyorejo_92963
+.2003_Paomacang_92963
+.2002_Rawamangun_92963
+.2009_Sidoraharjo_92963
+.2007_Subur_92963
+.2011_Suka Harapan_92963
+.2010_Sukamukti_92963
+.2005_Sumber Baru_92963
+.2004_Wonokerto_92963
+73.22.12_Tana Lili_92967
+.2002_Bungadidi_92967
+.2001_Bungapati_92967
+.2008_Karondang_92967
+.2009_Munte_92967
+.2005_Patila_92967
+.2003_Poreang_92967
+.2007_Rampoang_92967
+.2006_Sidobinangun_92967
+.2010_Sidomakmur_92967
+.2004_Sumberdadi_92967

@@ -1,0 +1,46 @@
+19.06.05_Damar_33571
+.2001_Air Kelik_33571
+.2003_Burong Mandi (Burung Mandi)_33571
+.2002_Mempaya_33515
+.2004_Mengkubang_33514
+.2005_Sukamandi_33513
+19.06.03_Dendang_33561
+.2008_Balok_33561
+.2001_Dendang_33561
+.2002_Jangkang_33561
+.2005_Nyuruk_33561
+19.06.02_Gantung_33562
+.2010_Batu Penyu_33562
+.2001_Gantung_33562
+.2003_Jangkar Asam_33562
+.2009_Lenggang_33562
+.2004_Lilangan_33562
+.2011_Limbongan_33562
+.2002_Selingsing_33562
+19.06.04_Kelapa Kampit_33572
+.2005_Buding_33572
+.2003_Cendil_33572
+.2006_Mayang_33572
+.2001_Mentawak_33572
+.2007_Pembaharuan_33572
+.2002_Senyubuk_33572
+19.06.01_Manggar_33511|33517
+.2007_Baru_33512
+.2013_Bentaian Jaya_33517
+.2010_Buku Limau (Pulau Buku Limau)_33511
+.2004_Kelubi_33517
+.2002_Kurnia Jaya_33512
+.2006_Lalang_33511
+.2001_Lalang Jaya_33511
+.2012_Mekar Jaya_33517
+.2003_Padang_33516
+19.06.07_Simpang Pesak_33560
+.2004_Dukong_33560
+.2001_Simpang Pesak_33560
+.2002_Tanjung Batu Itam_33560
+.2003_Tanjung Kelumpang_33560
+19.06.06_Simpang Renggiang_33563
+.2003_Aik Madu_33563
+.2004_Lintang_33563
+.2002_Renggiang_33563
+.2001_Simpang Tiga_33563

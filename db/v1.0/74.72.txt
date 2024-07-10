@@ -1,0 +1,51 @@
+74.72.08_Batupoaro_93728
+.1001_Bonebone (Bone-Bone)_93721
+.1004_Kaobula_93721
+.1005_Lanto_93721
+.1006_Nganganaumala_93721
+.1002_Tarafu_93722
+.1003_Wameo_93722
+74.72.01_Betoambari_93721|93725
+.1007_Katobengke_93724
+.1016_Labalawa_93725
+.1014_Lipu_93721
+.1013_Sulaa_93721
+.1012_Waborobo_93721
+74.72.04_Bungi_93732
+.1003_Kampeonaho_93732
+.1001_Liabuku (Lia Buku)_93732
+.1002_Ngkaring-Karing (Ngkari-Ngkari)_93732
+.1010_Tampuna_93732
+.1008_Waliabuku (Walia Buku)_93732
+74.72.05_Kokalukuna_93711|93719
+.1006_Kadolo_93716
+.1005_Kadolomoko_93716
+.1003_Lakologou (Lakologuo)_93719
+.1001_Liwuto_93711
+.1002_Sukanayo (Sukanaeyo)_93711
+.1004_Waruruma_93719
+74.72.07_Lea-Lea_93733
+.1002_Kalia Lia_93733
+.1005_Kantalai_93733
+.1004_Kolese_93733
+.1001_Lowu-Lowu_93733
+.1003_Palabusa_93733
+74.72.06_Murhum_93721|93727
+.1010_Baadia_93727
+.1008_Lamangga_93725
+.1009_Melai_93727
+.1011_Tanganapada_93721
+.1007_Wajo_93726
+74.72.03_Sorawolio (Sora Walio / Sorowalio)_93731
+.1004_Bugi_93731
+.1003_Gonda Baru_93731
+.1001_Kaisabu Baru_93731
+.1002_Karya Baru_93731
+74.72.02_Wolio_93711|93717
+.1003_Bataraguru_93714
+.1005_Batulo_93717
+.1011_Bukit Wolio Indah_93711
+.1007_Kadolo Katapi_93715
+.1002_Tomba_93712
+.1001_Wale_93711
+.1004_Wangkanapi_93713

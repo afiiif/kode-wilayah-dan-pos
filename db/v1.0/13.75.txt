@@ -1,0 +1,27 @@
+13.75.03_Aur Birugo Tigo Baleh_26131|26138
+.1001_Aur Kuning_26131
+.1003_Belakang Balok_26136
+.1002_Birugo_26138
+.1005_Kubu Tanjung_26133
+.1008_Ladang Cakiah_26135
+.1006_Pakan Labuh/Labuah_26134
+.1007_Parit Rantang (Parit Antang)_26132
+.1004_Sapiran_26137
+13.75.01_Guguak Panjang (Guguk Panjang)_26111|26117
+.1004_Aur Tajungkang/Tgh. Sawah_26111
+.1005_Benteng Pasar Atas_26113
+.1007_Bukik Apik Puhun (Bukit Apit Puhun)_26114
+.1002_Bukit Cangang Kayu Ramang_26116
+.1006_Kayu Kubu_26115
+.1003_Pakan Kurai_26112
+.1001_Tarok Dipo_26117
+13.75.02_Mandiangin Koto Selayan_26121|26129
+.1001_Campago Guguk Bulek_26128
+.1002_Campago Ipuh_26121
+.1008_Garegeh_26127
+.1007_Koto Selayan_26126
+.1004_Kubu Gulai Bancah_26122
+.1009_Manggis Ganting_26129
+.1005_Puhun Pintu Kabun_26123
+.1003_Puhun Tembok_26124
+.1006_Pulai Anak Air_26125

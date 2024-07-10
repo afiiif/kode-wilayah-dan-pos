@@ -1,0 +1,37 @@
+65.04.04_Betayau_77152
+.2002_Bebakung_77152
+.2001_Buong Baru_77152
+.2003_Kujau_77152
+.2005_Maning_77152
+.2004_Mendupo_77152
+.2006_Periuk_77152
+65.04.05_Muruk Rian_77154
+.2003_Balayan Ari_77154
+.2005_Kapuak_77154
+.2002_Rian_77154
+.2004_Rian Rayo_77154
+.2006_Sapari_77154
+.2001_Seputuk_77154
+65.04.01_Sesayap_77151
+.2006_Gunawan_77151
+.2002_Limbu Sedulun_77151
+.2007_Sebawang_77151
+.2003_Sebidai_77151
+.2004_Sedulun_77151
+.2001_Tideng Pale_77151
+.2005_Tideng Pale Timur_77151
+65.04.02_Sesayap Hilir_77153
+.2004_Badan Bikis_77153
+.2003_Bebatu_77153
+.2007_Menjelutung_77153
+.2006_Seludau_77153
+.2002_Sengkong_77153
+.2005_Sepala Dalung_77153
+.2001_Sesayap_77153
+.2008_Sesayap Selor_77153
+65.04.03_Tana Lia_77451
+.2003_Sambungan_77451
+.2005_Sambungan Selatan_77451
+.2001_Tanah Merah_77451
+.2004_Tanah Merah Barat_77451
+.2002_Tengku Dacing_77451

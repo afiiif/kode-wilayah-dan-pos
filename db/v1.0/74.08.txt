@@ -1,0 +1,148 @@
+74.08.03_Batu Putih_93955
+.2011_Batu Api (Batuapi)_93955
+.1001_Batu Putih_93955
+.2015_Bukit Baru_93955
+.2012_Bukit Tinggi_93955
+.2002_Latowu_93955
+.2004_Lelewawo_93955
+.2021_Makkuaseng_93955
+.2003_Mosiku_93955
+.2016_Parung Lampe_93955
+.2017_Puncak Harapan_93955
+.2020_Tetebawo_93955
+74.08.13_Katoi_93913|93916
+.2003_Katoi_93913
+.2006_Lambuno_93916
+.2001_Lanipa-Nipa_93916
+.2005_Maruge_93914
+.2004_Simbula_93914
+.2002_Ujung Tobaku (Tobako)_93916
+74.08.05_Kodeoha_93957
+.2018_Ainani Tajriani_93957
+.2001_Awo_93957
+.2019_Delang-Delang_93957
+.2012_Jabal Kubis_93957
+.2010_Jabal Nur_93957
+.2009_Kalu-Kaluku_93957
+.2004_Kamisi_93957
+.2003_Koroha_93957
+.2006_Lametuna_93957
+.1002_Mala-Mala_93957
+.2007_Meeto_93957
+.2014_Sawangaoha (Sawanggaoha)_93957
+74.08.08_Lambai_93956
+.2001_Lambai_93956
+.2003_Lapasi-Pasi_93956
+.2002_Latawaro_93956
+.2004_Raoda_93956
+.2007_Tebongeano (Tebagiano)_93956
+.2005_Woise_93956
+.2006_Woitombo_93956
+74.08.01_Lasusua_93911|93916
+.2016_Babussalam_93916
+.2017_Batu Ganda Permai_93916
+.1001_Lasusua_93911
+.2015_Patowonua_93916
+.2002_Pitulua_93915
+.2008_Ponggiha_93912
+.2018_Puncak Monapa (Pucak Monapa)_93916
+.2003_Rante Limbong (Rante Limbung)_93916
+.2010_Sulaho_93916
+.2007_Tojabi_93916
+.2006_Totallang_93916
+.2009_Watuliwu_93916
+74.08.06_Ngapa_93958
+.2014_Beringin_93958
+.2009_Koreiha_93958
+.1003_Lapai_93958
+.2011_Lawolatu_93958
+.2015_Mataiwoi_93958
+.2002_Ngapa_93958
+.2016_Nimbuneha_93958
+.2017_Padaelo_93958
+.2005_Paruttellang (Paruttelang)_93958
+.2008_Puurau_93958
+.2012_Tadaumera_93958
+.2013_Watumotaha_93958
+74.08.02_Pakue_93954
+.2021_Alipato_93954
+.2010_Kasumeeto_93954
+.2018_Kondara_93954
+.2002_Kosali_93954
+.2013_Lalombundi_93954
+.2022_Lalume_93954
+.2003_Mikuasi_93954
+.1001_Olo-Oloho (Olo-Olaha)_93954
+.2020_Seuwwa_93954
+.2019_Sipakainge_93954
+.2015_Toaha_93954
+74.08.10_Pakue Tengah_93953
+.2010_Kalahunde_93953
+.2003_Labipi_93953
+.2001_Lanipa_93953
+.2004_Latali_93953
+.2002_Majapahit_93953
+.2005_Pasampang_93953
+.2009_Powalaa_93953
+.2008_Salulotong (Salutotong)_93953
+.2006_Tarengga_93953
+.2007_To'lemo_93953
+74.08.11_Pakue Utara_93952
+.2008_Amoe_93952
+.2007_Kalo_93952
+.2003_Lawata_93952
+.2009_Lengkong Batu_93952
+.2004_Mataleuno_93952
+.2002_Pakue_93952
+.2001_Puundoho_93952
+.2006_Saludongka_93952
+.2005_Teposua_93952
+74.08.12_Porehu_93950
+.2007_Bangsala_93950
+.2005_Larui_93950
+.2004_Ponggi_93950
+.2001_Porehu_93950
+.2008_Sarambu_93950
+.2003_Tanggaruru (Tangga Ruru)_93950
+.2009_Tinuna_93950
+.2002_Tobela_93950
+74.08.04_Rante Angin_93961
+.2014_Landolia_93961
+.2015_Lawekara_93961
+.2013_Maroko_93961
+.2005_Pohu_93961
+.1004_Rante Angin_93961
+.2003_Rante Baru_93961
+.2011_Torotuo (Torotua)_93961
+74.08.14_Tiwu_93963
+.2006_Lapolu_93963
+.2002_Lawadia_93963
+.2001_Mattiro Bulu_93963
+.2005_Tahibua_93963
+.2007_Tanggeawo (Tanggeau)_93963
+.2004_Tiwu_93963
+.2003_Watumea_93963
+74.08.15_Tolala_93951
+.2004_Bahari_93951
+.2001_Lawaki Jaya_93951
+.2005_Leleulu (Lelewulu)_93951
+.2006_Loka_93951
+.2002_Patikala_93951
+.2003_Tolala_93951
+74.08.09_Watunohu_93959
+.2002_Lahabaru_93959
+.2008_Lelehao_93959
+.2006_Nyule_93959
+.2007_Samaturu_93959
+.2005_Sapoiha_93959
+.2004_Sarona_93959
+.2003_Tambuha_93959
+.2001_Watunohu_93959
+74.08.07_Wawo_93962
+.2006_Latawe_93962
+.2004_Pumbolo_93962
+.2007_Salurengko_93962
+.2003_Tinukari_93962
+.2005_Ulu Wawo_93962
+.2001_Walasiho_93962
+.2002_Wawo_93962

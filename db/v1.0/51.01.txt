@@ -1,0 +1,56 @@
+51.01.05_Jembrana_82211|82218
+.2007_Air Kuning_82218
+.2004_Batu Agung (Batuagung)_82218
+.2006_Budeng_82218
+.2010_Dangin Tukadaya_82218
+.1005_Dauhwaru_82218
+.1003_Loloan Timur_82216
+.1001_Pendem_82211
+.2002_Perancak_82218
+.1009_Sangkaragung_82218
+.2008_Yehkuning (Yeh Kuning)_82218
+51.01.04_Melaya_82252
+.2003_Blimbingsari (Belimbingsari)_82252
+.2007_Candikusuma_82252
+.2004_Ekasari_82252
+.1001_Gilimanuk_82252
+.2010_Manistutu_82252
+.2002_Melaya_82252
+.2005_Nusasari (Nusa Sari)_82252
+.2009_Tukadaya_82252
+.2008_Tuwed_82252
+.2006_Warnasari_82252
+51.01.02_Mendoyo_82261
+.2005_Delodberawah (Delod Berawah)_82261
+.2003_Mendoyo Dangin Tukad_82261
+.2001_Mendoyo Dauh Tukad_82261
+.2007_Penyaringan_82261
+.2004_Pergung_82261
+.2002_Pohsanten_82261
+.1006_Tegalcangkring (Tegal Cangkring)_82261
+.2009_Yeh Sumbul_82261
+.2008_Yehembang (Yeh Embang)_82261
+.2011_Yehembang Kangin (Yeh Embang Kangin)_82261
+.2010_Yehembang Kauh (Yeh Embang Kauh)_82261
+51.01.01_Negara_82212|82218
+.1006_Baler Bale Agung_82212
+.2002_Baluk_82218
+.1008_Banjar Tengah_82213
+.2003_Banyu Biru (Banyubiru)_82218
+.2005_Berangbang_82218
+.2001_Cupel_82218
+.2004_Kaliakah_82218
+.1013_Lelateng_82214
+.1014_Loloan Barat_82215
+.2011_Pengambengan_82218
+.2010_Tegal Badeng Barat_82218
+.2009_Tegal Badeng Timur_82218
+51.01.03_Pekutatan_82262
+.2003_Asahduren_82262
+.2006_Gumbrih_82262
+.2007_Manggissari_82262
+.2001_Medewi_82262
+.2005_Pangyangan_82262
+.2004_Pekutatan_82262
+.2008_Pengeragoan (Pengragoan)_82262
+.2002_Pulukan_82262

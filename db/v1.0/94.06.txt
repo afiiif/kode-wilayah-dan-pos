@@ -1,0 +1,89 @@
+94.06.10_Dogiyai_98881
+.2008_Bobobutu (Bobubutu)_98881
+.2004_Denemani_98881
+.2001_Dogimani (Abgoigi)_98881
+.2006_Egebutu_98881
+.2003_Idadagi_98881
+.2002_Kegemani (Kigamani)_98881
+.2005_Makidimi (Makidini)_98881
+.2007_Motito_98881
+.2009_Pona (Sukamaju)_98881
+94.06.01_Kamu_98882
+.2004_Bukapa (Bugapa)_98882
+.2006_Dikiyouwo (Dikiyouwa / Dikiyouma / Tokapo)_98882
+.2003_Ekemanida (Ekemenida)_98882
+.2007_Idakotu_98882
+.2001_Ikebo (Moanemani)_98882
+.2005_Kimipugi (Kimupugi)_98882
+.2002_Mauwa_98882
+.2008_Putapa (Uputapa)_98882
+94.06.07_Kamu Selatan_98883
+.2007_Bogiyoteugi_98883
+.2004_Botumuma (Botumoma)_98883
+.2006_Digikebo_98883
+.2008_Matadi_98883
+.2005_Obaibega_98883
+.2002_Pouwouda (Pouwoda / Pouwuoda)_98883
+.2001_Puweta/Pueta I_98883
+.2003_Puweta/Pueta II_98883
+.2009_Tuwaida_98883
+.2011_Ugikagouda_98883
+.2012_Ugikebo_98883
+.2010_Yepo (Makidimi)_98883
+94.06.08_Kamu Timur_98884
+.2003_Boduda_98884
+.2005_Bokaibutu (Bukaibuto)_98884
+.2006_Bonauwo (Bunauwo)_98884
+.2002_Deiyapa (Deiyepa)_98884
+.2007_Nuwa (Nua)_98884
+.2001_Ugapuga_98884
+.2004_Yotapuga_98884
+94.06.04_Kamu Utara_98885
+.2009_Duntek (Dumtek)_98885
+.2010_Ekimani (Ekiwani)_98885
+.2001_Idakebo_98885
+.2004_Ikrar_98885
+.2006_Koyakago (Kuyakago)_98885
+.2007_Mogou_98885
+.2005_Obayo_98885
+.2003_Pugatadi Dua (II)_98885
+.2002_Pugatadi Satu (I)_98885
+.2008_Yametadi (Yawetadi)_98885
+94.06.02_Mapia_98871
+.2002_Abaimaida_98871
+.2001_Bobomani (Bomomani)_98871
+.2003_Bonakunu_98871
+.2004_Dawaikunu_98871
+.2006_Diyoudimi_98871
+.2005_Magode (Magone)_98871
+.2007_Obaikagopa (Abaugi)_98871
+94.06.06_Mapia Barat_98872
+.2001_Abouyaga_98872
+.2002_Maikotu_98872
+.2003_Taubaikebo (Toubaikebo / Tobaikebo)_98872
+.2004_Yegoukotu_98872
+94.06.09_Mapia Tengah_98873
+.2009_Adauwo_98873
+.2004_Atou (Tuamani)_98873
+.2002_Diyeugi_98873
+.2008_Gabaikunu_98873
+.2010_Magaikebo (Megaikebo)_98873
+.2005_Modio_98873
+.2001_Piyakunu_98873
+.2003_Putapa_98873
+.2007_Timopa (Timepa)_98873
+.2006_Upibega (Ukudawata)_98873
+94.06.03_Piyaiye_98874
+.2001_Apogomakida (Aporomakida)_98874
+.2002_Deniyode (Deneiode)_98874
+.2006_Egipa_98874
+.2004_Ideduwa_98874
+.2005_Kegata_98874
+.2008_Tipaugi_98874
+.2007_Ukagu_98874
+.2003_Yegiyepa (Yegeiyepa)_98874
+94.06.05_Sukikai Selatan_98875
+.2003_Iyaro_98875
+.2002_Sukikai_98875
+.2001_Unito_98875
+.2004_Wigoumakida_98875

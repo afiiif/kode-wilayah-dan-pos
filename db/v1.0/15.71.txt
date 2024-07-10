@@ -1,0 +1,79 @@
+15.71.09_Alam Barajo_36125|36129
+.1004_Bagan Pete_36129
+.1005_Beliung_36129
+.1001_Kenali Besar_36129
+.1003_Mayang Mangurai_36129
+.1007_Pinang Merah_36129
+.1002_Rawa Sari_36125
+.1006_Simpang Rimbo_36129
+15.71.10_Danau Sipin_36121|36129
+.1003_Legok_36121
+.1002_Murni_36121
+.1004_Selamat_36129
+.1005_Solok Sipin_36121
+.1001_Sungai Putri_36122
+15.71.06_Danau Teluk_36261|36265
+.1003_Olak Kemang_36262
+.1001_Pasir Panjang_36265
+.1004_Tanjung Pasir_36263
+.1002_Tanjung Raden_36264
+.1005_Ulu Gedong_36261
+15.71.02_Jambi Selatan_36131|36139
+.1006_Pakuan Baru_36132
+.1002_Pasir Putih_36139
+.1003_Tambak Sari_36139
+.1004_Thehok (The Hok)_36138
+.1005_Wijaya Pura_36131
+15.71.03_Jambi Timur_36141|36149
+.1004_Budiman_36145
+.1006_Kasang_36141
+.1002_Kasang Jaya_36141
+.1008_Rajawali_36143
+.1001_Sijenjang (Sijinjang)_36149
+.1005_Sulanjana (Sulan Jana)_36144
+.1003_Talang Banjar_36142
+.1010_Tanjung Pinang_36146
+.1007_Tanjung Sari_36147
+15.71.08_Jelutung_36133|36137
+.1002_Cempaka Putih_36134
+.1007_Handil Jaya_36137
+.1006_Jelutung_36136
+.1003_Kebun Handil_36137
+.1004_Lebak Bandung_36135
+.1005_Payo Lebar_36135
+.1001_Talang Jauh_36133
+15.71.07_Kota Baru_36126|36128
+.1012_Kenali Asam_36128
+.1006_Kenali Asam Atas_36128
+.1005_Kenali Asam Bawah_36128
+.1004_Paal Lima_36128
+.1002_Simpang III Sipin (Simpang Tiga Sipin)_36126
+.1001_Suka Karya_36127
+.1011_Talang Gulo_36128
+15.71.11_Paal Merah_36139|36148
+.1006_Bakung Jaya_36139
+.1003_Eka Jaya_36139
+.1004_Lingkar Selatan_36139
+.1005_Paal Merah_36139
+.1002_Payo Selincah/Silincah_36148
+.1001_Talang Bakung_36139
+15.71.04_Pasar Jambi_36111|36134
+.1001_Beringin_36112
+.1002_Orang Kayo Hitam_36111
+.1003_Pasar Jambi_36133
+.1004_Sungai Asam_36134
+15.71.05_Pelayangan_36251|36256
+.1001_Arab Melayu_36251
+.1003_Jelmu_36253
+.1002_Mudung Laut_36252
+.1005_Tahtul Yaman_36255
+.1006_Tanjung Johor_36256
+.1004_Tengah_36254
+15.71.01_Telanaipura_36122|36129
+.1012_Aur Kenali_36129
+.1002_Buluran Kenali_36123
+.1011_Pematang Sulur_36129
+.1010_Penyengat Rendah_36124
+.1001_Simpang IV Sipin (Simpang Empat Sipin)_36124
+.1004_Telanaipura_36122
+.1003_Teluk Kenali_36123

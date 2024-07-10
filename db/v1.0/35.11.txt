@@ -1,0 +1,242 @@
+35.11.20_Binakal_68251
+.2004_Baratan_68251
+.2008_Bendelan_68251
+.2005_Binakal_68251
+.2001_Gadingsari_68251
+.2006_Jeruksoksok_68251
+.2003_Kembangan_68251
+.2007_Sumber Tengah (Sumbertengah)_68251
+.2002_Sumber Waru (Sumberwaru)_68251
+35.11.11_Bondowoso_68211|68219
+.1008_Badean_68214
+.1010_Blindungan_68212
+.1007_Dabasah_68211
+.1006_Kademangan_68217
+.2003_Kembang_68219
+.1009_Kotakulon_68213
+.1004_Nangkaan_68215
+.2001_Pancoran_68219
+.2011_Pejaten_68218
+.2002_Sukowiryo_68219
+.1005_Tamansari_68216
+35.11.22_Botolinggo_68284|68285
+.2002_Botolinggo_68284
+.2005_Gayam_68285
+.2008_Gayam Lor_68285
+.2006_Klekehan (Klekean)_68285
+.2003_Lanas_68284
+.2001_Lumutan_68284
+.2004_Penang_68285
+.2007_Sumber Canting (Sumbercanting)_68284
+35.11.15_Cermee_68261|68286
+.2010_Bajuran_68286
+.2014_Batu Ampar_68286
+.2012_Batu Salang_68286
+.2003_Bercak_68286
+.2015_Bercak Asri_68286
+.2006_Cermee_68286
+.2008_Grujugan_68261
+.2011_Jirek Mas_68286
+.2002_Kladi_68286
+.2013_Palalangan (Pelalangan)_68286
+.2009_Ramban Kulon_68286
+.2007_Ramban Wetan_68286
+.2001_Solor_68286
+.2005_Suling Kulon_68286
+.2004_Suling Wetan_68286
+35.11.07_Curahdami_68250
+.1009_Curahdami_68250
+.2006_Curahpoh_68250
+.2001_Jetis_68250
+.2003_Kupang_68250
+.2011_Locare_68250
+.2002_Pakuwesi_68250
+.2005_Panambangan (Penambangan)_68250
+.2004_Petung_68250
+.2007_Poncogati_68250
+.2010_Selolembu (Silolembu)_68250
+.2012_Sumber Salak_68250
+.2008_Sumber Suko (Sumbersuko)_68250
+35.11.06_Grujugan_68261
+.2008_Dadapan_68261
+.2009_Dawuhan_68261
+.2011_Grujugan Kidul_68261
+.2006_Kabuaran_68261
+.2013_Kejawan_68261
+.2003_Pekauman_68261
+.2004_Sumber Pandan (Sumberpandan)_68261
+.2010_Taman_68261
+.2002_Tegal Mijin (Tegalmijin)_68261
+.2005_Wanisodo_68261
+.2007_Wonosari_68261
+35.11.23_Jambesari Darus Sholah_68261|68271
+.2007_Grujugan Lor_68261
+.2002_Jambeanom (Jambe Anom)_68263
+.2001_Jambesari (Jambe Sari)_68263
+.2008_Pejagan_68261
+.2006_Pengarang_68271
+.2003_Pucanganom (Pucang Anom)_68263
+.2009_Sumber Anyar_68263
+.2004_Sumberjeruk (Sumber Jeruk)_68263
+.2005_Tegalpasir_68263
+35.11.14_Klabang_68284
+.2012_Besuk_68284
+.2006_Blimbing_68284
+.2005_Karang Anyar (Karanganyar)_68284
+.2007_Karang Sengon_68284
+.2009_Klabang_68284
+.2010_Klampokan_68284
+.2014_Leprak_68284
+.2013_Pandak_68284
+.2011_Sumber Suko (Sumbersuko)_68284
+.2015_Wonoboyo_68284
+.2008_Wonokerto_68284
+35.11.01_Maesan_68262
+.2005_Gambangan_68262
+.2012_Gunungsari (Gunung Sari)_68262
+.2004_Maesan_68262
+.2011_Pakuniran_68262
+.2010_Penanggungan_68262
+.2002_Pujer Baru (Pujerbaru)_68262
+.2001_Sucolor_68262
+.2006_Suger Lor_68262
+.2009_Sumber Anyar_68262
+.2007_Sumber Pakem (Sumberpakem)_68262
+.2008_Sumbersari_68262
+.2003_Tanahwulan_68262
+35.11.17_Pakem_68253
+.2001_Andungsari_68253
+.2002_Ardisaeng_68253
+.2004_Gadingsari_68253
+.2003_Kupang_68253
+.2005_Pakem_68253
+.2007_Patemon_68253
+.2008_Petung_68253
+.2006_Sumberdumpyong (Sumber Dumpyong)_68253
+35.11.16_Prajekan_68285
+.2001_Bandilan_68285
+.2007_Cangkring_68285
+.2006_Prajekan Kidul_68285
+.2005_Prajekan Lor_68285
+.2002_Sempol_68285
+.2003_Tarum_68285
+.2008_Walidono_68285
+35.11.05_Pujer_68271
+.2001_Alas Sumur (Alassumur)_68271
+.2002_Kejayan_68271
+.2003_Mangli_68271
+.2004_Maskuning Kulon_68271
+.2005_Maskuning Wetan_68271
+.2006_Mengok_68271
+.2007_Padasan_68271
+.2009_Randu Cangkring (Randucangkring)_68271
+.2010_Suko Kerto (Sukokerto)_68271
+.2012_Sukodono_68271
+.2011_Sukowono_68271
+35.11.19_Sempol_68288
+.2003_Jampit_68288
+.2005_Kali Gedang (Kaligedang)_68288
+.2002_Kalianyar_68288
+.2004_Kalisat_68288
+.2001_Sempol_68288
+.2006_Sumber Rejo_68288
+35.11.04_Sukosari_68287
+.2004_Kerang_68287
+.2002_Nogosari_68287
+.2003_Pecalongan_68287
+.2001_Sukosari Lor_68287
+35.11.18_Sumberwringin (Sumber Wringin)_68289
+.2005_Rejo Agung (Rejoagung)_68289
+.2001_Sukorejo_68289
+.2003_Sukosari Kidul_68289
+.2002_Sumber Gading_68289
+.2006_Sumberwringin (Sumber Wringin)_68289
+.2004_Tegaljati_68289
+35.11.21_Taman Krocok_68291
+.2002_Gentong_68291
+.2003_Kemuningan_68291
+.2007_Kretek_68291
+.2006_Paguan_68291
+.2005_Sumberkokap_68291
+.2001_Taman_68291
+.2004_Trebungan_68291
+35.11.02_Tamanan_68263
+.2007_Kalianyar_68263
+.2002_Karang Melok (Karangmelok)_68263
+.2004_Kemirian_68263
+.2003_Mengen_68263
+.2001_Sukosari_68263
+.2014_Sumber Anom_68263
+.2012_Sumber Kemuning (Sumberkemuning)_68263
+.2005_Tamanan_68263
+.2006_Wonosuko_68263
+35.11.10_Tapen_68283
+.2007_Cindogo_68283
+.2005_Gunung Anyar (Gununganyar)_68283
+.2006_Jurang Sapi (Jurangsapi)_68283
+.2008_Kalitapen_68283
+.2002_Mangli Wetan_68283
+.2004_Mrawan_68283
+.2003_Taal_68283
+.2009_Tapen_68283
+.2001_Wonokusumo_68283
+35.11.13_Tegalampel_68292
+.2004_Karanganyar_68292
+.2001_Klabang_68292
+.2014_Klabang Agung_68292
+.2002_Mandiro_68292
+.2015_Purnama_68292
+.1005_Sekarputih_68292
+.2003_Tanggulangin_68292
+.2006_Tegalampel_68292
+35.11.08_Tenggarang_68281
+.2007_Bataan_68281
+.2009_Dawuhan_68281
+.2008_Gebang_68281
+.2004_Kajar_68281
+.2001_Kesemek (Kasemek)_68281
+.2012_Koncer Darul Aman (Koncer Darul Alam)_68281
+.2006_Koncer Kidul_68281
+.2002_Lojajar_68281
+.2003_Pekalangan_68281
+.2005_Sumber Salam (Sumbersalam)_68281
+.2010_Tangsil Kulon_68281
+.1011_Tenggarang_68281
+35.11.03_Tlogosari_68272
+.2010_Brambang Darussalam (Brambang Darussolah)_68272
+.2002_Gunosari_68272
+.2004_Jebung Kidul_68272
+.2009_Jebung Lor_68272
+.2001_Kembang_68272
+.2007_Pakisan_68272
+.2008_Patemon_68272
+.2005_Sulek_68272
+.2006_Tlogosari_68272
+.2003_Trotosari_68272
+35.11.09_Wonosari_68282
+.2007_Bendoarum_68282
+.2004_Jumpong_68282
+.2008_Kapuran_68282
+.2001_Lombok Kulon_68282
+.2002_Lombok Wetan_68282
+.2006_Pasarejo_68282
+.2012_Pelalangan_68282
+.2009_Sumberkalong_68282
+.2005_Tangsil Wetan_68282
+.2010_Traktakan_68282
+.2003_Tumpeng_68282
+.2011_Wonosari_68282
+35.11.12_Wringin_68252
+.2001_Ambulu_68252
+.2006_Ampelan_68252
+.2011_Banyuputih_68252
+.2008_Banyuwulu_68252
+.2002_Bukor_68252
+.2010_Glingseran_68252
+.2005_Gubrih_68252
+.2004_Jambewungu_68252
+.2009_Jatisari_68252
+.2007_Jatitamban_68252
+.2013_Sumbercanting_68252
+.2003_Sumbermalang_68252
+.2012_Wringin_68252

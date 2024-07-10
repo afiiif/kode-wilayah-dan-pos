@@ -1,0 +1,46 @@
+13.11.03_Koto Parik Gadang Diateh_27775
+.2001_Pakan Rabaa_27775
+.2004_Pakan Rabaa Tengah_27775
+.2002_Pakan Rabaa Timur_27775
+.2003_Pakan Rabaa Utara_27775
+13.11.06_Pauh Duo_27776
+.2001_Alam Pauh Duo_27776
+.2002_Kapau Alam Pauh Duo_27776
+.2003_Luak Kapau Alam Pauh Duo_27776
+.2004_Pauh Duo Nan Batigo_27776
+13.11.01_Sangir_27778
+.2001_Lubuk Gadang_27778
+.2003_Lubuk Gadang Selatan_27778
+.2002_Lubuk Gadang Timur_27778
+.2004_Lubuk Gadang Utara_27778
+13.11.07_Sangir Balai Janggo_27777
+.2001_Sungai Kunyit_27777
+.2003_Sungai Kunyit Barat_27777
+.2002_Talao Sungai Kunyit_27777
+.2004_Talunan Maju_27777
+13.11.05_Sangir Batang Hari_27779
+.2001_Abai_27779
+.2002_Dusun Tangah_27779
+.2003_Lubuk Ulang Aling_27779
+.2006_Lubuk Ulang Aling Selatan_27779
+.2007_Lubuk Ulang Aling Tengah_27779
+.2004_Ranah Pantai Cermin_27779
+.2005_Sitapus_27779
+13.11.04_Sangir Jujuan_27773
+.2002_Bidar Alam_27773
+.2001_Lubuk/Lubuak Malako_27773
+.2004_Padang Air Dingin_27773
+.2006_Padang Gantiang_27773
+.2005_Padang Limau Sundai_27773
+13.11.02_Sungai Pagu_27774
+.2007_Bomas_27774
+.2002_Koto Baru_27774
+.2005_Pasar Muara Labuh_27774
+.2001_Pasir Talang_27774
+.2010_Pasir Talang Barat_27774
+.2012_Pasir Talang Selatan_27774
+.2011_Pasir Talang Timur_27774
+.2006_Pulakek Koto Baru_27774
+.2004_Sako Pasia Talang_27774
+.2009_Sako Selatan Pasia Talang_27774
+.2008_Sako Utara Pasia Talang_27774

@@ -1,0 +1,401 @@
+11.02.06_Babul Makmur_24673
+.2005_Cinta Damai_24673
+.2015_Cinta Makmur_24673
+.2008_Kute Bakti_24673
+.2012_Kute Makmur_24673
+.2026_Lawe Desky Jaya_24673
+.2003_Lawe Desky Sabas_24673
+.2007_Lawe Desky Tongah_24673
+.2002_Lawe Desky/Deski I_24673
+.2014_Lawe Mantik_24673
+.2024_Lawe Tawakh_24673
+.2016_Muara Setia_24673
+.2010_Muara Situlen_24673
+.2006_Pardamean_24673
+.2013_Pardamean_24673
+.2004_Pardomuan I_24673
+.2001_Pardomuan II_24673
+.2027_Pintu Alas_24673
+.2025_Sabilussalam (Sibulussalam)_24673
+.2011_Sejahtera_24673
+.2018_Sejahtera Baru_24673
+.2017_Tanoh Alas_24673
+11.02.11_Babul Rahmah_24675
+.2029_Alas Mesikhat_24675
+.2023_Alukh Bakhu_24675
+.2018_Alur Baning_24675
+.2013_Dolok Nauli_24675
+.2020_Khambung Tumbung (Khambung Tubung)_24675
+.2006_Kuta/Kute Lang-Lang_24675
+.2017_Lawe Malum_24675
+.2007_Lawe Sumur_24675
+.2019_Lingga Alas (Lingge Alas)_24675
+.2016_Lumban Sitio-Tio_24675
+.2011_Lumban Tua_24675
+.2005_Meranti_24675
+.2012_Mutiara Damai_24675
+.2008_Pardamaian (Perdamean)_24675
+.2010_Penguhapan_24675
+.2026_Pinggan Mbelang_24675
+.2009_Salim Pipit_24675
+.2024_Sepekhinding_24675
+.2027_Sigai Indah_24675
+.2022_Sumukh Alas_24675
+.2025_Tanoh Subukh_24675
+.2030_Titi Hakhapen (Titai Hakhapen)_24675
+.2004_Titi Mas_24675
+.2021_Tuah Mesade_24675
+.2014_Tuhi Jongkat_24675
+.2028_Ukekh Deleng_24675
+.2015_Uning Sigugur_24675
+11.02.04_Babussalam_24664
+.2023_Alas Marantcar (Alas Memancar)_24664
+.2006_Batu Mbulan Asli_24664
+.2007_Batu Mbulan I_24664
+.2008_Batu Mbulan II_24664
+.2017_Batu Mbulan Mbaru (Batum Bulan Baru)_24664
+.2024_Batu Mbulan Sepakat_24664
+.2014_Gumpang Jaya_24664
+.2011_Kampung Melayu Gabungan_24664
+.2009_Kampung Raja_24664
+.2001_Kota Kutacane_24664
+.2016_Kutacane Lama_24664
+.2013_Kute Rih_24664
+.2005_Mbarung_24664
+.2027_Mbarung Datuk Saudane (Mburung Datuk Sekhudane)_24664
+.2026_Melayu I_24664
+.2019_Mendabe_24664
+.2004_Muara Lawe Bulan_24664
+.2022_Pekhapat Sepakat (Perapat Sepakat)_24664
+.2021_Pekhapat Titi Panjang (Perapat Titi Panjang)_24664
+.2002_Perapat Hilir_24664
+.2003_Perapat Hulu_24664
+.2015_Pulo Latong_24664
+.2018_Pulo Peding_24664
+.2025_Pulo Sanggakh_24664
+.2010_Pulonas_24664
+.2012_Terutung Pedi_24664
+.2020_Ujung Barat_24664
+11.02.05_Badar_24666
+.2032_Badar Indah_24666
+.2033_Batu Mbekhong (Batu Mberong)_24666
+.2029_Deleng Megakhe_24666
+.2013_Kampung Baru_24666
+.2026_Kumbang Indah_24666
+.2025_Kumbang Jaya_24666
+.2009_Kuta/Kute Pasir_24666
+.2012_Kuta/Kute Tinggi_24666
+.2030_Lawe Bekung_24666
+.2031_Lawe Bekung Tampahan_24666
+.2036_Lawe Sekerah (Lawe Sekekhah)_24666
+.2015_Natam_24666
+.2027_Natam Baru_24666
+.2014_Peranginan_24666
+.2011_Purwodadi_24666
+.2005_Salang Alas_24666
+.2034_Tanah Merah_24666
+.2035_Tanoh Megakhe_24666
+11.02.03_Bambel_24672
+.2040_Ampera_24672
+.2023_Bambel_24672
+.2001_Bambel Gabungan_24672
+.2011_Biak Muli_24672
+.2034_Biak Muli Baru (Biak Muli Bakhu)_24672
+.2035_Biak Muli Pantai Raja_24672
+.2036_Biak Muli Sejahtera_24672
+.2019_Cinta Damai_24672
+.2002_Kisam_24672
+.2017_Kuning I_24672
+.2018_Kuning II_24672
+.2028_Kuta Antara (Kute Antara)_24672
+.2012_Kute Lang Lang_24672
+.2042_Kute Lang Lang Bakhu_24672
+.2027_Kute Seri_24672
+.2005_Lawe Hijo_24672
+.2039_Lawe Hijo Metuah_24672
+.2025_Lawe Kihing_24672
+.2037_Lembah Haji_24672
+.2020_Likat_24672
+.2033_Pancakh Iman_24672
+.2013_Pedesi_24672
+.2006_Pinding_24672
+.2031_Pulo Kendondong (Pulo Kedondong)_24672
+.2029_Pulo Perengge_24672
+.2021_Rikit_24672
+.2041_Tembilakh Mbakhu (Tembilakh Bakhu)_24672
+.2009_Terutung Megara Asli_24672
+.2038_Terutung Payung Gabungan_24672
+.2015_Terutung Payung Hilir_24672
+.2014_Terutung Payung Hulu_24672
+.2026_Terutung Seperai_24672
+.2016_Tualang Sembilar_24672
+11.02.09_Bukit Tusam_24671
+.2004_Alur Buluh (Kuta Buluh)_24671
+.2016_Amaliah_24671
+.2013_Bambel Baru_24671
+.2022_Darul Imami_24671
+.2015_Darussalam_24671
+.2018_Gumpang_24671
+.2010_Kerukunan_24671
+.2024_Kute Empat Lima_24671
+.2019_Kute Gekhat_24671
+.2001_Kute Lengat Pangan (Kuta Lengat Pagan)_24671
+.2002_Kute Lengat Selian (Kuta Lengat Selian)_24671
+.2007_Kute Lingga (Kuta Lingga)_24671
+.2011_Lawe Dua (Lawe Dua Gabungan)_24671
+.2005_Maha Singkil_24671
+.2021_Mbak Sako_24671
+.2020_Paye Khambung (Paya Khambung)_24671
+.2014_Pejuang_24671
+.2012_Rema_24671
+.2008_Rikit Bur_24671
+.2023_Rikit Bur II_24671
+.2017_Sebudi Jaya_24671
+.2006_Tenembak Bintang_24671
+.2003_Tualang Baru_24671
+11.02.07_Darul Hasanah_24663
+.2027_Buntul Kendawi_24663
+.2018_Darul Makmur_24663
+.2001_Gulo_24663
+.2022_Istiqamah (Istiqomah)_24663
+.2006_Kite Merangun (Kitei Meranggun)_24663
+.2021_Kokhtan Jaya_24663
+.2028_Kuning Abadi_24663
+.2014_Kute Rambe_24663
+.2004_Kute Ujung_24663
+.2023_Lawe Mamas Indah_24663
+.2026_Lawe Pinis_24663
+.2005_Lawe Stul/Setul_24663
+.2017_Makmur Jaya_24663
+.2007_Mamas_24663
+.2015_Mamas Baru_24663
+.2020_Pulo Gabung (Pulo Gadung)_24663
+.2002_Pulo Piku_24663
+.2016_Rambung Jaya_24663
+.2010_Rambung Teldak_24663
+.2025_Simpang Empat Tanjung_24663
+.2012_Sri Muda (Serimuda)_24663
+.2011_Tanjung Aman_24663
+.2019_Tanjung Bakhu (Tanjung Mbakhu)_24663
+.2008_Tanjung Lama_24663
+.2024_Tanjung Leuser_24663
+.2009_Tanjung Muda_24663
+.2003_Terutung Kute_24663
+.2013_Ujung Baru_24663
+11.02.13_Deleng Pokhkisen (Deleng Pokhisen)_24660
+.2021_Beriring Naru_24660
+.2011_Bunga Melur (Bunga Melur Gabungan)_24660
+.2007_Gusung Batu_24660
+.2019_Kane Lot_24660
+.2022_Kati Jeroh_24660
+.2008_Kaya Pangur_24660
+.2015_Lawe Hakhum_24660
+.2010_Lawe Pangkat_24660
+.2003_Lembah Alas_24660
+.2020_Muhajirin_24660
+.2012_Penampaan_24660
+.2018_Peseluk Pesimbe (Pesuluk Pesimbe)_24660
+.2002_Ranto Dior/Diur_24660
+.2001_Salang Baru_24660
+.2014_Salang Muara_24660
+.2005_Salang Sigotom_24660
+.2009_Sepakat_24660
+.2017_Tading Ni Ulihi (Tading Niulihi)_24660
+.2016_Tanoh Khukahen_24660
+.2004_Tenembak/Tenebak Lang-Lang_24660
+.2013_Terutung Mbelang_24660
+.2006_Tualang Lama_24660
+11.02.12_Ketambe_24662
+.2001_Aunan Sepakat_24662
+.2014_Bener Bepapah (Bener Mepapah)_24662
+.2011_Bintang Bener_24662
+.2020_Bukit Mbakhu_24662
+.2016_Datok Pining_24662
+.2010_Deleng Damar_24662
+.2004_Jambur Lak Lak_24662
+.2019_Jati Sara (Jati Rasa)_24662
+.2006_Jongar Asli (Jongar)_24662
+.2017_Kati Maju_24662
+.2021_Kayu Metangur (Kayu Mentangur)_24662
+.2007_Ketambe_24662
+.2013_Lawe Aunan_24662
+.2023_Lawe Beringin (Lawe Bekhingin)_24662
+.2024_Lawe Ger Ger_24662
+.2003_Lawe Mengkudu_24662
+.2002_Lawe Penanggalan_24662
+.2022_Lawe Sembekan_24662
+.2018_Leuser (Louser)_24662
+.2015_Penungkunen_24662
+.2009_Penyeberangan Cingkam_24662
+.2008_Rumah Bundar_24662
+.2005_Simpang Tiga Jongar (Simpang III Jongar)_24662
+.2025_Simpur Jaya_24662
+.2012_Suka Rimbun_24662
+11.02.01_Lawe Alas_24661
+.2021_Batu Hamparan_24661
+.2025_Cingkham Mekhanggun_24661
+.2019_Darul Amin_24661
+.2031_Deleng Kukusen_24661
+.2001_Engkeran_24661
+.2006_Kubu_24661
+.2011_Kuta Batu I_24661
+.2013_Kuta Batu II_24661
+.2012_Kuta Cingkam I_24661
+.2008_Kuta Cingkam II_24661
+.2018_Kute Batu Baru (Kuta Batu Baru)_24661
+.2007_Lawe Kongker (Lawe Konker / Kongkir)_24661
+.2027_Lawe Kongker Hilir (Lawe Konker Hilir)_24661
+.2020_Lawe Lubang Indah_24661
+.2014_Lawe Sempilang_24661
+.2009_Muara Baru_24661
+.2030_Pasikh Nunang_24661
+.2029_Pasikh Pehkmate (Pasikh Pekhmate)_24661
+.2004_Pasir Bangun_24661
+.2024_Pasir Nunggul_24661
+.2022_Paye Munje_24661
+.2015_Perapat Batu Nunggul_24661
+.2026_Pintu Khimbe_24661
+.2028_Pulo Gadung_24661
+.2023_Pulo Ndapdap (Pulo Ndadap)_24661
+.2016_Pulo Sepang_24661
+.2017_Rih Mbelang (Mebelang)_24661
+.2002_Rumah Kampung_24661
+11.02.08_Lawe Bulan_24665
+.2029_Bahagia_24665
+.2013_Kampung Nangka_24665
+.2019_Kandang Mbelang Mandiri_24665
+.2017_Katambaru Becawan (Katembaru Bencawan)_24665
+.2016_Kuta Buluh Botong_24665
+.2025_Kuta Genting_24665
+.2003_Kutambaru (Kutem Baru)_24665
+.2006_Kute Bantil_24665
+.2030_Kute Galuh Asli (Kuta Galuh Asli)_24665
+.2018_Lawe Kinge_24665
+.2011_Lawe Kolok_24665
+.2012_Lawe Rutung_24665
+.2027_Lawe Sagu_24665
+.2026_Lawe Sagu Baru_24665
+.2005_Lawe Sagu Hilir_24665
+.2004_Lawe Sagu Hulu_24665
+.2020_Mbacang Racun_24665
+.2001_Pasir Gala_24665
+.2002_Pasir Penjengakan_24665
+.2028_Pekhapet Timur (Pekhapat Timur)_24665
+.2023_Pulonas Baru_24665
+.2015_Simpang Empat_24665
+.2021_Telaga Mekar_24665
+.2014_Tenembak Juhar_24665
+11.02.02_Lawe Sigala Gala_24676
+.2001_Bukit Merdeka_24676
+.2023_Bukit Sepakat_24676
+.2002_Darul Aman_24676
+.2021_Enmiya Batu Dua Ratus (Enmya Batu Dua Ratus)_24676
+.2012_Gabungan Parsaroan (Gabungan Parsaoran)_24676
+.2026_Gaya Jaya_24676
+.2027_Gelah Musara_24676
+.2030_Karya Indah_24676
+.2031_Kayu Mbelin_24676
+.2011_Kedataran Gabungan_24676
+.2034_Kertimbang_24676
+.2009_Kute/Kuta Tengah_24676
+.2003_Lawe Kesumpat_24676
+.2014_Lawe Loning Aman_24676
+.2013_Lawe Loning Gabungan_24676
+.2029_Lawe Loning Hakhapen_24676
+.2025_Lawe Loning I_24676
+.2024_Lawe Loning Sepakat_24676
+.2033_Lawe Pekhidinen_24676
+.2019_Lawe Rakat_24676
+.2018_Lawe Serke_24676
+.2007_Lawe Sigala Barat_24676
+.2032_Lawe Sigala Barat Jaya_24676
+.2005_Lawe Sigala II_24676
+.2006_Lawe Sigala Timur_24676
+.2004_Lawe Tua Gabungan_24676
+.2016_Lawe Tua Makmur_24676
+.2017_Lawe Tua Persatuan_24676
+.2028_Mulie Dame (Mulie Damai)_24676
+.2035_Ndauh Nitenggo_24676
+.2022_Sebungke_24676
+.2008_Suka Damai_24676
+.2020_Suka Jaya_24676
+.2015_Suka Maju_24676
+.2010_Tanah Baru_24676
+11.02.14_Lawe Sumur_24670
+.2007_Berandang_24670
+.2009_Buah Pala_24670
+.2002_Kisam Gabungan (Kisam)_24670
+.2003_Kisam Kute Pasir_24670
+.2014_Kisam Kute Rambe_24670
+.2013_Kisam Lestari_24670
+.2008_Kute Bunin_24670
+.2006_Kute Lesung_24670
+.2015_Lawe Polak_24670
+.2004_Lawe Sumur_24670
+.2005_Lawe Sumur Baru_24670
+.2016_Lawes Sumur Sepakat (Lawe Sumur Sepakat)_24670
+.2010_Panosan (Penosan)_24670
+.2017_Setia Baru_24670
+.2018_Teger Miko_24670
+.2011_Tengku Mbelin (Lawe Pasaran Tengku Mbelin)_24670
+.2012_Terutung Megahke MBakhu (Terutung Megakhe Bakhu)_24670
+.2001_Terutung Megara Lawe Pasaran_24670
+11.02.16_Leuser_24677
+.2017_Akhih Majile_24677
+.2001_Bintang Alga Musara_24677
+.2002_Bintang Bukit Indah (Bukit Bintang Indah)_24677
+.2007_Bukit Meriah (Bukit Mekhiah)_24677
+.2004_Bun-bun Alas (Bunbun Alas)_24677
+.2012_Bunbun Indah (Bunbun Indah War)_24677
+.2020_Gaye Sendah_24677
+.2006_Gunung Pak-Pak_24677
+.2010_Kane Mende_24677
+.2022_Kompas_24677
+.2021_Kute Hakhapen (Hakhapen)_24677
+.2009_Laut Tawar_24677
+.2011_Lawe Sekhakut_24677
+.2005_Naga Timbul_24677
+.2008_Permata Musara_24677
+.2015_Punce Nali_24677
+.2016_Sade Ate_24677
+.2023_Sepakat_24677
+.2013_Suka Damai_24677
+.2003_Tanjung Sari_24677
+.2014_Tuah Kekhine (Tanah Khekhine)_24677
+.2019_Tunas Mude_24677
+.2018_Ukhat Peseluk_24677
+11.02.10_Semadam_24678
+.2014_Kampung Baru_24678
+.2006_Kebun Sere_24678
+.2008_Lawe Berigin Gayo_24678
+.2007_Lawe Beringin Horas_24678
+.2004_Lawe Kinga Gabungan_24678
+.2005_Lawe Kinga Tebing Tinggi_24678
+.2017_Lawe Kinge Lapter (Lawe Kinga Lapter)_24678
+.2018_Lawe Mejile (Lawe Menjilai)_24678
+.2012_Lawe Petanduk I_24678
+.2019_Lawe Petanduk-II_24678
+.2013_Ngkeran Alur Buluh_24678
+.2010_Pasar Puntung_24678
+.2016_Selamat Indah_24678
+.2003_Semadam Asal_24678
+.2002_Semadam Awal_24678
+.2015_Sepakat Segenap (Sepakat Segenep)_24678
+.2001_Simpang Semadam_24678
+.2009_Suka Makmur_24678
+.2011_Titi Pasir_24678
+11.02.15_Tanoh Alas (Tanah Alas)_24674
+.2003_Alur Langsat_24674
+.2014_Alur Nangke (Alukh Nangke)_24674
+.2010_Jambukh Pekhmate_24674
+.2002_Jambur Damar_24674
+.2011_Khutung Mbelang_24674
+.2015_Kute Mejile_24674
+.2008_Lawe Tungkal_24674
+.2004_Rambah Sayang_24674
+.2006_Rumah Luar_24674
+.2001_Salim Pinim I / Satu (Salim Pinim)_24674
+.2009_Salim Pinim II_24674
+.2013_Stambul Jaya_24674
+.2007_Tenembak Alas_24674
+.2012_Timang Rasa (Timang Khase)_24674

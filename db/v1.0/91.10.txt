@@ -1,0 +1,104 @@
+91.10.09_Apawer Hulu_99374
+.2004_Airoran_99374
+.2002_Aurimi_99374
+.2014_Bina_99374
+.2013_Kwawitania_99374
+.2011_Maniwa_99374
+.2005_Murara_99374
+.2006_Sasawapece_99374
+.2012_Surimania (Syurimania)_99374
+.2003_Tamaja (Tamaya)_99374
+.2001_Wamariri_99374
+91.10.05_Bonggo_99381
+.2006_Anus_99381
+.2004_Armopa_99381
+.2010_Bebon Jaya_99381
+.2007_Kiren_99381
+.2017_Krim Podena_99381
+.2008_Maweswares (Mawesres)_99381
+.2015_Rimsersari (Rimser Sari)_99381
+.2018_Rotea_99381
+.2005_Tarontha Srum (Taronta Srum)_99381
+.2011_Tetom_99381
+91.10.15_Bonggo Timur_99382
+.2001_Gwinjaya (Gwin Jaya)_99382
+.2005_Kapitiau (Kaptiau)_99382
+.2003_Mawes Mukti_99382
+.2004_Mawesday_99382
+.2002_Tamar Sari (Tamas Sari)_99382
+91.10.03_Pantai Barat_99375
+.2007_Arbais_99375
+.2013_Aruswar_99375
+.2023_Burgena_99375
+.2014_Kamenawari_99375
+.2008_Kapeso_99375
+.2017_Karfasia_99375
+.2009_Masep_99375
+.2005_Mertewar (Martewar)_99375
+.2012_Nisro_99375
+.2026_Niwerawar_99375
+.2006_Samorkena_99375
+.2025_Siantoa_99375
+.2016_Subu_99375
+.2015_Waim_99375
+.2027_Wari_99375
+.2024_Webro_99375
+91.10.04_Pantai Timur_99370
+.2001_Ansudu (Ansubi)_99370
+.2014_Ansudu Dua (Ansudu II / Srem)_99370
+.2002_Betaf_99370
+.2013_Betaf Dua (Betaf II / Tamnir)_99370
+.2011_Komra_99370
+.2010_Sunum (Yamna)_99370
+.2003_Yamben (Jamber/Beneraf)_99370
+91.10.14_Pantai Timur Bagian Barat_99371
+.2001_Arare_99371
+.2004_Dabe_99371
+.2015_Dabe Dua (Dabe II)_99371
+.2006_Finyabor (Vinyabor)_99371
+.2014_Finyabor Dua_99371
+.2013_Keder Lama_99371
+.2005_Nengke_99371
+.2016_Nengke Dua (Nengke II / Nengke Baru)_99371
+.2012_Tambrawar (Tabrawar)_99371
+.2003_Timron/Keder_99371
+.2002_Wakde_99371
+91.10.01_Sarmi_99373
+.2014_Armo_99373
+.2007_Bagaiserwar_99373
+.2018_Bagaisewar II_99373
+.2020_Lembah Neidam_99373
+.2004_Liki_99373
+.1001_Mararena_99373
+.2019_Pulau Armo_99373
+.1002_Sarmi Kota (Sarmi)_99373
+.2003_Sarmo_99373
+.2006_Sawar_99373
+.2021_Tefarewar_99373
+91.10.12_Sarmi Selatan_99376
+.2001_Amsira_99376
+.2008_Angkasa Dua_99376
+.2004_Kasukwe_99376
+.2003_Munukania (Manukania)_99376
+.2002_Siaratesa_99376
+.2005_Wapo_99376
+91.10.13_Sarmi Timur_99377
+.2006_Bagaiserwar Dua_99377
+.2005_Binyer_99377
+.2004_Ebram_99377
+.2001_Holmafen_99377
+.2002_Sewan_99377
+.2008_Tanjung Batu_99377
+.2007_Waskey_99377
+.2003_Waskey / Tanjung Batu_99377
+91.10.02_Tor Atas_99372
+.2001_Bota-Bora_99372
+.2010_Denander_99372
+.2007_Denender_99372
+.2004_Kanderjan_99372
+.2005_Omte_99372
+.2006_Safrom Tane_99372
+.2009_Safron Tane_99372
+.2003_Samanente_99372
+.2002_Toganto_99372
+.2011_Waaf_99372

@@ -1,0 +1,166 @@
+16.11.05_Lintang Kanan_31593
+.2013_Babatan_31593
+.2005_Batu Ampar_31593
+.2015_Endalo_31593
+.2006_Karang Tanding_31593
+.2012_Lesung Batu_31593
+.2007_Lubuk Cik_31593
+.2016_Lubuk Tapang_31593
+.2014_Muara Danau_31593
+.2004_Nibong (Nibung)_31593
+.2003_Pagar Jati_31593
+.2010_Rantau Aleh (Rantaualih)_31593
+.2008_Rantau Kasai_31593
+.2009_Sukarami_31593
+.2011_Tanjung Alam_31593
+.2002_Tanjung Jati_31593
+.2001_Umojati_31593
+16.11.01_Muara Pinang_31592
+.2018_Batu Galang_31592
+.2001_Batu Jungul_31592
+.2004_Belimbing_31592
+.2012_Gedung Agung_31592
+.2007_Lubuk Tanjung_31592
+.2017_Lubuk Ulak_31592
+.2006_Muara Pinang Baru_31592
+.2010_Muara Pinang Lama_31592
+.2015_Muara Semah_31592
+.2019_Muara Timbuk_31592
+.2014_Niur_31592
+.2003_Padang Bumai (Padang Burnai)_31592
+.2013_Pajar Menang_31592
+.2009_Sapa Panjang (Sapapanjang)_31592
+.2022_Sawah_31592
+.2020_Seleman Ilir_31592
+.2021_Seleman Ulu_31592
+.2002_Suka Dana_31592
+.2008_Talang Baru_31592
+.2016_Talang Benteng_31592
+.2005_Tanjung Kurung_31592
+.2011_Tanjung Tawang_31592
+16.11.07_Pasemah Air Keruh_31595
+.2010_Air Mayam (Air Mayan)_31595
+.2006_Bandar Agung_31595
+.2005_Kebon Jati (Keban Jati)_31595
+.2007_Lawang Agung_31595
+.2015_Muara Aman_31595
+.2011_Muara Rungga_31595
+.2014_Muara Sindang_31595
+.2008_Nanjungan_31595
+.2013_Padang Bindu_31595
+.2012_Padang Gelai_31595
+.2004_Pagar Jati_31595
+.2003_Penantian_31595
+.2001_Talang Padang_31595
+.2009_Talang Randai_31595
+.2002_Tanjung Beringin_31595
+16.11.02_Pendopo_31598
+.2002_Bandar Agung_31598
+.2027_Batu Cawang_31598
+.2020_Bayau_31598
+.1018_Beruge Ilir_31598
+.2029_Gn Merakasa Lama (Gunung Meraksa Lama)_31598
+.2022_Gunung Meraksa Baru_31598
+.2001_Jarakan_31598
+.2023_Landur_31598
+.2004_Lubuk Layang_31598
+.2003_Lubuk Sepang_31598
+.2028_Manggilan (Manggilang)_31598
+.2024_Muarakarang (Muara Karang)_31598
+.2005_Nanjungan_31598
+.1031_Pagar Tengah_31598
+.1030_Pendopo_31598
+.2025_Sarang Bulan_31598
+.2026_Tanjungbaru (Tanjung Baru)_31598
+.2006_Tanjungeran (Tanjung Eran)_31598
+.2007_Tanjungraman (Tanjung Raman)_31598
+16.11.10_Pendopo Barat_31599
+.2007_Air Kandis_31599
+.2004_Karang Caya_31599
+.2010_Kungkilan (Nungkilan)_31599
+.2008_Lingge_31599
+.2002_Muaralintang Baru (Muara Lintang Baru)_31599
+.2001_Muaralintang Lama (Muara Lintang Lama)_31599
+.2006_Padang Bindu_31599
+.2009_Rantau Dodor_31599
+.2005_Tanjungraya (Tanjung Raya)_31599
+.2003_Tebat Payang_31599
+16.11.09_Saling_31457
+.2007_Kebon_31457
+.2001_Lubuk Kelumpang_31457
+.2010_Muara Saling_31457
+.2006_Sawah_31457
+.2008_Suka Kaya_31457
+.2009_Taba_31457
+.2005_Tanjungning Jaya (Tanjung Ning Jaya)_31457
+.2004_Tanjungning Lama (Tanjung Ning Lama)_31457
+.2002_Tanjungning Simpang (Tanjung Ning Simpang)_31457
+.2003_Tanjungning Tengah (Tanjung Ning Tengah)_31457
+16.11.08_Sikap Dalam_31594
+.2002_Bandaraji (Bandar Aji)_31594
+.2011_Karang Anyar_31594
+.2005_Karang Dapo Baru_31594
+.2006_Karang Dapo Lama_31594
+.2004_Karang Gede_31594
+.2010_Martapura (Marta Pura)_31594
+.2003_Paduraksa_31594
+.2001_Puntang_31594
+.2007_Tanggarasa (Tangga Rasa)_31594
+.2008_Tapa Baru_31594
+.2009_Tapa Lama_31594
+16.11.06_Talang Padang_31596
+.2010_Canggu_31596
+.2001_Karang Are_31596
+.2009_Kembahang Baru_31596
+.2003_Kembahang Lama_31596
+.2013_Lampar Baru Talang Padang_31596
+.2006_Lubuk Buntak_31596
+.2005_Macang Manis_31596
+.2002_Padang Titiran_31596
+.2004_Pasar Tanjung Padang_31596
+.2011_Remantai_31596
+.2007_Talang Durian_31596
+.2008_Talang Padang_31596
+.2012_Ulak Dabuk (Ulak Babuk)_31596
+16.11.04_Tebing Tinggi_31456
+.2005_Aur Gading_31456
+.2004_Batu Pance (Batu Panceh)_31456
+.2022_Batu Raja Baru_31456
+.2023_Batu Raja Lama_31456
+.2030_Fajar/Pajar Bakti_31456
+.1033_Jaya Loka_31456
+.1036_Kelumpang Jaya_31456
+.2011_Kemang Manis_31456
+.2021_Kota Gading_31456
+.1010_Kupang_31456
+.2012_Lampar Baru_31456
+.2002_Lubuk Gelanggang_31456
+.2034_Makarti Jaya (Mekarti Jaya)_31456
+.2027_Mekar Jaya_31456
+.2032_Pancur Mas (Pancurmas / Unit Jaya)_31456
+.1017_Pasar Tebing Tinggi_31456
+.2008_Rantau Tenang_31456
+.2009_Seguring Kecil_31456
+.2024_Sugi Waras_31456
+.2035_Tanjung Kupang Baru_31456
+.1014_Tanjung Makmur_31456
+.1013_Tanjungkupang (Tanjung Kupang)_31456
+.2007_Terusan Baru_31456
+.2006_Terusan Lama_31456
+.2001_Ujung Alih_31456
+.2003_Ulak Mengkudu_31456
+16.11.03_Ulu Musi_31597
+.2001_Air Kelincar (Air Kelinsar)_31597
+.2012_Batu Bidung_31597
+.2006_Batu Lintang_31597
+.2025_Galang_31597
+.2003_Kunduran_31597
+.2009_Lb. Puding Baru (Lubuk Puding Baru)_31597
+.2011_Lb. Puding Lama (Lubuk Puding Lama)_31597
+.2008_Muara Betung_31597
+.2005_Muara Kalangan_31597
+.2007_Padang Tepong_31597
+.2010_Pulau Kemang_31597
+.2004_Simpang Perigi_31597
+.2002_Talang Bengkulu (Teluk Bengkulu)_31597
+.2024_Tanjung Agung_31597

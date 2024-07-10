@@ -1,0 +1,271 @@
+14.01.15_Bangkinang_28463
+.2009_Binuang_28463
+.2006_Bukit Sembilan_28463
+.2004_Bukitpayung (Bukit Payung)_28463
+.2003_Laboy Jaya (Laboi Jaya)_28463
+.2002_Muara Uwai_28463
+.1008_Pasir Sialang_28463
+.1007_Pulau_28463
+.2001_Pulau Lawas_28463
+.2005_Suka Mulya_28463
+14.01.01_Bangkinang Kota_28411|28412
+.1011_Bangkinang (Bangkinang Kota)_28411
+.2009_Kumantan_28411
+.1013_Langgini Sialang (Langgini)_28412
+.2010_Rindan Permai (Ridan Permai)_28411
+14.01.20_Gunung Sahilan_28471
+.2008_Gunung Mulya_28471
+.2002_Gunung Sahilan_28471
+.2003_Gunung Sari_28471
+.2001_Kebun Durian_28471
+.2009_Makmur Sejahtera_28471
+.2007_Sahilan Darussalam_28471
+.2005_Subarak_28471
+.2004_Suka Makmur_28471
+.2006_Sungai Lipai_28471
+14.01.17_Kampa (Kampar Timur)_28460
+.2006_Deli Makmur_28460
+.2003_Kampar_28460
+.2004_Koto Perambahan_28460
+.2001_Pulau Birandang_28460
+.2002_Pulau Rambai_28460
+.2009_Sawahbaru (Sawah Baru)_28460
+.2005_Sei/Sungai Putih_28460
+.2007_Sungaitarap (Sungai Tarap)_28460
+.2008_Tanjungbungo (Tanjung Bungo)_28460
+14.01.02_Kampar_28461
+.1027_Air Tiris_28461
+.2001_Batu Belah_28461
+.2033_Bukit Ranah_28461
+.2035_Koto Tibun_28461
+.2028_Limau Manis_28461
+.2030_Naumbai_28461
+.2013_Padang Mutung_28461
+.2007_Penyasawan_28461
+.2023_Pulau Jambu_28461
+.2034_Pulau Sarak_28461
+.2031_Pulau Tinggi_28461
+.2006_Ranah_28461
+.2032_Ranah Baru_28461
+.2036_Ranah Singkuang_28461
+.2008_Rumbio_28461
+.2025_Simpang Kubu_28461
+.2003_Tanjung Berulak_28461
+.2024_Tanjung Rambutan_28461
+14.01.07_Kampar Kiri_28472
+.2005_Domo_28472
+.2006_IV Koto Setingkai_28472
+.2003_Kuntu_28472
+.2030_Kuntu Darussalam_28472
+.1027_Lipat Kain_28472
+.2029_Lipat Kain Selatan_28472
+.2028_Lipat Kain Utara_28472
+.2019_Muara Selayah (Muara Selaya)_28472
+.2004_Padang Sawah_28472
+.2013_Sungai Geringging_28472
+.2032_Sungai Harapan_28472
+.2016_Sungai Paku_28472
+.2023_Sungai Raja_28472
+.2020_Sungai Rambai_28472
+.2026_Sungai Sarik_28472
+.2033_Sungailiti (Sungai Liti)_28472
+.2021_Tanjung Harapan_28472
+.2031_Tanjungmas (Tanjung Mas)_28472
+.2008_Teluk Paman_28472
+.2034_Telukpaman Timur (Teluk Paman Timur)_28472
+14.01.08_Kampar Kiri Hilir_28473
+.2008_Bangun Sari_28473
+.2007_Gading Permai_28473
+.2002_Mentulik_28473
+.2005_Rantau Kasih_28473
+.2004_Sungai Bunga/Bungo_28473
+.1001_Sungai Pagar_28473
+.2006_Sungai Petai_28473
+.2003_Sungai Simpang Dua_28473
+14.01.09_Kampar Kiri Hulu_28474
+.2006_Aur Kuning_28474
+.2005_Batu Sanggan_28474
+.2009_Batu Sasak_28474
+.2022_Bukitbetung (Bukit Betung)_28474
+.2014_Danau Sontul_28474
+.2018_Deras Tajak_28474
+.2016_Dua Sepakat_28474
+.2013_Gajah Bertalut_28474
+.2001_Gema_28474
+.2011_Kebun Tinggi_28474
+.2004_Koto Lama (Kota Lama)_28474
+.2024_Lubuk Bingau_28474
+.2007_Ludai_28474
+.2023_Muarobio_28474
+.2010_Pangkalan Kapas_28474
+.2015_Pangkalan Serai_28474
+.2020_Subayang Jaya_28474
+.2019_Sungai Santi_28474
+.2002_Tanjung Belit_28474
+.2003_Tanjung Belit Selatan_28474
+.2012_Tanjung Beringin_28474
+.2008_Tanjung Karang_28474
+.2021_Tanjung Permai_28474
+.2017_Terusan_28474
+14.01.19_Kampar Kiri Tengah_28475
+.2002_Bina Baru_28475
+.2010_Bukit Sakai_28475
+.2003_Hidup Baru_28475
+.2004_Karya Bakti/Bhakti_28475
+.2008_Koto Damai_28475
+.2005_Lubuk Sakai_28475
+.2007_Mayang Pongkai_28475
+.2011_Mekar Jaya_28475
+.2006_Penghidupan_28475
+.2001_Simalinyang_28475
+.2009_Utama Karya_28475
+14.01.18_Kampar Utara_28469
+.2003_Kampung Panjang (Air Tiris)_28469
+.2004_Kayu Aro_28469
+.2001_Muara Jalai_28469
+.2008_Naga Beralih_28469
+.2002_Sawah_28469
+.2006_Sei/Sungai Jalau_28469
+.2005_Sei/Sungai Tonang_28469
+.2007_Sendayan_28469
+14.01.21_Koto Kampar Hulu_28453
+.2002_Bandur Picak_28453
+.2003_Gunung Malelo_28453
+.2005_Pongkai_28453
+.2001_Siberuang_28453
+.2004_Tabing_28453
+.2006_Tanjung_28453
+14.01.05_Kuok_28467
+.2013_Batulangka Kecil_28467
+.2010_Bukit Melintang_28467
+.2006_Empat Balai_28467
+.2001_Kuok_28467
+.2012_Lereng_28467
+.2005_Merangin_28467
+.2007_Pulau Jambu_28467
+.2011_Pulau Terap (Pulautarap)_28467
+.2008_Silam_28467
+14.01.16_Perhentian Raja_28462
+.2003_Hangtuah_28462
+.2001_Kampung Pinang_28462
+.2005_Lubuk Sakat_28462
+.2002_Pantai Raja_28462
+.2004_Sialang Kubang_28462
+14.01.14_Rumbio Jaya_28458
+.2003_Alam Panjang_28458
+.2005_Batang Betindah (Batang Batindih)_28458
+.2004_Bukit Keratai (Bukit Kratai)_28458
+.2001_Pulau Payung_28458
+.2007_Simpang Petai_28458
+.2006_Tambusai_28458
+.2002_Teratak_28458
+14.01.13_Salo_28451
+.2006_Ganting_28451
+.2005_Ganting Damai_28451
+.2001_Salo_28451
+.2003_Salo Timur_28451
+.2002_Siabu_28451
+.2004_Sipungguk/Sepungguk_28451
+14.01.06_Siak Hulu_28452
+.2006_Buluh Cina_28452
+.2007_Buluh Nipis_28452
+.2002_Desa Baru_28452
+.2014_Kepau Jaya_28452
+.2016_Kubang Jaya_28452
+.2005_Lubuk Siam_28452
+.2012_Pandau Jaya_28452
+.2001_Pangkalan Baru_28452
+.2015_Pangkalan Serik_28452
+.2011_Tanah Merah_28452
+.2013_Tanjung Balam_28452
+.2003_Teratak Buluh_28452
+14.01.03_Tambang_28468
+.2005_Aursati_28468
+.2015_Balam Jaya_28468
+.2003_Gobah_28468
+.2011_Kemang Indah_28468
+.2008_Kualu_28468
+.2012_Kualu Nenas_28468
+.2002_Kuapan_28468
+.2006_Padang Luas_28468
+.2017_Palungraya (Palung Raya)_28468
+.2010_Parit Baru_28468
+.2016_Pulaupermai (Pulau Permai)_28468
+.2009_Rimba/Rimbo Panjang_28468
+.2014_Sei/Sungai Pinang_28468
+.2001_Tambang_28468
+.2013_Tarai Bangun_28468
+.2004_Teluk Kenidai_28468
+.2007_Terantang_28468
+14.01.10_Tapung_28464
+.2012_Air Terbit_28464
+.2025_Batugajah (Batu Gajah)_28464
+.2024_Bencah Kelubi_28464
+.2007_Gading Sari_28464
+.2006_Indra Sakti_28464
+.2018_Indrapuri_28464
+.2021_Karya Indah_28464
+.2022_Kijang Rejo_28464
+.2017_Kinantan/Kenantan_28464
+.2020_Muara Mahat Baru_28464
+.2004_Mukti Sari_28464
+.2014_Pagaruyung_28464
+.2009_Pancuran Gading_28464
+.2002_Pantai Cermin_28464
+.2003_Patahapan Jaya (Petapahan Jaya)_28464
+.2016_Pelambayan (Pelambaian)_28464
+.2001_Petapahan_28464
+.2010_Sari Galuh_28464
+.2023_Sei/Sungai Agung_28464
+.2019_Sei/Sungai Lembu Makmur_28464
+.2005_Sei/Sungai Putih_28464
+.2015_Sibuak_28464
+.2008_Sumber Makmur_28464
+.2013_Tanjung Sawit_28464
+.2011_Tri Manunggal_28464
+14.01.11_Tapung Hilir_28465
+.2003_Beringin Lestari_28465
+.2005_Cinta Damai_28465
+.2014_Gerbang Sari_28465
+.2015_Kijang Jaya_28465
+.2016_Kijang Makmur_28465
+.2007_Kota Baru_28465
+.2004_Kota/Koto Bangun_28465
+.2010_Koto Aman_28465
+.2001_Koto Garo (Kota Garo)_28465
+.2002_Sikijang/Sekijang_28465
+.2006_Suka Maju_28465
+.2009_Tanah Tinggi_28465
+.2013_Tandan Sari_28465
+.2011_Tapung Lestari_28465
+.2012_Tapung Makmur_28465
+.2008_Tebing Lestari_28465
+14.01.12_Tapung Hulu_28466
+.2003_Bukit Kemuning_28466
+.2004_Danau Lancang_28466
+.2006_Intan Jaya_28466
+.2002_Kasikan_28466
+.2013_Kusau Makmur_28466
+.2005_Muara Intan_28466
+.2010_Rimba Beringin_28466
+.2008_Rimba Jaya_28466
+.2009_Rimba Makmur_28466
+.2001_Senama Nenek (Sinama Nenek)_28466
+.2011_Sukaramai_28466
+.2012_Sumber Sari_28466
+.2014_Talang Danto_28466
+.2007_Tanah Datar_28466
+14.01.04_XIII Koto Kampar_28454
+.2006_Balung_28454
+.1018_Batu Bersurat_28454
+.2017_Binamang_28454
+.2004_Gunung Bungsu_28454
+.2014_Koto Mesjid_28454
+.2005_Koto Tuo_28454
+.2019_Koto Tuo Barat_28454
+.2013_Lubuk Agung_28454
+.2007_Muara Takus_28454
+.2016_Pongkai Istiqomah_28454
+.2010_Pulau Gadang_28454
+.2012_Ranah Sungkai_28454
+.2011_Tanjung Alai_28454

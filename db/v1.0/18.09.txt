@@ -1,0 +1,159 @@
+18.09.01_Gedong Tataan_35366
+.2007_Bagelen_35366
+.2013_Bernung_35366
+.2017_Bogorejo_35366
+.2003_Cipadang_35366
+.2006_Gedung Tataan_35366
+.2018_Karang Anyar_35366
+.2009_Kebagusan_35366
+.2011_Kurungan Nyawa_35366
+.2019_Kutoarjo_35366
+.2012_Negeri Sakti_35366
+.2001_Padang Ratu_35366
+.2002_Pampangan_35366
+.2014_Suka Banjar (Sukabanjar)_35366
+.2005_Sukadadi_35366
+.2008_Sukaraja_35366
+.2010_Sungai Langka_35366
+.2016_Taman Sari (Tamansari)_35366
+.2004_Way Layap_35366
+.2015_Wiyono_35366
+18.09.07_Kedondong_35368
+.2019_Babakan Loa_35368
+.2014_Gunung Sugih (Gunungsugih)_35368
+.2021_Harapan Jaya_35368
+.2010_Kedondong_35368
+.2013_Kertasana (Kerta Sana)_35368
+.2011_Pasar Baru_35368
+.2020_Pesawaran Indah_35368
+.2017_Sinar Harapan_35368
+.2009_Suka Maju (Sukamaju)_35368
+.2018_Teba Jawa_35368
+.2012_Tempel Rejo_35368
+.2008_Way Kepayang_35368
+18.09.08_Marga Punduh_35453
+.2009_Kampung Baru_35453
+.2008_Kekatang_35453
+.2007_Kunyaian_35453
+.2002_Maja_35453
+.2006_Pekon Ampai_35453
+.2003_Penyandingan_35453
+.2010_Pulau Pahawang_35453
+.2001_Sukajaya Punduh (Suka Jaya Punduh)_35453
+.2004_Tajur_35453
+.2005_Umbul Limus_35453
+18.09.02_Negeri Katon_35353
+.2017_Bangun Sari_35353
+.2021_Grujugan Baru_35353
+.2007_Halangan Ratu_35353
+.2001_Kagungan Ratu_35353
+.2002_Kali Rejo (Kalirejo)_35353
+.2018_Karang Rejo_35353
+.2015_Lumbirejo (Lumbi Rejo)_35353
+.2009_Negara Saka (Negarasaka)_35353
+.2005_Negeri Katon/Katun_35353
+.2019_Negeri Ulangan Jaya_35353
+.2008_Pejambon_35353
+.2006_Ponco Kresno (Poncokresno)_35353
+.2004_Pujo Rahayu (Pujorahayu)_35353
+.2020_Pujodadi_35353
+.2003_Purworejo_35353
+.2012_Rowo Rejo (Roworejo)_35353
+.2014_Sidomulyo_35353
+.2010_Sinar Bandung (Sinarbandung)_35353
+.2011_Tanjung Rejo_35353
+.2013_Tresno Maju (Trisno Maju)_35353
+.2016_Tri Rahayu_35353
+18.09.05_Padang Cermin_35451
+.2001_Banjaran_35451
+.2032_Dantar_35451
+.2004_Durian_35451
+.2031_Gayau_35451
+.2009_Hanau Berak_35451
+.2025_Khepong Jaya_35451
+.2011_Padang Cermin_35451
+.2010_Paya_35451
+.2012_Sanggi_35451
+.2016_Tambangan_35451
+.2026_Trimulyo_35451
+.2017_Way Urang_35451
+18.09.06_Punduh Pidada_35454
+.2002_Banding Agung_35454
+.2021_Bangun Rejo_35454
+.2003_Batu Raja_35454
+.2001_Bawang_35454
+.2006_Kota Jawa_35454
+.2017_Pagar Jaya_35454
+.2019_Pulau Legundi_35454
+.2005_Rusaba_35454
+.2020_Suka Maju_35454
+.2004_Sukajaya Pidada_35454
+.2016_Sukarame_35454
+18.09.03_Tegineneng_35363
+.2003_Batang Hari Ogan_35363
+.2001_Bumi Agung (Bumiagung)_35363
+.2006_Gedung/Gedong Gumanti_35363
+.2010_Gerning_35363
+.2005_Gunung Sugih Baru_35363
+.2002_Kejadian_35363
+.2014_Kota Agung_35363
+.2007_Kresno Widodo_35363
+.2012_Margo Mulyo_35363
+.2009_Margo Rejo_35363
+.2004_Negea Ratu Wates (Negara Ratuwates)_35363
+.2011_Panca Bakti_35363
+.2013_Rejo Agung (Rejoagung)_35363
+.2008_Sinarjati (Sinar Jati)_35363
+.2016_Sriwedari_35363
+.2015_Trimulyo_35363
+18.09.10_Teluk Pandan_35450
+.2001_Batu Menyan_35450
+.2002_Cilimus_35450
+.2003_Gebang_35450
+.2004_Hanura_35450
+.2005_Hurun_35450
+.2006_Munca_35450
+.2007_Sidodadi_35450
+.2008_Sukajaya Lempasing_35450
+.2009_Talang Mulya_35450
+.2010_Tanjung Agung_35450
+18.09.09_Way Khilau_35369
+.2004_Bayas Jaya_35369
+.2007_Gunung Sari (Gunungsari)_35369
+.2006_Kota Jawa_35369
+.2009_Kubu Batu_35369
+.2008_Mada Jaya_35369
+.2003_Padang Cermin_35369
+.2001_Penengahan_35369
+.2002_Suka Jaya (Sukajaya)_35369
+.2005_Tanjung Kerta_35369
+.2010_Tanjung Rejo_35368
+18.09.04_Way Lima_35367
+.2002_Banjar Negeri_35367
+.2010_Baturaja (Batu Raja)_35367
+.2014_Cimanuk_35367
+.2008_Gedong Dalam_35367
+.2012_Gunung Rejo_35367
+.2006_Kota Dalam_35367
+.2013_Margodadi_35367
+.2001_Padang Manis_35367
+.2016_Paguyuban_35367
+.2005_Pekondoh_35367
+.2004_Pekondoh Gedung_35367
+.2003_Sidodadi_35367
+.2009_Sindang Garut_35367
+.2015_Sukamandi_35367
+.2007_Tanjung Agung_35367
+.2011_Way Harong_35367
+18.09.11_Way Ratai_35455
+.2001_Bunut_35455
+.2002_Bunut Seberang_35455
+.2004_Ceringin Asri (Ceringin Sari)_35455
+.2008_Gunung Rejo_35455
+.2010_Harapan Jaya_35455
+.2011_Kalirejo_35455
+.2006_Mulyo Sari_35455
+.2009_Pesawaran Indah_35455
+.2007_Poncorejo_35455
+.2005_Sumber Jaya_35455
+.2003_Wates Way Ratai_35455

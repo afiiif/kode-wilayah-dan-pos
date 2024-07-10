@@ -1,0 +1,89 @@
+92.07.09_Kuri Wamesa_98341
+.2001_Ambumi_98341
+.2003_Dusner_98341
+.2002_Nanimori_98341
+.2006_Simei (Simiei)_98341
+.2005_Sobiar_98341
+.2004_Yerenusi_98341
+92.07.07_Naikere_98342
+.2005_Inyora_98342
+.2004_Oya (Oyaa)_98342
+.2002_Sararti_98342
+.2006_Undurara_98342
+.2001_Wosimi (Wosimo)_98342
+.2003_Yabore_98342
+92.07.12_Nikiwar_98331
+.2004_Kurei_98331
+.2002_Mamisi_98331
+.2005_Tamoge_98331
+.2001_Werabur_98331
+.2003_Werianggi_98331
+92.07.08_Rasiei_98343
+.2003_Isey (Isei)_98343
+.2008_Nggatum_98343
+.2001_Rasiey (Rasiei)_98343
+.2005_Sasirey (Sasirei)_98343
+.2009_Senderawoy / Senderawoi (Sindrawoi)_98343
+.2006_Tandia_98343
+.2002_Torey_98343
+.2004_Uryemi (Uriyem/Uriemi)_98343
+.2007_Webi_98343
+92.07.10_Roon_98344
+.2005_Inday_98344
+.2007_Mena_98344
+.2003_Menarbu_98344
+.2004_Niab_98344
+.2006_Sariay_98344
+.2002_Syabes_98344
+.2001_Yende_98344
+92.07.11_Roswar_98332
+.2003_Syeiwar_98332
+.2001_Waprak_98332
+.2002_Yomber_98332
+92.07.06_Rumberpon_98333
+.2002_Isenebuay (Isenebuai / Senebuay / Senebuai)_98333
+.2005_Iseren (Isren)_98333
+.2011_Wetitindau_98333
+.2009_Yariari_98333
+.2008_Yembekiri II_98333
+.2003_Yomakan_98333
+.2001_Yombekiri I (Yembe Kiri)_98333
+92.07.13_Soug Jaya_98334
+.2001_Kaprus_98334
+.2005_Nuspairo_98334
+.2003_Reyob (Rayob)_98334
+.2004_Siresi_98334
+.2002_Yarmatum (Yermatum)_98334
+92.07.03_Teluk Duairi_98345
+.2001_Aisandami_98345
+.2002_Sobei (Sobey)_98345
+.2011_Sobey Indah_98345
+.2006_Yopanggar (Yopengar)_98345
+92.07.05_Wamesa_98335
+.2002_Ambuar_98335
+.2003_Karuan_98335
+.2009_Nordiwar_98335
+.2001_Sabubar_98335
+.2007_Yarpate_98335
+92.07.01_Wasior_98346
+.2003_Dotir_98346
+.2011_Iriati_98346
+.2006_Maimare (Maimari)_98346
+.2004_Maniwak_98346
+.2009_Manopi_98346
+.2007_Moru (Gayabaru)_98346
+.2002_Rado_98346
+.2010_Ramiki_98346
+.1001_Wasior I_98346
+.2005_Wasior II_98346
+92.07.02_Windesi_98336
+.2010_Sandey_98336
+.2004_Sombokoro_98336
+.2001_Wamesa Tengah_98336
+.2007_Windesi_98336
+.2002_Yopmeos (Yopmios)_98336
+92.07.04_Wondiboy_98347
+.2010_Issui_98347
+.2009_Kabouw_98347
+.2015_Kaibi_98347
+.2002_Wondiboy_98347

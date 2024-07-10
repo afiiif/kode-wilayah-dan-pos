@@ -1,0 +1,112 @@
+82.06.10_Kota Maba_97862
+.2005_Maba Sangaji (Gotowasi)_97862
+.2002_Soa Laipoh_97862
+.2003_Soa Sangaji_97862
+.2004_Soagimalaha (Soa Gimalaha)_97862
+.2006_Tewil_97862
+.2001_Wai Lukum (Wailukum)_97862
+82.06.02_Maba_97860
+.2025_Baburino_97860
+.2001_Buli_97860
+.2002_Buli Asal_97860
+.2003_Buli Karya_97860
+.2024_Gamesan_97860
+.2013_Geltoli_97860
+.2014_Pekaulan_97860
+.2012_Sailal_97860
+.2023_Teluk Buli_97860
+.2011_Wayafly (Wayafli / Wayamli)_97860
+82.06.03_Maba Selatan_97861
+.2001_Bicoli_97861
+.2005_Gotowasi_97861
+.2010_Kasuba_97861
+.2004_Loleo Lamo (Loloelamo)_97861
+.2012_Momole_97861
+.2003_Pateley (Petelei)_97861
+.2013_Sil_97861
+.2014_Sowoli_97861
+.2002_Waci_97861
+82.06.08_Maba Tengah_97863
+.2011_Babasaram_97863
+.2004_Bangul_97863
+.2008_Bebsili_97863
+.2002_Beringin Lamo (Baringin)_97863
+.2006_Dorolamo_97863
+.2010_Gaifoli_97863
+.2005_Marasipno_97863
+.2007_Maratana (Marathana Jaya )_97863
+.2003_Miaf_97863
+.2012_Tatangapu_97863
+.2001_Wayamli (Wayamly)_97863
+.2009_Yawanli_97863
+82.06.09_Maba Utara_97864
+.2008_Doromoi_97864
+.2002_Dorosago (Dorosagu)_97864
+.2007_Jara-jara (Jarajara)_97864
+.2009_Lili_97864
+.2004_Lolasita_97864
+.2003_Patlean_97864
+.2010_Patlean Jaya_97864
+.2006_Pumlanga_97864
+.2001_Sosolat_97864
+.2005_Wasileo_97864
+82.06.01_Wasile_97865
+.2014_Batu Raja_97865
+.2016_Bulapapo (Gulapapo)_97865
+.2009_Bumi Restu_97865
+.2008_Cemara Jaya_97865
+.2015_Mekar Sari_97865
+.2006_Subaim_97865
+.2027_Waisuba_97865
+82.06.04_Wasile Selatan_97866
+.2018_Ake Jawi_97866
+.2009_Bina Gara (Binagara)_97866
+.2024_Bukutio_97866
+.2019_Ekor_97866
+.2020_Ekorino_97866
+.2008_Fayaul_97866
+.2017_Ino Jaya_97866
+.2021_Jiko Moi_97866
+.2003_Loleba_97866
+.2006_Minamin_97866
+.2014_Nanas_97866
+.2002_Nusa Ambu (Nusa Ambo)_97866
+.2001_Nusa Jaya_97866
+.2005_Pintatu_97866
+.2013_Saolat_97866
+.2007_Saramake (Saramaake)_97866
+.2016_Sondo-Sondo_97866
+.2012_Tabanalow (Tabanalou / Tabanoli)_97866
+.2015_Talaga Jaya_97866
+.2022_Tanure_97866
+.2011_Tomares_97866
+.2004_Waijoi_97866
+.2010_Wasile_97866
+.2023_Yawal_97866
+82.06.05_Wasile Tengah_97867
+.2006_Boki Miake (Bokimaake)_97867
+.2004_Foli (Foly)_97867
+.2001_Hate Tabako (Hatetabako)_97867
+.2008_Kakaraino_97867
+.2002_Lolobata_97867
+.2005_Nyaolako_97867
+.2003_Puao_97867
+.2007_Silalaysang (Silalayang)_97867
+82.06.07_Wasile Timur_97868
+.2003_Akedaga (Ake Daga)_97868
+.2002_Daka Ino_97868
+.2001_Dodaga_97868
+.2007_Rawamangun_97868
+.2008_Sidomulyo_97868
+.2004_Tobo Ino (Toboino)_97868
+.2005_Tutuling Jaya_97868
+.2006_Woka Jaya_97868
+82.06.06_Wasile Utara_97869
+.2005_Bololo_97869
+.2007_Dowongi Jaya_97869
+.2006_Helaitetor_97869
+.2002_Iga_97869
+.2001_Labi Labi_97869
+.2008_Majiko Tongone_97869
+.2004_Marimoi_97869
+.2003_Tatam_97869

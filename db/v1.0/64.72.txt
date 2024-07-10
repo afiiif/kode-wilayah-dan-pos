@@ -1,0 +1,69 @@
+64.72.10_Loa Janan Ilir_75131
+.1004_Harapan Baru_75131
+.1005_Rapak Dalam_75131
+.1003_Sengkotek_75131
+.1001_Simpang Tiga (Loa Janan Ilir)_75131
+.1002_Tani Aman_75131
+64.72.01_Palaran_75241|75253
+.1005_Bantuas_75253
+.1003_Bukuan_75241
+.1002_Handil Bakti_75242
+.1001_Rawa Makmur_75243
+.1004_Simpang Pasir_75243
+64.72.04_Samarinda Ilir_75114|75117
+.1014_Pelita_75117
+.1001_Selili_75114
+.1013_Sidodamai_75116
+.1003_Sidomulyo_75116
+.1002_Sungai Dama_75115
+64.72.09_Samarinda Kota_75111|75121
+.1004_Bugis_75121
+.1001_Karang Mumus_75113
+.1003_Pasar Pagi_75111
+.1002_Pelabuhan_75112
+.1005_Sungai Pinang Luar_75117
+64.72.02_Samarinda Seberang_75131|75133
+.1002_Baqa_75131
+.1011_Gunung Panjang_75131
+.1009_Mangkupalas_75133
+.1003_Mesjid_75133
+.1001_Sungai Keledang_75131
+.1010_Tenun Samarinda_75133
+64.72.03_Samarinda Ulu_75122|75128
+.1006_Air Hitam_75124
+.1004_Air Putih_75124
+.1009_Bukit Pinang_75124
+.1007_Dadi Mulya_75123
+.1008_Gunung Kelua_75123
+.1002_Jawa_75122
+.1005_Sidodadi_75123
+.1001_Teluk Lerong Ilir_75128
+64.72.05_Samarinda Utara_75117|75119
+.1014_Budaya Pampang_75118
+.1003_Lempake_75118
+.1012_Sempaja Barat_75119
+.1002_Sempaja Selatan_75119
+.1013_Sempaja Timur_75119
+.1010_Sempaja Utara_75119
+.1004_Sungai Siring_75118
+.1011_Tanah Merah_75119
+64.72.07_Sambutan_75114|75115
+.1003_Makroman_75115
+.1005_Pulau Atas_75114
+.1002_Sambutan_75115
+.1001_Sei/Sungai Kapih_75114
+.1004_Sindang Sari_75114
+64.72.06_Sungai Kunjang_75125|75127
+.1007_Karang Anyar_75125
+.1006_Karang Asam Ilir_75126
+.1003_Karang Asam Ulu_75126
+.1001_Loa Bakung_75126
+.1002_Loa Buah_75126
+.1004_Lok Bahu_75125
+.1005_Teluk Lerong Ulu_75127
+64.72.08_Sungai Pinang_75117|75119
+.1005_Bandara_75119
+.1003_Gunung Lingai_75119
+.1004_Mugirejo_75119
+.1002_Sei/Sungai Pinang Dalam_75117
+.1001_Temindung Permai_75119

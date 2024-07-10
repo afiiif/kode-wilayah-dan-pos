@@ -1,0 +1,122 @@
+73.05.09_Galesong_92254|92255
+.2004_Boddia_92254
+.2003_Bontoloe (Bonto Loe)_92254
+.2005_Bontomangape_92254
+.2014_Campagaya_92255
+.2001_Galesong Baru_92254
+.2002_Galesong Kota_92254
+.2015_Galesong Timur_92255
+.2011_Kalenna Bontongape_92255
+.2012_Kalukuang_92255
+.2016_Kampung Beru_92255
+.2013_Mappakalompo_92255
+.2009_Pa'lalakkang_92255
+.2008_Pa'rasangang Beru_92255
+.2007_Parambambe_92254
+.2006_Parangmata_92254
+.2010_Pattinoang_92255
+.2017_Tarembang_92255
+73.05.05_Galesong Selatan_92254
+.2012_Barangmamase (Baramamase)_92254
+.2011_Bentang_92254
+.2006_Bonto Kanang (Bontokanang)_92254
+.2009_Bontokassi (Bonto Kassi)_92254
+.2007_Bontomarannu (Bonto Marannu)_92254
+.2018_Kadatong_92254
+.2019_Kale Bentang (Kale Bentan)_92254
+.2017_Kalukubodo_92254
+.2020_Kanaeng_92254
+.2008_Mangindara_92254
+.2015_Popo_92254
+.2013_Sawakong_92254
+.2016_Tarowang_92254
+73.05.06_Galesong Utara_92255
+.2003_Aeng Batu Batu_92255
+.2010_Aeng Towa_92255
+.2015_Biring Kassi_92255
+.2011_Bontokaddopepe_92255
+.2002_Bontolanra (Bonto Lanra)_92255
+.1004_Bontolebang_92255
+.2007_Bontosunggu (Bonto Sunggu)_92255
+.2016_Kaballokang_92255
+.2013_Maccini Sombala_92255
+.2001_Pakkabba_92255
+.2012_Sampulungan_92255
+.2014_Sawakung Beba_92255
+.2005_Tamalate_92255
+.2006_Tamasaju_92255
+73.05.10_Kepulauan Tanakeke_92232
+.2004_Balangdatu_92232
+.2005_Maccini Baji_92232
+.2002_Mattiro Baji_92232
+.2006_Minasa Baji_92232
+.2003_Rewataya_92232
+.2001_Tompotana_92232
+73.05.12_Laikang_92261
+.2002_Bontoparang_92261
+.2004_Cikoang (Cikowang)_92261
+.2006_Laikang_92261
+.2001_Panyangkalang_92261
+.2003_Pattopakang (Pattoppakang)_92261
+.2005_Punaga_92261
+73.05.02_Mangarabombang (Mangara Bombang)_92261
+.2007_Banggae_92261
+.2008_Bontomanai_92261
+.2004_Lakatong_92261
+.2001_Lengkese_92261
+.1002_Mangadu_92261
+.2003_Topejawa_92261
+73.05.01_Mappakasunggu_92232
+.2010_Pa'batangang_92232
+.2003_Patani_92232
+.2009_Soreang_92232
+.1001_Takalar (Takalar Kota)_92232
+73.05.07_Pattallassang (Patallassang)_92211
+.1007_Bajeng_92211
+.1004_Kalabbirang_92211
+.1005_Maradekaya (Mardekaya)_92211
+.1002_Pallantikang_92211
+.1006_Pappa_92211
+.1001_Pattallassang_92211
+.1008_Sabintang_92211
+.1009_Salaka_92211
+.1003_Somba Bella (Sombabella)_92211
+73.05.03_Polongbangkeng Selatan (Polombangkeng)_92252
+.1003_Bontokadatto_92252
+.1005_Bulukunyi_92252
+.2007_Cakura_92252
+.1004_Canrego_92252
+.2011_Kale Lantang_92252
+.2008_Lantang_92252
+.2006_Moncongkomba_92252
+.1001_Pa'bundukang (Pa Bundukang)_92252
+.1002_Pattene (Patte Ne)_92252
+.1010_Rajaya_92252
+.2009_Su'rulangi (Surulangi)_92252
+73.05.11_Polongbangkeng Timur_92221
+.2007_Balangtanaya_92221
+.2003_Barugaya_92221
+.2002_Kale Ko'mara_92221
+.2008_Kampung Beru_92221
+.2001_Ko'mara (Ko Mara)_92221
+.2005_Massamaturu_92221
+.2004_Parang Baddo_92221
+.2006_Timbuseng_92221
+73.05.04_Polongbangkeng Utara (Polombangkeng)_92221
+.2007_Lassang_92221
+.2016_Lassang Barat_92221
+.1003_Malewang_92221
+.1002_Manongkoki_92221
+.1005_Mattompodale (Mattompodalle)_92221
+.2009_Pa'rappunganta (Pa Rappunganta)_92221
+.1004_Palleko_92221
+.1001_Panrannuangku_92221
+.1006_Parang Luara_92221
+.2010_Towata_92221
+73.05.08_Sanrobone_92231
+.2002_Banyuanyara_92231
+.2001_Laguruda (Lagaruda)_92231
+.2004_Paddinging_92231
+.2003_Sanrobone (Sanro Bone)_92231
+.2006_Tonasa_92231
+.2005_Ujung Baji_92231

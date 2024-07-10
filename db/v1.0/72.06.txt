@@ -1,0 +1,142 @@
+72.06.10_Bahodopi_94974
+.2011_Baho Makmur (Bahomakmur)_94974
+.2006_Bahodopi_94974
+.2001_Bete Bete_94974
+.2009_Dampala_94974
+.2004_Fatufia_94974
+.2005_Keurea_94974
+.2003_Labota_94974
+.2007_Lalampu_94974
+.2010_Le-Le_94974
+.2012_Makartijaya (Makarti Jaya)_94974
+.2002_Padabahao (Padabaho)_94974
+.2008_Siumbatu_94974
+72.06.09_Bumi Raya_94976
+.2003_Atananga_94976
+.2002_Bahonsuai_94976
+.2008_Beringin Jaya_94976
+.2011_Harapan Jaya_94976
+.2013_Karaupa_94976
+.2006_Lambelu_94976
+.2010_Lasampi_94976
+.2007_Limbo Makmur_94976
+.2001_Parilangke_94976
+.2004_Pebatae_94976
+.2012_Pebotoa_94976
+.2009_Samarenda_94976
+.2005_Umbele_94976
+72.06.08_Bungku Barat_94977
+.2007_Ambunu_94977
+.2001_Bahoea Reko Reko_94977
+.2003_Larobenu_94977
+.2029_Marga Mulya_94977
+.2005_Tondo_94977
+.2006_Topogaro (Tofogaro)_94977
+.2012_Uedago_94977
+.2004_Umpanga_94977
+.2008_Wata_94977
+.2002_Wosu_94977
+72.06.15_Bungku Pesisir_94981
+.2007_Buleleng_94981
+.2005_Lafeu_94981
+.2008_Laroenai_94981
+.2003_One Ete_94981
+.2001_Puungkeu_94981
+.2009_Sambalagi_94981
+.2004_Tandaoleo_94981
+.2002_Tangofa_94981
+.2006_Torete_94981
+.2010_Were'a_94981
+72.06.06_Bungku Selatan_94979
+.2005_Bakala_94979
+.2045_Boelimau_94979
+.2013_Buajangka_94979
+.2011_Bungingkela_94979
+.2041_Bungintende_94979
+.2008_Buton_94979
+.2009_Jawi-Jawi_94979
+.2010_Kaleroang_94979
+.2007_Koburu_94979
+.2018_Lalemo_94979
+.2019_Lamontoli_94979
+.2012_Lokombulo_94979
+.2015_Padabale_94979
+.2016_Pado-Pado_94979
+.2006_Paku_94979
+.2043_Panimbawang_94979
+.2044_Po'o_94979
+.2046_Poaro_94979
+.2002_Polewali_94979
+.2004_Pulau Dua_94979
+.2048_Pulau Dua Darat_94979
+.2017_Pulaubapa_94979
+.2001_Sainoa_94979
+.2003_Umbele_94979
+.2047_Umbele Lama_94979
+.2014_Waru-Waru_94979
+72.06.05_Bungku Tengah_94973
+.2026_Bahomante_94973
+.2024_Bahomohoni_94973
+.2025_Bahomoleo (Bahomoko)_94973
+.2011_Bahontobungku_94973
+.2021_Bahoruru_94973
+.2022_Bente_94973
+.1020_Bungi (Obungi)_94973
+.2023_Ipi_94973
+.1015_Lamberea_94973
+.2027_Lanona_94973
+.1017_Marsaoleh_94973
+.1018_Matano_94973
+.2019_Matansala_94973
+.1014_Mendui (Menlui)_94973
+.2010_Puungkoilu_94973
+.2013_Sakita_94973
+.1016_Tofoiso_94973
+.2012_Tofuti_94973
+.2029_Tudua_94973
+72.06.18_Bungku Timur_94980
+.2003_Bahomoahi_94980
+.2002_Bahomotefe_94980
+.2006_Geresa_94980
+.2005_Kolono_94980
+.2010_Lahuafu_94980
+.2007_Laroue_94980
+.2008_Nambo_94980
+.2001_Oneputeh Jaya_94980
+.2004_Ululere_94980
+.2009_Unsongi_94980
+72.06.07_Menui Kepulauan_94975
+.2017_Buranga_94975
+.2018_Dongkalan_94975
+.2006_Kofalagadi_94975
+.2011_Masadian_94975
+.2013_Matano_94975
+.2014_Matarape_94975
+.2021_Mbokitta_94975
+.2005_Morompaitonga_94975
+.2003_Ngapaea_94975
+.2004_Padalaa_94975
+.2009_Padei Darat_94975
+.2008_Padei Laut_94975
+.2020_Pulau Tengah_94975
+.2012_Pulau Tiga_94975
+.2010_Samarengga_94975
+.2019_Tafagapi_94975
+.2024_Tanjung Harapan_94975
+.2022_Tanjung Tiram_94975
+.2023_Tanona_94975
+.2001_Terebino_94975
+.2002_Torukuno (Torukune)_94975
+.1007_Ulunambo_94975
+.2015_Ulunipa_94975
+.2016_Wawangkolono_94975
+72.06.12_Wita Ponda_94978
+.2010_Bumi Harapan_94978
+.2002_Emea_94978
+.2008_Lantula Jaya_94978
+.2006_Moahino_94978
+.2009_Puntari Makmur_94978
+.2001_Sampeantaba_94978
+.2007_Solonsa_94978
+.2011_Solonsa Jaya_94978
+.2012_Ungkaya_94978

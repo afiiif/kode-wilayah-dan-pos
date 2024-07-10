@@ -1,0 +1,24 @@
+35.72.01_Kepanjenkidul (Kepanjen Kidul)_66113|66117
+.1006_Bendo_66116
+.1004_Kauman_66117
+.1001_Kepanjenkidul (Kepanjen Kidul)_66117
+.1007_Kepanjenlor (Kepanjen Lor)_66117
+.1002_Ngadirejo_66114
+.1003_Sentul_66113
+.1005_Tanggung_66115
+35.72.03_Sananwetan (Sanan Wetan)_66133|66137
+.1007_Bendogerit_66133
+.1001_Gedog_66137
+.1006_Karang Tengah_66137
+.1003_Klampok_66136
+.1002_Plosokerep_66134
+.1005_Rembang_66135
+.1004_Sananwetan (Sanan Wetan)_66137
+35.72.02_Sukorejo_66121|66126
+.1002_Blitar_66126
+.1005_Karangsari (Karang Sari)_66125
+.1001_Pakunden_66122
+.1006_Sukorejo_66121
+.1007_Tanjungsari (Tanjung Sari)_66126
+.1003_Tlumpu_66124
+.1004_Turi_66126

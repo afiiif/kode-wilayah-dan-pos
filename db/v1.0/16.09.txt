@@ -1,0 +1,278 @@
+16.09.03_Banding Agung_32274
+.2028_Air Rupik_32274
+.1023_Bandar Agung Ranau_32274
+.2022_Banding Agung_32274
+.2036_Karang Indah_32274
+.2038_Penantian_32274
+.2027_Rantau Nipis_32274
+.2040_Sidodadi_32274
+.2021_Sipatuhu_32274
+.2041_Sipatuhu II_32274
+.2025_Sugih Waras_32274
+.2039_Suka Maju (Sukamaju)_32274
+.2026_Suka Negeri_32274
+.2035_Sumber Makmur_32274
+.2024_Surabaya_32274
+.2043_Surabaya Timur_32274
+.2031_Talang Merbau_32274
+.2037_Tangsi Agung_32274
+.2032_Tanjung Agung_32274
+.2033_Tanjung Harapan_32274
+.2034_Telanai_32274
+.2042_Terap Mulia_32274
+.2020_Way Timah_32274
+16.09.17_Buana Pemaca_32264
+.2003_Bandar_32264
+.2005_Damarpura_32264
+.2008_Gemiung_32264
+.2004_Jagaraga_32264
+.2007_Sinar Danau_32264
+.2002_Tanjung Beringin_32264
+.2001_Tekana_32264
+.2006_Tunas Jaya_32264
+16.09.09_Buay Pemaca_32265
+.2021_Air Kelian_32265
+.2008_Danau Jaya_32265
+.2013_Durian Sembilan_32265
+.2007_Karet Jaya_32265
+.2010_Kembang Tinggi_32265
+.2003_Kota Way_32265
+.2018_Mekar Jaya_32265
+.2006_Serakat Jaya_32265
+.2011_Sido Rahayu_32265
+.2012_Sidodadi_32265
+.2017_Sinar Baru_32265
+.2015_Sinar Napalan_32265
+.2002_Sipin_32265
+.2005_Sri Menanti_32265
+.2014_Sumber Raya_32265
+.2009_Sumber Ringin_32265
+.2004_Talang Padang_32265
+.2020_Tanjung Baru_32265
+.2001_Tanjung Durian_32265
+.2016_Tanjung Jaya_32265
+.2022_Tanjung Menang_32265
+.2019_Tanjung Sari_32265
+16.09.12_Buay Pematang Ribu Ranau Tengah_32268
+.2009_Gedong/Gedung Baru_32268
+.2005_Hangkusa/Lingkusa_32268
+.2004_Jepara_32268
+.2007_Padang Ratu_32268
+.2021_Pakhda Suka_32268
+.2022_Serumpun Jaya_32268
+.1013_Simpang Sender_32268
+.2016_Simpang Sender Selatan_32268
+.2019_Simpang Sender Tengah_32268
+.2018_Simpang Sender Timur_32268
+.2017_Simpang Sender Utara_32268
+.2003_Subik_32268
+.2011_Suka Bumi (Sukabumi)_32268
+.2002_Sukamarga_32268
+.2006_Sukarami_32268
+.2020_Sumber Jaya_32268
+.2012_Sumber Mulia_32268
+.2015_Tanjung Baru Ranau_32268
+.2001_Tanjung Kemala_32268
+.2010_Tanjung Sari_32268
+.2008_Tanjung Setia_32268
+.2014_Way Relai_32268
+16.09.19_Buay Rawan_32211
+.2003_Banjar Agung_32211
+.2007_Bendi_32211
+.2012_Bumi Agung Jaya_32211
+.2006_Bumi Jaya (Bumijaya)_32211
+.2005_Gunung Cahya_32211
+.2011_Majar_32211
+.2008_Pekuolan_32211
+.2009_Pelawi_32211
+.2001_Rantau Panjang_32211
+.2004_Ruos_32211
+.2002_Sukajaya_32211
+16.09.07_Buay Runjung_32278
+.2023_Bedeng Blambangan_32278
+.2008_Belambangan_32278
+.2021_Kagelang Blambangan_32278
+.2007_Kota Aman_32278
+.2018_Nagar Agung_32278
+.2006_Negeri Batin Baru_32278
+.2003_Padang Bindu_32278
+.2002_Padang Sari_32278
+.2009_Paninjauan (Peninjauan)_32278
+.2020_Perupus Blambangan_32278
+.2005_Saung Naga_32278
+.2019_Simpang Saga_32278
+.2001_Sugih Rawas (Sugih Waras)_32278
+.2022_Sukajadi Blambangan_32278
+16.09.06_Buay Sandang Aji_32277
+.2016_Bunga Mas_32277
+.2022_Gunung Terang_32277
+.2012_Kenali_32277
+.2018_Kota Karang_32277
+.2017_Lubuk Liku_32277
+.2020_Madura_32277
+.2021_Negeri Agung_32277
+.2019_Negeri Batin_32277
+.2013_Negeri Cahya_32277
+.2014_Sukaraja I_32277
+.2007_Sukarami_32277
+.2023_Talang Baru_32277
+.2015_Tanjung Iman_32277
+.2010_Tanjung Menang Ilir_32277
+.2011_Tanjung Menang Ulu_32277
+.2008_Tanjung Raya_32277
+16.09.11_Kisam Ilir_32272
+.2008_Campang Jaya_32272
+.2006_Keban Agung_32272
+.2007_Muara Sindang_32272
+.2002_Pengandonan (Pangandonan)_32272
+.2001_Pius_32272
+.2005_Pulau Kemiling_32272
+.2004_Simpang Campang_32272
+.2003_Siring/Sring Alam_32272
+.2009_Tanjung Jati_32272
+16.09.10_Kisam Tinggi_32279
+.2019_Air Alun_32279
+.2001_Balayan_32279
+.2007_Bandar Alam Lama_32279
+.2002_Berasang_32279
+.2005_Danau Rata_32279
+.2013_Gunung Megang_32279
+.2010_Kota Padang_32279
+.2008_Muara Payang_32279
+.2011_Padang Bindu_32279
+.2004_Padang Lay_32279
+.2006_Pajar Bulan_32279
+.2015_Pulau Panggung_32279
+.2017_Simpang Empat_32279
+.2016_Simpang Tiga_32279
+.2018_Singa Laga_32279
+.2009_Siring Agung_32279
+.2003_Tebat Gabus_32279
+.2012_Tenang_32279
+.2014_Ulak Pandan_32279
+16.09.08_Mekakau Ilir_32276
+.2014_Air Baru_32276
+.2013_Bunut_32276
+.2007_Galang Tinggi_32276
+.2011_Kemang Bandung_32276
+.2010_Kepayang_32276
+.2006_Kota Baru_32276
+.2001_Kota Dalam_32276
+.2015_Pere'an_32276
+.2003_Pulau Duku_32276
+.2012_Selabung Belimbing Jaya_32276
+.2005_Sinar Marga_32276
+.2009_Sri Menanti_32276
+.2008_Sukaraja_32276
+.2004_Tanjung Besar_32276
+.2002_Teluk Agung_32276
+16.09.01_Muara Dua (Muaradua)_32212
+.2025_Batu Belang 2 (Batu Belang Dua)_32212
+.1013_Batu Belang Jaya_32212
+.1014_Bumi Agung_32212
+.2026_Datar_32212
+.2002_Gedung Lepihan_32212
+.2003_Gunung Tiga_32212
+.1016_Kisau_32212
+.2018_Mehanggin_32212
+.1015_Pancur Pungah_32212
+.1019_Pasar Muaradua_32212
+.2024_Pelangki_32212
+.2017_Pendagan_32212
+.2004_Suka Banjar_32212
+.2005_Sukaraja II (Sukaraja Dua)_32212
+16.09.04_Muara Dua Kisam (Muaradua Kisam)_32271
+.2006_Alun Dua_32271
+.2007_Bandar Alam Baru_32271
+.2002_Bayur Tengah_32271
+.2008_Dusun Tengah_32271
+.2011_Gunung Gare_32271
+.2001_Lawang Agung_32271
+.2019_Muaradua Kisam (Muara Dua Kisam)_32271
+.2021_Pagar Dewa_32271
+.2028_Panantian (Penantian)_32271
+.2005_Penyandingan_32271
+.2040_Simpang Lubuk Dalam_32271
+.2004_Sugihan_32271
+.2020_Sukananti_32271
+.2029_Sukaraja_32271
+.2022_Tanjung Beringin_32271
+.2003_Tanjung Tebat_32271
+.2009_Ulak Agung Ilir_32271
+.2018_Ulak Agung Ulu_32271
+16.09.02_Pulau Beringin_32273
+.2020_Anugerah Kemu_32273
+.2014_Aromantai_32273
+.2018_Gunung Batu_32273
+.2019_Kemu_32273
+.2021_Kemu Ulu_32273
+.2017_Pagar Agung_32273
+.2022_Pematang Obar_32273
+.2013_Pulau Beringin_32273
+.2024_Pulau Beringin Utara_32273
+.2016_Simpang Pancur_32273
+.2012_Tanjung Bulan_32273
+.2023_Tanjung Bulan Ulu_32273
+.2015_Tanjung Kari_32273
+16.09.14_Runjung Agung_32270
+.2003_Air Baru_32270
+.2005_Bumi Genap_32270
+.2006_Gedung Nyawa_32270
+.2007_Gedung Wani_32270
+.2009_Karang Endah_32270
+.2001_Merpang_32270
+.2004_Penanggungan_32270
+.2008_Sura_32270
+.2002_Tanjung Kurung_32270
+16.09.05_Simpang_32263
+.2010_Bungin Campang_32263
+.2001_Karang Agung_32263
+.2007_Lubar_32263
+.2029_Simpang Agung_32263
+.2009_Simpangan_32263
+.2030_Sinar Mulyo_32263
+.2008_Tanjung Sari_32263
+16.09.16_Sindang Danau_32266
+.2002_Muara Sindang Ilir_32266
+.2003_Muara Sindang Tengah_32266
+.2004_Pematang Danau_32266
+.2001_Tanjung Harapan_32266
+.2006_Tebat Layang_32266
+.2005_Ulu Danau_32266
+.2007_Watas (Wates)_32266
+16.09.15_Sungai Are_32267
+.2006_Cukoh Nau (Cukuh/Cuko Nau)_32267
+.2002_Guntung Jaya_32267
+.2005_Pecah Pinggan_32267
+.2001_Pulau Kemuning_32267
+.2009_Sebaja_32267
+.2008_Sedau Jaya (Sadau Jaya)_32267
+.2007_Simpang Luas_32267
+.2003_Tanah Pilih_32267
+.2004_Ujan Mas_32267
+16.09.18_Tiga Dihaji_32262
+.2005_Karang Pendeta_32262
+.2006_Kota Agung_32262
+.2002_Kuripan_32262
+.2008_Kuripan II / Dua_32262
+.2001_Peninggiran_32262
+.2007_Sukabumi_32262
+.2004_Sukarena_32262
+.2003_Surabaya_32262
+16.09.13_Warkuk Ranau Selatan_32275
+.2013_Bedeng Tiga_32275
+.2011_Bumi Agung_32275
+.2014_Gedung Ranau_32275
+.2005_Gunung Aji_32275
+.2007_Gunung Raya_32275
+.2009_Kiwis Raya_32275
+.2002_Kota Batu_32275
+.2012_Mekar Sari (Mekarsari)_32275
+.2003_Pagar Dewa_32275
+.2006_Pilla_32275
+.2008_Remanam Jaya_32275
+.2010_Segigok Raya_32275
+.2001_Sukajaya_32275
+.2015_Tanjung Baru_32275
+.2004_Tanjung Jati_32275
+.2016_Way Wangi Seminung_32275

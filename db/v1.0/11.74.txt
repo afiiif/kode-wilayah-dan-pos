@@ -1,0 +1,71 @@
+11.74.02_Langsa Barat_24410|24414
+.2017_Kuala Langsa_24410
+.2005_Lhok Banie_24415
+.2015_Matang Seulimeng_24413
+.2007_Paya Bujok Beuramo (Beuramoe)_24414
+.2006_Paya Bujok Teungoh_24415
+.2019_Serambi Indah_24410
+.2009_Seuriget_24415
+.2008_Simpang Lhee_24451
+.2016_Sungai Pauh_24410
+.2022_Sungai Pauh Firdaus (Sungai Paus Firdaus)_24410
+.2020_Sungai Pauh Pusaka (Sungai Paus Pusaka)_24410
+.2021_Sungai Pauh Tanjong (Sungai Paus Tanjong)_24410
+.2018_Teulaga Tujuh (Telaga Tujuh)_24410
+11.74.05_Langsa Baro_24415
+.2002_Alue Dua_24415
+.2010_Alue Dua Bakaran Batee (Alue Dua Bakaran Bate)_24415
+.2003_Birem Puntong_24415
+.2009_Geudubang Aceh (Gedubang Aceh)_24415
+.2008_Geudubang Jawa_24415
+.2006_Karang Anyar_24415
+.2011_Lengkong_24415
+.2004_Paya Bujok Seuleumak (Paya Bujuk Seuleumak)_24415
+.2007_Paya Bujok Tunong (Paya Bujuk Tunong)_24415
+.2005_Pondok Kelapa_24415
+.2012_Suka Jadi Makmur_24415
+.2001_Timbang Langsa_24415
+11.74.03_Langsa Kota_24410|24414
+.2007_Alue Beurawe (Alue Berawe)_24410
+.2006_Blang (Gampong Blang)_24416
+.2011_Blang Sinibong/Seunibong_24412
+.2009_Daulat (Gampong Daulat)_24416
+.2004_Jawa (Gampong Jawa)_24416
+.2010_Meutia (Gampong Mutia)_24416
+.2005_Paya Bujok Blang Pase_24414
+.2002_Peukan Langsa_24412
+.2001_Teungoh (Gampong Teungoh)_24416
+.2013_Tualang Teungoh_24414
+11.74.04_Langsa Lama_24411|24416
+.2008_Asam Peutik (Asam Peutek)_24416
+.2006_Baro (Gampong Baro)_24416
+.2009_Baroh Langsa Lama_24416
+.2015_Batee Puteh (Bate Puteh)_24411
+.2007_Meurandeh_24416
+.2014_Meurandeh Aceh_24416
+.2013_Meurandeh Dayah_24416
+.2012_Meurandeh Teungoh_24416
+.2001_Pondok Kemuning (Pondok Keumuning)_24416
+.2003_Pondok Pabrik_24416
+.2002_Seulalah_24416
+.2010_Seulalah Baru_24416
+.2004_Sidodadi_24411
+.2005_Sidorejo_24411
+.2011_Sukajadi Kebun Ireng (Suka JD KBN Ireng)_24411
+11.74.01_Langsa Timur_24411
+.2015_Alue Merbau_24411
+.2018_Alue Pineung_24411
+.2025_Alue Pineung Timue_24411
+.2007_Buket Medang Ara (Buket Meudang Ara)_24411
+.2014_Buket Meutuah_24411
+.2010_Buket Pulo_24411
+.2013_Buket Rata_24411
+.2020_Cinta Raja_24411
+.2026_Kapa_24411
+.2016_Matang Cengai (Matang Ceungai)_24411
+.2011_Matang Panyang_24411
+.2009_Matang Seutui_24411
+.2017_Seunebok Antara (Seuneubok Antara)_24411
+.2012_Simpang Wie_24411
+.2019_Sukarejo_24411
+.2021_Sungai Lueng_24411

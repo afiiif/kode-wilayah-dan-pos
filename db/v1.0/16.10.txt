@@ -1,0 +1,257 @@
+16.10.04_Indralaya_30814|30862
+.1031_Indralaya Indah_30862
+.1032_Indralaya Mulia_30862
+.1030_Indralaya Raya_30862
+.2005_Lubuk Sakti_30862
+.2015_Muara Penimbung Ilir_30862
+.2010_Muara Penimbung Ulu_30862
+.2018_Penyandingan_30862
+.2013_Saka Tiga (Sakatiga)_30816
+.2009_Sakatiga Seberang_30814
+.2028_Sejaro Sakti_30862
+.2019_Sudimampir_30862
+.2016_Talang Aur_30862
+.2007_Tanjung Agung_30862
+.2006_Tanjung Gelam_30862
+.2008_Tanjung Sejaro_30815
+.2012_Tanjung Seteko_30817
+.2029_Tunas Aur_30862
+.2014_Ulak Banding_30862
+.2017_Ulak Bedil_30862
+.2027_Ulak Segelung_30862
+16.10.08_Indralaya Selatan_30862
+.2004_Arisan Gading_30862
+.2006_Beti_30862
+.2001_Mandi Angin (Mandiangin)_30862
+.2007_Meranjat I_30862
+.2009_Meranjat II_30862
+.2014_Meranjat III_30862
+.2008_Meranjat Ilir_30862
+.2011_Sukaraja Baru_30862
+.2010_Sukaraja Lama_30862
+.2005_Tanjung Dayang Selatan_30862
+.2013_Tanjung Dayang Utara_30862
+.2002_Tanjung Lubuk_30862
+.2003_Tebing Gerinting Selatan_30862
+.2012_Tebing Gerinting Utara_30862
+16.10.07_Indralaya Utara_30812|30862
+.2002_Bakung_30862
+.2003_Lorok_30862
+.2015_Palem Raya_30862
+.2004_Parit_30862
+.2005_Payakabung_30812
+.2011_Permata Baru_30862
+.2013_Pulau Kabai_30862
+.2014_Pulau Semambu_30862
+.2007_Purna Jaya (Purnajaya)_30862
+.2008_Suak/Soak Batok_30862
+.2012_Suka Mulia_30862
+.2006_Sungai Rambutan_30862
+.2009_Tanjung Baru_30862
+.2001_Tanjung Pering_30813
+.2010_Tanjung Pule_30862
+.1016_Timbangan_30862
+16.10.13_Kandis_30867
+.2003_Kandis I_30867
+.2010_Kandis II_30867
+.2005_Kumbang Ilir_30867
+.2004_Kumbang Ulu_30867
+.2001_Lubuk Rukam_30867
+.2012_Lubuk Segonang_30867
+.2006_Miji_30867
+.2009_Muara Kumbang_30867
+.2008_Pandan Arang_30867
+.2007_Santapan Barat_30867
+.2011_Santapan Timur_30867
+.2002_Tanjung Alai_30867
+16.10.15_Lubuk Keliat_30868
+.2009_Betung I_30868
+.2006_Betung II_30868
+.2003_Embecang (Embacang)_30868
+.2004_Kasi Raja (Kasih Raja)_30868
+.2007_Ketiau_30868
+.2002_Lubuk Keliat_30868
+.2008_Payalengkang (Payalingkung)_30868
+.2005_Talang Tengah Darat_30868
+.2010_Talang Tengah Laut_30868
+.2001_Ulak Kembahang_30868
+16.10.01_Muara Kuang_30865
+.2016_Kalampadu (Kelampadu)_30865
+.2009_Kasah_30865
+.2008_Kuang Anyar_30865
+.1011_Muara Kuang_30865
+.2005_Munggu_30865
+.2014_Nagasari_30865
+.2030_Ramakasih_30865
+.2007_Rantau Sialang_30865
+.2013_Seri Kembang_30865
+.2006_Seri Menanti_30865
+.2015_Suka Cinta_30865
+.2029_Sukajadi_30865
+.2031_Tanabang Ilir_30865
+.2012_Tanabang Ulu_30865
+16.10.16_Payaraman_30664
+.2002_Lubuk Bandung_30664
+.2008_Paya Besar_30664
+.1012_Payaraman Barat_30664
+.1013_Payaraman Timur_30664
+.2007_Rengas I_30664
+.2009_Rengas II_30664
+.2006_Seri Kembang I_30664
+.2010_Seri Kembang II_30664
+.2011_Seri Kembang III_30664
+.2003_Talang Seleman_30664
+.2005_Tanjung Lalang_30664
+.2001_Tebedak I_30664
+.2004_Tebedak II_30664
+16.10.05_Pemulutan_30653
+.2015_Aurstanding_30653
+.2035_Babatan Saudagar_30653
+.2037_Harapan_30653
+.2024_Ibul Besar I_30653
+.2030_Ibul Besar II_30653
+.2031_Ibul Besar III_30653
+.2033_Kedukan Bujang_30653
+.2042_Lebung Jangkar_30653
+.2032_Mekar Jaya (Mekarjaya)_30653
+.2040_Muara Baru_30653
+.2017_Muara Dua_30653
+.2018_Palu_30653
+.2025_Pegayut_30653
+.2020_Pelabuhan Dalam_30653
+.2022_Pemulutan Ilir_30653
+.2021_Pemulutan Ulu_30653
+.2038_Pipa Putih_30653
+.2034_Rawa Jaya (Rawajaya)_30653
+.2041_Sembadak_30653
+.2029_Simpang Pelabuhan Dalam_30653
+.2016_Sukarami_30653
+.2039_Sungai Buaya_30653
+.2023_Sungai Rasau_30653
+.2036_Tanjung Pasir_30653
+.2019_Teluk Kecapi_30653
+16.10.10_Pemulutan Barat_30653
+.2011_Arisan Jaya_30653
+.2003_Kamal_30653
+.2004_Pulau Negara_30653
+.2002_Sarang Elang (Saranglang)_30653
+.2008_Seribanding (Seri Bandung)_30653
+.2001_Suka Merindu_30653
+.2010_Talang Pangeran Ilir_30653
+.2005_Talang Pangeran Ulu_30653
+.2006_Ulak Kembahang I_30653
+.2009_Ulak Kembahang II_30653
+.2007_Ulak Petangisan_30653
+16.10.09_Pemulutan Selatan_30653
+.2010_Cahaya Marga_30653
+.2015_Harimau Tandang_30653
+.2005_Kapuk_30653
+.2013_Lebak Pering_30653
+.2007_Maju Jaya_30653
+.2002_Maya Pati (Mayapati)_30653
+.2008_Naikan Tembakang_30653
+.2001_Pematang Bangsal_30653
+.2016_Pematang Bungur_30653
+.2011_S. Lebung Ulu (Sungai Lembung Ulu)_30653
+.2009_Segayam_30653
+.2012_Sungai Keli_30653
+.2003_Sungai Lebung_30653
+.2014_Sungai Ondok_30653
+.2006_Ulak Aurstanding (Ulak Aur Standing)_30653
+16.10.14_Rambang Kuang_30869
+.2002_Beringin Dalam_30869
+.2001_Ibul Dalam_30869
+.2009_Kayu Ara_30869
+.2003_Kuang Dalam Barat_30869
+.2012_Kuang Dalam Timur_30869
+.2004_Lubuk Tunggal_30869
+.2013_Suka Tangai_30869
+.2011_Sunur_30869
+.2007_Tambang Rambang_30869
+.2008_Tangai/Sukananti_30869
+.2006_Tanjung Bulan_30869
+.2010_Tanjung Miring_30869
+.2005_Ulak Segara_30869
+16.10.06_Rantau Alai_30866
+.2011_Kelampaian_30866
+.2015_Kerta Bayang (Kertabayang)_30866
+.2018_Lebung Bandung_30866
+.2022_Mekar Sari_30866
+.2014_Rantau Alai_30866
+.2020_Sanding Marga_30866
+.2006_Sirah Pulau Kilip_30866
+.2021_Sukamaju (Suka Maju / Sukamuju)_30866
+.2013_Sukamarga_30866
+.2012_Sukananti_30866
+.2023_Sukananti Baru_30866
+.2017_Talang Sari_30866
+.2016_Tanjung Mas_30866
+16.10.11_Rantau Panjang_30661
+.2012_Arisan Deras_30661
+.2005_Jagalano (Jagalana)_30661
+.2004_Jagaraja (Jagarajo / Jaga Raya)_30661
+.2002_Ketapang I_30661
+.2010_Ketapang II_30661
+.2007_Kota Daro II_30661
+.2001_Kotadaro I (Kota Daro I)_30661
+.2003_Rantau Panjang Ilir_30661
+.2009_Rantau Panjang Ulu_30661
+.2006_Sejangko I_30661
+.2011_Sejangko II_30661
+.2008_Sungai Rotan_30661
+16.10.12_Sungai Pinang_30662
+.2005_Penyandingan_30662
+.2008_Pinang Jaya_30662
+.2010_Pinang Mas_30662
+.2013_Seri Jabo Baru (Serijabo Baru)_30662
+.2001_Serijabo_30662
+.1007_Sungai Pinang_30662
+.2009_Sungai Pinang I_30662
+.2002_Sungai Pinang II_30662
+.2006_Sungai Pinang III_30662
+.2011_Sungai Pinang Lagati_30662
+.2012_Sungai Pinang Nibung_30662
+.2003_Talang Dukun_30662
+.2004_Tanjung Serian (Tajung Serian)_30662
+16.10.02_Tanjung Batu_30665
+.2031_Bangun Jaya_30665
+.2026_Burai_30665
+.2020_Limbang Jaya I_30665
+.2033_Limbang Jaya II_30665
+.2016_Pajar/Fajar Bulan_30665
+.2027_Sentul_30665
+.2034_Senuro Barat_30665
+.2013_Senuro Timur_30665
+.2010_Seri Bandung_30665
+.2011_Seri Tanjung_30665
+.2018_Tanjung Atap_30665
+.2036_Tanjung Atap Barat_30665
+.2014_Tanjung Baru Petai_30665
+.1017_Tanjung Batu_30665
+.2015_Tanjung Batu Seberang_30665
+.1037_Tanjung Batu Timur_30665
+.2021_Tanjung Laut_30665
+.2019_Tanjung Pinang I_30665
+.2035_Tanjung Pinang II_30665
+.2012_Tanjung Tambak_30665
+.2032_Tanjung Tambak Baru_30665
+16.10.03_Tanjung Raja_30663
+.2032_Belanti_30663
+.2018_Kerinjing_30663
+.2022_Siring Alam_30663
+.2030_Skonjing_30663
+.2008_Sridalam/Seri Dalam_30663
+.2002_Suka Pindah_30663
+.2023_Talang Balai Baru I_30663
+.2034_Talang Balai Baru II_30663
+.2024_Talang Balai Lama_30663
+.2021_Tanjung Agas_30663
+.2033_Tanjung Harapan_30663
+.1001_Tanjung Raja_30663
+.1027_Tanjung Raja Barat_30663
+.2031_Tanjung Raja Selatan_30663
+.1035_Tanjung Raja Timur_30663
+.1028_Tanjung Raja Utara_30663
+.2007_Tanjung Temiang_30663
+.2019_Ulak Kerbau Baru_30663
+.2020_Ulak Kerbau Lama_30663

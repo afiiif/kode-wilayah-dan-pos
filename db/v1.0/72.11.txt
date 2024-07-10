@@ -1,0 +1,73 @@
+72.11.01_Banggai_94891
+.2009_Dangkalan_94891
+.1007_Dodung_94891
+.2002_Kokini_94891
+.2001_Lambako_94891
+.2003_Lampa_94891
+.1005_Lompio_94891
+.2010_Pasir Putih_94891
+.2008_Potil Pololoba_94891
+.1006_Tano Bununungan (Tano Bonunungan)_94891
+.2004_Tinakin Laut_94891
+72.11.06_Banggai Selatan_94890
+.2003_Bentean_94890
+.2005_Kelapa Lima_94890
+.2006_Labuan Kapelak_94890
+.2004_Malino Padas_94890
+.2001_Matanga_94890
+.2002_Tolokibit_94890
+72.11.07_Banggai Tengah_94895
+.2001_Adean_94895
+.2002_Badumpayan_94895
+.2005_Gonggong_94895
+.2004_Mominit_94895
+.2006_Monsongan_94895
+.2008_Pososlalongo (Posos Lalongo)_94895
+.2003_Timbong_94895
+.2007_Tintingo_94895
+72.11.02_Banggai Utara_94896
+.2006_Bone Baru_94896
+.2001_Kendek_94896
+.2002_Lokotoy (Lokotoi)_94896
+.2004_Paisumosoni_94896
+.2003_Popisi_94896
+.2005_Tolisetubono (Tolise Tubono)_94896
+72.11.04_Bangkurung_94892
+.2006_Bone Bone_94892
+.2010_Bungin Lawean (Bungin Luean)_94892
+.2012_Dungkean_94892
+.2005_Kalupapi_94892
+.2003_Kanari_94892
+.2011_Lalong_94892
+.2004_Lantibung_94892
+.2007_Mbeleang_94892
+.2009_Sasabobok_94892
+.2008_Tabulang_94892
+.2002_Taduno_94892
+.2001_Togong Sagu_94892
+72.11.03_Bokan Kepulauan_94894
+.2015_Bolokut_94894
+.2004_Bungin_94894
+.2010_Kasuari_94894
+.2003_Kaukes_94894
+.2016_Keak_94894
+.2002_Kokudang_94894
+.2013_Mandel_94894
+.2008_Mbuang Mbuang_94894
+.2014_Minanga_94894
+.2006_Ndindibung_94894
+.2007_Nggasuang_94894
+.2012_Paisubebe_94894
+.2005_Panapat_94894
+.2011_Sonit_94894
+.2009_Timpaus_94894
+.2001_Toropot_94894
+72.11.05_Labobo_94893
+.2004_Alasan_94893
+.2006_Bontosi_94893
+.2001_Lalong_94893
+.2007_Lipu Talas (Liputalas)_94893
+.2002_Lipulalongo_94893
+.2005_Mansalean_94893
+.2008_Padingkian_94893
+.2003_Paisulamo_94893

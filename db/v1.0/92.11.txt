@@ -1,0 +1,63 @@
+92.11.04_Dataran Isim_98326
+.2012_Dibera_98326
+.2007_Disihu (Dihisu)_98326
+.2009_Disra (Desra)_98326
+.2002_Duhugesa_98326
+.2006_Hugamod (Hugomot)_98326
+.2008_Inyuara_98326
+.2001_Isim_98326
+.2010_Mindermes_98326
+.2011_Sibjo_98326
+.2005_Tahosta (Tohosta)_98326
+.2003_Tubes_98326
+.2004_Umuhousi (Umousi)_98326
+92.11.05_Momi Waren_98322
+.2001_Dembek_98322
+.2006_Demini_98322
+.2004_Gaya Baru_98322
+.2002_Nij (Neny Pantai / Nenei Pantai)_98322
+.2003_Siwi_98322
+.2005_Waren_98322
+.2007_Yekwandi_98322
+92.11.03_Neney_98323
+.2006_Aryawenmoho_98323
+.2005_Benyas_98323
+.2002_Disi_98323
+.2003_Hiyou_98323
+.2007_Neney_98323
+.2004_Sesum_98323
+.2001_Wama_98323
+92.11.02_Oransbari_98321
+.2013_Akeju_98321
+.2004_Margo Rukun (Margorukun)_98321
+.2009_Margomulyo_98321
+.2007_Masabui_98321
+.2014_Masabui II_98321
+.2005_Muari_98321
+.2001_Oransbari_98321
+.2002_Sidomulyo_98321
+.2011_Sindang Jaya_98321
+.2012_Wandoki_98321
+.2008_Warbiadi_98321
+.2010_Warkwandi_98321
+.2003_Waroser_98321
+.2006_Watariri_98321
+92.11.01_Ransiki_98324
+.2007_Abreso_98324
+.2006_Bamaha_98324
+.2008_Hamawi_98324
+.2011_Hamor_98324
+.2009_Kobrey_98324
+.2013_Mambrema_98324
+.2002_Nuhuwei_98324
+.2001_Ransiki_98324
+.2005_Sabri_98324
+.2012_Susmorof_98324
+.2004_Tobou_98324
+.2010_Wamcei_98324
+.2003_Yamboi_98324
+92.11.06_Tahota_98325
+.2003_Kaprus_98325
+.2002_Reyob_98325
+.2004_Seimeba_98325
+.2001_Yarmatum (Yermatum)_98325

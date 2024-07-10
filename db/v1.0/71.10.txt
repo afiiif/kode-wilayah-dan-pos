@@ -1,0 +1,88 @@
+71.10.02_Kotabunan_95782
+.2005_Bukaka_95782
+.2003_Bulawan_95782
+.2012_Bulawan Dua_95782
+.2011_Bulawan Satu_95782
+.2002_Buyat_95782
+.2010_Buyat Barat_95782
+.2006_Buyat I_95782
+.2007_Buyat II_95782
+.2008_Buyat Selatan_95782
+.2009_Buyat Tengah_95782
+.2001_Kotabunan_95782
+.2014_Kotabunan Barat_95782
+.2013_Kotabunan Selatan_95782
+.2004_Paret_95782
+.2015_Paret Timur_95782
+71.10.04_Modayag_95780
+.2010_Badaro_95780
+.2007_Buyandi_95780
+.2021_Candi Rejo_95780
+.2009_Lanut_95780
+.2002_Liberia_95780
+.2014_Liberia Timur_95780
+.2001_Modayag_95780
+.2011_Modayag Barat_95780
+.2012_Modayag Timur_95780
+.2003_Purworejo_95780
+.2016_Purworejo Tengah_95780
+.2013_Purworejo Timur_95780
+.2022_Sumber Rejo_95780
+.2008_Tobongon_95780
+71.10.05_Modayag Barat_95781
+.2003_Bangkudai Barat (Bongkudai Barat)_95781
+.2002_Bangunan Wuwuk_95781
+.2008_Bangunan Wuwuk Timur_95781
+.2004_Bongkudai_95781
+.2007_Inaton_95781
+.2006_Moonow_95781
+.2001_Moyongkota_95781
+.2005_Moyongkota Baru_95781
+.2009_Pinonobatuan_95781
+.2010_Tangaton_95781
+71.10.07_Mooat_95784
+.2003_Bongkudai Baru_95784
+.2002_Bongkudai Selatan_95784
+.2005_Bongkudai Timur_95784
+.2004_Bongkudai Utara_95784
+.2006_Guaan_95784
+.2009_Kokapoi_95784
+.2010_Kokapoi Timur_95784
+.2008_Mokitompia_95784
+.2001_Mooat_95784
+.2007_Mototompian_95784
+71.10.06_Motongkad_95785
+.2004_Atoga_95785
+.2005_Atoga Timur_95785
+.2009_Jiko_95785
+.2010_Jiko Utara_95785
+.2007_Molobog_95785
+.2008_Molobog Barat_95785
+.2011_Molobog Timur_95785
+.2002_Motongkad_95785
+.2003_Motongkad Selatan_95785
+.2006_Motongkad Tengah_95785
+.2001_Motongkad Utara_95785
+71.10.03_Nuangan_95786
+.2006_Bai_95786
+.2001_Idumun_95786
+.2011_Iyok_95786
+.2007_Jiko Belanga_95786
+.2012_Loyow_95786
+.2002_Matabulu_95786
+.2014_Matabulu Timur_95786
+.2003_Nuangan_95786
+.2018_Nuangan Barat_95786
+.2010_Nuangan I_95786
+.2019_Nuangan Selatan_95786
+71.10.01_Tutuyan_95783
+.2005_Dodap_95783
+.2006_Dodap Pantai_95783
+.2010_Dodop Mikasa_95783
+.2001_Kayumoyondi_95783
+.2004_Togid_95783
+.2002_Tombolikat_95783
+.2009_Tombolikat Selatan_95783
+.2003_Tutuyan_95783
+.2007_Tutuyan II_95783
+.2008_Tutuyan III_95783

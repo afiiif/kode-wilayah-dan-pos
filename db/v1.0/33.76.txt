@@ -1,0 +1,31 @@
+33.76.04_Margadana_52141|52147
+.1003_Cabawan_52147
+.1001_Kaligangsa_52147
+.1004_Kalinyamat Kulon_52144
+.1002_Krandon_52146
+.1005_Margadana_52143
+.1007_Pesurungan Lor_52147
+.1006_Sumurpanggang_52141
+33.76.01_Tegal Barat_52111|52125
+.1002_Debong Lor_52115
+.1003_Kemandungan_52114
+.1005_Kraton_52112
+.1007_Muarareja_52117
+.1004_Pekauman_52125
+.1001_Pesurungan Kidul_52117
+.1006_Tegalsari_52111
+33.76.03_Tegal Selatan_52131|52138
+.1002_Bandung_52137
+.1003_Debong Kidul_52138
+.1006_Debong Kulon_52133
+.1007_Debong Tengah_52132
+.1001_Kalinyamat Wetan_52136
+.1005_Keturen_52134
+.1008_Randugunting_52131
+.1004_Tunon_52135
+33.76.02_Tegal Timur_52121|52125
+.1001_Kejambon_52124
+.1004_Mangkukusuman_52123
+.1005_Mintaragen_52121
+.1003_Panggung_52122
+.1002_Slerok_52125

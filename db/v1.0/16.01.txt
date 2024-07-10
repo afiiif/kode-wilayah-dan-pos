@@ -1,0 +1,170 @@
+16.01.13_Baturaja Barat_32121|32126
+.1011_Air Gading_32121
+.1007_Batu Kuning_32121
+.2001_Batu Putih_32121
+.2008_Karang Agung_32121
+.2009_Karang Endah_32121
+.2002_Laya_32125
+.2006_Pusar_32126
+.1004_Saung Naga_32124
+.2012_Sukamaju_32124
+.1005_Talang Jawa_32122
+.2010_Tanjung Karang_32121
+.1003_Tanjungagung (Tanjung Agung)_32123
+16.01.14_Baturaja Timur_32111|32117
+.2015_Air Paoh/Pauh_32111
+.1001_Baturaja Lama_32114
+.1013_Baturaja Permai_32111
+.1004_Kemalaraja (Kemala Raja)_32111
+.1011_Kemelak Bindung Langit_32111
+.1003_Pasar Baru_32116
+.1014_Sekar Jaya (Pasar Lama)_32115
+.1012_Sepancar Lawang Kulon_32111
+.1006_Sukajadi_32117
+.1005_Sukaraya_32112
+.2008_Tanjung Baru_32113
+.2007_Tanjung Kemala_32111
+.2016_Terusan_32111
+16.01.32_Kedaton Peninjauan Raya_32193
+.2001_Bunglai_32193
+.2003_Kampai_32193
+.2002_Kedaton_32193
+.2005_Kedaton Timur_32193
+.2008_Lubuk Kemiling_32193
+.2004_Rantau Panjang_32193
+.2007_Sinar Kedaton_32193
+.2006_Suka Pindah_32193
+16.01.28_Lengkiti_32158
+.2001_Bandar Jaya_32158
+.2005_Bumi Kawa_32158
+.2017_Bunga Tanjung_32158
+.2020_Fajar Jaya_32158
+.2014_Gedung Pakuan/Pekuon_32158
+.2002_Karang Endah_32158
+.2007_Lubuk Dalam_32158
+.2011_Lubuk Hara_32158
+.2013_Negeri Agung_32158
+.2008_Negeri Ratu_32158
+.2004_Pagar Dewa_32158
+.2003_Pajar Bulan_32158
+.2009_Segara Kembang_32158
+.2021_Simpang Empat_32158
+.2012_Sukaraja_32158
+.2016_Sundan_32158
+.2022_Tanjungagung (Tanjung Agung)_32158
+.2006_Tanjunglengkayap (Tanjung Lengkayap)_32158
+.2010_Tihang_32158
+.2015_Tualang_32158
+.2019_Umpam (Umpan)_32158
+.2018_Way Heling_32158
+16.01.22_Lubuk Batang_32192
+.2016_Air Wall_32192
+.2011_Bandar Agung_32192
+.2004_Banu Ayu_32192
+.2008_Belatung_32192
+.2002_Gunung Meraksa_32192
+.2009_Karta Mulya (Karta Mulia)_32192
+.2003_Kurup_32192
+.2006_Lubuk Batang Baru_32192
+.2007_Lubuk Batang Lama_32192
+.2010_Lunggaian_32192
+.2015_Markisa_32192
+.2001_Merbau_32192
+.2017_Sumber Bahagia_32192
+.2005_Tanjung Dalam_32192
+.2012_Tanjung Manggus_32192
+16.01.30_Lubuk Raja_32152
+.2007_Battu Winangun_32152
+.2001_Batu Marta I (Batumarta I)_32152
+.2002_Batu Marta II (Batumarta II)_32152
+.2006_Batu Raden_32152
+.2003_Lekis Rejo_32152
+.2004_Lubuk Banjar_32152
+.2005_Marta Jaya_32152
+16.01.31_Muara Jaya_32155
+.2005_Beringin_32155
+.2007_Karang Lantang_32155
+.2001_Kemala Jaya_32155
+.2002_Lontar_32155
+.2004_Lubuk Tupak_32155
+.2003_Muara Saeh_32155
+.2006_Surau_32155
+16.01.08_Pengandonan_32154
+.2006_Belambangan_32154
+.2019_Gunung Kuripan_32154
+.2008_Gunung Liwat_32154
+.2001_Gunung Meraksa_32154
+.2007_Kesambirata (Kesambi Rata)_32154
+.2015_Pengandonan_32154
+.2016_Semanding_32154
+.2005_Tangsi Lontar_32154
+.2003_Tanjung Pura_32154
+.2004_Tanjung Sari_32154
+.2017_Tanjungan_32154
+.2018_Ujanmas (Ujan Mas)_32154
+16.01.09_Peninjauan_32191
+.2003_Belimbing_32191
+.2007_Bindu_32191
+.2004_Durian_32191
+.2023_Espetiga_32191
+.2028_Karang Dapo_32191
+.2002_Kedondong_32191
+.2001_Kepayang_32191
+.2006_Lubuk Rukam_32191
+.2024_Makarti Jaya_32191
+.2022_Makartitama (Makarti Tama)_32191
+.2009_Mendala_32191
+.2025_Mitra Kencana_32191
+.2027_Panji Jaya (Panti Jaya)_32191
+.2026_Penilikan_32191
+.2010_Peninjauan_32191
+.2011_Saung Naga_32191
+16.01.21_Semidang Aji_32156
+.2017_Banjarsari (Banjar Sari)_32156
+.2003_Batanghari (Batang Hari)_32156
+.2008_Bedegung_32156
+.2021_Guna Makmur_32156
+.2010_Keban Agung (Kebon Agung)_32156
+.2014_Kebun Jati_32156
+.2004_Nyiur Sayak_32156
+.2006_Padang Bindu_32156
+.2020_Panai Makmur_32156
+.2018_Pandan Dulang_32156
+.2007_Panggal Panggang (Panggal Panggal)_32156
+.2016_Pengaringan_32156
+.2012_Raksa Jiwa_32156
+.2013_Seleman_32156
+.2015_Singapura_32156
+.2005_Suka Merindu_32156
+.2002_Sukarami_32156
+.2001_Tanjung Kurung_32156
+.2022_Tebing Kampung_32156
+.2011_Tubohan_32156
+.2009_Ulak Pandan_32156
+16.01.29_Sinar Peninjauan_32159
+.2001_Karya Jaya_32159
+.2002_Karya Mukti_32159
+.2003_Marga Bakti_32159
+.2005_Marga Mulya_32159
+.2004_Sri Mulya_32159
+.2006_Tanjung Makmur_32159
+16.01.07_Sosoh Buay Rayap_32151
+.2006_Bandar_32151
+.2004_Kungkilan_32151
+.2003_Lubuk Baru_32151
+.2007_Lubuk Leban_32151
+.2010_Mekar Jaya_32151
+.2009_Mekar Sari_32151
+.2001_Negeri Sindang_32151
+.2011_Penantian_32151
+.2005_Penyandingan_32151
+.2002_Rantau Kumpai_32151
+.2008_Tungku Jaya_32151
+16.01.20_Ulu Ogan_32157
+.2007_Belandang_32157
+.2002_Gunung Tiga_32157
+.2001_Kelumpang_32157
+.2003_Mendingin_32157
+.2005_Pedataran_32157
+.2006_Sukajadi_32157
+.2004_Ulak Lebar_32157

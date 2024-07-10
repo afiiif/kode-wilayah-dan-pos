@@ -1,0 +1,21 @@
+12.73.02_Sibolga Kota_22521|22524
+.1001_Kota Baringin (Beringin)_22521
+.1004_Pancuran Gerobak_22524
+.1002_Pasar Baru_22522
+.1003_Pasar Belakang_22523
+12.73.04_Sibolga Sambas_22531|22535
+.1004_Pancuran Bambu_22535
+.1002_Pancuran Dewa_22532
+.1001_Pancuran Kerambil_22531
+.1003_Pancuran Pinang_22534
+12.73.03_Sibolga Selatan_22533|22538
+.1001_Aek Habil_22533
+.1002_Aek Manis_22536
+.1003_Aek Muara Pinang_22537
+.1004_Aek Parombunan_22538
+12.73.01_Sibolga Utara_22511|22514
+.1002_Angin Nauli_22511
+.1001_Huta Barangan_22514
+.1003_Huta Tonga Tonga_22512
+.1004_Sibolga Ilir_22513
+.1005_Simare-Mare (Simaremare)_22513

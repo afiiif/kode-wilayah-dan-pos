@@ -1,0 +1,117 @@
+75.04.09_Buntulia_96363
+.2005_Buntulia Tengah_96363
+.2004_Buntulia Utara_96363
+.2001_Hulawa_96363
+.2002_Karya Indah_96363
+.2007_Sipatana_96363
+.2003_Taluduyunu_96363
+.2006_Taluduyunu Utara_96363
+75.04.08_Dengilo_96361
+.2005_Hutamoputi (Huta Moputi)_96361
+.2003_Karangetan (Karangetang)_96361
+.2002_Karya Baru_96361
+.2004_Padengo_96361
+.2001_Popaya_96361
+75.04.10_Duhiadaa_96364
+.2001_Bulili_96364
+.2002_Buntulia Barat_96364
+.2006_Buntulia Jaya_96364
+.2003_Buntulia Selatan_96364
+.2004_Duhiadaa_96364
+.2005_Mekar Jaya_96364
+.2008_Mootilango_96364
+.2007_Padengo (Padeng)_96364
+75.04.02_Lemito_96468
+.2012_Babalonge_96468
+.2009_Kenari_96468
+.2001_Lemito_96468
+.2008_Lemito Utara_96468
+.2004_Lomuli_96468
+.2011_Suka Damai_96468
+.2002_Wonggarasi Barat_96468
+.2010_Wonggarasi Tengah_96468
+75.04.04_Marisa_96365
+.2015_Batubilotahu (Batubilotahu Indah)_96365
+.2018_Bulangita_96365
+.2003_Marisa Selatan_96365
+.2004_Marisa Utara_96365
+.2016_Palopo_96365
+.2008_Pohuwato_96365
+.2017_Pohuwato Timur_96365
+.2007_Teratai_96365
+75.04.05_Paguat_96362
+.2014_Buhu Jaya_96362
+.2010_Bumbulan_96362
+.2004_Bunuyo_96362
+.2015_Kemiri (Kamiri)_96362
+.1001_Libuo_96362
+.2012_Maleo_96362
+.2013_Molamahu_96362
+.1002_Pentadu_96362
+.1003_Siduan_96362
+.2005_Sipayo_96362
+.2006_Soginti_96362
+75.04.06_Patilanggio_96366
+.2002_Balayo_96366
+.2006_Dudepo_96366
+.2005_Dulomo_96366
+.2001_Iloheluma (Ilo Heluma)_96366
+.2004_Manawa_96366
+.2003_Suka Makmur_96366
+75.04.01_Popayato_96466
+.2015_Bukit Tingki_96466
+.2020_Bumi Bahari_96466
+.2018_Dambalo_96466
+.2004_Popayato_96466
+.2008_Telaga_96466
+.2019_Telaga Biru_96466
+.2012_Torosiaje_96466
+.2003_Torosiaje Jaya_96466
+.2017_Trikora_96466
+.2016_Tunas Harapan_96466
+75.04.13_Popayato Barat_96467
+.2005_Butungale_96467
+.2001_Dudewulo_96467
+.2004_Molosifat (Molosipat)_96467
+.2007_Molosifat Utara (Molosipat Utara)_96467
+.2003_Padengo_96467
+.2006_Persatuan_96467
+.2002_Tunas Jaya_96467
+75.04.12_Popayato Timur_96367
+.2005_Bunto_96367
+.2007_Kelapa Lima_96367
+.2002_Londoun (Londuun)_96367
+.2006_Maleo_96367
+.2003_Marisa_96367
+.2001_Milangodaa_96367
+.2004_Tahele_96367
+75.04.03_Randangan_96469
+.2013_Ayula_96469
+.2015_Banuroja_96469
+.2009_Huyula_96469
+.2002_Imbodu_96469
+.2003_Manunggal Karya_96469
+.2001_Motolohu_96469
+.2017_Motolohu Selatan_96469
+.2012_Omayuwa_96469
+.2014_Patuhu_96469
+.2016_Pelambane (Pelambane Perda)_96469
+.2008_Sarimurni (Sari Murni)_96469
+.2004_Sidorukun_96469
+.2018_Sidowonge (Siduwonge)_96469
+75.04.07_Taluditi (Taluduti)_96464
+.2004_Kalimas_96464
+.2003_Makarti Jaya_96464
+.2005_Malango_96464
+.2006_Marisa IV_96464
+.2001_Pancakarsa I (Panca Karsa I)_96464
+.2002_Pancakarsa II (Panca Karsa II)_96464
+.2007_Tirto Asri_96464
+75.04.11_Wanggarasi_96465|96469
+.2003_Bohusami_96465
+.2002_Bukit Harapan_96465
+.2004_Lembah Permai (Lembah Malango II)_96465
+.2005_Limbula_96469
+.2007_Tuweya_96469
+.2001_Wanggarasi (Wonggarasi Timur)_96465
+.2006_Yipilo_96469

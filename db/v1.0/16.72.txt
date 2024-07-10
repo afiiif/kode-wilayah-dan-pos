@@ -1,0 +1,40 @@
+16.72.04_Dempo Selatan_31521
+.1021_Atung Bungsu_31521
+.1020_Kance Diwe_31521
+.1002_Lubuk Buntak_31521
+.1022_Penjalang_31521
+.1018_Prabu Dipo (Prahu Dipo)_31521
+16.72.05_Dempo Tengah_31520
+.1012_Candi Jaya_31520
+.1008_Jokoh_31520
+.1001_Karang Dalo_31520
+.1011_Padang Temu_31520
+.1003_Pelang Kenidai_31520
+16.72.03_Dempo Utara_31510
+.1022_Agung Lawongan (Agung Lawangan)_31510
+.1012_Bumi Agung_31510
+.1024_Burung Dinang_31510
+.1006_Jangkar Mas_31510
+.1019_Muara Siban_31510
+.1023_Pagar Wangi_31510
+.1025_Reba Tinggi_31510
+16.72.02_Pagar Alam Selatan_31522|31529
+.1022_Basemah Sersan (Besemah Serasan)_31526
+.1005_Gunung Dempo_31529
+.1004_Nendayung (Nendagung)_31527
+.1003_Sidorejo_31527
+.1021_Tanjung Agung (Tanjung Payang)_31522
+.1018_Tebat Giri Indah_31526
+.1019_Tumbak Ulas_31526
+.1020_Ulu Lurah/Rurah_31526
+16.72.01_Pagar Alam Utara_31511|31551
+.1007_Alun Dua_31513
+.1020_Bangun Jaya_31512
+.1002_Bangun Rejo_31517
+.1016_Beringin Jaya_31511
+.1021_Curup Jare_31516
+.1018_Dempio Makmur (Dempo Makmur)_31519
+.1019_Kusipan Babas (Kuripan Babas)_31514
+.1005_Pagar Alam_31512
+.1014_Selibar_31515
+.1001_Sukorejo_31551

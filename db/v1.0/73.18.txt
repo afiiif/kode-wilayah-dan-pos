@@ -1,0 +1,178 @@
+73.18.02_Bittuang_91896
+.2008_Balla_91896
+.2013_Bau_91896
+.1006_Bittuang_91896
+.2016_Burasia_91896
+.2018_Buttu Limbong_91896
+.2017_Kandua'_91896
+.2010_Kole Palian_91896
+.2009_Le'tek_91896
+.2004_Pali'_91896
+.2011_Patongloan_91896
+.2015_Rembo-Rembo_91896
+.2014_Sandana_91896
+.2012_Sasak_91896
+.2002_Se'seng_91896
+.2007_Tiroan_91896
+73.18.03_Bonggakaradeng_91872
+.2001_Bau_91872
+.2008_Bau Selatan_91872
+.2002_Buakayu (Bua Kayu)_91872
+.2004_Mappa'_91872
+.2006_Poton_91872
+.1007_Ratte Buttu_91872
+73.18.19_Gandangbatu Sillanan (Gandang Batu Sillanan)_91871
+.1002_Benteng Ambeso (Benteng Deata)_91871
+.2011_Betteng Deata (Bentengambeso)_91871
+.2001_Buntu Limbong_91871
+.2010_Buntu Tabang_91871
+.2005_Gandangbatu_91871
+.2007_Garassik_91871
+.2006_Kaduaja_91871
+.1012_Mebali_91871
+.2008_Pemanukan_91871
+.2009_Perindingan_91871
+.1004_Salubarani_91871
+.2003_Sillanan_91871
+73.18.38_Kurra_91862
+.1002_Bambalu_91862
+.2006_Limbong Sangpolo_91862
+.2004_Lipungan Tanete_91862
+.2003_Maroson_91862
+.2001_Rante Kurra_91862
+.2005_Rante Limbong_91862
+73.18.05_Makale_91811|91817
+.1021_Ariang_91811
+.1005_Batupapan (Batu Papan)_91813
+.1003_Bombongan_91811
+.1022_Botang_91817
+.1016_Buntu Burake_91817
+.1017_Kamali Pentalluan_91817
+.1007_Lamunan_91811
+.1019_Lapandan_91817
+.2023_Lea_91817
+.1009_Manggau_91814
+.1015_Pantan_91811
+.1018_Rante_91817
+.1020_Tampo Makale_91817
+.1006_Tarongko_91811
+.1014_Tondon Mamullu_91817
+73.18.29_Makale Selatan_91815
+.2008_Bo'ne Buntu Sisong (Bone Buntu Sisong)_91815
+.2007_Pa'buaran (Pabuaran)_91815
+.1004_Pasang_91815
+.2006_Patekke (Pateke)_91815
+.2005_Randan Batu_91815
+.1002_Sandabilik_91815
+.1001_Tiromanda_91815
+.1003_Tosapan (To' Sapan)_91815
+73.18.27_Makale Utara_91812|91817
+.1003_Bungin_91812
+.1005_Lemo_91817
+.1004_Lion Tondok Iring_91817
+.1002_Sarira_91817
+.1001_Tambunan_91817
+73.18.35_Malimbong Balepe_91861
+.2006_Balepe' (Balepe)_91861
+.2004_Kole Barebatu_91861
+.2003_Kole Sawangan_91861
+.2005_Lemo Menduruk_91861
+.2002_Leppan (Lepan)_91861
+.1001_Malimbong_91861
+73.18.28_Mappak_91873
+.2006_Butang_91873
+.2002_Dewata_91873
+.1004_Kondodewata (Kondo Dewata)_91873
+.2003_Miallo_91873
+.2005_Sengpeparikan_91873
+.2001_Tanete_91873
+73.18.31_Masanda_91894
+.2005_Belau_91894
+.2006_Belau Utara_91894
+.2003_Kadundung (Kadungdung)_91894
+.2007_Paku_91894
+.2002_Paliorong_91894
+.2004_Pondingao' (Pondingao)_91894
+.2001_Ratte_91894
+.2008_Sesesalu (Sese Salu / Sese'alu)_91894
+73.18.12_Mengkendek_91870
+.2027_Buntu Datu (Batu)_91870
+.2015_Buntu Tangti_91870
+.2004_Gasing_91870
+.2026_Ke'pe Tinoring (Ke Pe Tinoring)_91870
+.1023_Lemo_91870
+.2022_Marinding_91870
+.2018_Pa'tengko_91870
+.2020_Pakala_91870
+.2025_Palipu_91870
+.2012_Randanan_91870
+.2017_Rante dada (Rantedada)_91870
+.1002_Rante Kalua' (Rante Kalua)_91870
+.2019_Simbuang_91870
+.1016_Tampo_91870
+.1024_Tengan_91870
+.2006_Uluway (Uluwai)_91870
+.2021_Uluway Barat_91870
+73.18.37_Rano_91875
+.2001_Rano_91875
+.2004_Rano Tengah_91875
+.2005_Rano Timur_91875
+.2002_Rano Utara_91875
+.2003_Rumandan_91875
+73.18.11_Rantetayo_91863
+.2007_Madandan_91863
+.1013_Padangiring_91863
+.1012_Rantetayo_91863
+.1003_Tapparan_91863
+.2011_Tapparan Utara (Taparan Utara)_91863
+.2014_Tonglo_91863
+73.18.20_Rembon_91860
+.2003_Banga_91860
+.2009_Batusura' (Batu Sura)_91860
+.2010_Bua ' Tarrung_91860
+.2007_Buri'_91860
+.2012_Kayuosing (Kayu Osing / Kayosing)_91860
+.2005_Limbong_91860
+.2008_Maroson_91860
+.2002_Palesan_91860
+.1013_Rembon_91860
+.2006_Sarapeang_91860
+.1001_Talion_91860
+.2011_To'pao (To' Pao)_91860
+.2004_Ullin_91860
+73.18.01_Saluputi (Saluputti)_91864
+.2017_Batu Tiakka_91864
+.1009_Pattan Ulusalu_91864
+.2014_Ra'bung_91864
+.2012_Ratte Talonge_91864
+.2011_Rea Tulak Langi_91864
+.2013_Sa'tandung_91864
+.2015_Salu_91864
+.2016_Salu Boronan_91864
+.2010_Salutandung_91864
+73.18.13_Sangalla (Sanggala)_91881
+.2004_Bulian Massa'bu (Bulian Massabu)_91881
+.1010_Buntu Masakke_91881
+.2006_Kaero_91881
+.1009_Tongko Sarapung_91881
+.2008_Turunan_91881
+73.18.33_Sangalla Selatan_91882
+.2001_Batualu_91882
+.2003_Batualu Selatan_91882
+.1005_Rante Alang_91882
+.2004_Raru Sibunuan_91882
+.2002_Tokesan_91882
+73.18.34_Sangalla Utara_91883
+.1006_Bebo' (Bebo)_91883
+.1001_Leatung_91883
+.2003_Leatung Matallo_91883
+.2002_Rantela'bi Kambisa (Ratele Bi Kambisa)_91883
+.2004_Saluallo_91883
+.2005_Tumbang Datu_91883
+73.18.09_Simbuang_91874
+.2009_Makkodo_91874
+.2004_Pongbembe_91874
+.2010_Puang Bembe Mesakada (Ponghembe)_91874
+.1008_Sima_91874
+.2003_Simbuang_91874
+.2006_Simbuang Batutallu (Simbuang Batuallo)_91874

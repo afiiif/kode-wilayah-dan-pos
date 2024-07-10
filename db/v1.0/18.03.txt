@@ -1,0 +1,270 @@
+18.03.06_Abung Barat_34558
+.2024_Bumi Mandiri_34558
+.2009_Bumi Nabung_34558
+.2012_Cahaya Negeri_34558
+.2017_Gunung Betuah_34558
+.2007_Hujan Mas_34558
+.2010_Kemplas/Kamplas_34558
+.2011_Kistang_34558
+.2013_Lepang Besar_34558
+.2006_Ogan Lima_34558
+.2023_Pematang Kasih_34558
+.2016_Pengaringan_34558
+.2008_Simpang Abung/Agung_34558
+.2005_Tanjung Harta_34558
+.2021_Way Wakak_34558
+18.03.22_Abung Kunang_34565
+.2001_Aji Kagungan_34565
+.2004_Beringin_34565
+.2006_Bindu_34565
+.2003_Sabuk Empat_34565
+.2005_Sabuk Indah_34565
+.2002_Talang Jembatan_34565
+.2007_Way Perancang_34565
+18.03.19_Abung Pekurun_34582
+.2003_Campang Gijul_34582
+.2001_Nyapah Banyu_34582
+.2006_Ogan Campang_34582
+.2009_Ogan Jaya_34582
+.2005_Pekurun_34582
+.2007_Pekurun Tengah_34582
+.2008_Pekurun Udik_34582
+.2002_Sinar Gunung_34582
+.2004_Sumber Tani_34582
+18.03.07_Abung Selatan_34581
+.2012_Abung Jayo_34581
+.2015_Bandar Kagungan Raya_34581
+.2016_Bumi Raya (Bumi Raya Pemekaran)_34581
+.2018_Cabang Abung Raya_34581
+.2005_Cabang Empat_34581
+.2010_Candimas (Candi Mas)_34581
+.2009_Gilih Sukanegeri_34581
+.2007_Kalibalangan_34581
+.2019_Kalibening Raya_34581
+.2017_Kemalo Abung_34581
+.2013_Kembang Gading_34581
+.2011_Kembang Tanjung_34581
+.2014_Ratu Abung_34581
+.2006_Sinar Ogan_34581
+.2004_Trimodadi_34581
+.2020_Way Lunik_34581
+18.03.13_Abung Semuli_34580
+.2005_Gunung Keramat (Gunung Kramat)_34580
+.2007_Gunung Sari_34580
+.2004_Papan Asri_34580
+.2003_Semuli Jaya_34580
+.2002_Semuli Raya_34580
+.2006_Sido Rahayu_34580
+.2001_Suka Maju (Sukamaju)_34580
+18.03.14_Abung Surakarta_34585
+.2002_Bandar Abung (Bandar Agung)_34585
+.2007_Bandar Sakti_34585
+.2003_Bangun Sari_34585
+.2005_Bumi Raharja_34585
+.2006_Bumi Restu_34585
+.2008_Karya Sakti_34585
+.2004_Purba Sakti_34585
+.2009_Sukoharjo_34585
+.2001_Tatakarya (Tata Karya)_34585
+18.03.11_Abung Tengah_34584
+.2001_Gunung Besar_34584
+.2008_Gunung Gijul_34584
+.2007_Gunung Sadar_34584
+.2004_Kedaton_34584
+.2002_Kinciran_34584
+.2003_Negla Sari_34584
+.2016_Pekurun Barat_34584
+.2017_Pekurun Selatan_34584
+.2018_Pekurun Utara_34584
+.2005_Sri Bandung_34584
+.2006_Subik_34584
+18.03.05_Abung Timur_34583
+.2001_Banjar Agung_34583
+.2002_Bumi Agung Marga_34583
+.2010_Bumi Jaya_34583
+.2004_Gedung Nyapah_34583
+.2011_Papan Rejo_34583
+.2005_Penagan Ratu_34583
+.2006_Peraduan Waras_34583
+.2003_Pungguk Lama_34583
+.2008_Rejo Mulyo_34583
+.2009_Sidomukti_34583
+.2012_Sumber Agung_34583
+.2007_Surakarta_34583
+18.03.12_Abung Tinggi_34556
+.2008_Kebun Dalam_34556
+.2002_Muara Dua_34556
+.2003_Pulau Panggung_34556
+.2004_Sekipi_34556
+.2005_Sido Kayo_34556
+.2007_Suka Maju_34556
+.2006_Suka Marga_34556
+.2001_Ulak Rengas_34556
+18.03.23_Blambangan Pagar_34586
+.2002_Blambangan_34586
+.2007_Buring Kencana_34586
+.2003_Jagang_34586
+.2001_Pagar_34586
+.2006_Pagar Gading_34586
+.2004_Tanjung Iman (Tanjungiman)_34586
+.2005_Tulung Singkip_34586
+18.03.01_Bukit Kemuning_34564
+.1001_Bukit Kemuning_34564
+.2006_Dwikora_34564
+.2004_Muara Aman_34564
+.2008_Sido Mulyo (Sidomulyo)_34564
+.2003_Suka Menanti_34564
+.2002_Tanjung Baru_34564
+.2005_Tanjung Baru Timur_34564
+.2007_Tanjung Waras_34564
+18.03.16_Bunga Mayang_34555
+.2006_Haduyang Ratu_34555
+.2007_Iso Rejo (Isorejo)_34555
+.2002_Kota Napal_34555
+.2010_Mulyo Rejo I_34555
+.2008_Mulyo Rejo II_34555
+.2001_Negara Tulang Bawang_34555
+.2011_Suka Maju (Bunga Maju)_34555
+.2005_Sukadana Ilir_34555
+.2004_Sukadana Udik_34555
+.2003_Tanah Abang_34555
+.2009_Tulang Bawang Baru (Negara Tulang Bawang Baru)_34555
+18.03.17_Hulu Sungkai_34561
+.2006_Beringin Jaya_34561
+.2002_Bonglai Tengah (Bunglay Tengah / Bunglao)_34561
+.2007_Gedung Makrifat_34561
+.2009_Gedung Negara_34561
+.2008_Gedung Raja_34561
+.2005_Hibul/Ibul Jaya_34561
+.2004_Lubuk Rukam_34561
+.2001_Negera Kemakmuran (Negara Kemakmuran)_34561
+.2003_Tanjung Harapan_34561
+.2010_Tulung Buyut_34561
+18.03.02_Kotabumi_34511|34518
+.2012_Bojong Barat_34511
+.1002_Cempedak_34516
+.1009_Kota Gapura_34511
+.1006_Kotabumi Ilir_34517
+.1005_Kotabumi Pasar_34518
+.1004_Kotabumi Tengah_34516
+.2013_Kotabumi Tengah Barat_34516
+.1001_Kotabumi Udik_34518
+.1003_Rejo Sari (Rejosari)_34514
+.1007_Sindang Sari_34517
+.1008_Sri Basuki (Sribasuki)_34515
+.2011_Sumber Arum_34511
+.2010_Talang Bojong_34511
+18.03.10_Kotabumi Selatan_34511|34519
+.2013_Alam Jaya_34511
+.2005_Bandar Putih_34511
+.2007_Curup Guruh (Curup Guruh Kagungan)_34511
+.2008_Jerangkang_34511
+.2006_Karang Agung_34511
+.1001_Kelapa Tujuh_34513
+.1003_Kota Alam_34519
+.2004_Mulang Maya_34511
+.2014_Sinar Mas Alam_34511
+.2010_Taman Jaya_34511
+.1002_Tanjungaman (Tanjung Aman)_34511
+.1011_Tanjungharapan (Tanjung Harapan)_34511
+.1012_Tanjungsenang (Tanjung Senang)_34511
+.2009_Way Melan_34511
+18.03.09_Kotabumi Utara_34511
+.2006_Banjar Wangi_34511
+.2002_Kali Cinta_34511
+.2008_Madokoro Baru (Madukoro Baru)_34511
+.2001_Madukoro_34511
+.2005_Margo Rejo (Margorejo)_34511
+.2007_Sawo Jajar_34511
+.2004_Talang Jali_34511
+.2003_Wono Marto (Wonomarto)_34511
+18.03.15_Muara Sungkai_34559
+.2002_Bandar Agung_34559
+.2007_Banjar Negeri_34559
+.2008_Banjar Ratu_34559
+.2006_Karang Mulyo_34559
+.2004_Karang Rejo II_34559
+.2005_Karang Sakti_34559
+.2003_Karang Sari_34559
+.2009_Negeri Ratu_34559
+.2001_Negeri Ujung Karang_34559
+.2010_Pakuon Agung (Pakuan Agung)_34559
+.2011_Sumber Agung_34559
+18.03.21_Sungkai Barat_34552
+.2006_Cahaya Mas_34552
+.2007_Comok Sinar Jaya_34552
+.2009_Gunung Maknibai_34552
+.2005_Gunung Raja_34552
+.2002_Kubu Hitu (Kubuhitu)_34552
+.2010_Negeri Batin Jaya_34552
+.2003_Negeri Sakti_34552
+.2001_Sinar Harapan_34552
+.2004_Tanjung Jaya_34552
+.2008_Way Isem_34552
+18.03.20_Sungkai Jaya_34553
+.2004_Cahaya Makmur_34553
+.2001_Cempaka_34553
+.2008_Cempaka Barat_34553
+.2009_Cempaka Timur_34553
+.2003_Lepang/Lempang Tengah_34553
+.2007_Negara Agung_34553
+.2002_Sri Agung_34553
+.2006_Sri Jaya_34553
+.2005_Suka Jaya (Sukajaya)_34553
+18.03.03_Sungkai Selatan_34554
+.2010_Banjar Ketapang_34554
+.2002_Bumi Ratu_34554
+.2006_Gedung Ketapang_34554
+.2023_Gunung Labuhan (Gunung Labuan)_34554
+.2009_Karang Rejo I (Karang Rejo)_34554
+.2008_Ketapang_34554
+.2007_Kota Agung_34554
+.2005_Labuhan Ratu Kampung_34554
+.2003_Labuhan Ratu Pasar_34554
+.2017_Sidodadi_34554
+.2004_Sinar Galih (Sirna Galih)_34554
+18.03.18_Sungkai Tengah_34562
+.2001_Batu Nangkop_34562
+.2008_Mekar Sari (Mekar Asri)_34562
+.2003_Melungun Ratu_34562
+.2002_Negara Bumi_34562
+.2004_Negeri Campang Jaya_34562
+.2006_Negeri Galih/Galik Rejo_34562
+.2005_Pampang Tanggub/Tangguk Jaya_34562
+.2007_Ratu Jaya_34562
+18.03.08_Sungkai Utara_34563
+.2024_Bangun Jaya_34563
+.2028_Baru Raharja (Bumi Raharya)_34563
+.2020_Batu Raja_34563
+.2009_Ciamis_34563
+.2021_Gedung Batin_34563
+.2029_Hanakau Jaya_34563
+.2023_Kota Negara_34563
+.2033_Kota Negara Ilir_34563
+.2022_Negara Batin_34563
+.2032_Negara Batin II_34563
+.2019_Negara Ratu_34563
+.2012_Negeri Ratu_34563
+.2011_Negeri Sakti_34563
+.2005_Ogan Jaya_34563
+.2010_Padang Ratu_34563
+18.03.04_Tanjung Raja_34557
+.2014_Gunung Katon_34557
+.2001_Karang Waringin_34557
+.2011_Kemala Raja_34557
+.2006_Mekar Jaya_34557
+.2003_Merambung_34557
+.2019_Priangan Baru (Priangan Ratu)_34557
+.2017_Sido Mulyo_34557
+.2004_Sinar Jaya_34557
+.2018_Sinar Mulya (Sinarmulya)_34557
+.2005_Sindang Agung_34557
+.2012_Sindang Marga_34557
+.2007_Sri Menanti_34557
+.2015_Suka Mulya_34557
+.2002_Suka Sari (Sukasari)_34557
+.2016_Tanjung Beringin_34557
+.2009_Tanjung Raja_34557
+.2010_Tanjung Riang_34557
+.2008_Tulung Balak_34557
+.2013_Ulak Ata_34557

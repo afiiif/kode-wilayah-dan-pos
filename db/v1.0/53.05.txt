@@ -1,0 +1,193 @@
+53.05.18_Abad Selatan_85861
+.2006_Kuifana_85861
+.2003_Manatang_85861
+.2007_Margeta_85861
+.2004_Orgen_85861
+.2001_Tribur_85861
+.2002_Wakapsir_85861
+.2005_Wakapsir Timur_85861
+53.05.03_Alor Barat Daya_85861
+.2010_Halerman_85861
+.2013_Kafelulang_85861
+.2014_Moramam_85861
+.2007_Morba_85861
+.1001_Moru_85861
+.2015_Pailelang_85861
+.2008_Pintumas (Pintu Mas)_85861
+.2002_Probur_85861
+.2019_Probur Utara_85861
+.2009_Wolwal_85861
+.2016_Wolwal Barat_85861
+.2018_Wolwal Selatan_85861
+.2017_Wolwal Tengah_85861
+53.05.02_Alor Barat Laut_85851
+.1002_Adang_85851
+.2007_Aimoli_85851
+.2023_Ala'ang (Alaang)_85851
+.2008_Alila_85851
+.2014_Alila Selatan_85851
+.2004_Alor Besar_85851
+.2003_Alor Kecil_85851
+.2005_Ampera_85851
+.2025_Bampalola_85851
+.2006_Dulolong_85851
+.2027_Dulolong Barat_85851
+.2020_Hulnani_85851
+.2024_Lefokisu_85851
+.2026_Lewalu_85851
+.2022_O'a Mate (Oa Mate)_85851
+.2009_Otvai_85851
+.2019_Pulau Buaya_85851
+.2012_Ternate_85851
+.2013_Ternate Selatan_85851
+53.05.04_Alor Selatan_85871
+.2002_Kelaisi Barat_85871
+.2007_Kelaisi Tengah_85871
+.1001_Kelaisi Timur_85871
+.2008_Kiraman_85871
+.2005_Kuneman_85871
+.2012_Lella_85871
+.2009_Maikang_85871
+.2010_Malaipea_85871
+.2013_Manmas_85871
+.2004_Padang Alang_85871
+.2003_Sidabui_85871
+.2006_Silaipui_85871
+.2014_Subo_85871
+.2011_Tamanapui_85871
+53.05.07_Alor Tengah Utara_85870
+.2017_Alim Mebung_85870
+.2014_Dapitau_85870
+.2008_Fuisama_85870
+.2007_Fungafeng_85870
+.2010_Kafakbeka_85870
+.2012_Lakwati_85870
+.2001_Lembur Barat_85870
+.2002_Lembur Tengah_85870
+.2004_Likwatang_85870
+.2011_Manetwati_85870
+.2009_Nur Benlelang (Nurbenlelang)_85870
+.2018_Petleng_85870
+.2020_Tominuku_85870
+.2019_Welai Selatan_85870
+53.05.05_Alor Timur_85872
+.2013_Belemana_85872
+.2010_Elok_85872
+.2005_Kolana Selatan_85872
+.1001_Kolana Utara_85872
+.2008_Maritaing_85872
+.2014_Maukuru_85872
+.2012_Mausamang_85872
+.2007_Padang Panjang_85872
+.2004_Tanglapui_85872
+.2011_Tanglapui Timur_85872
+53.05.08_Alor Timur Laut_85873
+.2008_Air Mancur_85873
+.2003_Kamot_85873
+.2007_Kenarimbala_85873
+.2006_Lippang_85873
+.2005_Nailang_85873
+.2001_Pido_85873
+.2004_Taramana_85873
+.2002_Waisika_85873
+53.05.10_Kabola_85819|85851
+.2005_Alila Timur_85851
+.1001_Kabola_85819
+.2002_Kopidil_85819
+.2004_Lawahing_85851
+.2003_Pante Deere_85819
+53.05.15_Lembur_85875
+.2001_Lembur Timur_85875
+.2002_Luba_85875
+.2003_Talwai_85875
+.2006_Tasi_85875
+.2004_Tulleng_85875
+.2005_Waimi_85875
+53.05.12_Mataru_85860
+.2005_Kamaifui_85860
+.2003_Lakatuli_85860
+.2006_Mataru Barat_85860
+.2001_Mataru Selatan_85860
+.2004_Mataru Timur_85860
+.2002_Mataru Utara_85860
+.2007_Taman Mataru_85860
+53.05.06_Pantar_85881
+.2014_Bana_85881
+.2009_Bandar_85881
+.2010_Baolang_85881
+.2016_Bouweli_85881
+.2017_Bukit Mas_85881
+.2012_Helangdohi_85881
+.1001_Kabir_85881
+.2019_Madar_85881
+.2011_Munaseli_85881
+.2005_Pandai_85881
+.2013_Wailawar_85881
+53.05.09_Pantar Barat_85880
+.2002_Baraler_85880
+.2018_Baranusa_85880
+.2019_Blang Merang_85880
+.2020_Illu_85880
+.2003_Kalondama_85880
+.2007_Leer_85880
+.2024_Piringsina_85880
+53.05.17_Pantar Baru Laut_85882
+.2004_Allumang_85882
+.2005_Beangonong_85882
+.2006_Kalondama Barat_85882
+.2007_Kalondama Tengah_85882
+.2001_Kayang_85882
+.2003_Lamma_85882
+.2002_Marisa_85882
+53.05.16_Pantar Tengah_85883
+.2009_Aramaba_85883
+.2006_Bagang_85883
+.2010_Delaki_85883
+.2008_Eka Jaya_85883
+.2002_Mauta_85883
+.2003_Muriabang_85883
+.2005_Tamakh_85883
+.2007_Toang_85883
+.2004_Tubbe (Tube)_85883
+.2001_Tude_85883
+53.05.14_Pantar Timur_85884
+.2003_Batu_85884
+.2009_Bungabali (Bunga Bali)_85884
+.2004_Kaera_85884
+.2002_Kaleb_85884
+.2011_Lalafang_85884
+.2008_Lekom_85884
+.2005_Mawar_85884
+.2006_Merdeka_85884
+.2001_Nule_85884
+.2007_Ombay_85884
+.2010_Tereweng (Treweng)_85884
+53.05.11_Pulau Pura_85850
+.2002_Maru_85850
+.1001_Pura_85850
+.2006_Pura Barat_85850
+.2004_Pura Selatan_85850
+.2005_Pura Timur_85850
+.2003_Pura Utara_85850
+53.05.13_Pureman_85874
+.2003_Kailesa_85874
+.2001_Langkuru_85874
+.2004_Langkuru Utara_85874
+.2002_Purnama_85874
+53.05.01_Teluk Mutiara_85811|85819
+.2019_Adang Buom_85819
+.2015_Air Kenari_85819
+.1005_Binongko_85815
+.2013_Fanating_85819
+.1001_Kalabahi Barat_85814
+.1002_Kalabahi Kota_85813
+.1003_Kalabahi Tengah_85812
+.1004_Kalabahi Timur_85811
+.2012_Lendola_85819
+.2014_Motongbang_85819
+.1010_Mutiara_85819
+.1006_Nusa Kenari_85819
+.2018_Teluk Kenari_85819
+.1008_Welai Barat_85816
+.1009_Welai Timur_85817
+.1011_Wetabua_85819

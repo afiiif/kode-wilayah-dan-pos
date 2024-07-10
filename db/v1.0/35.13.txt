@@ -1,0 +1,354 @@
+35.13.04_Bantaran_67261|67283
+.2004_Bantaran_67261
+.2008_Besuk_67283
+.2001_Gunungtugel (Gunung Tugel)_67261
+.2010_Karanganyar (Karang Anyar)_67261
+.2002_Kedungrejo (Kedung Rejo)_67261
+.2009_Kramatagung (Kramat Agung / Kramatung)_67261
+.2007_Kropak_67261
+.2005_Legundi_67261
+.2003_Patokan_67261
+.2006_Tempuran_67261
+35.13.06_Banyuanyar (Banyu Anyar)_67275
+.2005_Alassapi_67275
+.2012_Banyuanyar Kidul_67275
+.2011_Banyuanyar Tengah_67275
+.2014_Blado Wetan_67275
+.2002_Gadingkulon (Gading Kulon)_67275
+.2013_Gununggeni (Gunung Geni)_67275
+.2003_Klenangkidul (Klenang Kidul)_67275
+.2004_Klenanglor (Klenang Lor)_67275
+.2009_Liprak Kidul_67275
+.2010_Liprak Kulon_67275
+.2008_Liprak Wetan_67275
+.2006_Pendil_67275
+.2001_Sentulan_67275
+.2007_Tarokan_67275
+35.13.13_Besuk_67283
+.2015_Alaskandang (Alas Kandang)_67283
+.2003_Alasnyiur (Alas Nyiur)_67283
+.2016_Alassumurlor (Alas Sumur Lor)_67283
+.2014_Alastengah (Alas Tengah)_67283
+.2001_Bago_67283
+.2009_Besukagung (Besuk Agung)_67283
+.2010_Besukkidul (Besuk Kidul)_67283
+.2005_Jambangan_67283
+.2002_Kecik_67283
+.2006_Klampokan_67283
+.2008_Krampilan_67283
+.2007_Matekan_67283
+.2013_Randujalak (Randu Jalak)_67283
+.2012_Sindetanyar (Sindet Anyar)_67283
+.2004_Sindetlami (Sindet Lami)_67283
+.2017_Sumberan_67283
+.2011_Sumurdalam (Sumur Dalam)_67283
+35.13.19_Dringu_67271
+.2013_Dringu_67271
+.2009_Kalirejo_67271
+.2011_Kalisalam_67271
+.2010_Kedungdalem_67271
+.2005_Mrangonlawang (Mranggon Lawang)_67271
+.2004_Ngepoh_67271
+.2014_Pabean_67271
+.2012_Randuputih_67271
+.2006_Sekarkare_67271
+.2003_Sumberagung (Sumber Agung)_67271
+.2002_Sumbersuko (Sumber Suko)_67271
+.2007_Tamansari (Taman Sari)_67271
+.2008_Tegalrejo_67271
+.2001_Watuwungkuk_67271
+35.13.09_Gading_67292
+.2001_Batur_67292
+.2002_Betek Taman (Batektaman / Betektaman)_67292
+.2009_Bulupadak (Bulupandak)_67292
+.2016_Condong_67292
+.2004_Dandang_67292
+.2007_Duren_67292
+.2011_Gadingwetan (Gading Wetan)_67292
+.2017_Jurangjero_67292
+.2018_Kaliancar (Kaliacar)_67292
+.2010_Keben_67292
+.2005_Kertosono_67292
+.2014_Mojolegi_67292
+.2013_Nogosaren_67292
+.2006_Prasi_67292
+.2019_Ranuwurung_67292
+.2008_Renteng_67292
+.2003_Sentul_67292
+.2015_Sumbersecang_67292
+.2012_Wangkal_67292
+35.13.18_Gending_67272
+.2010_Banyuanyar Lor_67272
+.2001_Brumbungan Lor_67272
+.2005_Bulang_67272
+.2011_Curahsawo_67272
+.2013_Gending_67272
+.2002_Jatiadi_67272
+.2003_Klaseman_67272
+.2012_Pajurangan_67272
+.2004_Pesisir_67272
+.2007_Pikatan_67272
+.2006_Randupitu_67272
+.2008_Sebaung_67272
+.2009_Sumberkerang_67272
+35.13.11_Kotaanyar (Kota Anyar)_67293
+.2005_Curahtemu_67293
+.2008_Kedungrejoso_67293
+.2013_Kotaanyar (Kota Anyar)_67293
+.2012_Pasembon_67293
+.2002_Sambirampak Kidul_67293
+.2007_Sambirampak Lor_67293
+.2003_Sidomulyo_67293
+.2006_Sidorejo_67293
+.2011_Sukorejo_67293
+.2001_Sumber Centeng (Sumbercentang / Sumbercenteng)_67293
+.2009_Talkandang (Talkadang)_67293
+.2004_Tambakukir_67293
+.2010_Triwungan_67293
+35.13.14_Kraksaan_67282
+.2010_Alassumur Kulon_67282
+.2018_Asembagus_67282
+.2013_Asembakor_67282
+.2004_Bulu_67282
+.2016_Kalibuntu_67282
+.1008_Kandang Jati Kulon (Kandangjati Kulon)_67282
+.2009_Kandang Jati Wetan (Kandangjati Wetan)_67282
+.2014_Kebonagung_67282
+.1007_Kraksaan Wetan_67282
+.2001_Kregenan (Keregenan)_67282
+.1017_Patokan_67282
+.2006_Rangang (Rangkang)_67282
+.2002_Rondokuning_67282
+.1003_Semampir_67282
+.1005_Sidomukti_67282
+.2015_Sidopekso_67282
+.2011_Sumberlele_67282
+.2012_Tamansari (Taman Sari)_67282
+35.13.15_Krejengan_67284
+.2016_Duwuhan (Dawuan)_67284
+.2015_Gebangan_67284
+.2003_Jatiurip_67284
+.2005_Kamalkuning_67284
+.2010_Karangren_67284
+.2013_Kedungcaluk_67284
+.2007_Krejengan_67284
+.2004_Opo Opo_67284
+.2002_Patemon_67284
+.2011_Rawan_67284
+.2012_Seboro_67284
+.2008_Sentong_67284
+.2017_Sokaan_67284
+.2009_Sumberkatimoho_67284
+.2006_Tanjungsari_67284
+.2001_Temenggungan_67284
+.2014_Widoro_67284
+35.13.08_Krucil_67288
+.2009_Bermi (Bremi)_67288
+.2005_Betek_67288
+.2007_Guyangan_67288
+.2010_Kalianan_67288
+.2003_Kertosuko_67288
+.2014_Krobongan (Krobungan)_67288
+.2006_Krucil_67288
+.2012_Pandanaras (Pandanlaras)_67288
+.2011_Plaosan_67288
+.2002_Roto_67288
+.2013_Seneng_67288
+.2001_Sumberduren (Sumber Duren)_67288
+.2004_Tambelang_67288
+.2008_Watupanjang_67288
+35.13.03_Kuripan_67262
+.2002_Jatisari_67262
+.2004_Karangrejo_67262
+.2003_Kedawung_67262
+.2006_Menyono_67262
+.2005_Resongo_67262
+.2001_Wonoasri_67262
+.2007_Wringinanom (Wringin Anom)_67262
+35.13.05_Leces_67273
+.2008_Clarak_67273
+.2009_Jorongan_67273
+.2007_Keprangan (Kerpangan)_67273
+.2005_Leces_67273
+.2001_Malasankulon (Malasan Kulon)_67273
+.2004_Pondok Wuluh_67273
+.2006_Sumberkedawung (Sumber Kedawung)_67273
+.2003_Tigasan Kulon_67273
+.2002_Tigasan Wetan_67273
+.2010_Warujinggo_67273
+35.13.24_Lumbang_67255
+.2007_Boto_67255
+.2003_Branggah_67255
+.2004_Lambangkuning_67255
+.2008_Lumbang_67255
+.2002_Negororejo_67255
+.2006_Palangbesi_67255
+.2010_Purut_67255
+.2001_Sapih_67255
+.2009_Tandonsentul (Tandongsentul / Tandon Sentul)_67255
+.2005_Wonogoro_67255
+35.13.17_Maron_67276
+.2001_Brabe_67276
+.2009_Brani Kulon_67276
+.2011_Brani Wetan_67276
+.2014_Brumbungan Kidul_67276
+.2017_Ganting Kulon_67276
+.2018_Ganting Wetan_67276
+.2002_Gerongan_67276
+.2006_Kedungsari_67276
+.2003_Maron Kidul_67276
+.2007_Maron Kulon_67276
+.2008_Maron Wetan_67276
+.2015_Pegalangan Kidul_67276
+.2012_Puspan_67276
+.2010_Satreyan_67276
+.2016_Suko_67276
+.2004_Sumberdawe_67276
+.2005_Sumberpoh_67276
+.2013_Wonorejo_67276
+35.13.12_Paiton_67291
+.2007_Alastengah (Alas Tengah)_67291
+.2020_Bhinor (Bhinar)_67291
+.2003_Jabung Wetan_67291
+.2002_Jabungcandi (Jabung Candi)_67291
+.2001_Jabungsisir (Jabung Sisir)_67291
+.2004_Kalikajar Kulon_67291
+.2005_Kalikajar Wetan_67291
+.2011_Karanganyar_67291
+.2015_Paiton_67291
+.2006_Pandean_67291
+.2013_Petunjungan (Patunjungan)_67291
+.2012_Plampang_67291
+.2017_Podokkelor (Pondok Kelor)_67291
+.2009_Randumerak (Randu Merak)_67291
+.2010_Randutatah (Randu Tatah)_67291
+.2008_Sidodadi_67291
+.2016_Sukodadi_67291
+.2018_Sumberanyar_67291
+.2019_Sumberejo_67291
+.2014_Taman_67291
+35.13.10_Pakuniran_67290
+.2007_Alaspandan (Alas Pandan)_67290
+.2013_Bimo_67290
+.2017_Blimbing_67290
+.2011_Bucor Kulon_67290
+.2012_Bucor Wetan_67290
+.2010_Glagah_67290
+.2015_Gondosuli_67290
+.2003_Gunggungan Kidul_67290
+.2004_Gunggungan Lor_67290
+.2016_Kalidandan_67290
+.2002_Kedungsumur_67290
+.2014_Kertonegoro_67290
+.2006_Pakuniran_67290
+.2005_Petemon Kulon (Patemon Kulon)_67290
+.2001_Ranon_67290
+.2009_Sogaan_67290
+.2008_Sumberkembar (Sumber Kembar)_67290
+35.13.16_Pejarakan (Pajarakan)_67281
+.2006_Gejugan (Gejungan)_67281
+.2004_Karangbong_67281
+.2007_Karanggeger_67281
+.2005_Karangpranti_67281
+.2003_Ketompen_67281
+.2009_Pejarakan Kulon (Pajarakan Kulon)_67281
+.2012_Penambangan_67281
+.2001_Selogudig Kulon_67281
+.2002_Selogudig Wetan_67281
+.2010_Sukokerto_67281
+.2011_Sukomulyo_67281
+.2008_Tanjung_67281
+35.13.01_Sukapura_67254
+.2003_Jetak_67254
+.2011_Kedasih_67254
+.2004_Ngadas_67254
+.2005_Ngadirejo_67254
+.2001_Ngadisari_67254
+.2012_Ngepung_67254
+.2010_Pakel_67254
+.2008_Sapikerep_67254
+.2006_Sariwani_67254
+.2009_Sukapura_67254
+.2007_Wonokerto_67254
+.2002_Wonotoro_67254
+35.13.02_Sumber_67263
+.2008_Cepoko_67263
+.2005_Gemito_67263
+.2001_Ledokombo_67263
+.2002_Pandansari_67263
+.2009_Remba'an (Rambaan)_67263
+.2003_Sumber_67263
+.2007_Sumberanom_67263
+.2006_Tukul_67263
+.2004_Wonokerso_67263
+35.13.21_Sumberasih_67251
+.2009_Ambulu_67251
+.2010_Banjarsari_67251
+.2013_Giliketapang (Gili Ketapang)_67251
+.2002_Jangur_67251
+.2006_Laweyan_67251
+.2011_Lemahkembar_67251
+.2008_Mentor_67251
+.2003_Muneng_67251
+.2004_Munengkidul (Muneng Kidul)_67251
+.2012_Pesisir_67251
+.2005_Pohsangitleres (Pohsangit Leres)_67251
+.2001_Sumberbendo_67251
+.2007_Sumurmati_67251
+35.13.20_Tegalsiwalan (Tegal Siwalan)_67274
+.2008_Banjarsawah_67274
+.2011_Bladokulon (Blado Kulon)_67274
+.2004_Bulujarankidul (Bulujaran Kidul)_67274
+.2005_Bulujaranlor (Bulujaran Lor)_67274
+.2002_Gunungbekel (Gunung Bekel)_67274
+.2001_Malesanwetan (Malasan Wetan)_67274
+.2006_Paras_67274
+.2009_Sumberbulu_67274
+.2010_Sumberkledung_67274
+.2012_Tegalmojo (Tegal Mojo)_67274
+.2007_Tegalsiwalan (Tegal Siwalan)_67274
+.2003_Tegalsono (Tegal Sono)_67274
+35.13.07_Tiris_67287
+.2001_Andungbiru (Andung Biru)_67287
+.2003_Andungsari (Andung Sari)_67287
+.2009_Jangkang_67287
+.2013_Pedagangan (Pegadangan)_67287
+.2012_Pesawahan_67287
+.2011_Racek_67287
+.2008_Ranuagung_67287
+.2005_Ranugedang_67287
+.2014_Renjing (Rejing)_67287
+.2007_Segaran_67287
+.2015_Tegalwatu_67287
+.2006_Tiris_67287
+.2002_Tlogoargo_67287
+.2004_Tlogosari_67287
+.2016_Tuluparari (Tulupari)_67287
+.2010_Wedusan_67287
+35.13.23_Tongas_67252
+.2003_Bayeman_67252
+.2005_Curahdringu (Curah Dringu)_67252
+.2012_Curahtulis (Curah Tulis)_67252
+.2004_Dungun_67252
+.2010_Klampok_67252
+.2009_Pamatan_67252
+.2007_Sumberkramat_67252
+.2001_Sumberrejo (Sumberejo)_67252
+.2002_Sumendi_67252
+.2013_Tambakrejo_67252
+.2014_Tanjungrejo_67252
+.2011_Tongaskulon (Tongas Kulon)_67252
+.2008_Tongaswetan (Tongas Wetan)_67252
+.2006_Wringinanom_67252
+35.13.22_Wonomerto_67253
+.2003_Jrebeng_67253
+.2010_Kareng Kidul_67253
+.2011_Kedungsupit (Kedung Supit)_67253
+.2002_Patalan_67253
+.2007_Pohsangit Lor_67253
+.2008_Pohsangit Ngisor_67253
+.2006_Pohsangit Tengah_67253
+.2009_Sepuhgembol (Sepuh Gempol)_67253
+.2001_Sumberkare_67253
+.2005_Tunggakcerme (Tunggak Cerme)_67253
+.2004_Wonorejo_67253

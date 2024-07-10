@@ -1,0 +1,242 @@
+11.17.04_Bandar_24582
+.2001_Bahgie Bertona (Bahgie Bentona)_24582
+.2003_Bathin Baru_24582
+.2018_Belang Jorong (Petukel / Petukal Blang Jurong)_24582
+.2004_Belang Pulo (Blang Pulo)_24582
+.2043_Beranun Teleden_24582
+.2009_Bukit Wih Ilang_24582
+.2037_Gele Semayang_24582
+.2036_Gunung Antara_24582
+.2010_Hakim Wih Ilang_24582
+.2033_Jadi Sepakat_24582
+.2011_Janarata_24582
+.2035_Kala Nempan_24582
+.2012_Keramat Jaya_24582
+.2013_Lewa Jadi (Lewajadi)_24582
+.2045_Makmur Sentosa_24582
+.2030_Mutiara_24582
+.2014_Muyang Kute Mangku_24582
+.2016_Pakat Jeroh_24582
+.2017_Paya Baning_24582
+.2019_Pondok Baru_24582
+.2020_Pondok Gajah_24582
+.2021_Pondok Ulung_24582
+.2022_Puja Mulia_24582
+.2023_Purwosari_24582
+.2044_Remang Ketike Jaya_24582
+.2024_Selamat Rejo_24582
+.2034_Selisih Mara_24582
+.2025_Sidodadi_24582
+.2026_Simpang Utama_24582
+.2047_Sinar Jaya Paya Ringkel (Paya Ringkel)_24582
+.2027_Suku Wih Ilang_24582
+.2028_Tanjung Pura_24582
+.2032_Tansaran Bidin_24582
+.2042_Tawar Sedenge_24582
+.2029_Wonosari_24582
+11.17.08_Bener Kelipah_24583
+.2001_Bandar Jaya (Batin Bandar Jaya)_24583
+.2007_Bener Bintang Musara (Bintang Musara)_24583
+.2006_Bener Kelipah Selatan_24583
+.2009_Bener Kelipah Utara_24583
+.2004_Bener Lukup II_24583
+.2005_Gunung Musara_24583
+.2002_Jongok Meluem_24583
+.2008_Kala Tenang_24583
+.2010_Lot Bener Kelipah_24583
+.2012_Nosar Baru_24583
+.2011_Nosar Tawar Jaya_24583
+.2003_Suku Bener_24583
+11.17.05_Bukit_24581
+.2027_Babussalam_24581
+.2001_Bale Atu_24581
+.2002_Bale Redelong_24581
+.2003_Batin Wih Pongas_24581
+.2004_Belang Ara (Blang Ara)_24581
+.2037_Blang Panas_24581
+.2005_Blang Sentang_24581
+.2006_Blang Tampu_24581
+.2007_Bujang_24581
+.2039_Bukit Bersatu_24581
+.2031_Delung Asli_24581
+.2009_Delung Tue_24581
+.2040_Godang_24581
+.2025_Gunung Teritit (Uning Teritit)_24581
+.2010_Hakim Tunggul Naru_24581
+.2011_Isaq Busur_24581
+.2041_Karang Rejo_24581
+.2012_Kenawat Redelong (Kenawat Redlong)_24581
+.2036_Kute Kering_24581
+.2013_Kute Lintang_24581
+.2029_Kute Tanyung (Kute Tanjung)_24581
+.2030_Meluem_24581
+.2035_Mupakat Jadi_24581
+.2038_Mutiara Baru_24581
+.2014_Panji Mulia I_24581
+.2015_Panji Mulia II_24581
+.2016_Pasar Simpang Tiga_24581
+.2028_Paya Gajah_24581
+.2032_Pilar Jaya_24581
+.2017_Reje Guru_24581
+.2018_Rembele_24581
+.2019_Sedie Jadi (Sidie Jadi)_24581
+.2033_Serule Kayu_24581
+.2020_Tingkem Asli_24581
+.2021_Tingkem Benyer_24581
+.2022_Tingkem Bersatu_24581
+.2023_Ujung Gele_24581
+.2024_Uning Bersah_24581
+.2034_Uring_24581
+.2026_Waq Pondok Sayur_24581
+11.17.10_Gajah Putih_24553
+.2009_Alam Jaya_24553
+.2002_Gajah Putih_24553
+.2003_Gayo Setie_24553
+.2006_Meriah Jaya_24553
+.2008_Pantan Lues_24553
+.2005_Pante Karya_24553
+.2010_Rerongga (Reronga)_24553
+.2001_Simpang Rahmat_24553
+.2007_Timang Gajah_24553
+.2004_Umah Besi_24553
+11.17.09_Mesidah_24584
+.2009_Amor_24584
+.2010_Buntul Gayo_24584
+.2003_Cemparam Jaya (Cemparan Jaya)_24584
+.2001_Cemparam Lama (Cemparan Lama)_24584
+.2002_Cemparam Pakat Jeroh (Cemparan Pakat Jeroh)_24584
+.2008_Gunung Sayang_24584
+.2014_Hakim Peteri Pintu_24584
+.2006_Jamur Atu Jaya (Jamur Atu)_24584
+.2004_Pantan Kuli_24584
+.2013_Perumpaken Benjadi_24584
+.2005_Simpang Renggali_24584
+.2015_Simpur_24584
+.2007_Sosial_24584
+.2012_Wer Tingkem_24584
+.2011_Wih Resap (Pintu Wih Resap)_24584
+11.17.02_Permata_24585
+.2014_Ayu Ara_24585
+.2021_Bale Musara_24585
+.2026_Bale Purnama_24585
+.2001_Bener Pepanyi_24585
+.2002_Bintang Bener_24585
+.2003_Bintang Permata_24585
+.2004_Buntul Fitri (Peteri)_24585
+.2020_Burni Pase_24585
+.2015_Ceding Ayu_24585
+.2005_Darul Aman (Darul Aman Ramu)_24585
+.2006_Gelampang Wih Tenang Uken_24585
+.2023_Jelobok_24585
+.2019_Jungke_24585
+.2024_Kepie / Kepies_24585
+.2007_Pantan Tengah Jaya_24585
+.2022_Pemango (Pemanggo)_24585
+.2008_Penosan Jaya_24585
+.2009_Ramung Jaya_24585
+.2018_Rikit Musara_24585
+.2010_Seni Antara_24585
+.2017_Suku Sara Tangke_24585
+.2027_Tawar Bengi_24585
+.2011_Temas Mumanang_24585
+.2025_Timur Jaya_24585
+.2016_Uning Sejuk_24585
+.2013_Weh Tenang Uken (Wih Tenang Uken)_24585
+.2012_Wih Tenang Toa_24585
+11.17.01_Pintu Rime Gayo_24554
+.2003_Alur Cincin (Arul Cincin)_24554
+.2012_Alur Gading (Arul Gading)_24554
+.2017_Bener Meriah_24554
+.2005_Bintang Berangun_24554
+.2023_Blang Ara_24554
+.2001_Blang Rakal_24554
+.2021_Gemasih_24554
+.2018_Musara 58 (Musaba)_24554
+.2019_Musara Pakat_24554
+.2002_Negeri Antara_24554
+.2011_Pancar Jelobok_24554
+.2010_Pantan Lah_24554
+.2004_Pantan Sinaku_24554
+.2008_Perdamaian_24554
+.2022_Pulo Intan_24554
+.2020_Rata Ara_24554
+.2013_Rime Raya (Rimba Raya)_24554
+.2015_Simpang Lancang_24554
+.2014_Singah Mulo_24554
+.2006_Taman Firdaus_24554
+.2009_Ulu Naron_24554
+.2007_Uning Mas_24554
+.2016_Wih Porak_24554
+11.17.03_Syiah Utama_24586
+.2001_Blang Panu_24586
+.2003_Gerpa_24586
+.2019_Geruti Jaya_24586
+.2004_Goneng_24586
+.2007_Kerlang (Kerlah)_24586
+.2008_Kutelah Lane_24586
+.2009_Pasir Putih_24586
+.2010_Payung_24586
+.2017_Rata Mulie_24586
+.2012_Rusip_24586
+.2014_Tembolon_24586
+.2018_Tempen Baru_24586
+.2015_Uning_24586
+.2016_Wehni Durin (Wihni Durin)_24586
+11.17.07_Timang Gajah_24555
+.2001_Bandar Lampahan_24555
+.2002_Blang Rongka_24555
+.2035_Bukit Mulie_24555
+.2031_Bukit Tunyang_24555
+.2003_Cekal Baru_24555
+.2019_Damaran Baru_24555
+.2016_Datu Beru Tunyang_24555
+.2020_Fajar Harapan_24555
+.2004_Gegur Sepakat_24555
+.2030_Gunung Tunyang_24555
+.2022_Kampung Baru 76 (Kampung Baru)_24555
+.2005_Karang Jadi_24555
+.2017_Kenine_24555
+.2025_Kulem Para Kanis (Kolam Para Kanis)_24555
+.2006_Lampahan_24555
+.2027_Lampahan Barat_24555
+.2028_Lampahan Timur_24555
+.2032_Linung Bale_24555
+.2026_Mekar Ayu_24555
+.2021_Mude Benara_24555
+.2033_Pantan Kemuning_24555
+.2023_Pantan Pediangan (Pantan Pediangen)_24555
+.2018_Rembune_24555
+.2010_Setie_24555
+.2024_Simpang Bumi Ayu (Bumi ayu)_24555
+.2011_Simpang Layang_24555
+.2012_Suka Damai_24555
+.2034_Sumber Jaya_24555
+.2029_Timang Rasa_24555
+.2014_Tunyang_24555
+11.17.06_Wih Pesam_24580
+.2019_Bener Ayu_24580
+.2020_Bener Mulie_24580
+.2015_Blang Benara (Blang Menara)_24580
+.2021_Blang Kucak_24580
+.2001_Blang Paku_24580
+.2016_Bukit Pepanyi_24580
+.2028_Burni Telong_24580
+.2018_Cinta Damai_24580
+.2013_Gegerung_24580
+.2026_Jamur Ujung_24580
+.2012_Jamur Uluh_24580
+.2024_Kebun Baru_24580
+.2023_Lut Kucak_24580
+.2014_Merie Satu_24580
+.2004_Pante Raya_24580
+.2025_Simpang Antara_24580
+.2005_Simpang Balek (Simpang Bolek)_24580
+.2006_Simpang Teritit (Simpang Teririt)_24580
+.2007_Suka Jadi_24580
+.2008_Suka Makmur_24580
+.2027_Suka Makmur Timur_24580
+.2009_Suka Ramai Atas (Suka Rami Atas)_24580
+.2010_Suka Ramai Bawah (Suka Rami Bawah)_24580
+.2011_Syura Jadi_24580
+.2017_Wih Pesam_24580
+.2022_Wonosobo_24580

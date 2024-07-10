@@ -1,0 +1,68 @@
+32.75.07_Bantargebang (Bantar Gebang)_17151|17154
+.1003_Bantargebang (Bantar Gebang)_17151
+.1007_Ciketingudik (Ciketing Udik)_17153
+.1004_Cikiwul_17152
+.1008_Sumurbatu (Sumur Batu)_17154
+32.75.02_Bekasi Barat_17133|17145
+.1001_Bintara_17134
+.1004_Bintarajaya (Bintara Jaya)_17136
+.1005_Jakasampurna (Jaka Sampurna)_17145
+.1003_Kotabaru (Kota Baru)_17133
+.1002_Kranji_17135
+32.75.04_Bekasi Selatan_17141|17148
+.1003_Jakamulya (Jaka Mulya)_17146
+.1004_Jakasetia (Jaka Setia)_17147
+.1005_Kayuringinjaya (Kayuringin Jaya)_17144
+.1002_Margajaya_17141
+.1001_Pekayonjaya (Pekayon Jaya)_17148
+32.75.01_Bekasi Timur_17111|17113
+.1004_Arenjaya (Aren Jaya)_17111
+.1001_Bekasijaya (Bekasi Jaya)_17112
+.1003_Durenjaya (Duren Jaya)_17111
+.1002_Margahayu_17113
+32.75.03_Bekasi Utara_17121|17142
+.1003_Harapanbaru (Harapan Baru)_17123
+.1006_Harapanjaya (Harapan Jaya)_17124
+.1001_Kaliabang Tengah (Kali Abang Tengah)_17125
+.1005_Margamulya (Marga Mulya)_17142
+.1002_Perwira_17122
+.1004_Teluk Pucung_17121
+32.75.09_Jatiasih_17421|17426
+.1002_Jatiasih_17423
+.1003_Jatikramat_17421
+.1005_Jatiluhur_17425
+.1001_Jatimekar (Jati Mekar)_17422
+.1004_Jatirasa_17424
+.1006_Jatisari_17426
+32.75.10_Jatisampurna (Jati Sampurna)_17432|17435
+.1002_Jatikarya_17435
+.1005_Jatiraden_17433
+.1004_Jatirangga_17434
+.1003_Jatiranggon_17432
+.1001_Jatisampurna_17433
+32.75.06_Medansatria (Medan Satria)_17131|17143
+.1002_Harapanmulya (Harapan Mulya)_17143
+.1004_Kalibaru (Kali Baru)_17133
+.1001_Medansatria (Medan Satria)_17132
+.1003_Pejuang_17131
+32.75.11_Mustikajaya (Mustika Jaya)_17155|17158
+.1002_Cimuning_17155
+.1003_Mustikajaya (Mustika Jaya)_17158
+.1004_Mustikasari (Mustika Sari)_17157
+.1001_Pedurenan (Padurenan)_17156
+32.75.08_Pondokgede (Pondok Gede)_17411|17413
+.1002_Jatibening_17412
+.1006_Jatibening Baru_17412
+.1007_Jaticempaka_17411
+.1003_Jatimakmur_17413
+.1001_Jatiwaringin_17411
+32.75.12_Pondokmelati (Pondok Melati)_17414|17431
+.1003_Jatimelati_17414
+.1004_Jatimurni_17431
+.1001_Jatirahayu (Jati Rahayu)_17414
+.1002_Jatiwarna_17415
+32.75.05_Rawalumbu_17114|17117
+.1001_Bojong Rawalumbu_17116
+.1004_Bojongmenteng (Bojong Menteng)_17117
+.1002_Pengasinan_17115
+.1003_Sepanjangjaya (Sepanjang Jaya)_17114

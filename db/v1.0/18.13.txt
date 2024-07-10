@@ -1,0 +1,129 @@
+18.13.11_Bangkunat (Bengkunat)_34887
+.2006_Bandar Dalam_34887
+.2004_Kota Jawa_34887
+.2001_Pagar Bukit_34887
+.2014_Pagar Bukit Induk_34887
+.2008_Pemerihan_34887
+.2005_Penyandingan_34887
+.2011_Siring Gading_34887
+.2003_Suka Marga_34887
+.2009_Suka Negeri_34887
+.2010_Sumberejo_34887
+.2002_Tanjung Kemala_34887
+.2013_Tanjung Rejo_34887
+.2007_Way Haru_34887
+.2012_Way Tias_34887
+18.13.05_Karya Penggawa_34878
+.2012_Asahan Way Sindi_34878
+.2001_Kebuayan_34878
+.2006_Laay_34878
+.2005_Menyancang_34878
+.2004_Penengahan_34878
+.2008_Penggawa V Tengah_34878
+.2007_Penggawa V Ulu_34878
+.2010_Tembakak Way Sindi (Tebakak Way Sidi)_34878
+.2002_Way Nukak_34878
+.2003_Way Sindi_34878
+.2011_Way Sindi Hanuan_34878
+.2009_Way Sindi Utara_34878
+18.13.08_Krui Selatan_34874
+.2001_Balai Kencana_34874
+.2005_Lintik_34874
+.2008_Mandiri Sejati_34874
+.2004_Padang Haluan_34874
+.2009_Padang Raya_34874
+.2007_Pemerihan_34874
+.2010_Suka Jadi_34874
+.2006_Walur_34874
+.2003_Way Napal_34874
+.2002_Way Suluh_34874
+18.13.03_Lemong_34877
+.2007_Bambang_34877
+.2009_Bandar Pugung_34877
+.2005_Cahaya Negeri_34877
+.2004_Lemong_34877
+.2006_Malaya_34877
+.2008_Pagar Dalam_34877
+.2013_Parda Haga_34883
+.2010_Penengahan (Pengehan)_34877
+.2011_Rata Agung_34877
+.2012_Sukamulya (Suka Mulya)_34883
+.2001_Tanjung Jati_34877
+.2002_Tanjung Sakti_34877
+.2003_Way Batang_34877
+18.13.09_Ngambur_34883
+.2009_Bumi Ratu_34883
+.2005_Gedung Cahya Kuningan_34883
+.2008_Muara Tembulih (Mauara Tembulih)_34883
+.2003_Negeri Ratu Ngambur_34883
+.2004_Pekon Mon_34883
+.2006_Suka Banjar_34883
+.2007_Suka Negara (Negara)_34883
+.2001_Sumber Agung_34883
+.2002_Ulok Mukti_34883
+18.13.10_Ngaras (Bengkunat Belimbing)_34888
+.2020_Bandar Jaya_34888
+.2003_Kota Batu_34888
+.2004_Mulang Maya_34888
+.2001_Negeri Ratu Ngaras_34888
+.2017_Padang Alam_34888
+.2006_Pardasuka_34888
+.2005_Rajabasa_34888
+.2018_Suka Maju_34888
+.2019_Sukarame_34888
+18.13.02_Pesisir Selatan_34875
+.2012_Bangun Negara_34875
+.2008_Biha_34875
+.2010_Marang_34875
+.2001_Negeri Ratu Tenumbang_34875
+.2006_Pagar Dalam (Pagar Alam)_34875
+.2014_Paku Negara_34875
+.2003_Pelita Jaya_34875
+.2002_Sukarame_34875
+.2004_Sumur Jaya_34875
+.2005_Tanjung Jati_34875
+.2011_Tanjung Raya_34875
+.2007_Tanjung Setia_34875
+.2015_Tulung Bamban_34875
+.2013_Ulok Manik_34875
+.2009_Way Jambu_34875
+18.13.01_Pesisir Tengah_34894
+.2003_Kampung Jawa_34894
+.2007_Pahmungan_34894
+.1008_Pasar Kota Krui (Kota Pasar Krui)_34894
+.1005_Pasar Krui_34894
+.2004_Rawas_34894
+.2002_Serai / Seray_34894
+.2006_Suka Negara (Sukanegara)_34894
+.2001_Way Redak_34894
+18.13.04_Pesisir Utara_34876
+.2006_Balam_34876
+.2010_Batu Raja_34876
+.2012_Gedau_34876
+.2004_Kerbang Dalam_34876
+.2008_Kerbang Langgar_34876
+.2005_Kota Karang_34876
+.2001_Kuripan_34876
+.2003_Negeri Ratu_34876
+.2002_Padang Rindu_34876
+.2011_Pemancar_34876
+.2009_Walur_34876
+.2007_Way Narta_34876
+18.13.06_Pulau Pisang (Pulaupisang)_34896
+.2003_Bandar Dalam_34896
+.2002_Labuhan_34896
+.2001_Pasar Pulaupisang (Pasar Pulau Pisang)_34896
+.2004_Pekon Lok_34896
+.2006_Suka Marga (Sukamarga)_34896
+.2005_Sukadana_34896
+18.13.07_Way Krui_34898
+.2003_Banjar Agung_34898
+.2002_Bumi Waras_34898
+.2006_Gunung Kemala_34898
+.2010_Gunungkemala Timur (Gunung Kemala Timur)_34898
+.2007_Labuhan Mandi (Labuan)_34898
+.2001_Pajar Bulan_34898
+.2009_Penggawa Lima (Penggawa V)_34898
+.2004_Penggawa V Ilir_34898
+.2008_Suka Baru (Sukabaru)_34898
+.2005_Ulu Krui_34898

@@ -1,0 +1,148 @@
+11.09.08_Alafan (Alapan)_23893
+.2008_Lafakha_23893
+.2002_Lamerem_23893
+.2005_Langi_23893
+.2001_Lewak_23893
+.2007_Lhok Dalam_23893
+.2003_Lhok Pauh (Lhok Paoh)_23893
+.2006_Lubuk Baik_23893
+.2004_Serafon_23893
+11.09.02_Salang_23896
+.2005_Along (Along Jaya)_23896
+.2016_Bunga_23896
+.2014_Ganang Pusako_23896
+.2010_Jaya Baru_23896
+.2009_Karya Bakti_23896
+.2015_Kenangan Jaya_23896
+.2012_Lalla Bahagia_23896
+.2004_Meunafa (Meunafah)_23896
+.2007_Mutiara_23896
+.2003_Nasreuhe_23896
+.2002_Padang Unoi_23896
+.2006_Panton Lawe_23896
+.2013_Suak Manang_23896
+.2011_Tameng_23896
+.2008_Tamon Jaya (Tamon)_23896
+.2001_Ujung Salang_23896
+11.09.06_Simeulue Barat (Simeuleu Barat)_23892
+.2009_Amabaan_23892
+.2008_Babul Makmur_23892
+.2006_Batu Ragi_23892
+.2005_Lamamek_23892
+.2001_Layabaung_23892
+.2011_Lhok Bikhau (Lhok Bikhao)_23892
+.2014_Lhok Makmur_23892
+.2007_Malasin_23892
+.2010_Miteum_23892
+.2013_Sanggiran_23892
+.2002_Sembilan_23892
+.2003_Sigulai_23892
+.2004_Sinar Bahagia_23892
+.2012_Ujung Harapan_23892
+11.09.10_Simeulue Cut_23895
+.2002_Amarabu_23895
+.2007_Borengan_23895
+.2001_Bubuhan_23895
+.2003_Kuta Inang_23895
+.2004_Kuta Padang_23895
+.2006_Latak Ayah_23895
+.2005_Sibuluh_23895
+.2008_Ujung Pandang / Padang_23895
+11.09.01_Simeulue Tengah (Simeuleu Tengah)_23894
+.2013_Dihit_23894
+.2008_Kampung Aie_23894
+.2018_Kuta Baru (Kuta Batu)_23894
+.2011_Lakubang_23894
+.2010_Lamayang_23894
+.2012_Lambaya_23894
+.2016_Latitik_23894
+.2009_Lauree (Laure-E)_23894
+.2023_Leuke (Lauke)_23894
+.2021_Luan Sorip_23894
+.2022_Putra Jaya_23894
+.2019_Sebbe_23894
+.2024_Situfa Jaya_23894
+.2020_Suak Baru_23894
+.2007_Wel Wel_23894
+.2017_Wellang Kum (Wel Langkom)_23894
+11.09.04_Simeulue Timur (Simeuleu Timur)_23891
+.2012_Air Dingin_23891
+.2024_Air Pinang_23891
+.2018_Amaiteng Mulia_23891
+.2013_Ameria Bahagia_23891
+.2021_Ganting_23891
+.2026_Kota Batu_23891
+.2022_Kuala Makmur_23891
+.2028_Linggi_23891
+.2019_Lugu_23891
+.2025_Pulau Siumat_23891
+.2020_Sefoyan_23891
+.2017_Sinabang_23891
+.2009_Suak Buluh_23891
+.2014_Suka Jaya_23891
+.2016_Suka Karya_23891
+.2015_Suka Maju_23891
+.2023_Ujung Tinggi_23891
+11.09.05_Teluk Dalam_23890
+.2001_Babussalam_23890
+.2006_Bulu Hadik_23890
+.2003_Gunung Putih_23890
+.2005_Kuala Bakti_23890
+.2010_Kuala Baru_23890
+.2008_Luan Balu_23890
+.2004_Lugu Sek Bahak (Sebahak)_23890
+.2002_Muara Aman_23890
+.2007_Sambai (Sambay)_23890
+.2009_Tanjung Raya_23890
+11.09.03_Teupah Barat_23897
+.2003_Angkeo_23897
+.2011_Awe Kecil_23897
+.2004_Awe Seubal_23897
+.2002_Bunon_23897
+.2006_Inor_23897
+.2005_Laayon_23897
+.2013_Lantik_23897
+.2015_Laubang (Leubang)_23897
+.2014_Leubang Hulu_23897
+.2017_Maudil_23897
+.2012_Naibos_23897
+.2018_Nancala_23897
+.2010_Pulau Teupah_23897
+.2009_Salur_23897
+.2007_Salur Lasengalu_23897
+.2008_Salur Latun_23897
+.2001_Silengas_23897
+.2016_Sital_23897
+11.09.07_Teupah Selatan_23898
+.2003_Alus Alus_23898
+.2013_Ana Ao_23898
+.2007_Badegong_23898
+.2004_Batu Ralang_23898
+.2012_Blang Sebel_23898
+.2006_Kebun Baru_23898
+.2011_Labuhan Bajau_23898
+.2016_Labuhan Bakti_23898
+.2010_Labuhan Jaya_23898
+.2014_Lataling_23898
+.2008_Latiung_23898
+.2009_Pasir Tinggi_23898
+.2015_Pulau Bangkalak (Pulau Bengkalak)_23898
+.2001_Seuneubok_23898
+.2002_Suak Lamatan_23898
+.2019_Trans Baru_23898
+.2017_Trans Jernge_23898
+.2018_Trans Meranti (Trans Maranti)_23898
+.2005_Ulul Mayang (Manyang)_23898
+11.09.09_Teupah Tengah_23899
+.2007_Abail_23899
+.2011_Batu-Batu_23899
+.2004_Busung Indah_23899
+.2005_Kahad (Kahat)_23899
+.2009_Labuah_23899
+.2003_Lanting_23899
+.2002_Lasikin_23899
+.2001_Matanurung (Matan Urung)_23899
+.2008_Nancawa_23899
+.2006_Simpang Abail_23899
+.2012_Situbuk_23899
+.2010_Sua-Sua_23899

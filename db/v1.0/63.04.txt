@@ -1,0 +1,218 @@
+63.04.05_Alalak_70582
+.2012_Belandean_70582
+.2011_Belandean Muara_70582
+.1002_Berangas_70582
+.1001_Berangas Barat_70582
+.2008_Berangas Timur_70582
+.2015_Beringin_70582
+.1003_Handil Bakti_70582
+.2017_Panca Karya_70582
+.2004_Pulau Alalak_70582
+.2005_Pulau Sewangi_70582
+.2006_Pulau Sugara_70582
+.2009_Sei Semangat Bhakti (Semangat Bakti)_70582
+.2007_Sei/Sungai Lumbah_70582
+.2010_Sei/Sungai Pitung_70582
+.2014_Semangat Dalam_70582
+.2016_Semangat Karya_70582
+.2013_Tanjung Harapan_70582
+.2018_Tatah Mesjid_70582
+63.04.04_Anjir Muara_70564
+.2002_Anjir Muara Kota_70564
+.2004_Anjir Muara Kota Tengah_70564
+.2007_Anjir Muara Lama_70564
+.2006_Anjir Serapat Baru_70564
+.2009_Anjir Serapat Baru I_70564
+.2005_Anjir Serapat Lama_70564
+.2001_Anjir Serapat Muara_70564
+.2012_Anjir Serapat Muara I_70564
+.2015_Beringin Jaya_70564
+.2014_Marabahan Baru_70564
+.2003_Patih Muhur_70564
+.2010_Patih Muhur Baru_70564
+.2008_Sei/Sungai Punggu_70564
+.2011_Sei/Sungai Punggu Baru_70564
+.2013_Sepakat Barsama (Sepakat Bersama)_70564
+63.04.03_Anjir Pasar_70565
+.2001_Andaman_70565
+.2008_Andaman II_70565
+.2003_Anjir Pasar Kota_70565
+.2007_Anjir Pasar Kota II_70565
+.2011_Anjir Pasar Lama_70565
+.2010_Anjir Seberang Pasar I_70565
+.2009_Anjir Seberang Pasar II_70565
+.2004_Banyiur_70565
+.2014_Barunai Baru_70565
+.2015_Danau Karya_70565
+.2005_Gandaraya_70565
+.2006_Gandaria_70565
+.2002_Hilir Mesjid_70565
+.2013_Mentaren_70565
+.2012_Pandan Sari_70565
+63.04.10_Bakumpai_70512|70513
+.2008_Bahalayung_70513
+.2005_Balukung_70513
+.2006_Banitan_70513
+.2002_Banua Anyar (Benua Anyar)_70513
+.2007_Batik_70513
+.1001_Lepasan_70512
+.2003_Murung Raya_70513
+.2004_Palingkau_70513
+.2009_Sungai Selirik (Sei / Sungai Lirik)_70513
+63.04.14_Barambai_70562
+.2005_Bagagap_70562
+.2001_Barambai_70562
+.2006_Barambai Karya Tani_70562
+.2010_Barambai Kolam Kanan_70562
+.2009_Barambai Kolam Kiri_70562
+.2011_Barambai Kolam Kiri Dalam (Kolam Kiri Dalam)_70562
+.2004_Handil Barabai_70562
+.2008_Karya Baru_70562
+.2003_Pendalaman_70562
+.2007_Pendalaman Baru_70562
+.2002_Sei/Sungai Kali_70562
+63.04.08_Belawang_70563
+.2004_Bambangin_70563
+.2003_Belawang_70563
+.2012_Binaan Baru_70563
+.2011_Karang Buah_70563
+.2009_Karang Dukuh_70563
+.2001_Murung Keramat_70563
+.2008_Parimata_70563
+.2010_Patih Selera (Patih Salera)_70563
+.2013_Rangga Surya_70563
+.2007_Samuda_70563
+.2002_Sei/Sungai Seluang_70563
+.2006_Sei/Sungai Seluang Pasar_70563
+.2005_Sukaramai_70563
+63.04.09_Cerbon_70571
+.2006_Badandan_70571
+.2005_Bantuil_70571
+.2004_Sawahan_70571
+.2001_Sei/Sungai Kambat_70571
+.2002_Sei/Sungai Rasau_70571
+.2008_Sei/Sungai Raya_70571
+.2007_Sei/Sungai Tunjang_70571
+.2003_Simpang Nungki_70571
+63.04.17_Jejangkit_70581
+.2003_Bahandang_70581
+.2005_Cahaya Baru_70581
+.2002_Jejangkit Barat_70581
+.2007_Jejangkit Muara_70581
+.2006_Jejangkit Pasar_70581
+.2004_Jejangkit Timur_70581
+.2001_Sampurna_70581
+63.04.11_Kuripan_70552
+.2008_Asia Baru_70552
+.2002_Jambu_70552
+.2001_Jambu Baru_70552
+.2004_Jarenang_70552
+.2003_Kabuau_70552
+.2006_Kuripan_70552
+.2009_Rimbun Tulang_70552
+.2005_Tabatan_70552
+.2007_Tabatan Baru_70552
+63.04.06_Mandastana_70580
+.2017_Antasan Segera (Antasan Segara)_70580
+.2016_Bangkit Baru_70580
+.2020_Karang Bunga_70580
+.2021_Karang Indah_70580
+.2014_Lokrawa (Lok Rawa)_70580
+.2006_Pantai Hambawang_70580
+.2004_Puntik Dalam_70580
+.2003_Puntik Luar_70580
+.2011_Puntik Tengah_70580
+.2015_Sei/Sungai Ramania_70580
+.2005_Tabing Rimbah_70580
+.2002_Tanipah_70580
+.2009_Tatah Alayung_70580
+.2001_Terantang_70580
+63.04.15_Marabahan_70511|70513
+.2006_Antar Baru_70511
+.2007_Antar Jaya_70511
+.2008_Antar Raya_70511
+.2004_Bagus_70511
+.2005_Baliuk_70511
+.2010_Karya Maju_70513
+.1001_Marabahan Kota_70511
+.2003_Penghulu_70511
+.2009_Sido Makmur (Sidomakmur)_70511
+.1002_Ulu Benteng_70513
+63.04.13_Mekarsari (Mekar Sari)_70568
+.2009_Indah Sari_70568
+.2005_Jelapat II_70568
+.2008_Karang Mekar_70568
+.2001_Mekarsari (Mekar Sari)_70568
+.2002_Tamban Raya_70568
+.2006_Tamban Raya Baru_70568
+.2007_Tinggiran Baru_70568
+.2004_Tinggiran Darat_70568
+.2003_Tinggiran Tengah_70568
+63.04.07_Rantau Badauh_70561
+.2009_Danda Jaya_70561
+.2002_Pindahan Baru_70561
+.2008_Sei/Sungai Bamban_70561
+.2004_Sei/Sungai Gampa_70561
+.2003_Sei/Sungai Gampa Asahi_70561
+.2001_Sei/Sungai Pantai_70561
+.2005_Sei/Sungai Sahurai_70561
+.2006_Simpang Arya (Simpang Arja)_70561
+.2007_Sinar Baru_70561
+63.04.12_Tabukan_70553
+.2008_Bandar Karya_70553
+.2007_Karya Indah_70553
+.2010_Karya Jadi_70553
+.2009_Karya Makmur_70553
+.2006_Muara Pulau_70553
+.2011_Pantang Baru_70553
+.2001_Pantang Raya_70553
+.2004_Rantau Bamban_70553
+.2002_Tabukan Raya_70553
+.2005_Tamba Jaya_70553
+.2003_Teluk Tamba_70553
+63.04.01_Tabunganen_70567
+.2013_Beringin Kencana_70567
+.2006_Karya Baru_70567
+.2001_Kuala Lupak_70567
+.2009_Sei/Sungai Jingah Besar_70567
+.2002_Sei/Sungai Telan Besar_70567
+.2003_Sei/Sungai Telan Kecil_70567
+.2012_Sei/Sungai Telan Muara_70567
+.2008_Sei/Sungai Teras Dalam_70567
+.2011_Sei/Sungai Teras Luar_70567
+.2010_Tabunganen Kecil_70567
+.2004_Tabunganen Muara_70567
+.2007_Tabunganen Perumus (Tabunganen Pemurus)_70567
+.2005_Tabunganen Tengah_70567
+.2014_Tanggul Rejo_70567
+63.04.02_Tamban_70566
+.2012_Damsari_70566
+.2014_Jelapat Baru_70566
+.2007_Jelapat I_70566
+.2011_Koanda_70566
+.2009_Purwosari Baru_70566
+.2002_Purwosari I_70566
+.2001_Purwosari II_70566
+.2010_Sekata Baru_70566
+.2013_Sidorejo_70566
+.2003_Tamban Bangun_70566
+.2015_Tamban Bangun Baru_70566
+.2005_Tamban Kecil_70566
+.2004_Tamban Muara_70566
+.2008_Tamban Muara Baru_70566
+.2016_Tamban Sari Baru_70566
+.2006_Tinggiran II Luar (Tinggiran Luar II)_70566
+63.04.16_Wanaraya_70560
+.2007_Babat Raya_70560
+.2013_Dwipasari (Dwi Pasari)_70560
+.2008_Kolam Kanan_70560
+.2001_Kolam Kiri_70560
+.2010_Kolam Makmur_70560
+.2005_Pinang Habang_70560
+.2002_Roham Raya_70560
+.2009_Sidomulyo (Sido Mulyo)_70560
+.2003_Simpang Jaya_70560
+.2012_Sumber Rahayu_70560
+.2011_Surya Kanta_70560
+.2004_Tumih_70560
+.2006_Waringin Kencana_70560

@@ -1,0 +1,72 @@
+94.08.03_Bowobado_98751
+.2006_Diita_98751
+.2002_Kopai Dua (II)_98751
+.2001_Kopai Satu (I)_98751
+.2005_Mudetadi_98751
+.2003_Woge_98751
+.2004_Yewadide_98751
+94.08.05_Kapiraya_98752
+.2004_Idego_98752
+.2001_Kapiraya (Komauto)_98752
+.2002_Mogodagi_98752
+.2005_Uwe Onagei_98752
+.2003_Yamouwitina_98752
+94.08.01_Tigi_98764
+.2018_Amago_98764
+.2008_Atouda_98764
+.2007_Bamou II_98764
+.2005_Bomau I_98764
+.2012_Bomou III_98764
+.2014_Buwoudimi_98764
+.2015_Ibodiyo_98764
+.2019_Idege_98764
+.2016_Ikiyawo_98764
+.2017_Motano_98764
+.2011_Mugouda_98764
+.2006_Okomakebo_98764
+.2013_Okomotadi_98764
+.2009_Oneibo_98764
+.2020_Peku_98764
+.2002_Ugiya_98764
+.2001_Waghete I_98764
+.2004_Waghete II_98764
+.2003_Yaba_98764
+.2010_Yaba II_98764
+94.08.04_Tigi Barat_98761
+.2008_Ayatei_98761
+.2002_Demago_98761
+.2006_Digibagata_98761
+.2019_Digikotu_98761
+.2010_Diyai_98761
+.2016_Diyai II_98761
+.2022_Epanai_98761
+.2001_Gakokebo_98761
+.2011_Jinidaba_98761
+.2018_Kogemani_98761
+.2021_Maatadi_98761
+.2017_Meyepa_98761
+.2014_Obai_98761
+.2004_Onago_98761
+.2020_Onago II_98761
+.2007_Piyekedimi_98761
+.2009_Tenedagi_98761
+.2005_Wagomani_98761
+.2012_Widimei_98761
+.2003_Widuwakiya_98761
+.2013_Yagu_98761
+.2015_Yipai_98761
+94.08.02_Tigi Timur_98771
+.2006_Bagou_98771
+.2013_Bagou II_98771
+.2011_Bagumoma_98771
+.2007_Dagokebo_98771
+.2005_Dakebo_98771
+.2001_Damabagata_98771
+.2004_Edagotadi_98771
+.2014_Idayodagi_98771
+.2008_Ipoke_98771
+.2002_Kokobaya_98771
+.2010_Pekepa_98771
+.2012_Udaugida_98771
+.2009_Waitakotu_98771
+.2003_Watiyai_98771

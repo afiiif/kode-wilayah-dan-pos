@@ -1,0 +1,59 @@
+76.06.03_Budong-Budong_91461
+.2001_Babana_91461
+.2010_Barakkang_91461
+.2009_Bojo_91461
+.2005_Kire_91461
+.2011_Lembah Hada_91461
+.2002_Lumu_91461
+.2008_Pasapa_91461
+.2003_Pontanakayang_91461
+.2004_Salogatta (Salugatta)_91461
+.2007_Salumanurung_91461
+.2006_Tinali_91461
+76.06.05_Karossa_91460
+.2007_Benggaulu_91460
+.2004_Kadaila_91460
+.2009_Kambunong_91460
+.2001_Karossa_91460
+.2005_Kayu Calla_91460
+.2003_Lara_91460
+.2006_Lembah Hopo_91460
+.2010_Salubiro_91460
+.2011_Sanjango_91460
+.2008_Suka Maju_91460
+.2002_Tasokko_91460
+76.06.02_Pangale_91462
+.2008_Kombiling_91462
+.2005_Kuo_91462
+.2007_Lamba Lamba_91462
+.2009_Lemo-Lemo_91462
+.2002_Pangale_91462
+.2006_Polo Camba_91462
+.2004_Polo Lereng_91462
+.2001_Polo Pangale_91462
+.2003_Sartanamaju (Sartana Maju)_91462
+76.06.01_Tobadak_91463
+.2006_Bambadaru_91463
+.2005_Batu Parigi_91463
+.2001_Mahahe_91463
+.2004_Palongaan (Polongaan)_91463
+.2008_Saloadak_91463
+.2002_Salobaja (Sulobaja)_91463
+.2007_Sejati_91463
+.2003_Tobadak_91463
+76.06.04_Topoyo_91464
+.2012_Bambamanurung_91464
+.2001_Budong-Budong_91464
+.2004_Kabubu_91464
+.2014_Pangalloang_91464
+.2008_Paraili_91464
+.2013_Salulekbo (Salulebo)_91464
+.2009_Salupangkang_91464
+.2010_Salupangkang IV_91464
+.2015_Sinabatta_91464
+.2007_Tabolang_91464
+.2006_Tangkou (Tangkau)_91464
+.2011_Tappilina_91464
+.2002_Topoyo_91464
+.2003_Tumbu_91464
+.2005_Waeputeh (Wae Puteh)_91464

@@ -1,0 +1,113 @@
+12.25.01_Lahomi (Gahori)_22864
+.2002_Bawozamaiwo_22864
+.2009_Haliadulo (Hiliadulo)_22864
+.2005_Iraonogaila_22864
+.2004_Lologundre_22864
+.2011_Lolowau_22864
+.2008_Onolimbu (Ono Limbu)_22864
+.2007_Onowaembo (Ono Waembo)_22864
+.2010_Sisobambowo_22864
+.2001_Sisobaoho_22864
+.2003_Sitolubanua (Sitolu Banua)_22864
+.2006_Tigaserangkai (Tiga Serangkai)_22864
+12.25.07_Lolofitu Moi_22875
+.2003_Ambukha_22875
+.2002_Duria_22875
+.2004_Hilimbowo Mau_22875
+.2005_Hilimbuasi_22875
+.2007_Hiliuso_22875
+.2006_Lolofitu_22875
+.2001_Sisobawino II_22875
+.2008_Wango_22875
+12.25.05_Mandrehe_22862|22867
+.2017_Doli-Doli_22862
+.2009_Fadoro_22862
+.2012_Fadoro Bahili_22862
+.2018_Hayo_22867
+.2007_Hiliwaloo I (Hiliwalo'o I)_22862
+.2010_Iraonogambo (Iraono Gambo)_22862
+.2006_Lakhene (Lakhena)_22862
+.2014_Lasara Baene_22862
+.2002_Lologolu_22862
+.2005_Lolozirugi_22862
+.2008_Sianaa (Siana'a)_22862
+.2001_Simaeasi (Simae'asi)_22862
+.2016_Sisarahili I_22862
+.2020_Sisobambowo_22862
+.2015_Tetehosi_22862
+.2004_Tuhemberua_22862
+.2011_Tuhoowo (Tuho'owo)_22862
+.2013_Tumori_22862
+.2003_Tuwuna (Tuwuuna)_22862
+.2019_ZuzuNdrao_22862
+12.25.03_Mandrehe Barat_22812
+.2006_Fadorosifulubanua (Fadoro Sifulu Banua)_22812
+.2007_Hillidaura (Hilidaura)_22812
+.2004_Iraonogeba_22812
+.2009_Lasara Bagawu_22812
+.2013_Lasarafaga (Lasara Faga)_22812
+.2005_Lolohia_22812
+.2011_Mazingo_22812
+.2001_Onolimbu Raya (Onolimburaya)_22812
+.2012_Onolimbu You (Onolimbuyou)_22812
+.2002_Ononamolo III_22812
+.2014_Orahili Badalu_22812
+.2008_Sisarahili II_22812
+.2010_Sisobandrao_22812
+.2003_Sisobaoho_22812
+12.25.06_Mandrehe Utara_22813
+.2001_Balodano_22813
+.2002_Hiambanua_22813
+.2003_Hilimayo (Hili Mayo)_22813
+.2007_Hilimbaruzo_22813
+.2012_Hilimbowo_22813
+.2011_Lahagu_22813
+.2005_Lolomboli_22813
+.2006_Ononamolo I_22813
+.2009_Ononamolo II_22813
+.2004_Sihareo_22813
+.2010_Taraha_22813
+.2008_Tarahoso_22813
+12.25.04_Moro'o_22862
+.2002_Gunungbaru (Gunung Baru)_22862
+.2006_Halifadolo (Hilifadolo)_22862
+.2003_Hilisoromi (Hili Soromi)_22862
+.2008_Hiliwaele (Hili Waele)_22862
+.2001_Hiliwaloo II_22862
+.2007_Lasara Bahili_22862
+.2010_Onozalukhu You_22862
+.2004_Siduahili (Sidua Hili)_22862
+.2005_Sitolubanua Fadoro (Sitolu Banua Fadoro)_22862
+.2009_Sitoluewali (Sitolu Ewali)_22862
+12.25.02_Sirombu_22863
+.2012_Balowondrate_22863
+.2005_Bawasawa_22863
+.2001_Bawosaloo_22863
+.2019_Fadoro_22863
+.2025_Gunungcahaya (Gunung Cahaya)_22863
+.2007_Halamona_22863
+.2008_Hanofa_22863
+.2013_Hilimberuanaa (Hilimberua)_22863
+.2010_Hinako_22863
+.2002_Imana_22863
+.2004_Kafo Kafo_22863
+.2009_Lahawa_22863
+.2014_Lahusa_22863
+.2015_Ombolata_22863
+.2024_Orahili_22863
+.2006_Pulau Bogi_22863
+.2011_Sineneeto (Sinene Eto)_22863
+.2021_Sirombu_22863
+.2018_Sisobandrao_22863
+.2016_Tetehosi_22863
+.2022_Togideu_22863
+.2017_Togimbogi (Togim Bogi)_22863
+.2023_Tugala_22863
+.2020_Tugala Gawu (Tugalagawu)_22863
+.2003_Tuwa Tuwa_22863
+12.25.08_Ulu Moro'o (Ulu Narwo)_22862
+.2001_Bukit Tinggi_22862
+.2005_Hilibadalu_22862
+.2004_Hilisangawola_22862
+.2002_Lawelu_22862
+.2003_Saloo_22862

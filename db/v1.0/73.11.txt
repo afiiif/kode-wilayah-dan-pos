@@ -1,0 +1,62 @@
+73.11.07_Balusu_90762
+.2002_Balusu_90762
+.2006_Binuang_90762
+.2004_Kamiri_90762
+.2003_Lampoko_90762
+.2005_Madello_90762
+.1001_Takkalasi_90762
+73.11.03_Barru_90711|90712
+.2008_Anabanua_90712
+.1001_Coppo_90711
+.2009_Galung_90711
+.1002_Mangempang_90712
+.2006_Palakka_90711
+.1004_Sepee_90711
+.2010_Siawung_90712
+.1003_Sumpang Binangae_90712
+.2007_Tompo_90711
+.1005_Tuwung_90711
+73.11.05_Mallusetasi_90711|90753
+.2008_Bojo_90753
+.1003_Bojo Baru_90753
+.2004_Cilellang_90753
+.2007_Kupa_90753
+.1002_Mallawa_90711
+.2005_Manuba_90753
+.2006_Nepo_90753
+.1001_Palanro_90753
+73.11.06_Pujananting_90760
+.2006_Bacu-Bacu_90760
+.2005_Bulo-Bulo_90760
+.2002_Gattareng_90760
+.2004_Jangan-Jangan_90760
+.1007_Mattappawalie_90760
+.2003_Pattappa_90760
+.2001_Pujananting_90760
+73.11.04_Soppeng Riaja_90752
+.2005_Ajakkang_90752
+.2007_Batupute_90752
+.1001_Kiru-Kiru_90752
+.2003_Lawallu_90752
+.1002_Mangkoso_90752
+.2004_Paccekke_90752
+.2006_Siddo_90752
+73.11.01_Tanete Riaja_90763
+.2002_Harapan_90763
+.2004_Kading_90763
+.2007_Lempang_90763
+.2005_Libureng_90763
+.1001_Lompo Riaja_90763
+.2003_Lompo Tengah_90763
+.2006_Mattirowalie_90763
+73.11.02_Tanete Rilau_90711|90761
+.2005_Corawali_90761
+.2009_Garessi_90711
+.2004_Lalabata_90761
+.1001_Lalolang_90761
+.2010_Lasitae_90761
+.2008_Lipukasi_90761
+.2003_Pancana_90761
+.2006_Pao-Pao_90761
+.1002_Tanete_90761
+.2007_Tellumpanua_90761

@@ -1,0 +1,117 @@
+36.71.03_Batuceper_15121|15122
+.1001_Batuceper (Batu Ceper)_15122
+.1002_Batujaya (Batu Jaya)_15121
+.1006_Batusari (Batu Sari)_15121
+.1005_Kebon Besar_15122
+.1003_Poris Gaga_15122
+.1004_Poris Gaga Baru_15122
+.1007_Poris Jaya_15122
+36.71.04_Benda_15123|15126
+.1001_Belendung_15123
+.1003_Benda_15125
+.1002_Jurumudi_15124
+.1005_Jurumudi Baru_15124
+.1004_Pajang_15126
+36.71.09_Cibodas_15134|15139
+.1001_Cibodas_15138
+.1003_Cibodas Baru_15138
+.1002_Cibodasari (Cibodas Sari)_15138
+.1006_Jatiuwung_15134
+.1004_Panunggangan Barat_15139
+.1005_Uwung Jaya_15138
+36.71.06_Ciledug_15151|15153
+.1001_Paninggilan_15153
+.1008_Paninggilan Utara_15153
+.1005_Parung Serab_15153
+.1002_Sudimara Barat_15151
+.1006_Sudimara Jaya_15151
+.1007_Sudimara Selatan_15151
+.1003_Sudimara Timur_15151
+.1004_Tajur_15152
+36.71.05_Cipondoh_15141|15148
+.1001_Cipondoh_15148
+.1003_Cipondoh Indah_15148
+.1002_Cipondoh Makmur_15148
+.1004_Gondrong_15146
+.1005_Kenanga_15146
+.1007_Ketapang_15147
+.1006_Petir_15147
+.1008_Poris Plawad_15141
+.1010_Poris Plawad Indah_15141
+.1009_Poris Plawad Utara_15141
+36.71.02_Jatiuwung_15133|15137
+.1006_Alam Jaya_15133
+.1004_Gandasari_15137
+.1002_Jatake_15136
+.1001_Keroncong_15134
+.1005_Manis Jaya_15136
+.1003_Pasir Jaya_15135
+36.71.12_Karang Tengah_15157|15159
+.1002_Karang Mulya_15157
+.1001_Karang Tengah_15157
+.1005_Karang Timur_15157
+.1006_Padurenan (Pedurenan)_15159
+.1007_Parung Jaya_15159
+.1003_Pondok Bahar_15159
+.1004_Pondok Pucung_15158
+36.71.07_Karawaci_15112|15116
+.1002_Bojong Jaya_15115
+.1009_Bugel_15113
+.1005_Cimone_15114
+.1006_Cimone Jaya_15116
+.1013_Gerendeng_15113
+.1001_Karawaci_15115
+.1003_Karawaci Baru_15116
+.1016_Koang Jaya_15112
+.1010_Margasari (Marga Sari)_15113
+.1012_Nambo Jaya_15112
+.1004_Nusa Jaya_15116
+.1007_Pabuaran_15114
+.1011_Pabuaran Tumpeng_15112
+.1015_Pasar Baru_15112
+.1014_Sukajadi (Suka Jadi)_15113
+.1008_Sumur Pancing (Pacing)_15114
+36.71.13_Larangan_15154|15156
+.1003_Cipadu_15155
+.1007_Cipadu Jaya_15155
+.1006_Gaga_15154
+.1004_Kreo_15156
+.1008_Kreo Selatan_15156
+.1005_Larangan Indah_15154
+.1002_Larangan Selatan_15154
+.1001_Larangan Utara_15154
+36.71.10_Neglasari_15121|15129
+.1006_Karang Anyar_15121
+.1002_Karang Sari_15121
+.1007_Kedaung Baru_15128
+.1004_Kedaung Wetan_15128
+.1005_Mekarsari (Mekar Sari)_15129
+.1001_Neglasari_15129
+.1003_Selapajang Jaya_15127
+36.71.08_Periuk_15131|15133
+.1003_Gebang Raya_15132
+.1002_Gembor_15133
+.1001_Periuk_15131
+.1005_Periuk Jaya_15131
+.1004_Sangiang Jaya_15132
+36.71.11_Pinang (Penang)_15142|15145
+.1007_Cipete_15142
+.1004_Kunciran_15144
+.1005_Kunciran Indah_15144
+.1006_Kunciran Jaya_15144
+.1003_Nerogtog_15145
+.1008_Pakojan_15142
+.1009_Panunggangan_15143
+.1011_Panunggangan Timur_15143
+.1010_Panunggangan Utara_15143
+.1001_Pinang_15145
+.1002_Sudimara Pinang_15145
+36.71.01_Tangerang_15111|15119
+.1008_Babakan_15118
+.1004_Buaran Indah_15119
+.1005_Cikokol_15117
+.1006_Kelapa Indah_15117
+.1002_Sukaasih (Suka Asih)_15111
+.1001_Sukarasa_15111
+.1007_Sukasari_15118
+.1003_Tanah Tinggi_15119

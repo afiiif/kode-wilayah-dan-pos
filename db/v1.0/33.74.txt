@@ -1,0 +1,193 @@
+33.74.11_Banyumanik_50261|50269
+.1005_Banyumanik_50264
+.1002_Gedawang_50266
+.1003_Jabungan_50266
+.1008_Ngesrep_50261
+.1010_Padangsari_50267
+.1004_Pedalangan_50268
+.1001_Pudakpayung_50265
+.1006_Srondol Kulon_50263
+.1007_Srondol Wetan_50263
+.1011_Sumurboto_50269
+.1009_Tinjomoyo_50262
+33.74.08_Candisari_50252|50614
+.1001_Candi_50257
+.1002_Jatingaleh_50254
+.1004_Jomblang_50256
+.1003_Kaliwiru_50253
+.1005_Karanganyar Gunung_50255
+.1006_Tegalsari_50614
+.1007_Wonotinggal (Wonotingal)_50252
+33.74.09_Gajahmungkur (Gajah Mungkur)_50231|50237
+.1002_Bendan Dhuwur (Bendan Duwur)_50235
+.1003_Bendan Ngisor_50233
+.1008_Bendungan_50231
+.1005_Gajahmungkur (Gajah Mungkur)_50232
+.1001_Karangrejo (Karang Rejo)_50235
+.1006_Lempongsari_50231
+.1007_Petompon_50237
+.1004_Sampangan_50232
+33.74.04_Gayamsari_50162|50249
+.1007_Gayamsari_50248
+.1002_Kaligawe_50164
+.1006_Pandean Lamper_50249
+.1004_Sambirejo_50166
+.1003_Sawah Besar (Sawahbesar)_50163
+.1005_Siwalan_50162
+.1001_Tambakrejo_50174
+33.74.05_Genuk_50111|50231
+.1010_Bangetayu Kulon_50115
+.1011_Bangetayu Wetan_50115
+.1005_Banjardowo_50117
+.1006_Gebangsari_50117
+.1004_Genuksari_50231
+.1003_Karangroto_50117
+.1002_Kudu_50116
+.1009_Muktiharjo Lor_50111
+.1008_Penggaron Lor_50113
+.1001_Sembungharjo_50116
+.1012_Terboyo Kulon_50112
+.1013_Terboyo Wetan_50112
+.1007_Trimulyo_50118
+33.74.12_Gunungpati_50221|50229
+.1012_Cepoko_50223
+.1004_Gunungpati (Gunung Pati)_50229
+.1013_Jatirejo_50223
+.1015_Kalisegoro_50229
+.1016_Kandri_50222
+.1002_Mangunsari_50227
+.1007_Ngijo_50228
+.1005_Nongkosawit_50224
+.1001_Pakintelan_50227
+.1008_Patemon_50228
+.1003_Plalangan_50225
+.1006_Pongangan (Pungangan)_50229
+.1011_Sadeng_50222
+.1009_Sekaran_50229
+.1010_Sukorejo_50221
+.1014_Sumurrejo (Sumurejo)_50226
+33.74.14_Mijen_50211|50519
+.1002_Bubakan_50216
+.1001_Cangkiran_50216
+.1009_Jatibarang_50219
+.1013_Jatisari_50275
+.1003_Karangmalang_50216
+.1010_Kedungpane (Kedungpani)_50211
+.1008_Mijen_50519
+.1011_Ngadirgo_50213
+.1014_Pesantren_50212
+.1004_Polaman_50217
+.1005_Purwosari_50217
+.1006_Tambangan_50215
+.1007_Wonolopo_50215
+.1012_Wonoplumbon_50214
+33.74.15_Ngaliyan_50181|50244
+.1006_Bambankerep_50211
+.1003_Beringin (Bringin)_50189
+.1001_Gondoriyo_50187
+.1005_Kalipancur_50183
+.1007_Ngaliyan_50181
+.1002_Podorejo_50187
+.1004_Purwoyoso_50184
+.1008_Tambakaji_50185
+.1010_Wates_50188
+.1009_Wonosari_50244
+33.74.06_Pedurungan_50113|50246
+.1007_Gemah_50246
+.1012_Kalicari_50198
+.1005_Muktiharjo Kidul_50197
+.1011_Palebon_50246
+.1008_Pedurungan Kidul_50192
+.1009_Pedurungan Lor_50192
+.1010_Pedurungan Tengah_50192
+.1001_Penggaron Kidul_50194
+.1006_Plamongansari (Plamongan Sari)_50199
+.1002_Tlogomulyo_50113
+.1004_Tlogosari Kulon_50196
+.1003_Tlogosari Wetan_50196
+33.74.13_Semarang Barat_50141|50183
+.1009_Bojongsalaman_50141
+.1008_Bongsari_50148
+.1011_Cabean_50141
+.1007_Gisikdrono_50149
+.1006_Kalibanteng Kidul_50149
+.1005_Kalibanteng Kulon_50145
+.1012_Karangayu (Karang Ayu)_50149
+.1016_Kembangarum_50183
+.1003_Krapyak_50146
+.1013_Krobokan_50141
+.1002_Manyaran_50147
+.1001_Ngemplak Simongan_50148
+.1010_Salamanmloyo_50149
+.1004_Tambakharjo (Tambak Harjo)_50149
+.1015_Tawangmas_50144
+.1014_Tawangsari_50144
+33.74.07_Semarang Selatan_50241|50249
+.1003_Barusari_50245
+.1002_Bulustalan_50246
+.1009_Lamper Kidul_50249
+.1008_Lamper Lor_50249
+.1010_Lamper Tengah_50248
+.1004_Mugasari (Mugassari)_50249
+.1007_Peterongan_50242
+.1005_Pleburan_50241
+.1001_Randusari_50244
+.1006_Wonodri_50242
+33.74.01_Semarang Tengah_50131|50613
+.1009_Bangunharjo_50138
+.1002_Brumbungan_50135
+.1005_Gabahan_50135
+.1003_Jagalan_50613
+.1012_Karang Kidul (Karangkidul)_50241
+.1010_Kauman_50188
+.1006_Kembangsari_50133
+.1004_Kranggan_50139
+.1001_Miroto_50134
+.1008_Pandansari_50139
+.1013_Pekunden_50241
+.1014_Pindrikan Kidul (Pendrikan Kidul)_50131
+.1015_Pindrikan Lor (Pendrikan Lor)_50131
+.1011_Purwodinatan_50137
+.1007_Sekayu_50132
+33.74.03_Semarang Timur_50122|50232
+.1006_Bugangan_50126
+.1010_Karangtempel_50232
+.1009_Karangturi_50124
+.1004_Kebonagung_50123
+.1001_Kemijen_50228
+.1003_Mlatibaru_50122
+.1005_Mlatiharjo_50126
+.1002_Rejomulyo_50227
+.1008_Rejosari_50125
+.1007_Sarirejo_50124
+33.74.02_Semarang Utara_50171|50179
+.1001_Bandarharjo_50175
+.1002_Bulu Lor_50179
+.1009_Dadapsari_50173
+.1005_Kuningan_50176
+.1007_Panggung Kidul_50178
+.1006_Panggung Lor_50177
+.1003_Plombokan_50171
+.1004_Purwosari_50172
+.1008_Tanjung Mas (Tanjungmas)_50174
+33.74.10_Tembalang_50271|50279
+.1004_Bulusan_50277
+.1007_Jangli_50274
+.1009_Kedungmundu_50273
+.1005_Kramas_50278
+.1003_Mangunharjo_50272
+.1001_Meteseh_50271
+.1002_Rowosari_50279
+.1012_Sambiroto_50276
+.1010_Sendangguwo_50273
+.1011_Sendangmulyo_50272
+.1008_Tandang_50274
+.1006_Tembalang_50275
+33.74.16_Tugu_50151|50185
+.1001_Jerakah_50151
+.1003_Karanganyar_50152
+.1006_Mangkang Kulon_50155
+.1005_Mangkang Wetan_50156
+.1007_Mangunharjo_50154
+.1004_Randugarut (Randu Garut)_50181
+.1002_Tugurejo_50185

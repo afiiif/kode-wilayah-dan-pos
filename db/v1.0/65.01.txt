@@ -1,0 +1,91 @@
+65.01.10_Bunyu (Pulau Bunyu)_77281
+.2001_Bunyu Barat (Pulau Bunyu Barat)_77281
+.2002_Bunyu Selatan (Pulau Bunyu Selatan)_77281
+.2003_Bunyu Timur (Pulau Bunyu Timur)_77281
+65.01.07_Peso_77261
+.2001_Lepak Aru_77261
+.2004_Long Bia_77261
+.2010_Long Buang_77261
+.2002_Long Lasan_77261
+.2008_Long Lejuh (Long Leju)_77261
+.2006_Long Lian_77261
+.2009_Long Pelban (Long Peleban)_77261
+.2003_Long Peso_77261
+.2007_Long Yiin/Pelaah_77261
+.2005_Muara Pengean_77261
+65.01.08_Peso Hilir (Ilir)_77262
+.2002_Long Bang_77262
+.2006_Long Bang Hulu_77262
+.2005_Long Lembu_77262
+.2003_Long Telenjau_77262
+.2001_Long Tungu_77262
+.2004_Naha Aya_77262
+65.01.09_Sekatak_77263
+.2010_Ambalat_77263
+.2021_Anjar Arip (Anjararef)_77263
+.2013_Bambang_77263
+.2018_Bekiliu_77263
+.2003_Bunau_77263
+.2017_Kelincauan (Kelincawan)_77263
+.2009_Kelising (Keliising)_77263
+.2006_Kelumbunan (Kelembunan)_77263
+.2012_Kendari_77263
+.2011_Keriting_77263
+.2022_Liu Agu (Liagu)_77263
+.2014_Maritam_77263
+.2002_Paru Abang_77263
+.2015_Pentian_77263
+.2016_Punan Dulau_77263
+.2020_Pungit_77263
+.2019_Sekatak Bengara_77263
+.2001_Sekatak Buji_77263
+.2005_Tenggiling_77263
+.2008_Terindak_77263
+.2007_Turung_77263
+.2004_Ujang_77263
+65.01.01_Tanjung Palas_77211|77216
+.2007_Antutan_77211
+.2005_Gunung Putih_77211
+.1004_Karang Anyar_77214
+.2006_Pejalin_77211
+.1003_Tanjung Palas Ilir/Hilir_77211
+.1002_Tanjung Palas Tengah_77216
+.1001_Tanjung Palas Ulu/Hulu_77215
+.2008_Teras Baru_77214
+.2009_Teras Nawang_77214
+65.01.02_Tanjung Palas Barat_77217
+.2001_Long Beluah_77217
+.2005_Long Pari_77217
+.2002_Long Sam_77217
+.2004_Mara Hilir_77217
+.2003_Mara I (Mara Satu)_77217
+65.01.06_Tanjung Palas Tengah_77216
+.2001_Salimbatu (Salim Batu)_77216
+.2002_Silva Rahayu_77216
+.2003_Tanjung Buka_77216
+65.01.04_Tanjung Palas Timur_77215
+.2006_Binai_77215
+.2002_Mangkupadi_77215
+.2008_Pura Sajau_77215
+.2003_Sajau_77215
+.2007_Sajau Hilir (Sajau Timur)_77215
+.2001_Tanah Kuning_77215
+.2005_Tanjung Agung_77215
+.2004_Wonomulyo (Wono Mulyo)_77215
+65.01.03_Tanjung Palas Utara_77218
+.2005_Ardi Mulyo (Ardi Mulya)_77218
+.2001_Karang Agung_77218
+.2006_Kelubir_77218
+.2003_Panca Agung_77218
+.2002_Pimping_77218
+.2004_Ruhui Rahayu_77218
+65.01.05_Tanjung Selor_77211|77212
+.2007_Apung_77212
+.2005_Bumi Rahayu_77212
+.2006_Gunung Sari_77212
+.2004_Gunung Seriang_77212
+.2003_Jelarai Selor_77212
+.1002_Tanjung Selor Ilir/Hilir_77212
+.1008_Tanjung Selor Timur_77212
+.1001_Tanjung Selor Ulu/Hulu_77211
+.2009_Tengkapak_77212

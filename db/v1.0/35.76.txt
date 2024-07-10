@@ -1,0 +1,21 @@
+35.76.03_Kranggan_61311|61322
+.1004_Jagalan_61313
+.1001_Kranggan_61321
+.1003_Meri_61315
+.1002_Miji_61322
+.1006_Purwotengah_61311
+.1005_Sentanan_61312
+35.76.02_Magersari_61314|61319
+.1008_Balongsari_61314
+.1004_Gedongan_61319
+.1001_Gununggedangan (Gunung Gedangan)_61315
+.1009_Kedundung_61316
+.1003_Magersari_61318
+.1010_Wates_61317
+35.76.01_Prajuritkulon (Prajurit Kulon)_61323|61328
+.1008_Blooto_61327
+.1004_Kauman_61324
+.1003_Mentikan_61323
+.1006_Prajuritkulon (Prajurit Kulon)_61326
+.1005_Pulorejo_61325
+.1007_Surodinawan_61328

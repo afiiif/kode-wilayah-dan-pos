@@ -1,0 +1,86 @@
+51.07.05_Abang_80852
+.2001_Ababi_80852
+.2005_Abang_80852
+.2003_Bunutan_80852
+.2008_Culik_80852
+.2007_Datah_80852
+.2010_Kerta Mandala_80852
+.2013_Kesimpar_80852
+.2011_Labasari (Laba Sari)_80852
+.2012_Nawa Kerti (Nawakerti)_80852
+.2006_Pidpid_80852
+.2009_Purwakerti_80852
+.2004_Tista_80852
+.2002_Tiying Tali (Tiyingtali)_80852
+.2014_Tribuana (Tri Buana)_80852
+51.07.06_Bebandem_80861
+.2003_Bebanden (Bebandem)_80861
+.2007_Buana Giri_80861
+.2002_Budekeling (Budakeling / Bude Keling)_80861
+.2001_Bungaya (Bungaya Kauh)_80861
+.2006_Bungaya Kangin_80861
+.2005_Jungutan_80861
+.2008_Macang_80861
+.2004_Sibetan_80861
+51.07.04_Karangasem (Karang Asem)_80811|80813
+.2001_Bugbug_80811
+.2011_Bukit_80811
+.1004_Karang asem (Karangasem)_80811
+.1003_Padang Kerta_80811
+.2009_Pertima_80811
+.2006_Seraya (Seraya Tengah)_80811
+.2007_Seraya Barat_80811
+.2008_Seraya Timur_80811
+.1002_Subagan_80813
+.2010_Tegalinggah (Tegallinggah)_80811
+.2005_Tumbu_80811
+51.07.08_Kubu_80853
+.2001_Ban_80853
+.2008_Baturinggit (Batu Ringgit)_80853
+.2002_Dukuh_80853
+.2003_Kubu_80853
+.2009_Sukadana_80853
+.2004_Tianyar (Tianyar Timur)_80853
+.2005_Tianyar Barat_80853
+.2006_Tianyar Tengah_80853
+.2007_Tulamben_80853
+51.07.03_Manggis_80871
+.2002_Antiga_80871
+.2010_Antiga Kelod_80871
+.2001_Gegelang_80871
+.2004_Manggis_80871
+.2007_Ngis_80871
+.2005_Nyuh Tebel_80871
+.2009_Padangbai_80871
+.2011_Pasedahan (Pesedahan)_80871
+.2008_Selumbung_80871
+.2012_Sengkidu_80871
+.2006_Tenganan_80871
+.2003_Ulakan_80871
+51.07.01_Rendang_80863
+.2004_Besakih_80863
+.2003_Menanga_80863
+.2001_Nongan_80863
+.2005_Pempatan_80863
+.2006_Pesaban_80863
+.2002_Rendang_80863
+51.07.07_Selat_80862
+.2008_Amerta Bhuana_80862
+.2003_Duda_80862
+.2006_Duda Timur_80862
+.2005_Duda Utara_80862
+.2001_Muncan_80862
+.2007_Pering Sari_80862
+.2004_Sebudi_80862
+.2002_Selat_80862
+51.07.02_Sidemen_80864
+.2008_Kerta Buana (Kertha Buana)_80864
+.2009_Lakasari (Lokasari)_80864
+.2004_Sangkan Gunung_80864
+.2003_Sidemen_80864
+.2006_Sinduwati (Sindu Wati)_80864
+.2002_Talibeng_80864
+.2001_Tangkup_80864
+.2005_Telaga Tawang_80864
+.2007_Tri Eka Buana_80864
+.2010_Wismakerta (Wisma Kerta)_80864

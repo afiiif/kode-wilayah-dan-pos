@@ -1,0 +1,286 @@
+12.06.03_Barusjahe (Barus Jahe)_22172
+.2008_Barusjahe (Barus Jahe)_22172
+.2005_Barusjulu (Barus Julu)_22172
+.2009_Bulanjahe (Bulan Jahe)_22172
+.2014_Bulanjulu (Bulan Julu)_22172
+.2001_Paribun_22172
+.2019_Penampen_22172
+.2013_Persadanta_22172
+.2010_Pertumbuken_22172
+.2002_Rumamis_22172
+.2018_Sarimanis_22172
+.2015_Semangat_22172
+.2016_Serdang_22172
+.2012_Sikab_22172
+.2003_Sinaman_22172
+.2007_Sukajulu_22172
+.2004_Sukanalu_22172
+.2011_Talimbaru_22172
+.2006_Tangkidik_22172
+.2017_Tanjung Barus_22172
+12.06.02_Berastagi (Brastagi)_22152
+.2001_Daulu (Doulu)_22152
+.1008_Gundaling I_22152
+.1009_Gundaling II_22152
+.2002_Gurusinga_22152
+.2010_Lau Gumba_22152
+.2003_Raya_22152
+.2004_Rumah Brastagi/Berastagi_22152
+.2005_Sempajaya_22152
+.1006_Tambak Lau Mulgab I (Tambak Lau Mulgap I)_22152
+.1007_Tambak Lau Mulgab II (Tambak Lau Mulgap II)_22152
+12.06.14_Dolat Rayat_22171
+.2003_Bukit_22171
+.2007_Dolat Rayat_22171
+.2001_Kubu Colia (Kubucolia)_22171
+.2004_Melas_22171
+.2005_Sampun_22171
+.2006_Sugihen_22171
+.2002_Ujung Sampun_22171
+12.06.07_Juhar_22163
+.2012_Batu Mamak_22163
+.2005_Bekilang_22163
+.2020_Buluh Pancur_22163
+.2017_Gunung Juhar_22163
+.2019_Jandi (Jandi Meriah)_22163
+.2009_Juhar Ginting_22163
+.2025_Juhar Ginting Sadanioga_22163
+.2001_Juhar Perangin-angin_22163
+.2010_Juhar Tarigan_22163
+.2016_Keriahen_22163
+.2018_Ketawaren_22163
+.2003_Kidupen_22163
+.2021_Kutagugung_22163
+.2014_Kutambelin_22163
+.2023_Lau Kidupen_22163
+.2002_Lau Lingga_22163
+.2015_Mbetong (Mbetung)_22163
+.2013_Naga_22163
+.2008_Nageri_22163
+.2004_Namosuro_22163
+.2011_Pasar Baru_22163
+.2007_Pernantin_22163
+.2024_Sigenderang_22163
+.2006_Sugihen_22163
+.2022_Sukababo_22163
+12.06.01_Kabanjahe_22111|22115
+.1011_Gung Leto_22111
+.1012_Gung Negeri_22112
+.2002_Kaban_22111
+.2008_Kacaribu_22111
+.1013_Kampung Dalam_22113
+.2007_Kandibata_22111
+.2003_Ketaren_22111
+.1010_Lau Cimba_22114
+.2005_Lau Simomo (Lausimono)_22111
+.1009_Padang Mas_22115
+.2001_Rumah Kabanjahe_22111
+.2004_Samura_22111
+.2006_Sumber Mufakat_22111
+12.06.13_Kutabuluh (Kuta Buluh)_22155
+.2016_Amburudi (Mburidi)_22155
+.2005_Bintang Meriah_22155
+.2010_Buah Raya_22155
+.2009_Gunung Meriah_22155
+.2006_Jinabun_22155
+.2007_Kuta Male_22155
+.2013_Kutabuluh (Kuta Buluh)_22155
+.2002_Kutabuluh Gugung (Kuta Buluh Gugung)_22155
+.2004_Lau Buluh_22155
+.2014_Liang Merdeka_22155
+.2001_Negeri Jahe_22155
+.2015_Pola Tebu_22155
+.2012_Rih Tengah_22155
+.2003_Siabang Abang_22155
+.2011_Tanjung Merahe_22155
+.2008_Ujung Deleng_22155
+12.06.09_Laubaleng_22164
+.2014_Batu Rongkam_22164
+.2013_Buluh Pancur_22164
+.2006_Durin Rugun_22164
+.2010_Kinangkong_22164
+.2008_Kutambelin_22164
+.2005_Lau Baleng_22164
+.2012_Lau Peradep_22164
+.2003_Lau Peranggunen (Lau Peranggunan)_22164
+.2009_Lingga Muda_22164
+.2001_Martelu_22164
+.2002_Mbal-Mbal Petarum_22164
+.2007_Perbulan_22164
+.2015_Pintu Angin_22164
+.2011_Rambah Tampu_22164
+.2004_Tanjung Gunung_22164
+12.06.10_Mardingding (Mardinding)_22165
+.2007_Bandar Purba_22165
+.2012_Bukit Makmur_22165
+.2006_Kuta Pengkih_22165
+.2011_Lau Garut_22165
+.2003_Lau Kesumpat (Lau Kasumpat)_22165
+.2002_Lau Mulgap_22165
+.2009_Lau Pakam_22165
+.2001_Lau Pengulu_22165
+.2010_Lau Solu_22165
+.2008_Mardingding_22165
+.2004_Rimo Bunga_22165
+.2005_Tanjung Pamah_22165
+12.06.15_Merdeka_22153
+.2001_Cinta Rakyat (Cinta Rayat)_22153
+.2007_Deram_22153
+.2004_Gongsol_22153
+.2005_Jaranguda_22153
+.2008_Merdeka_22153
+.2009_Sadaperarih (Sada Perarih)_22153
+.2002_Semangat_22153
+.2006_Semangat Gunung_22153
+.2003_Ujung Teran_22153
+12.06.05_Merek_22173
+.2013_Ajinembah_22173
+.2017_Bandar Tongging_22173
+.2004_Dokan_22173
+.2015_Garingging_22173
+.2003_Kodon-Kodon_22173
+.2019_Merek_22173
+.2016_Mulia Rayat (Mulia Rakyat)_22173
+.2008_Nagalingga_22173
+.2005_Nagara_22173
+.2002_Negeri Tongging_22173
+.2018_Pancur Batu_22173
+.2009_Pangambatan (Pangambaten)_22173
+.2011_Partibi Lama (Pertibi Lama)_22173
+.2001_Pertibi Tembe (Pertibitembe)_22173
+.2012_Regaji_22173
+.2006_Sibolangit_22173
+.2014_Situnggaling_22173
+.2007_Sukamandi_22173
+.2010_Tongging_22173
+12.06.06_Munte_22161
+.2004_Bandar Meriah_22161
+.2005_Barung Kersap_22161
+.2022_Biaknampe (Biak Nampe)_22161
+.2007_Buluhnaman (Buluh Naman)_22161
+.2013_Gunung Manumpak_22161
+.2019_Gunung Saribu_22161
+.2021_Gurubenua_22161
+.2012_Kaban Tua (Kabantua)_22161
+.2003_Kineppen_22161
+.2009_Kuta Gerat (Kutagerat)_22161
+.2015_Kuta Suah (Kutasuah)_22161
+.2006_Kutambaru_22161
+.2002_Munte (Munthe)_22161
+.2001_Nageri_22161
+.2018_Parimbalang_22161
+.2010_Pertumbungen_22161
+.2011_Sarimunte_22161
+.2016_Sarinembah_22161
+.2017_Selakkar_22161
+.2008_Singgamanik_22161
+.2020_Sukarame_22161
+.2014_Tanjung Beringin_22161
+12.06.16_Naman Teran (Nama Teran)_22151
+.2010_Gung Pinto_22151
+.2006_Kebayaken_22151
+.2003_Kuta Tonggal_22151
+.2002_Kutagugung (Kuta Gugung)_22151
+.2011_Kutambelin (Kuta Mbelin)_22151
+.2007_Kutarayat (Kuta Rayat)_22151
+.2004_Naman_22151
+.2012_Ndeskati_22151
+.2014_Sigarang Garang_22151
+.2005_Sukanalu (Suka Nalu)_22151
+.2009_Sukandebi (Suka Ndebi)_22151
+.2013_Sukatepu_22151
+12.06.11_Payung_22154
+.2012_Batukarang_22154
+.2017_Cimbang_22154
+.2015_Gurukinayan_22154
+.2001_Payung_22154
+.2004_Rimo Kayu (Rimokayu)_22154
+.2007_Selandi_22154
+.2025_Ujung Payung_22154
+12.06.12_Simpang Empat_22150
+.2022_Beganding_22150
+.2025_Berastepu_22150
+.2035_Bulanbaru (Bulan Baru)_22150
+.2017_Gajah_22150
+.2009_Gamber_22150
+.2028_Jeraya_22150
+.2005_Kutatengah (Kuta Tengah)_22150
+.2018_Lingga_22150
+.2016_Linggajulu (Lingga Julu)_22150
+.2019_Nangbelawan (Nang Belawan)_22150
+.2014_Ndokumsiroga (Ndokum Siroga)_22150
+.2030_Perteguhen_22150
+.2007_Pintumbesi (Pintu Besi)_22150
+.2012_Sirumbia (Serumbia)_22150
+.2026_Surbakti_22150
+.2006_Tigapancur (Tiga Pancur)_22150
+.2024_Torong_22150
+12.06.08_Tigabinanga (Tiga Binanga)_22162
+.2020_Batumamak (Batumanak)_22162
+.2016_Bunga Baru_22162
+.2001_Gunung_22162
+.2002_Kem Kem_22162
+.2004_Kuala_22162
+.2008_Kuta Bangun_22162
+.2018_Kuta Buara_22162
+.2015_Kuta Galoh (Kuta Galuh)_22162
+.2013_Kuta Gerat_22162
+.2009_Kuta Raya_22162
+.2017_Kutambaru Punti (Kutambaru Punti Batu Mama)_22162
+.2007_Lau Kapur_22162
+.2005_Limang_22162
+.2006_Perbesi_22162
+.2010_Pergendangen_22162
+.2003_Pertumbuken_22162
+.2011_Simolap_22162
+.2012_Simpang Pergendangen (Perlambe)_22162
+.2014_Suka Julu (Kuta Julu)_22162
+.1019_Tiga Binanga_22162
+12.06.17_Tiganderket_22156
+.2016_Gunung Merlawan_22156
+.2005_Jandimeriah (Jandi Meriah)_22156
+.2003_Kutagaluh_22156
+.2011_Kutakepar (Kuta Kepar)_22156
+.2004_Kutambaru_22156
+.2002_Mardingding_22156
+.2014_Narigunung I (Nari Gunung Satu)_22156
+.2015_Narigunung II (Nari Gunung Dua)_22156
+.2012_Penampen_22156
+.2009_Perbaji_22156
+.2001_Sukatendel (Suka Tendel)_22156
+.2017_Susuk_22156
+.2013_Tanjung Mbelang_22156
+.2008_Tanjung Merawa_22156
+.2007_Tanjung Pulo_22156
+.2010_Temburun_22156
+.2006_Tiganderket (Tiga Nderket)_22156
+12.06.04_Tigapanah (Tiga Panah)_22170
+.2029_Ajibuhara_22170
+.2007_Ajijahe_22170
+.2002_Ajijulu_22170
+.2028_Ajimbelang_22170
+.2035_Bekerah_22151
+.2016_Bertah_22170
+.2008_Bunuraya_22170
+.2014_Kacinambun_22170
+.2010_Kubusimbelang (Kubu Simbelang)_22170
+.2025_Kutabale (Kuta Bale)_22170
+.2015_Kutajulu_22170
+.2001_Kutakepar (Kuta Kepar)_22170
+.2024_Kutambelin (Kuta Mbelin)_22170
+.2030_Lambar_22170
+.2018_Lauriman (Lau Riman)_22170
+.2026_Leparsamura (Lepar Samura)_22170
+.2017_Manukmulia (Manuk Mulia)_22170
+.2020_Mulawari_22170
+.2031_Salit_22170
+.2027_Seberaya_22170
+.2036_Simacem_22151
+.2004_Singa_22170
+.2012_Suka_22170
+.2032_Suka Mbayak_22170
+.2033_Suka Sipilihen (Sukapilihen)_22170
+.2019_Sukadame_22170
+.2023_Sukamaju_22170
+.2034_Sukameriah_22154
+.2011_Tigapanah_22170

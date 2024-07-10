@@ -1,0 +1,77 @@
+15.72.03_Hamparan Rawang_37151
+.2013_Cempaka_37151
+.2009_Dusun Diilir_37151
+.2006_Kampung Dalam_37151
+.2001_Kampung Diilir_37151
+.2002_Koto Beringin_37151
+.2011_Koto Dian_37151
+.2005_Koto Teluk_37151
+.2008_Larik Kemahan_37151
+.2003_Maliki Air_37151
+.2010_Paling Serumpun_37151
+.2007_Simpang Tiga Rawang_37151
+.2004_Tanjung_37151
+.2012_Tanjung Muda/Mudo_37151
+15.72.07_Koto Baru_37152
+.2004_Dujung Sakti_37152
+.2003_Kampung Tengah_37152
+.2001_Koto Baru (Kota Baru)_37152
+.2002_Koto Limau Manis_37152
+.2005_Permai Indah_37152
+.2006_Srimenanti (Baru Sri Menanti)_37152
+15.72.05_Kumun Debai_37111
+.2003_Air Teluh (Air Teluk)_37111
+.2005_Debai_37111
+.2001_Kumun Hilir_37111
+.2002_Kumun Mudik_37111
+.2009_Muara Jaya_37111
+.2006_Pinggir Air_37111
+.2007_Renah Kayu Embun_37111
+.2004_Sandaran Galeh_37111
+.2008_Ulu Air_37111
+15.72.02_Pesisir Bukit_37111|37152
+.2003_Koto Bento_37111
+.2008_Koto Dua / Duo_37152
+.2002_Koto Keras_37111
+.2004_Koto Lolo_37111
+.2001_Koto Renah_37111
+.2005_Koto Tengah_37111
+.2011_Seberang_37152
+.2015_Sumur Gedang_37152
+.2010_Sungai Liuk_37152
+15.72.06_Pondok Tinggi_37111|37114
+.2002_Aur Duri_37111
+.2006_Karya Bakti_37111
+.2007_Koto Lembu/Lebu_37111
+.2005_Lawang Agung_37111
+.2004_Permanti_37111
+.2003_Pondok Agung_37111
+.1008_Pondok Tinggi_37114
+.2001_Sungai Jernih_37111
+15.72.08_Sungai Bungkal_37111|37112
+.1005_Dusun Baru_37112
+.2002_Koto Tinggi_37111
+.2004_Pelayang Raya_37111
+.2001_Sumur Anyir_37111
+.2006_Sungai Ning_37111
+.2003_Talang Lindung_37111
+15.72.01_Sungai Penuh_37111|37114
+.2014_Amar Sakti_37111
+.2006_Gedang_37111
+.2004_Pasar Baru_37111
+.1003_Pasar Sungai Penuh_37113
+.1001_Sungai Penuh_37111
+15.72.04_Tanah Kampung_37121
+.2001_Baru Debai_37121
+.2012_Koto Baru Tanah Kampung_37121
+.2004_Koto Dumo_37121
+.2010_Koto Padang_37121
+.2007_Koto Panap_37121
+.2003_Koto Pudung_37121
+.2008_Koto Tengah_37121
+.2006_Koto Tuo_37121
+.2013_Mekar Jaya_37121
+.2002_Pendung Hiang_37121
+.2005_Sembilan_37121
+.2009_Tanjung Bunga/Bungo_37121
+.2011_Tanjung Karang_37121

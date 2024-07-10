@@ -1,0 +1,141 @@
+33.19.07_Bae_59321|59327
+.2006_Bacin_59325
+.2010_Bae_59327
+.2001_Dersalam_59321
+.2004_Gondangmanis_59327
+.2003_Karangbener_59323
+.2002_Ngembalrejo_59322
+.2007_Panjang_59326
+.2005_Pedawang_59324
+.2008_Peganjaran_59327
+.2009_Purworejo_59327
+33.19.09_Dawe_59353
+.2002_Cendono_59353
+.2018_Colo_59353
+.2008_Cranggang_59353
+.2016_Dukuhwaringin_59353
+.2006_Glagah Kulon_59353
+.2017_Japan_59353
+.2014_Kajar_59353
+.2005_Kandangmas_59353
+.2015_Kuwukan_59353
+.2009_Lau_59353
+.2003_Margorejo_59353
+.2010_Piji_59353
+.2011_Puyoh_59353
+.2004_Rejosari_59353
+.2001_Samirejo_59353
+.2012_Soco_59353
+.2007_Tergo_59353
+.2013_Ternadi_59353
+33.19.08_Gebog_59333
+.2006_Besito_59333
+.2003_Getassrabi (Getasrabi)_59333
+.2008_Gondosari_59333
+.2001_Gribig_59333
+.2007_Jurang_59333
+.2005_Karangmalang_59333
+.2009_Kedungsari_59333
+.2002_Klumpit_59333
+.2010_Menawan_59333
+.2004_Padurenan_59333
+.2011_Rahtawu_59333
+33.19.03_Jati_59341|59349
+.2008_Getaspejaten (Getas Pejaten)_59343
+.2007_Jati Kulon_59347
+.2003_Jati Wetan_59346
+.2011_Jepangpakis_59349
+.2001_Jetiskapuan (Jetis Kapuan)_59349
+.2009_Loram Kulon_59344
+.2010_Loram Wetan_59344
+.2012_Megawon_59342
+.2013_Ngembal Kulon_59341
+.2004_Pasuruhan Kidul_59349
+.2005_Pasuruhan Lor_59349
+.2006_Ploso_59348
+.2002_Tanjungkarang (Tanjung Karang)_59349
+.2014_Tumpangkrasak (Tumpang Krasak)_59349
+33.19.06_Jekulo_59382
+.2003_Bulung Kulon_59382
+.2002_Bulungcangkring_59382
+.2005_Gondoharum_59382
+.2010_Hadipolo_59382
+.2011_Honggosoco_59382
+.2009_Jekulo_59382
+.2008_Klaling_59382
+.2007_Pladen_59382
+.2001_Sadang_59382
+.2004_Sidomulyo_59382
+.2012_Tanjungrejo_59382
+.2006_Terban_59382
+33.19.01_Kaliwungu_59332
+.2001_Bakalankrapyak_59332
+.2006_Banget_59332
+.2007_Blimbing Kidul_59332
+.2009_Gamong_59332
+.2004_Garung Kidul_59332
+.2011_Garung Lor_59332
+.2014_Kaliwungu_59332
+.2012_Karangampel_59332
+.2010_Kedungdowo_59332
+.2013_Mijen_59332
+.2015_Papringan_59332
+.2002_Prambatan Kidul_59332
+.2003_Prambatan Lor_59332
+.2005_Setrokalangan_59332
+.2008_Sidorekso_59332
+33.19.02_Kota Kudus (Kudus Kota)_59311|59319
+.2023_Barongan_59312
+.2024_Burikan_59311
+.2016_Damaran_59316
+.2013_Demaan_59313
+.2003_Demangan_59317
+.2021_Glantengan_59313
+.2002_Janggalan_59316
+.1018_Kajeksan_59314
+.2022_Kaliputu_59312
+.2015_Kauman_59315
+.1017_Kerjasan_59315
+.2012_Kramat_59312
+.2019_Krandon_59314
+.2014_Langgardalem_59315
+.1008_Mlati Kidul_59319
+.2010_Mlati Lor_59319
+.1009_Mlati Norowito_59319
+.2011_Nganguk_59311
+.1005_Panjunan_59317
+.1001_Purwosari_59316
+.2025_Rendeng_59311
+.2020_Singocandi_59314
+.1004_Sunggingan_59317
+.1007_Wergu Kulon_59318
+.1006_Wergu Wetan_59318
+33.19.05_Mejobo_59381
+.2010_Golantepus_59381
+.2001_Gulang_59381
+.2008_Hadiwarno_59381
+.2002_Jepang_59381
+.2007_Jojo_59381
+.2006_Kesambi_59381
+.2004_Kirig_59381
+.2009_Mejobo_59381
+.2003_Payaman_59381
+.2005_Temulus_59381
+.2011_Tenggeles_59381
+33.19.04_Undaan_59372
+.2016_Berugenjang_59372
+.2006_Glagahwaru_59372
+.2003_Kalirejo_59372
+.2010_Karangrowo_59372
+.2007_Kutuk_59372
+.2002_Lambangan_59372
+.2011_Larikrejo_59372
+.2004_Medini_59372
+.2014_Ngemplak_59372
+.2005_Sambung_59372
+.2015_Terangmas_59372
+.2008_Undaan Kidul_59372
+.2012_Undaan Lor_59372
+.2009_Undaan Tengah_59372
+.2013_Wates_59372
+.2001_Wonosoco_59372

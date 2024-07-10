@@ -1,0 +1,181 @@
+53.15.06_Boleng_86754
+.2009_Batu Tiga_86754
+.2021_Beo Sepang_86754
+.2002_Golo Ketak_86754
+.2008_Golo Lujang_86754
+.2020_Golo Nobo_86754
+.2005_Golo Sepang_86754
+.2001_Mbuit_86754
+.2006_Pontianak_86754
+.2003_Pota Wangka_86754
+.2007_Sepang_86754
+.2004_Tanjung Boleng_86754
+53.15.05_Komodo_86763
+.2019_Batu Cermin_86763
+.2027_Compang Longgo_86763
+.2007_Golo Bilas_86763
+.2004_Golo Mori_86763
+.2015_Golo Pongkor_86763
+.2020_Gorontalo_86763
+.2001_Komodo_86763
+.1025_Labuan Bajo_86763
+.2008_Macang Tanggar_86763
+.2016_Nggorang_86763
+.2028_Pantar_86763
+.2018_Papa Garang_86763
+.2003_Pasir Panjang_86763
+.2002_Pasir Putih_86763
+.2026_Seraya Marannu_86763
+.2022_Tiwu Nampar_86763
+.1024_Wae Kelambu_86763
+.2005_Warloka_86763
+.2009_Watu Nggelek_86763
+53.15.02_Kuwus_86752
+.2030_Bangka Lewat_86752
+.2018_Benteng Suru_86752
+.2002_Coal_86752
+.2017_Compang Suka_86752
+.2032_Golo Pua_86752
+.1022_Golo Ru'u_86752
+.2011_Lawi_86752
+.2010_Lewur_86752
+.1023_Nantal_86752
+.2004_Pangga_86752
+.2021_Sama_86752
+.2031_Suka Kiong_86752
+53.15.12_Kuwus Barat_86751
+.2007_Compang Kules_86751
+.2001_Golo Lewe_86751
+.2006_Golo Riwu_86751
+.2009_Golo Wedong_86751
+.2005_Kolang_86751
+.2010_Ranggu_86751
+.2003_Sompang Kolang_86751
+.2008_Tengku_86751
+.2002_Tueng_86751
+.2004_Wajur_86751
+53.15.03_Lembor_86753
+.2014_Daleng_86753
+.2035_Golo Ndeweng_86753
+.2033_LIang Sola_86753
+.2025_Ngancar_86753
+.2036_Poco Dedeng_86753
+.2023_Poco Rutang_86753
+.2022_Pondo_86753
+.2013_Pong Majok_86753
+.2011_Ponto Ara_86753
+.2021_Siru_86753
+.1032_Tangge_86753
+.2012_Wae Bangka_86753
+.2010_Wae Kanta_86753
+.2034_Wae Mowol_86753
+.2003_Wae Wako_86753
+53.15.09_Lembor Selatan_86761
+.2010_Benteng Dewa_86761
+.2014_Benteng Tado_86761
+.2005_Kakor_86761
+.2006_Lalong_86761
+.2012_Lendong_86761
+.2015_Modo_86761
+.2004_Munting_86761
+.2009_Nanga Bere_86761
+.2008_Nanga Lili_86761
+.2001_Repi_86761
+.2003_Surunumbeng_86761
+.2007_Wae Mose_86761
+.2011_Watu Rambung_86761
+.2013_Watu Tiri_86761
+.2002_Watu Waja_86761
+53.15.01_Macang Pacar_86756
+.2001_Bari_86756
+.2015_Lewat_86756
+.2003_Mbakung_86756
+.2008_Nanga Kantor_86756
+.2026_Nanga Kantor Barat_86756
+.2004_Nggilat_86756
+.2007_Raba_86756
+.2005_Rego_86756
+.2002_Rokap_86756
+.2025_Sarae Naru_86756
+.2016_Watu Manggar_86756
+.2014_Watubaru_86756
+.2006_Wontong_86756
+53.15.10_Mbeliling_86757
+.2014_Compang Liang Ndara_86757
+.2003_Cunca Lolos_86757
+.2004_Cunca Wulang_86757
+.2005_Golo Damu_86757
+.2008_Golo Desat_86757
+.2006_Golo Ndoal_86757
+.2007_Golo Sembea_86757
+.2011_Golo Tantong_86757
+.2009_Kempo_86757
+.2001_Liang Ndara_86757
+.2002_Tandong Belang_86757
+.2012_Tiwi Riwung_86757
+.2010_Wae Jare_86757
+.2015_Watu Galang_86757
+.2013_Watu Wangka_86757
+53.15.08_Ndoso_86750
+.2011_Golo Bore_86750
+.2015_Golo Keli_86750
+.2001_Golo Poleng_86750
+.2014_Golo Ru'a_86750
+.2004_Kasong_86750
+.2009_Lumut_86750
+.2008_Momol_86750
+.2005_Ndoso_86750
+.2012_Pateng Lesuh_86750
+.2010_Pong Narang_86750
+.2003_Raka_86750
+.2013_Tehong_86750
+.2002_Tentang_86750
+.2007_Wae Buka_86750
+.2006_Waning_86750
+53.15.11_Pacar_86755
+.2008_Benteng Ndope_86755
+.2004_Compang_86755
+.2009_Golo Lajang_86755
+.2010_Golo Lajang Barat_86755
+.2011_Kombo_86755
+.2012_Kombo Selatan_86755
+.2013_Kombo Tengah_86755
+.2007_Loha_86755
+.2002_Manong_86755
+.2001_Pacar_86755
+.2006_Pong Kolong_86755
+.2003_Romang_86755
+.2005_Waka_86755
+53.15.04_Sano Nggoang_86758
+.2005_Golo Kempo_86758
+.2026_Golo Kondeng_86758
+.2017_Golo Leleng_86758
+.2008_Golo Manting_86758
+.2016_Golo Mbu_86758
+.2001_Golo Ndaring_86758
+.2024_Golo Sengang_86758
+.2009_Matawae_86758
+.2011_Nampar Macing_86758
+.2027_Poco Golo Kempo_86758
+.2028_Pulau Nuncung_86758
+.2018_Sano Nggoang_86758
+.2020_Wae Lolos_86758
+.2014_Wae Sano_86758
+.2025_Watu Panggal_86758
+53.15.07_Welak_86762
+.2003_Dunta_86762
+.2007_Galang_86762
+.2019_Golo Ndari_86762
+.2001_Golo Ronggot_86762
+.2004_Gurung_86762
+.2011_Lale_86762
+.2005_Orong_86762
+.2010_Pengka_86762
+.2006_Pong Welak_86762
+.2015_Racang Welak_86762
+.2008_Rehak_86762
+.2017_Robo_86762
+.2002_Semang_86762
+.2016_Sewar_86762
+.2009_Watu Umpu_86762
+.2018_Wewa_86762

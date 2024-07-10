@@ -1,0 +1,62 @@
+35.73.01_Blimbing_65121|65137
+.1002_Arjosari_65126
+.1001_Balearjosari_65126
+.1005_Blimbing_65125
+.1008_Bunulrejo_65123
+.1011_Jodipan_65137
+.1009_Kesatrian_65121
+.1006_Pandanwangi_65124
+.1010_Polehan_65121
+.1003_Polowijen_65126
+.1007_Purwantoro_65122
+.1004_Purwodadi_65125
+35.73.03_Kedungkandang_65132|65139
+.1011_Arjowinangun_65132
+.1003_Bumiayu_65135
+.1005_Buring_65136
+.1010_Cemorokandang_65138
+.1006_Kedungkandang_65137
+.1001_Kotalama_65136
+.1007_Lesanpuro_65138
+.1009_Madyopuro_65139
+.1002_Mergosono_65134
+.1008_Sawojajar_65139
+.1012_Tlogowaru_65133
+.1004_Wonokoyo_65135
+35.73.02_Klojen_65111|65119
+.1009_Bareng_65116
+.1010_Gading Kasri (Gadingkasri)_65115
+.1006_Kasin_65117
+.1007_Kauman_65119
+.1004_Kiduldalem (Kidul Dalem)_65119
+.1001_Klojen_65111
+.1008_Oro Oro Dowo_65119
+.1011_Penanggungan_65113
+.1002_Rampalcelaket (Rampal Celaket)_65111
+.1003_Samaan_65112
+.1005_Sukoharjo_65118
+35.73.05_Lowokwaru_65141|65145
+.1004_Dinoyo_65144
+.1007_Jatimulyo_65141
+.1006_Ketawanggede_65145
+.1011_Lowokwaru_65141
+.1002_Merjosari_65144
+.1009_Mojolangu_65142
+.1005_Sumbersari_65145
+.1012_Tasik Madu (Tasikmadu)_65143
+.1003_Tlogomas_65144
+.1010_Tulusrejo_65141
+.1001_Tunggulwulung_65143
+.1008_Tunjungsekar_65142
+35.73.04_Sukun_65146|65149
+.1011_Bakalankrajan (Bakalan Krajan)_65148
+.1008_Bandulan_65146
+.1004_Bandungrejosari_65148
+.1001_Ciptomulyo_65148
+.1002_Gadang_65149
+.1009_Karangbesuki (Karang Besuki)_65149
+.1003_Kebonsari_65149
+.1010_Mulyorejo_65147
+.1007_Pisangcandi (Pisang Candi)_65146
+.1005_Sukun_65147
+.1006_Tanjungrejo_65147

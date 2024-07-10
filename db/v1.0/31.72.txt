@@ -1,0 +1,37 @@
+31.72.04_Cilincing_14110|14150
+.1001_Cilincing_14120
+.1004_Kalibaru (Kali Baru)_14110
+.1003_Marunda_14150
+.1006_Rorotan_14140
+.1007_Semper Barat_14130
+.1005_Semper Timur_14130
+.1002_Sukapura_14140
+31.72.06_Kelapa Gading_14240|14250
+.1003_Kelapa Gading Barat_14240
+.1001_Kelapa Gading Timur_14240
+.1002_Pegangsaan Dua_14250
+31.72.03_Koja_14210|14270
+.1001_Koja (Utara, Selatan)_14210
+.1003_Lagoa_14270
+.1006_Rawa Badak Selatan_14230
+.1004_Rawa Badak Utara_14230
+.1005_Tugu Selatan_14260
+.1002_Tugu Utara_14260
+31.72.05_Pademangan_14410|14430
+.1003_Ancol_14430
+.1002_Pademangan Barat_14420
+.1001_Pademangan Timur_14410
+31.72.01_Penjaringan_14440|14470
+.1002_Kamal Muara_14470
+.1003_Kapuk Muara_14460
+.1004_Pejagalan_14450
+.1001_Penjaringan_14440
+.1005_Pluit_14450
+31.72.02_Tanjung Priok_14360|14370
+.1005_Kebon Bawang_14320
+.1003_Papanggo_14340
+.1004_Sungai Bambu_14330
+.1006_Sunter Agung_14350
+.1002_Sunter Jaya_14360
+.1001_Tanjung Priok_14310
+.1007_Warakas_14370

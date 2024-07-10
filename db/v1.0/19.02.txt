@@ -1,0 +1,54 @@
+19.02.05_Badau_33451
+.2002_Air Batu Buding (Air Batu)_33451
+.2001_Badau_33451
+.2005_Cerucuk_33451
+.2007_Ibul_33451
+.2004_Kacang Butor (Kacang Botor)_33451
+.2006_Pegantungan_33451
+.2003_Sungai Samak_33451
+19.02.02_Membalong_33452
+.2006_Bantan_33452
+.2011_Gunung Riting_33452
+.2005_Kembiri_33452
+.2003_Lassar_33452
+.2001_Membalong_33452
+.2008_Mentigi_33452
+.2012_Padang Kandis_33452
+.2002_Perpat_33452
+.2009_Pulau Seliu_33452
+.2010_Pulau Sumedang_33452
+.2004_Simpang Rusa_33452
+.2007_Tanjungrusa (Tanjung Rusa)_33452
+19.02.03_Selat Nasik_33481
+.2002_Petaling_33481
+.2004_Pulau Gersik (Pulau Gresik)_33481
+.2001_Selat Nasik_33481
+.2003_Suak Gual_33481
+19.02.04_Sijuk_33414
+.2006_Air Selumar_33414
+.2004_Air Seruk (Air Seru)_33414
+.2002_Batu Itam_33414
+.2008_Keciput_33414
+.2009_Pelepak Pute_33414
+.2001_Sijuk_33414
+.2007_Sungai Padang_33414
+.2010_Tanjong Tinggi_33414
+.2005_Tanjung Binga_33414
+.2003_Terong_33414
+19.02.01_Tanjung Pandan_33411|33417
+.2014_Aik Ketekok_33411
+.2013_Aik Pelempang Jaya (Aik Palempang Jaya)_33414
+.2015_Aik Rayak_33413
+.2012_Air Merbau_33411
+.2010_Air Saga_33415
+.2003_Buluh Tumbang_33411
+.2007_Dukong_33411
+.2008_Juru Seberang_33417
+.1016_Kampong Damai_33411
+.1001_Kota_33411
+.1005_Lesung Batang_33411
+.1011_Paal Satu_33414
+.1006_Pangkallalang_33412
+.1002_Parit_33411
+.2004_Perawas_33413
+.1009_Tanjungpendam_33411

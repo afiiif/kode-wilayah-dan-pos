@@ -1,0 +1,98 @@
+71.71.01_Bunaken_95231|95249
+.1008_Bailang_95231
+.1007_Meras_95231
+.1001_Molas_95231
+.1009_Pandu_95249
+.1006_Tongkeina / Tongkaina_95231
+71.71.10_Bunaken Kepulauan_95231|95246
+.1004_Alung Banua_95231
+.1001_Bunaken_95246
+.1003_Manado Tua Dua_95231
+.1002_Manado Tua Satu_95231
+71.71.09_Malalayang_95115|95163
+.1002_Bahu_95115
+.1004_Batu Kota_95163
+.1003_Kleak_95115
+.1007_Malalayang Dua (II)_95163
+.1001_Malalayang Satu (I)_95162
+.1006_Malalayang Satu Barat_95163
+.1005_Malalayang Satu Timur_95163
+.1009_Winangun Dua_95161
+.1008_Winangun Satu_95161
+71.71.08_Mapanget_95249|95259
+.1006_Bengkol_95251
+.1005_Buha_95252
+.1009_Kairagi Dua_95254
+.1008_Kairagi Satu_95253
+.1004_Kima Atas_95259
+.1002_Lapangan_95258
+.1003_Mapanget Barat_95258
+.1001_Paniki Bawah_95256
+.1011_Paniki Dua_95257
+.1010_Paniki Satu_95259
+71.71.11_Paal Dua_95127|95129
+.1006_Dendengan Dalam_95127
+.1007_Dendengan Luar_95127
+.1002_Kairagi Weru_95129
+.1005_Malendeng_95129
+.1003_Paal Dua_95129
+.1004_Perkamil_95129
+.1001_Ranomuut (Ranomut)_95128
+71.71.06_Sario_95113|95116
+.1007_Ranotana_95116
+.1004_Sario_95114
+.1002_Sario Kotabaru (Sario Kota Baru)_95113
+.1003_Sario Tumpaan_95114
+.1001_Sario Utara_95114
+.1006_Titiwungan Selatan (Titiwungen Selatan)_95113
+.1005_Titiwungan Utara (Titiwungen Utara)_95113
+71.71.03_Singkil_95231|95234
+.1004_Karame_95231
+.1005_Ketang Baru_95232
+.1007_Kombos Barat_95234
+.1008_Kombos Timur_95234
+.1002_Singkil Dua_95234
+.1001_Singkil Satu_95234
+.1006_Ternate Baru_95232
+.1009_Ternate Tanjung_95234
+.1003_Wawonasa_95231
+71.71.05_Tikala_95124|95129
+.1011_Banjer_95125
+.1010_Paal IV_95129
+.1009_Taas_95129
+.1012_Tikala Ares_95124
+.1008_Tikala Baru_95126
+71.71.02_Tuminting (Tuminiting)_95238|95239
+.1001_Bitung Karangria (Bitungkarangria)_95239
+.1007_Islam (Kampung Islam)_95239
+.1004_Maasing_95238
+.1010_Mahawu_95239
+.1006_Sindulang Dua_95239
+.1005_Sindulang Satu_95239
+.1009_Sumompo_95239
+.1002_Tuminting_95239
+.1008_Tumumpa Dua_95239
+.1003_Tumumpa Satu_95239
+71.71.07_Wanea_95117|95119
+.1004_Bumi Nyiur_95117
+.1009_Karombasan Selatan_95117
+.1008_Karombasan Utara_95117
+.1003_Pakowa_95119
+.1005_Ranotana Weru_95118
+.1002_Tanjung Batu_95117
+.1006_Teling Atas_95119
+.1007_Tingkulu_95117
+.1001_Wanea_95117
+71.71.04_Wenang_95111|95124
+.1012_Bumi Beringin_95113
+.1008_Calaca_95121
+.1009_Istiqlal_95121
+.1011_Komo Luar_95122
+.1010_Lawangirung (Lawang Irung)_95123
+.1003_Mahakeret Barat_95112
+.1002_Mahakeret Timur_95112
+.1007_Pinaesaan_95122
+.1004_Teling Bawah_95119
+.1001_Tikala Kumaraka_95124
+.1006_Wenang Selatan_95111
+.1005_Wenang Utara_95111

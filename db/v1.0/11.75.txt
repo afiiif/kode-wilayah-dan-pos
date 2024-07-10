@@ -1,0 +1,87 @@
+11.75.05_Longkib_24782
+.2009_Bangun Sari_24782
+.2007_Bukit Panjang_24782
+.2008_Darul Aman (Ginasing)_24782
+.2010_Darussalam_24782
+.2004_Lae Saga_24782
+.2001_Longkib_24782
+.2003_Panji_24782
+.2006_Rantau Panjang_24782
+.2002_Sepang_24782
+.2005_Sikerabang_24782
+11.75.02_Penanggalan_24780
+.2002_Cepu_24780
+.2011_Dasan Raja_24780
+.2007_Jontor_24780
+.2004_Kampung Baru_24780
+.2003_Kuta Tengah_24780
+.2010_Lae Bersih_24780
+.2009_Lae Ikan_24780
+.2008_Lae Motong_24780
+.2001_Penanggalan_24780
+.2013_Penanggalan Barat_24780
+.2012_Penanggalan Timur_24780
+.2006_Penuntungan_24780
+.2005_Sikelang_24780
+11.75.03_Rundeng_24779
+.2015_Badar_24779
+.2006_Binanga_24779
+.2014_Bulukur Makmur (Blukur / Belukur Makmur)_24779
+.2002_Dah_24779
+.2019_Geruguh_24779
+.2012_Harapan Baru_24779
+.2022_Kuala Kepeng (Keupeng)_24779
+.2007_Kuta Beringin_24779
+.2010_Lae Mate_24779
+.2016_Lae Pemulaan (Lae Pamualan)_24779
+.2020_Mandilam_24779
+.2008_Muara Batu-Batu_24779
+.2003_Oboh_24779
+.2017_Panglima Saman_24779
+.2001_Pasar Rundeng_24779
+.2004_Sepadan_24779
+.2005_Sibuasan_24779
+.2011_Sibungke_24779
+.2009_Siperkas_24779
+.2018_Suaq/Suak Jampak_24779
+.2023_Tanah Tumbuh_24779
+.2013_Teladan Baru_24779
+.2021_Tualang_24779
+11.75.01_Simpang Kiri_24781
+.2015_Belegen Mulia_24781
+.2004_Buluh Dori (Buluh Besi)_24781
+.2016_Danau Tras_24781
+.2010_Kuta Cepu_24781
+.2013_Lae Oram (Aram)_24781
+.2014_Makmur Jaya_24781
+.2012_Mukti Makmur_24781
+.2011_Pasar Panjang_24781
+.2002_Pegayo_24781
+.2003_Sikalondang (Sikelondang)_24781
+.2001_Subulussalam_24781
+.2007_Subulussalam Barat_24781
+.2006_Subulussalam Selatan_24781
+.2017_Subulussalam Timur_24781
+.2005_Subulussalam Utara_24781
+.2008_Suka Makmur_24781
+.2009_Tangga Besi_24781
+11.75.04_Sultan Daulat_24783
+.2020_Batu Napal_24783
+.2002_Bawan_24783
+.2015_Bunga Tanjung_24783
+.2014_Cipar Pari/Pare_24783
+.2016_Cipar Pari/Pare Timur_24783
+.2018_Darul Makmur_24783
+.2008_Gunung Bakti_24783
+.2004_Jabi-Jabi_24783
+.2019_Jabi-Jabi Barat_24783
+.2009_Jambi Baru_24783
+.2006_Lae Langge_24783
+.2005_Lae Simolap_24783
+.2013_Namo Buaya (Namo Buayo)_24783
+.2001_Pasir Belo_24783
+.2010_Pulau Kedep (Pulo Kedep)_24783
+.2011_Pulo Belen (Pulau Belen / Pulo Bellen)_24783
+.2003_Sigerun (Sigrun)_24783
+.2012_Singgersing_24783
+.2007_Suka Maju_24783

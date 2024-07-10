@@ -1,0 +1,172 @@
+73.26.21_Awan Rante Karua_91854
+.2001_Awan_91854
+.2002_Batu Lotong_91854
+.2003_Buntu Karua_91854
+.2004_Londong Biang_91854
+73.26.10_Balusu_91855
+.2006_Awa' Kawasik_91855
+.1005_Balusu_91855
+.2003_Balusu Ao Gading_91855
+.2007_Balusu Bangun Lipu_91855
+.2004_Karua_91855
+.2001_Palangi'_91855
+.1002_Tagari_91855
+73.26.17_Bangkelekila_91853
+.2003_Bangkelekila_91853
+.2002_Batu Limbong_91853
+.2004_Tampan Bonga_91853
+.2001_To'yasa Akung_91853
+73.26.14_Baruppu_91846
+.2004_Baruppu Baropo (Baruppu Parodo)_91846
+.2003_Baruppu Benteng Batu_91846
+.1002_Baruppu Selatan_91846
+.2001_Baruupu Utara (Baruppu Utara)_91846
+73.26.05_Buntao_91841
+.2004_Issong Kalua'_91841
+.2003_Misa'ba'bana (Misa Ba'Bana)_91841
+.2002_Rindingkila'_91841
+.2001_Sapan Kua Kua_91841
+.1006_Tongkonan Bassae (Tongkonan Basse)_91841
+.1005_Tullang' Sura (Tallang Sura')_91841
+73.26.13_Buntu Pepasan_91847
+.2012_Batu Busa (Batu Basa)_91847
+.2001_Buntu Minanga_91847
+.2010_Pangkung Batu_91847
+.2007_Paonganan_91847
+.2008_Parandangan_91847
+.2011_Pengkaroan Manuk (Pangkoroan Manuk)_91847
+.2013_Ponglu_91847
+.2006_Pulu' Pulu'_91847
+.2004_Rante Uma_91847
+.2009_Roroan Barra'-Barra'_91847
+.1002_Sapan_91847
+.2003_Serambu (Sarambu)_91847
+.2005_Talimbangan_91847
+73.26.12_Dende' Piongan Napo_91822
+.2007_Buntu Tagari_91822
+.2002_Dende'_91822
+.2006_Kapolang_91822
+.2001_Madong (Ma Dong)_91822
+.2005_Paku_91822
+.2008_Parinding_91822
+.1004_Pasang_91822
+.2003_Piongan_91822
+73.26.20_Kapala Pitu (Kapalla Pitu)_91848
+.2001_Benteng Ka'do (Benteng Kado)_91848
+.2006_Benteng Mamulu_91848
+.2004_Kantun Poya_91848
+.2005_Kapal Pitu (Kapala Pitu)_91848
+.2003_Polo Padang_91848
+.2002_Sikuku'_91848
+73.26.15_Kesu_91852
+.2005_Angin Angin_91852
+.1003_Ba'tan_91852
+.1004_Pantanakan Lolo_91852
+.2002_Rinding Batu_91852
+.2006_Sangbua'_91852
+.2007_Tadongkon_91852
+.2001_Tallulolo_91852
+73.26.03_Nanggala_91856
+.2007_Basokan_91856
+.2005_Karre Limbong_91856
+.2009_Karre Pananian (Karre Penanian)_91856
+.2003_Lili'kira' (Lilikira)_91856
+.2001_Nanggala_91856
+.1004_Nanggala Sanpiak Salu (Nanggala Sangpiak Salu)_91856
+.2008_Nanna' Nanggala (Nanna Nanggala)_91856
+.2006_Rante_91856
+.2002_Tandung Nanggala_91856
+73.26.18_Rantebua_91842
+.1002_Bokin_91842
+.1005_Buangin_91842
+.2004_Ma'kuan Pare_91842
+.2003_Pitung Penanian_91842
+.2001_Rantebua_91842
+.2007_Rantebua Sanggalagi_91842
+.2006_Rantebua Sumalu_91842
+73.26.01_Rantepao_91831|91835
+.1007_Karassik_91835
+.1001_Laang Tanduk_91834
+.2010_Limbong_91835
+.1004_Manggalo (Malango)_91831
+.1003_Mentirotiku (Mentiro Tiku)_91834
+.1005_Pasale (Pasele)_91831
+.1008_Penanian_91835
+.1009_Rante Pasele_91835
+.1002_Rantepao_91831
+.2011_Saloso_91835
+.1006_Singki' (Singki)_91835
+73.26.04_Rindingallo_91849
+.2007_Ampang Batu (Appang)_91849
+.2009_Buntu Batu_91849
+.2008_Lempo Poton (Lempopoton)_91849
+.2001_Limbong Malting_91849
+.2006_Lo'ko' Uru (Lo Ko Uru Tanete Batu)_91849
+.2005_Mai'ting (Maiting)_91849
+.1002_Pangala' (Pangala)_91849
+.1004_Pangala' Utara (Pangala Utara)_91849
+.2003_Rindingallo_91849
+73.26.06_Sa'dan_91843
+.2008_Sa'dan Andulan (Sa' Dan Andulan)_91843
+.2003_Sa'dan Balong Pasange'_91843
+.2010_Sa'dan Luku Lambe'na (Liku Lambe)_91843
+.1002_Sa'dan Malimbong (Sa' Dan Malimbong)_91843
+.1004_Sa'dan Matalo (Sa' Dan Matallo)_91843
+.2005_Sa'dan Pebulian (Sa' Dan Pebulian)_91843
+.2009_Sa'dan Pesondongan (Sa' Dan)_91843
+.2007_Sa'dan Tiroallo_91843
+.2001_Sa'dan Ulusalu (Sa' Dan Ulusalu)_91843
+.2006_Sangkaropi' (Sa' Dan Sangkaropi)_91843
+73.26.07_Sanggalangi_91851
+.2002_Buntu La'bo'_91851
+.2001_La'bo'_91851
+.1006_Paepalean_91851
+.2004_Pata'padang (Pata' Padang)_91851
+.2003_Tallung Penanian_91851
+.2005_Tandung Labo' (Tandung La'bo')_91851
+73.26.02_Sesean_91844
+.1001_Bori_91844
+.2008_Bori' Lombongan (Bori Lombongan)_91844
+.2007_Bori' Ranteletok_91844
+.2003_Buntu Lobo_91844
+.1005_Deri' (Deri)_91844
+.1004_Palawa' (Palawa)_91844
+.1002_Pangli (Pangli Palawa)_91844
+.1009_Pangli Selatan_91844
+.2006_Parinding_91844
+73.26.19_Sesean Suloara_91845
+.2003_Landorundun_91845
+.2005_Lempo_91845
+.2002_Sesean Matalo (Sesean Matallo)_91845
+.2001_Suloara'_91845
+.2004_Tonga Riu_91845
+73.26.08_Sopai_91850
+.2006_Langda_91850
+.2005_Marante_91850
+.2007_Nonongan Selatan_91850
+.1002_Nonongan Utara_91850
+.2001_Salu_91850
+.2008_Salu Sarre (Salu Rante)_91850
+.2003_Salu Sopai_91850
+.2004_Tombang Langda_91850
+73.26.11_Tallunglipu_91832
+.2006_Buntu Tallunglipu_91832
+.1007_Rante PakuTallunglipu (Rantepaku Tallunglipu)_91832
+.1004_Tagari Tallunglipu_91832
+.1002_Tallunglipu_91832
+.1001_Tallunglipu Matalo (Tallunglipu Matallo)_91832
+.1003_Tampo Tallunglipu_91832
+.1005_Tantanan Tallunglipu_91832
+73.26.09_Tikala_91833
+.2006_Benteng Ka'do To'rea_91833
+.1002_Buntu Barana_91833
+.2003_Buntu Batu_91833
+.2005_Embatau_91833
+.2007_Pangden_91833
+.2004_Sereale_91833
+.1001_Tikala_91833
+73.26.16_Tondon_91857
+.2002_Tondon_91857
+.2001_Tondon Langi' (Tondon Langi)_91857
+.2004_Tondon Matalo (Tondon Matallo)_91857
+.2003_Tondon Sibata (Tondon Siba Ta)_91857

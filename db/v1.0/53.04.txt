@@ -1,0 +1,93 @@
+53.04.21_Atambua Barat_85713|85718
+.1001_Bardao (Berdao)_85715
+.1004_Beirafu_85718
+.1002_Tulamalae_85714
+.1003_Umanen_85713
+53.04.22_Atambua Selatan_85716|85718
+.1004_Fatukbot_85717
+.1003_Lidak_85716
+.1001_Manuaman_85718
+.1002_Rinbesi_85718
+53.04.05_Kakuluk Mesak_85752
+.2002_Dualaus (Dua Laus)_85752
+.2001_Fatuketi_85752
+.2003_Jenilu_85752
+.2006_Kabuna_85752
+.2004_Kenebibi_85752
+.2005_Leosama_85752
+53.04.12_Kota Atambua (Atambua Kota)_85711|85718
+.1010_Fatubenao_85718
+.1001_Kota Atambua (Atambua kota)_85711
+.1003_Manumutin_85712
+.1002_Tenukiik_85711
+53.04.01_Lamaknen_85772
+.2008_Dirun_85772
+.2004_Duarato_85772
+.2002_Fulur_85772
+.2001_Kewar_85772
+.2006_Lamaksenulu_85772
+.2009_Leowalu_85772
+.2015_Mahuitas_85772
+.2005_Makir_85772
+.2014_Maudemu_85772
+53.04.18_Lamaknen Selatan_85770
+.2006_Debululik_85770
+.2001_Ekin_85770
+.2005_Henes_85770
+.2004_Lakmaras_85770
+.2002_Loonuna_85770
+.2008_Lutha Rato (Lutarato)_85770
+.2003_Nualain_85770
+.2007_Sisi Fatuberal_85770
+53.04.17_Lasiolat_85771
+.2007_Baudaok_85771
+.2005_Dualasi_85771
+.2004_Dualasi Rai Ulun (Raiulun)_85771
+.2006_Fatulotu_85771
+.2003_Lakan Mau (Lakanmau)_85771
+.2001_Lasiolat_85771
+.2002_Maneikun_85771
+53.04.23_Nanaet Duabesi_85751
+.2001_Dubesi_85751
+.2003_Fohoeka_85751
+.2004_Nanaenoe_85751
+.2002_Nanaet_85751
+53.04.03_Raihat_85773
+.2005_Aitoun_85773
+.2001_Asumanu_85773
+.2003_Maumutin_85773
+.2004_Raifatus_85773
+.2002_Tohe_85773
+.2006_Tohe Leten (Toheleten)_85773
+53.04.13_Raimanuk_85760
+.2003_Dua Koran (Duakoran)_85760
+.2006_Faturika_85760
+.2007_Leuntolu_85760
+.2004_Mandeu_85760
+.2001_Mandeu Raimanus (Raimanus)_85760
+.2005_Rafae_85760
+.2002_Renrua_85760
+.2009_Tasain_85760
+.2008_Teun_85760
+53.04.04_Tasifeto Barat_85753
+.2005_Bakustulama_85753
+.2004_Derokfaturene (Derok Faturene)_85753
+.2009_Lawalutolus_85753
+.2003_Lookeu_85753
+.2002_Naekasa_85753
+.2007_Naitimu_85753
+.2006_Rinbesihat_85753
+.2001_Tukuneno_85753
+53.04.02_Tasifeto Timur_85711|85771
+.2009_Bauho_85771
+.2007_Dafala_85771
+.2006_Fatuba'a_85771
+.2019_Halimodok_85771
+.2005_Manleten_85771
+.2003_Sadi_85711
+.2010_Sarabau (Sabarau / Saraban)_85771
+.2001_Silawan_85771
+.2008_Takirin_85771
+.2018_Tialai_85771
+.2002_Tulakadi_85771
+.2004_Umaklaran_85771

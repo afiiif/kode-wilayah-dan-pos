@@ -1,0 +1,37 @@
+71.74.04_Kotamobagu Barat_95711|95716
+.1004_Gogagoman_95715
+.1005_Kotamobagu_95711
+.1003_Mogolaing_95716
+.1002_Molinow_95716
+.1001_Mongkonai_95716
+.1006_Mongkonai Barat_95716
+71.74.03_Kotamobagu Selatan_95717
+.2004_Bungko_95717
+.2005_Kopandakan Satu (Kopandakan I)_95717
+.1008_Mongondow_95717
+.1007_Motoboi Kecil_95717
+.1009_Pombundayan (Pobundayan)_95717
+.2002_Poyowa Besar Dua (Poyowa Besar II)_95717
+.2001_Poyowa Besar Satu (Poyowa Besar I)_95717
+.2006_Poyowa Kecil_95717
+.2003_Tabang_95717
+71.74.02_Kotamobagu Timur_95712|95719
+.1008_Kobo Besar_95719
+.2002_Kobo Kecil_95719
+.1003_Kotobangun (Kotobangon / Kotabangon)_95712
+.1006_Matali_95718
+.1007_Motoboi Besar_95719
+.2001_Moyag_95719
+.2009_Moyag Tampoan_95719
+.2010_Moyag Todulan_95719
+.1005_Sinindian_95718
+.1004_Tumubui / Tomobui (Tumobuy)_95716
+71.74.01_Kotamobagu Utara_95713|95714
+.1005_Biga_95713
+.2002_Bilalang Dua (Bilalang II)_95714
+.2001_Bilalang Satu (Bilalang I)_95714
+.1007_Genggulang_95714
+.2003_Pontodon_95714
+.2008_Pontodon Timur_95714
+.2004_Sia_95714
+.1006_Upai_95714

@@ -1,0 +1,21 @@
+11.72.02_Sukajaya_23521|23529
+.2010_Anoe Itam (Anoi Itam)_23524
+.2005_Balohan_23525
+.2006_Cot Abeuk_23523
+.2007_Cot Ba'U_23522
+.2008_Ie Meulee_23521
+.2004_Jaboi_23526
+.2009_Ujoeng Kareung (Ujong Kareung / Kareueng)_23521
+11.72.01_Sukakarya_23517|23518
+.2005_Aneuk Laot_23514
+.2004_Krueng Raya_23515
+.2008_Kuta Ateuh (Kota Atas)_23511
+.2007_Kuta Barat (Kota Bawah Barat)_23512
+.2006_Kuta Timu (Kota Bawah Timur)_23513
+11.72.03_Sukamakmue_23516|23529
+.2002_Batee Shok (Batee Shoek)_23517
+.2006_Beurawang_23527
+.2001_Iboih_23518
+.2005_Keunekai (Keuneukai)_23528
+.2004_Paya_23529
+.2003_Paya Seunara_23516

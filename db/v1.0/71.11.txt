@@ -1,0 +1,88 @@
+71.11.01_Bolaang Uki_95770
+.2013_Dudepo_95770
+.2028_Dudepo Barat_95770
+.2007_Molibagu_95770
+.2014_Pinolantungan_95770
+.2022_Pintadia_95770
+.2008_Popodu_95770
+.2005_Salongo_95770
+.2027_Salongo Barat_95770
+.2023_Salongo Timur_95770
+.2020_Soguo_95770
+.2012_Sondana_95770
+.2010_Tabilaa_95770
+.2004_Tangagah_95770
+.2009_Tolondadu_95770
+.2015_Tolondadu I_95770
+.2016_Tolondadu II_95770
+.2006_Toluaya (Toluayu)_95770
+71.11.06_Helumo_95779
+.2007_Bakida_95779
+.2002_Biniha_95779
+.2003_Biniha Selatan_95779
+.2001_Biniha Timur_95779
+.2004_Duminanga_95779
+.2005_Halabolu_95779
+.2011_Motolohu_95779
+.2010_Pangia_95779
+.2008_Sinandaka_95779
+.2009_Soputa_95779
+.2006_Trans Patoa_95779
+71.11.03_Pinolosian_95775
+.2006_Ilomata_95775
+.2004_Kombot_95775
+.2010_Kombot Timur_95775
+.2001_Linawan_95775
+.2007_Linawan I_95775
+.2005_Lungkap_95775
+.2002_Nunuk_95775
+.2003_Pinolosian_95775
+.2009_Pinolosian Selatan_95775
+.2008_Tolotoyon (Tolotoyan)_95775
+71.11.04_Pinolosian Tengah_95776
+.2002_Adow_95776
+.2006_Adow Selatan_95776
+.2005_Deaga_95776
+.2001_Mataindo_95776
+.2007_Mataindo Utara (Matandoi Utara)_95776
+.2004_Tobayagan_95776
+.2008_Tobayagan Selatan_95776
+.2003_Torosik_95776
+71.11.05_Pinolosian Timur_95777
+.2004_Dayow_95777
+.2002_Dumagin A_95777
+.2003_Dumagin B_95777
+.2009_Iligon_95777
+.2001_Matandoi_95777
+.2010_Matandoi Selatan (Motandoi Selatan)_95777
+.2006_Modisi_95777
+.2005_Onggunoi_95777
+.2012_Onggunoi Selatan_95777
+.2011_Perjuangan_95777
+.2008_Pidung_95777
+.2007_Posilagon_95777
+71.11.02_Posigadan_95774
+.2016_Iloheluma_95774
+.2023_Inosota_95774
+.2001_Lion_95774
+.2008_Luwoo_95774
+.2012_Manggadaa_95774
+.2003_Meyambanga_95774
+.2017_Meyambanga Timur_95774
+.2019_Molosipat_95774
+.2009_Momalia I_95774
+.2002_Momalia II_95774
+.2022_Momalia Tiga_95774
+.2013_Pilolahunga_95774
+.2004_Saibuah_95774
+.2011_Sakti_95774
+.2007_Sinombayuga_95774
+.2014_Tonala_95774
+71.11.07_Tomini_95778
+.2001_Botuliodu_95778
+.2004_Milangodaa_95778
+.2005_Milangodaa Barat_95778
+.2006_Milangodaa Utara (Milangoda Utara)_95778
+.2002_Nunuka Raya_95778
+.2007_Pakuku Jaya_95778
+.2003_Tolutu_95778

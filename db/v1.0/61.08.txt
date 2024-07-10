@@ -1,0 +1,169 @@
+61.08.05_Air Besar_79365
+.2014_Bentiang Madomang_79365
+.2011_Dange Aji_79365
+.2010_Engkadik/Enkadik Pade_79365
+.2002_Engkangin_79365
+.2003_Jambu Tembawang_79365
+.2005_Merayuh_79365
+.2006_Nyari_79365
+.2013_Parek (Pare/Sutipadang)_79365
+.2007_Sekendal_79365
+.2016_Sempatung Lawek_79365
+.2008_Semuntik_79365
+.2004_Sepangah_79365
+.2001_Serimbu_79365
+.2009_Temoyok_79365
+.2015_Tengon (Tengon Pelaik)_79365
+.2012_Tenguwe_79365
+61.08.12_Banyuke Hulu_79364
+.2006_Gamang_79364
+.2003_Kampet_79364
+.2001_Padang Pio_79364
+.2005_Ringo Lojok_79364
+.2007_Semade_79364
+.2002_Tembawang Bale_79364
+.2004_Untang_79364
+61.08.11_Jelimpo_79357
+.2011_Angan Tembawang_79357
+.2012_Balai Peluntan_79357
+.2013_Dara Itam I_79357
+.2007_Jelimpo_79357
+.2009_Kayu Ara_79357
+.2002_Kersik Belantian_79357
+.2006_Mandor Kiru_79357
+.2003_Nyi'in (Nyiin)_79357
+.2004_Papung_79357
+.2010_Pawis Hilir_79357
+.2005_Sekais_79357
+.2001_Temahar_79357
+.2008_Tubang Raeng_79357
+61.08.09_Kuala Behe_79367
+.2007_Angkanyar_79367
+.2009_Bengawan Ampar_79367
+.2008_Kedama_79367
+.2002_Kuala Behe_79367
+.2003_Nyayum_79367
+.2004_Paku Raya_79367
+.2005_Permiit_79367
+.2010_Sehe Lusur_79367
+.2011_Sejowet_79367
+.2001_Semedang (Sumedang)_79367
+.2006_Tanjung Balai_79367
+61.08.04_Mandor_79355
+.2004_Bebatung_79355
+.2011_Kayu Ara_79355
+.2016_Kayu Tanam_79355
+.2009_Keramas_79355
+.2005_Kerohok_79355
+.2013_Mandor_79355
+.2008_Manggang_79355
+.2003_Mengkunyit_79355
+.2017_Ngarak_79355
+.2010_Pongok_79355
+.2015_Salatiga (Sala Tiga)_79355
+.2001_Sebadu_79355
+.2007_Sekilap_79355
+.2012_Selutung_79355
+.2002_Semenok_79355
+.2014_Simpang Kasturi_79355
+.2006_Sumsum (Sum Sum)_79355
+61.08.02_Mempawah Hulu_79363
+.2022_Ansolok_79363
+.2023_Babatn_79363
+.2019_Bilayuk_79363
+.2020_Caokng_79363
+.2018_Garu_79363
+.2001_Karangan_79363
+.2003_Mentonyek_79363
+.2017_Pahokng (Pahong / Pahok)_79363
+.2024_Parigi_79363
+.2006_Sabaka_79363
+.2002_Sailo_79363
+.2005_Sala'as_79363
+.2021_Salumang_79363
+.2004_Sampuro_79363
+.2009_Sei/Sungai Laki_79363
+.2014_Tiang Tanjung_79363
+.2007_Tunang_79363
+61.08.03_Menjalin_79362
+.2003_Bengkawe_79362
+.2002_Lamoanak (Lamo Anak)_79362
+.2008_Menjalin_79362
+.2007_Nangka_79362
+.2006_Raba_79362
+.2005_Re'es (Rees)_79362
+.2001_Sepahat_79362
+.2004_Tempoak_79362
+61.08.06_Menyuke_79360
+.2005_Angkaras_79360
+.2014_Anik Dingir_79360
+.2003_Ansang_79360
+.2015_Bagak_79360
+.2011_Berinang Mayun_79360
+.2001_Darit_79360
+.2004_Kayu Ara (Kayuara)_79360
+.2006_Ladangan_79360
+.2013_Lintah Betung_79360
+.2002_Mamek_79360
+.2019_Ongkol Padang_79360
+.2017_Sei/Sungai Lubang_79360
+.2010_Sidan_79360
+.2009_Songga_79360
+.2018_Ta'as (Ta As)_79360
+.2016_Tolok_79360
+61.08.08_Meranti_79366
+.2005_Ampadi_79366
+.2002_Kelampai Setolo_79366
+.2001_Meranti_79366
+.2003_Moro Betung_79366
+.2004_Selange_79366
+.2006_Tahu_79366
+61.08.01_Ngabang_79354
+.2011_Amang_79354
+.2009_Ambarang_79354
+.2014_Amboyo Inti_79354
+.2017_Amboyo Selatan_79354
+.2005_Amboyo Utara_79354
+.2013_Antan Rayan_79354
+.2010_Engkadu_79354
+.2001_Hilir Kantor_79354
+.2002_Hilir Tengah_79354
+.2008_Mu'un (Muun)_79354
+.2004_Mungguk (Munggu)_79354
+.2019_Pak Mayam_79354
+.2012_Penyahu Dangku (Penyaho Dangku)_79354
+.2003_Raja_79354
+.2007_Rasan_79354
+.2018_Sebirang_79354
+.2006_Sungai Keli_79354
+.2015_Tebedak_79354
+.2016_Temiang Sawi_79354
+61.08.10_Sebangki_79358
+.2003_Agak_79358
+.2002_Kumpang Tengah_79358
+.2004_Rantau Panjang_79358
+.2001_Sebangki_79358
+.2005_Sei/Sungai Segak_79358
+61.08.07_Sengah Temila_79356
+.2005_Andeng_79356
+.2012_Aur Sampuk_79356
+.2008_Banying_79356
+.2013_Gombang_79356
+.2010_Keranji Mancal_79356
+.2011_Keranji Paidang_79356
+.2001_Pahauman_79356
+.2002_Paloan_79356
+.2014_Rabak_79356
+.2004_Saham_79356
+.2003_Sebatih_79356
+.2006_Senakin_79356
+.2009_Sidas_79356
+.2007_Tonang_79356
+61.08.13_Sompak_79361
+.2005_Amawakng (Ambawang)_79361
+.2004_Galar_79361
+.2003_Lingkonong_79361
+.2007_Pakumbang (Pak Kumbang)_79361
+.2002_Pauh_79361
+.2001_Sompak_79361
+.2006_Tapakng (Tapanking / Tapang)_79361

@@ -1,0 +1,218 @@
+53.09.01_Aimere_86452
+.1002_Aimere_86452
+.2014_Aimere Timur_86452
+.2021_Binawali_86452
+.1003_Foa_86452
+.2018_Heawea_86452
+.2001_Keligejo_86452
+.2022_Kila_86452
+.2019_Legelapu_86452
+.2020_Lekogoko (Lekogoku)_86452
+.2024_Mawwo Kisa_86452
+.2023_Waesae_86452
+53.09.06_Bajawa_86411|86419
+.1013_Bajawa_86413
+.2009_Beiwali_86413
+.2001_Beja_86413
+.2028_Bela_86413
+.2030_Bolonga_86417
+.2002_Bomari_86413
+.2031_Boradho_86413
+.2022_Borani_86413
+.2025_Bowali_86413
+.1020_Faobata_86419
+.1016_Jawameze_86416
+.1015_Kisanata_86411
+.2023_Langagedha_86418
+.2034_Langagedha I_86418
+.1019_Lebijaga_86418
+.2032_Mukuvoka_86413
+.2005_Naru (Natu)_86413
+.2029_Ngadhamana_86413
+.1018_Ngedukelu_86415
+.2026_Ngoranale_86413
+.2024_Pape_86413
+.1021_Susu_86417
+.1014_Tanalodu_86412
+.1017_Trikora_86414
+.2004_Ubedolumolo_86413
+.2033_Ubedolumolo II_86413
+.2027_Ubedolumolo Satu_86413
+.2003_Wawowae_86413
+53.09.15_Bajawa Utara_86413
+.2012_Bowado_86413
+.2008_Genamere_86413
+.2003_Inegena_86413
+.2002_Inelika_86413
+.2007_Nabelena_86413
+.2011_Tura Muri_86413
+.2001_Uluwae_86413
+.2009_Uluwae I_86413
+.2010_Uluwae II_86413
+.2006_Waewea_86413
+.2005_Watukapu_86413
+.2004_Wololika_86413
+53.09.02_Golewa_86461
+.2044_Bodosare_86461
+.2018_Dadawea_86461
+.2039_Dolupore_86461
+.2037_Ekoroka (Eko Roka)_86461
+.2041_Kelimolo_86461
+.2020_Malanuza_86461
+.2031_Malanuza Satu (Malanuza I)_86461
+.1017_Mataloko_86461
+.2011_Radabata_86461
+.2043_Radabata I_86461
+.2010_Ratogesa_86461
+.2009_Sangadeto_86461
+.2019_Sarasedu_86461
+.2032_Sarasedu Satu (Sarasedu I)_86461
+.2040_Tiwo Toda_86461
+.1008_Todabelu_86461
+.2036_Ulu Belu (Ulubelu)_86461
+.2038_Wae La (Wae Ia)_86461
+.2025_Were_86461
+.2002_Were I_86461
+.2026_Were IV_86461
+.2042_Wogo_86461
+53.09.19_Golewa Barat_86460
+.2010_Bewapawe (Bea Pawe)_86460
+.2011_Bopoma_86460
+.2009_Dizi Gedha_86460
+.1001_Mangulewa_86460
+.2003_Rakalaba_86460
+.2012_Rakalaba I_86460
+.2007_Rakateda Dua (Rakateda II)_86460
+.2006_Rakateda Satu (Rakateda I)_86460
+.2004_Sobo_86460
+.2013_Sobo II_86460
+.2005_Sobo Satu (Sobo I)_86460
+.2002_Turekisa_86460
+.2008_Watunay_86460
+53.09.18_Golewa Selatan_86466
+.2001_Bawarani_86466
+.2004_Boba_86466
+.2005_Boba Satu (Boba I)_86466
+.2013_Bobawa_86466
+.2007_Kezewea_86466
+.2016_Kezewea I_86466
+.2008_Nirmala_86466
+.2011_Radamasa_86466
+.2009_Sadha_86466
+.2017_Sadha I_86466
+.2010_Takatunga_86466
+.2018_Takatunga I_86466
+.2003_Watu Sipi (Watusipi)_86466
+.2012_Were Dua (Were II)_86466
+.2006_Were Tiga (Were III)_86466
+.2014_Were V_86466
+.2015_Were VI_86466
+.2002_Wogowela (Wagowela)_86466
+53.09.20_Inerie_86450
+.2012_Enabhara_86450
+.2003_Inerie_86450
+.2006_Kelitei (Kelitey)_86450
+.2009_Legeriwu (Legariwu)_86450
+.2010_Manubhara_86450
+.2013_Nagebaru_86450
+.2001_Paupaga_86450
+.2011_Ruto_86450
+.2002_Sebowuli_86450
+.2008_Tiwurana_86450
+.2007_Waebela_86450
+.2005_Warupele Dua (Warupele II)_86450
+.2004_Warupele Satu (Warupele I)_86450
+53.09.12_Jerebuu_86451
+.2015_Batajawa_86451
+.2017_Bowaru_86451
+.2003_Dariwali_86451
+.2009_Dariwali I (Manubhara)_86451
+.2004_Naruwolo_86451
+.2007_Naruwolo I_86451
+.2008_Naruwolo II_86451
+.2005_Nenowea_86451
+.2010_Nio Lewa_86451
+.2002_Tiworiwu_86451
+.2011_Tiworiwu I_86451
+.2012_Tiworiwu II_86451
+.2001_Watumanu_86451
+.2016_Wongawea_86451
+53.09.09_Riung_86419
+.1010_Benteng Tengah_86419
+.2024_Ite Jaya_86419
+.2023_Kota Raja_86419
+.2013_Latung_86419
+.2031_Latung Barat_86419
+.2008_Lengkosambi_86419
+.2018_Lengkosambi Barat_86419
+.2035_Lengkosambi Barat Daya_86419
+.2026_Lengkosambi Tengah_86419
+.2017_Lengkosambi Timur_86419
+.2020_Lengkosambi Utara_86419
+.1011_Nangamese_86419
+.2014_Rawangkalo_86419
+.2032_Rawangkalo I_86419
+.2033_Rawangkalo II_86419
+.2012_Sambinasi_86419
+.2019_Sambinasi Barat_86419
+.2030_Sambinasi Tengah_86419
+.2009_Tadho_86419
+.2028_Tadho Barat_86419
+.2029_Tadho Tengah_86419
+.2027_Tadho Timur_86419
+.2022_Taen Terong Dua_86419
+.2021_Taen Terong Satu_86419
+.2005_Taenterong (Taen Terong)_86419
+.2034_Wakamanga_86419
+.2006_Wangka_86419
+.2025_Wangka Barat_86419
+.2016_Wangka Selatan_86419
+53.09.14_Riung Barat_86421
+.2001_Benteng Tawa_86421
+.2008_Benteng Tawa I_86421
+.2011_Benteng Tawa II_86421
+.2012_Benteng Tawa III_86421
+.2017_Benteng Tawa IV_86421
+.2018_Benteng Tawa V_86421
+.2014_Kembang_86421
+.2002_Lanamai_86421
+.2009_Lanamai I_86421
+.2013_Lanamai II_86421
+.2005_Ngara_86421
+.2016_Ngara I_86421
+.2019_Nili Waru Sae_86421
+.2004_Ria_86421
+.2006_Ria I_86421
+.2015_Wate_86421
+.2003_Wolomeze_86421
+.2007_Wolomeze I_86421
+.2010_Wolomeze II (Wolomese Dua)_86421
+53.09.07_Soa_86422
+.2016_Bogoboa_86422
+.2012_Libunio_86422
+.2006_Loa_86422
+.2020_Lokaweka_86422
+.2010_Mangeruda (Mengeruda)_86422
+.2011_Masu Kedhi_86422
+.2004_Masumeli (Masu)_86422
+.2013_Meli Waru_86422
+.2014_Ngabheo_86422
+.2005_Piga_86422
+.2017_Piga Satu (Piga I)_86422
+.2008_Seso_86422
+.2007_Tarawaja_86422
+.2018_Tarawali_86422
+.2001_Waepana_86422
+.2019_Waepana I_86422
+53.09.16_Wolomeze (Riung Selatan)_86423
+.2002_Denatana_86423
+.2008_Denatana Timur_86423
+.2009_Larilaki_86423
+.2003_Mainai_86423
+.2010_Mulumese_86423
+.2001_Nginamanu_86423
+.2006_Nginamanu Barat_86423
+.2005_Nginamanu Selatan_86423
+.2004_Turaloa_86423
+.2011_Turaloa Timur_86423
+.2007_Wue_86423

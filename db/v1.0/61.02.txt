@@ -1,0 +1,76 @@
+61.02.16_Anjongan_78353
+.2002_Anjungan Dalam_78353
+.1001_Anjungan Melancar_78353
+.2005_Dema_78353
+.2003_Kepayang_78353
+.2004_Pak Bulu_78353
+61.02.08_Jongkat (Siantan)_78352
+.2010_Jungkat_78352
+.2006_Peniti Luar_78352
+.2002_Sei/Sungai Nipah_78352
+.2001_Wajok Hilir (Wajo Hilir)_78352
+.2009_Wajok Hulu (Wajo Hulu)_78352
+61.02.01_Mempawah Hilir_78911|78919
+.2013_Kuala Secapah_78914
+.2015_Malikian_78919
+.2003_Pasir_78919
+.2002_Penibung (Penibungan)_78919
+.2001_Sengkubang_78919
+.1006_Tanjung_78913
+.1007_Tengah_78911
+.1009_Terusan_78912
+61.02.18_Mempawah Timur_78915|78919
+.2003_Antibar_78917
+.2008_Parit Banjar_78919
+.2005_Pasir Palembang_78916
+.2006_Pasir Panjang_78915
+.1002_Pasir Wan Salim_78915
+.1001_Pulau Pedalaman_78917
+.2007_Sei/Sungai Bakau Kecil_78919
+.2004_Sejegi_78918
+61.02.17_Sadaniang_78361
+.2004_Amawang/Amawaking_78361
+.2005_Ansiap_78361
+.2003_Bum-bun (Bumbun / Bunbun)_78361
+.2002_Pentek_78361
+.2001_Sekabuk_78361
+.2006_Suak Berangan/Barangan_78361
+61.02.15_Segedong_78351
+.2003_Parit Bugis_78351
+.2001_Peniti Besar_78351
+.2004_Peniti Dalam I (Satu)_78351
+.2005_Peniti Dalam II (Dua)_78351
+.2002_Purun Besar (Sungai Purun Besar)_78351
+.2006_Sei/Sungai Burung_78351
+61.02.12_Sungai Kunyit_78371
+.2003_Bukit Batu_78371
+.2010_Mendalok_78371
+.2004_Sei/Sungai Bundung Laut_78371
+.2009_Sei/Sungai Dungun_78371
+.2001_Sei/Sungai Duri I (Satu)_78371
+.2002_Sei/Sungai Duri II (Dua)_78371
+.2006_Sei/Sungai Kunyit Dalam_78371
+.2007_Sei/Sungai Kunyit Hulu_78371
+.2005_Sei/Sungai Kunyit Laut_78371
+.2008_Sei/Sungai Limau_78371
+.2011_Semparong Parit Raden_78371
+.2012_Semudun_78371
+61.02.07_Sungai Pinyuh (Sei Pinyuh)_78354
+.2008_Galang (Jalan Galang)_78354
+.2007_Nusapati_78354
+.2006_Peniraman_78354
+.2004_Sei/Sungai Bakau Besar Laut_78354
+.2005_Sei/Sungai Batang_78354
+.1011_Sei/Sungai Pinyuh_78354
+.2003_Sei/Sungai Purun Kecil_78354
+.2001_Sei/Sungai Rasau_78354
+.2002_Sungai Rasau Besar Darat (Sei Bakau Besar Darat)_78354
+61.02.06_Toho_78360
+.2007_Benuang_78360
+.2003_Kecurit_78360
+.2002_Pak Laheng_78360
+.2006_Pak Utan (Pakutan)_78360
+.2008_Sambora (Sembora / Samboro)_78360
+.2005_Sepang_78360
+.2004_Terap_78360
+.2001_Toho Hilir (Toho Ilir)_78360

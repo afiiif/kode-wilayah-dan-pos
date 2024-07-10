@@ -1,0 +1,27 @@
+18.72.03_Metro Barat_34114|34125
+.1002_Ganjar Agung_34114
+.1004_Ganjar Asri_34125
+.1001_Mulyojati_34125
+.1003_Mulyosari_34125
+18.72.01_Metro Pusat_34111|34113
+.1004_Hadimulyo Barat_34113
+.1002_Hadimulyo Timur_34113
+.1003_Imopuro_34111
+.1001_Metro_34111
+.1005_Yosomulyo_34111
+18.72.05_Metro Selatan_34119|34123
+.1004_Margodadi (Magodadi)_34119
+.1002_Margorejo (Margo Rejo)_34121
+.1001_Rejomulyo_34123
+.1003_Sumbersari Bantul (Sumbersari)_34122
+18.72.04_Metro Timur_34111|34124
+.1003_Iring Mulyo (Iringmulyo)_34112
+.1005_Tejo Agung_34112
+.1002_Tejosari (Tejo Sari)_34124
+.1001_Yosodadi_34111
+.1004_Yosorejo_34112
+18.72.02_Metro Utara_34117|34119
+.1001_Banjarsari (Banjar Sari)_34117
+.1003_Karangrejo (Karang Rejo)_34119
+.1004_Purwoasri (Purwo Asri)_34117
+.1002_Purwosari (Purwo Sari)_34118

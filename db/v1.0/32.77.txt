@@ -1,0 +1,18 @@
+32.77.01_Cimahi Selatan_40531|40535
+.1005_Cibeber_40531
+.1002_Cibeureum_40535
+.1004_Leuwigajah_40532
+.1001_Melong_40534
+.1003_Utama_40533
+32.77.02_Cimahi Tengah_40521|40526
+.1001_Baros_40521
+.1002_Cigugur Tengah_40522
+.1006_Cimahi_40525
+.1003_Karangmekar_40523
+.1005_Padasuka_40526
+.1004_Setiamanah_40524
+32.77.03_Cimahi Utara_40511|40514
+.1002_Cibabat_40513
+.1004_Cipageran_40511
+.1003_Citeureup_40512
+.1001_Pasirkaliki_40514

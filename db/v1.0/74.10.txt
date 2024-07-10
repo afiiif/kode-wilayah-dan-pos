@@ -1,0 +1,96 @@
+74.10.03_Bonegunu_93673
+.1010_Bonegunu_93673
+.1006_Buranga_93673
+.2017_Damai Laborona_93673
+.2009_Eensumala (Een Sumala)_93673
+.2001_Gunung Sari_93673
+.2016_Koboruno_93673
+.2005_Koepisino_93673
+.2008_Laano Ipi (Laanoipi)_93673
+.2004_Langere_93673
+.2015_Ngapa'ea_93673
+.2014_Rante Gola_93673
+.2002_Ronta_93673
+.2013_Tatombuli_93673
+.2003_Waode Angkalo_93673
+.2007_Waode Kalowo_93673
+74.10.02_Kambowa_93674
+.2011_Baluara_93674
+.2010_Bente_93674
+.2001_Bubu_93674
+.2009_Bubu Barat_93674
+.1004_Kambowa_93674
+.2007_Konde (Kondo)_93674
+.2006_Lagundi_93674
+.2002_Lahumoko (Lahamoko Jaya)_93674
+.2008_Mata_93674
+.2003_Morindino_93674
+.2005_Pongkowulu (Pongkawulu)_93674
+74.10.01_Kulisusu (Kalingsusu/Kalisusu)_93672
+.1008_Bangkudu (Ereke)_93672
+.2024_Banu-Banua Jaya_93672
+.1014_Bonelipu_93672
+.2003_Eelahaji_93672
+.2006_Jampaka_93672
+.2023_Kadacua_93672
+.2005_Kalibu_93672
+.2022_Laangke_93672
+.1010_Lakonea_93672
+.2021_Lantagi_93672
+.1012_Lemo (Bonerombo)_93672
+.2020_Lemo Ea_93672
+.2011_Linsowu_93672
+.1009_Lipu_93672
+.2007_Loji_93672
+.2019_Malalanda_93672
+.2013_Rombo_93672
+.1016_Sara'ea_93672
+.2004_Tomoahi_93672
+.2001_Triwacuwacu (Tri Wacu-Wacu)_93672
+.2002_Waculaea_93672
+.1017_Wandaka_93672
+.2018_Wasalabose_93672
+74.10.04_Kulisusu Barat_93670
+.2008_Bumi Lapero/Lapera_93670
+.2002_Karya Bhakti (Karya Bakti)_93670
+.2009_Karya Mulya_93670
+.2004_Kasulatombi_93670
+.2001_Kotawo (Kotawa)_93670
+.2014_Labulanda_93670
+.2010_Lambale_93670
+.2005_Lampala Jaya (Dampala Jaya)_93670
+.2011_Lapandewa_93670
+.2012_Lauki_93670
+.2003_Margakarya (Marga Karya)_93670
+.2013_Mekar Jaya_93670
+.2006_Rahmat Baru_93670
+.2007_Soloy/Soioi Agung_93670
+74.10.05_Kulisusu Utara_93675
+.2010_Bira_93675
+.2011_E'erinere_93675
+.2001_Kurolabu_93675
+.2004_Laanosangia (Lanosangia)_93675
+.2012_Labelete_93675
+.2003_Lamoahi_93675
+.2007_Lelamo_93675
+.2005_Pebaoa_93675
+.2006_Petetea'a (Peteteaa)_93675
+.2002_Tombia (Torombia / Torumbia)_93675
+.2009_Ulunambo_93675
+.2013_Wamboule_93675
+.2008_Waodeburi (Waode Buri)_93675
+.2014_Wowonga Jaya_93675
+74.10.06_Wakorumba Utara_93671
+.2013_Laba Jaya_93671
+.2006_Labaraga_93671
+.1007_Labuan_93671
+.2005_Labuan Bajo_93671
+.1008_Labuan Walio_93671
+.2012_Labuko_93671
+.2002_Laea_93671
+.2001_Lasiwa_93671
+.2003_Matalagi_93671
+.2011_Oengkapala_93671
+.2010_Sumampeno_93671
+.2009_Wamorapa_93671
+.2004_Wantulasi_93671

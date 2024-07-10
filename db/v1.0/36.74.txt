@@ -1,0 +1,61 @@
+36.74.04_Ciputat_15411|15414
+.1007_Cipayung_15411
+.1003_Ciputat_15411
+.1006_Jombang_15414
+.1002_Sarua (Serua)_15414
+.1001_Sawah Baru_15413
+.1004_Sawah Lama_15413
+.1005_Serua Indah (Sarua Indah)_15414
+36.74.05_Ciputat Timur_15412|15419
+.1001_Cempaka Putih_15412
+.1004_Cireundeu_15419
+.1003_Pisangan_15419
+.1002_Pondok Ranji_15412
+.1005_Rempoa_15412
+.1006_Rengas_15412
+36.74.06_Pamulang_15415|15418
+.1007_Bambuapus (Bambu Apus)_15415
+.1002_Benda Baru_15418
+.1006_Kedaung_15415
+.1001_Pamulang Barat_15417
+.1008_Pamulang Timur_15417
+.1003_Pondok Benda_15416
+.1005_Pondok Cabe Ilir_15418
+.1004_Pondok Cabe Udik_15418
+36.74.03_Pondok Aren_15220|15229
+.1010_Jurangmangu Barat (Jurang Mangu Barat)_15223
+.1011_Jurangmangu Timur (Jurang Mangu Timur)_15222
+.1008_Parigi (Perigi Lama)_15227
+.1009_Parigi Baru (Perigi Baru)_15228
+.1005_Pondok Aren_15224
+.1001_Pondok Betung_15221
+.1004_Pondok Jaya_15220
+.1006_Pondok Kacang Barat_15226
+.1007_Pondok Kacang Timur_15226
+.1003_Pondok Karya_15225
+.1002_Pondok Pucung_15229
+36.74.01_Serpong_15310|15311
+.1006_Buaran_15310
+.1001_Ciater_15310
+.1008_Cilenggang_15310
+.1004_Lengkong Gudang_15321
+.1007_Lengkong Gudang Timur_15321
+.1005_Lengkong Wetan_15322
+.1003_Rawa Mekarjaya (Rawa Mekar Jaya)_15310
+.1002_Rawabuntu (Rawa Buntu)_15318
+.1009_Serpong_15311
+36.74.02_Serpong Utara_15320|15326
+.1006_Jelupang_15323
+.1007_Lengkong Karya_15320
+.1002_Pakualam_15320
+.1003_Pakujaya (Paku Jaya)_15324
+.1001_Pakulonan_15325
+.1004_Pondok Jagung_15326
+.1005_Pondok Jagung Timur_15326
+36.74.07_Setu_15312|15315
+.1005_Babakan_15315
+.1006_Bakti Jaya_15315
+.1004_Kademangan_15313
+.1003_Keranggan (Kranggan)_15312
+.1001_Muncul_15314
+.1002_Setu_15314

@@ -1,0 +1,94 @@
+82.07.03_Morotai Jaya_97772
+.2007_Aru_97772
+.2003_Bere Bere Kecil_97772
+.2014_Cempaka_97772
+.2009_Cendana_97772
+.2012_Gorugo_97772
+.2005_Hapo_97772
+.2006_Libano_97772
+.2013_Loleo_97772
+.2001_Pangeo_97772
+.2010_Podimor Padange_97772
+.2002_Sopi_97772
+.2011_Sopi Majiko_97772
+.2004_Titigogoli_97772
+.2008_Towara_97772
+82.07.01_Morotai Selatan_97771
+.2018_Aha_97771
+.2011_Daeo_97771
+.2023_Daeo Majiko_97771
+.2003_Darame_97771
+.2002_Daruba_97771
+.2012_Dehegila_97771
+.2021_Falila_97771
+.2014_Galo Galo_97771
+.2001_Gotalamo_97771
+.2017_Joubela_97771
+.2006_Juanga_97771
+.2015_Koloray (Kolorai)_97771
+.2020_Mandiri_97771
+.2008_Momojiu_97771
+.2024_Morodadi_97771
+.2019_Muhajirin_97771
+.2025_Nakamura_97771
+.2005_Pandanga (Pandangan)_97771
+.2013_Pilowo_97771
+.2022_Sabala_97771
+.2009_Sabatai Baru_97771
+.2010_Sabatai Tua_97771
+.2007_Totodoku_97771
+.2004_Wawama_97771
+.2016_Yayasan_97771
+82.07.02_Morotai Selatan Barat_97770
+.2005_Aru Irian_97770
+.2020_Bobula_97770
+.2016_Cio Dalam_97770
+.2008_Cio Gerong_97770
+.2019_Cio Maloleo_97770
+.2004_Cucumare_97770
+.2014_Ngele Ngele Besar_97770
+.2003_Ngele Ngele Kecil_97770
+.2015_Raja_97770
+.2002_Tiley (Tiley Kusu)_97770
+.2018_Tiley Pantai_97770
+.2007_Tutuhu (Tuthu)_97770
+.2017_Usbar Pantai_97770
+.2006_Waringin_97770
+.2001_Wayabula_97770
+82.07.05_Morotai Timur_97771|97777
+.2001_Buho Buho_97772
+.2015_Doku Mira_97777
+.2014_Gamlamo_97776
+.2013_Gosoma Maluku_97775
+.2012_Hino_97774
+.2004_Lifao_97772
+.2003_Mira_97772
+.2005_Rahmat_97772
+.2008_Sambiki Baru_97771
+.2006_Sambiki Tua (Sambiki)_97771
+.2007_Sangowo_97771
+.2009_Sangowo Barat_97771
+.2010_Sangowo Timur_97771
+.2011_Seseli Jaya_97773
+.2002_Wewemo_97772
+82.07.04_Morotai Utara_97773
+.2001_Bere Bere_97773
+.2005_Bido_97773
+.2013_Goa Hira_97773
+.2006_Gorua_97773
+.2014_Gorua Selatan_97773
+.2009_Kenari_97773
+.2007_Korago_97773
+.2010_Loleo Jaya_97773
+.2008_Lusuo (Losuo)_97773
+.2011_Maba_97773
+.2002_Sakita_97773
+.2012_Tanjung Saleh_97773
+.2003_Tawakali_97773
+.2004_Yao_97773
+82.07.06_Pulau Rao_97770
+.2002_Aru Burung_97770
+.2004_Leo Leo_97770
+.2003_Lou Madoro_97770
+.2001_Posi-Posi (Posi Posi Rao)_97770
+.2005_Sami Nyamau (Saminyamau)_97770

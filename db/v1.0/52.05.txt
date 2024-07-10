@@ -1,0 +1,89 @@
+52.05.01_Dompu_84211|84219
+.1001_Bada_84211
+.1002_Bali_84213
+.1005_Dora Tangga_84219
+.2011_Dore Bara_84212
+.1006_Kandai I_84219
+.2009_Karamabura_84219
+.2012_Kareke_84219
+.1004_Karijawa_84217
+.2008_Katua_84219
+.2013_Mangge Nae_84219
+.2014_Manggeasi_84219
+.2010_Mbawi_84219
+.2007_O'o_84219
+.1003_Potu_84214
+.2015_Sori Sakolo_84213
+52.05.03_Hu'u_84271
+.2004_Adu_84271
+.2005_Cempi Jaya_84271
+.2002_Daha_84271
+.2003_Hu'u_84271
+.2007_Jala_84271
+.2006_Merada_84271
+.2001_Rasa Bou_84271
+.2008_Sawe_84271
+52.05.02_Kempo_84261
+.2007_Doro Kobo_84261
+.2001_Kempo_84261
+.2004_Konte_84261
+.2006_Songgaja_84261
+.2003_Soro_84261
+.2008_Soro Barat_84261
+.2002_Ta'a_84261
+.2005_Tolo Kalo_84261
+52.05.04_Kilo_84252
+.2006_Karama (Kramat 2 / Keramat)_84252
+.2004_Kiwu_84252
+.2002_Lasi_84252
+.2001_Malaju_84252
+.2003_Mbuju_84252
+.2005_Taropo_84252
+52.05.07_Manggalewa_84253
+.2011_Anamina_84253
+.2002_Banggo_84253
+.2007_Doromelo_84253
+.2009_Kampasi Meci_84253
+.2003_Kwangko_84253
+.2004_Lanci Jaya_84253
+.2008_Nangatumpu_84253
+.2006_Nusa Jaya_84253
+.2001_Soriutu_84253
+.2005_Suka Damai_84253
+.2012_Tanju_84253
+.2010_Teka Sire_84253
+52.05.08_Pajo_84272
+.2002_Jambu_84272
+.2003_Lepadi_84272
+.2004_Lune_84272
+.2001_Ranggo_84272
+.2006_Tembal Lae_84272
+.2005_Woko_84272
+52.05.06_Pekat_84260
+.2004_Beringin Jaya_84260
+.2012_Calabai_84260
+.2007_Doro Peti_84260
+.2003_Kadindi_84260
+.2009_Kadindi Barat_84260
+.2008_Karombo_84260
+.2010_Nangakara_84260
+.2002_Nangamiro_84260
+.2001_Pekat_84260
+.2005_Sori Nomo_84260
+.2011_Sori Tatanga_84260
+.2006_Tambora_84260
+52.05.05_Woja_84219|84251
+.2014_Baka Jaya_84251
+.2008_Bara_84251
+.1002_Kandai II_84218
+.2009_Mada Prama_84251
+.2006_Matua_84251
+.1001_Monta Baru_84219
+.2011_Mumbu_84251
+.2007_Nowa_84251
+.2013_Raba Baka_84251
+.2010_Riwo_84251
+.2004_Saneo_84251
+.2012_Sera Kapi_84251
+.1003_Simpasai_84216
+.2005_Wawonduru_84251

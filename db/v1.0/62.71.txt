@@ -1,0 +1,35 @@
+62.71.02_Bukit Batu_73221|73226
+.1003_Banturung_73224
+.1007_Habaring Hurung_73221
+.1006_Kanarakan_73226
+.1001_Marang_73222
+.1005_Sei/Sungai Gohong_73225
+.1004_Tangkiling_73221
+.1002_Tumbang Tahai_73223
+62.71.03_Jekan Raya_73111|73118
+.1003_Bukit Tunggal_73112
+.1002_Menteng_73111
+.1001_Palangka_73112
+.1004_Petuk Katimpun_73118
+62.71.01_Pahandut_73111
+.1003_Langkai_73111
+.1001_Pahandut_73111
+.1005_Pahandut Seberang_73111
+.1002_Panarung_73111
+.1006_Tanjung Pinang_73111
+.1004_Tumbang Rungan_73111
+62.71.05_Rakumpit_73227|73229
+.1007_Bukit Sua_73229
+.1006_Gaung Baru_73229
+.1004_Mungku Baru_73229
+.1005_Pager_73229
+.1002_Panjehang_73228
+.1003_Petuk Barunai (Petuk Berunai)_73229
+.1001_Petuk Bukit_73227
+62.71.04_Sabangau (Sebangau)_73113|73114
+.1001_Bereng Bengkel_73114
+.1005_Danau Tundai_73114
+.1002_Kalampangan_73114
+.1004_Kameloh Baru_73114
+.1003_Kereng Bangkirai_73113
+.1006_Sabaru_73113

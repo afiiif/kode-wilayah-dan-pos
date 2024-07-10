@@ -1,0 +1,215 @@
+53.07.05_Alok_86112|86118
+.2016_Gunung Sari_86116
+.1008_Kabor_86112
+.1009_Kota Uneng_86113
+.1006_Madawat_86112
+.1007_Nangalimang_86118
+.2014_Pemana_86116
+.2015_Samparong_86116
+53.07.14_Alok Barat_86114|86115
+.1001_Hewuli_86115
+.1002_Wailiti_86114
+.1003_Wolomarang_86114
+.1004_Wuring_86115
+53.07.15_Alok Timur_86111|86215
+.1001_Beru_86111
+.2011_Gong Bekor_86116
+.2006_Koja Doi (Kojadoi)_86116
+.2007_Kojagete_86116
+.1002_Kota Baru_86215
+.2008_Lepo Lima (Lepolima)_86116
+.1003_Nangameting_86118
+.2009_Perumaan (Parumaan)_86116
+.1004_Waioti_86118
+.1005_Wairotang_86111
+.2010_Watugong_86116
+53.07.11_Bola_86171
+.2004_Bola_86171
+.2018_Bura Bekor_86171
+.2001_Hokor_86171
+.2006_Ipir_86171
+.2005_Umauta_86171
+.2019_Watukrus_86171
+.2003_Wolokoli_86171
+.2002_Wolonwalu_86171
+53.07.20_Doreng_86170
+.2006_Kloangpopot_86170
+.2008_Mahe Tanah_86170
+.2002_Nenbura_86170
+.2009_Pelibaler_86170
+.2001_Waihawa_86170
+.2004_Watumerak_86170
+.2003_Wogalirit_86170
+.2007_Wolomotong_86170
+.2005_Wolonterang_86170
+53.07.18_Hewokloang_86181
+.2003_Baomekot_86181
+.2006_Heopuat_86181
+.2005_Hewokloang_86181
+.2004_Kajowair_86181
+.2007_Munerana_86181
+.2001_Rubit_86181
+.2002_Wolomapa_86181
+53.07.19_Kangae_86180
+.2004_Balatatatin (Blatatatin)_86180
+.2008_Habi_86180
+.2003_Kokowahor_86180
+.2009_Langir_86180
+.2002_Mekendetung_86180
+.2006_Tana Duen (Tanaduen)_86180
+.2001_Teka Iku (Tekaiku)_86180
+.2005_Watuliwung_86180
+.2007_Watumilok_86180
+53.07.10_Kewapante_86182
+.2020_Geliting_86182
+.2009_Iantena (Ian Tena)_86182
+.2007_Kopong_86182
+.2008_Namangkewa_86182
+.2005_Seusina_86182
+.2016_Umagera_86182
+.2021_Waiara_86182
+.2024_Wairkoja_86182
+.2026_Watukobu_86182
+53.07.16_Koting_86116
+.2001_Koting A_86116
+.2002_Koting B_86116
+.2003_Koting C_86116
+.2004_Koting D_86116
+.2005_Paubekor_86116
+.2006_Ribang_86116
+.2007_Watu Repa_86116
+53.07.03_Lela_86161
+.2008_Baopaat_86161
+.2009_Du_86161
+.2007_Hepang_86161
+.2006_Iligai_86161
+.2004_Kolidetung_86161
+.2003_Korowuwu_86161
+.2001_Lela_86161
+.2005_Sikka_86161
+.2002_Watutedang_86161
+53.07.12_Magepanda_86152
+.2003_Done_86152
+.2004_Kolisia_86152
+.2005_Kolisia B_86152
+.2007_Legu Woda_86152
+.2001_Magepanda_86152
+.2002_Reroroja_86152
+.2008_Waturia_86152
+.2006_Woda Mude_86152
+53.07.21_Mapitara_86172
+.2004_Egon Gahar_86172
+.2001_Hale_86172
+.2002_Hebing_86172
+.2003_Natakoli_86172
+53.07.02_Mego_86113
+.2001_Bhera_86113
+.2002_Dobo_86113
+.2010_Dobo Nuapuu (Dobo Nua Puu)_86113
+.2003_Gera_86113
+.2007_Korobhera_86113
+.2009_Kowi_86113
+.2004_Liakutu_86113
+.2008_Napugera (Napu Gera)_86113
+.2012_Ndaimbere_86113
+.2005_Parabubu_86113
+.2011_Ratekalo_86113
+.2006_Wolodhesa_86113
+53.07.07_Nelle (Maumerei)_86119
+.2006_Manubura_86119
+.2005_Nella Lorang (Nelle Lorang)_86119
+.2004_Nelle Barat_86119
+.2002_Nelle Urung_86119
+.2003_Nelle Wutung_86119
+53.07.04_Nita_86151
+.2008_Bloro_86151
+.2019_Kara Kabu_86151
+.2004_Ladogahar_86151
+.2007_Lusitada_86151
+.2017_Mahebora_86151
+.2018_Nangablo_86151
+.2011_Nirangkliung_86151
+.2001_Nita_86151
+.2005_Nitakloang_86151
+.2009_Riit_86151
+.2020_Tada Lado_86151
+.2002_Takaplager_86151
+.2003_Tebuk_86151
+.2010_Tilang_86151
+.2006_Wuliwutik_86151
+53.07.01_Paga_86153
+.2020_Aebubu_86153
+.2017_Begu_86153
+.2018_Kotandelu_86153
+.2008_Lenandareta_86153
+.2019_Lowolabo_86153
+.2001_Masabewa (Masebewa)_86153
+.2012_Mauloo_86153
+.2004_Mbengu_86153
+.2005_Paga_86153
+.2021_Regapu�u_86153
+.2022_Rejo_86153
+.2013_Wolorega_86153
+.2003_Wolowiro_86153
+.2015_Wolowona_86153
+53.07.06_Palue_86110
+.2007_Kesokoja_86110
+.2004_Ladolaka_86110
+.2008_Lidi_86110
+.2001_Maluriwu_86110
+.2005_Nitunglea_86110
+.2002_Reruwairere_86110
+.2006_Rokirole_86110
+.2003_Tuanggeo_86110
+53.07.08_Talibura_86183
+.2015_Bangkoor (Baang Koor)_86183
+.2022_Baokremot_86183
+.2001_Darat Gunung_86183
+.2011_Darat Pantai_86183
+.2023_Henga_86183
+.2003_Hikong_86183
+.2014_Kringa_86183
+.2008_Lewomada_86183
+.2024_Likonggete_86183
+.2026_Mamai_86183
+.2010_Nangahale_86183
+.2006_Nebe_86183
+.2002_Ojang_86183
+.2013_Talibura_86183
+.2017_Timutawa_86183
+.2019_Udek Du�en_86183
+.2007_Wailamung_86183
+.2021_Waipaar_86183
+.2020_Watu Omok_86183
+.2025_Watubaing_86183
+53.07.17_Tana Wawo_86154
+.2009_Bu Barat_86154
+.2010_Bu Nuapu�u_86154
+.2001_Bu Selatan_86154
+.2002_Bu Utara_86154
+.2003_Bu Watuweti_86154
+.2006_Detubinga_86154
+.2004_Loke_86154
+.2008_Poma_86154
+.2005_Renggarasi_86154
+.2007_Tuwa_86154
+53.07.13_Waiblama_86184
+.2006_Ilinmedo_86184
+.2001_Natarmage_86184
+.2003_Pruda_86184
+.2002_Tanarawa_86184
+.2005_Tua Bao_86184
+.2007_Watu Moning_86184
+.2004_Werang_86184
+53.07.09_Waigete_86185
+.2004_Aibura_86185
+.2002_Egon_86185
+.2011_Egon Buluk_86185
+.2006_Hoder_86185
+.2010_Mahe Kelan_86185
+.2008_Nangatobong_86185
+.2003_Pogon_86185
+.2001_Runut_86185
+.2005_Wairbleler_86185
+.2007_Wairterang_86185
+.2009_Watudiran_86185

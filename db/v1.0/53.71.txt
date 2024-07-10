@@ -1,0 +1,57 @@
+53.71.01_Alak_85231|85239
+.1008_Alak_85231
+.1009_Batu Plat (Batuplat)_85237
+.1005_Fatufeto_85234
+.1007_Mantasi_85235
+.1010_Manulai II_85238
+.1006_Manutapen_85236
+.1011_Naioni_85239
+.1001_Namosain_85232
+.1003_Nunbaun Delha_85233
+.1002_Nunbaun Sabu_85233
+.1004_Nunhila_85234
+.1012_Penkase Oeleta_85231
+53.71.03_Kelapa Lima_85228
+.1001_Kelapa Lima_85228
+.1011_Lasiana_85228
+.1010_Oesapa_85228
+.1014_Oesapa Barat_85228
+.1015_Oesapa Selatan_85228
+53.71.06_Kota Lama_85221|85229
+.1001_Airmata (Air Mata)_85229
+.1003_Bonipoi_85221
+.1008_Fatubesi_85226
+.1002_Lai Lai Bisi Kopan_85221
+.1006_Merdeka_85225
+.1010_Nefonaek_85229
+.1007_Oeba_85226
+.1009_Pasir Panjang_85227
+.1004_Solor_85229
+.1005_Tode Kisar_85229
+53.71.05_Kota Raja_85111|85119
+.1003_Airnona (Air Nona)_85119
+.1001_Bakunase_85116
+.1002_Bakunase Dua_85116
+.1008_Fontein_85112
+.1006_Kuanino_85119
+.1004_Naikoten I (Satu)_85118
+.1005_Naikoten II (Dua)_85118
+.1007_Nunleu_85119
+53.71.02_Maulafa_85141|85148
+.1005_Bello_85148
+.1006_Fatukoa_85144
+.1007_Kolhua_85146
+.1002_Maulafa_85141
+.1009_Naikolan_85142
+.1004_Naimata_85147
+.1001_Oepura_85142
+.1003_Penfui_85148
+.1008_Sikumana_85143
+53.71.04_Oebobo_85111|85112
+.1011_Fatululi_85111
+.1013_Kayu Putih_85111
+.1010_Liliba_85111
+.1001_Oebobo_85111
+.1009_Oebufu_85111
+.1008_Oetete_85112
+.1014_Tuak Daun Merah_85111

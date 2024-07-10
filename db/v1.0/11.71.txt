@@ -1,0 +1,99 @@
+11.71.01_Baiturrahman_23241|23245
+.2009_Ateuk Deah Tanoh_23244
+.2008_Ateuk Jawo_23245
+.2010_Ateuk Munjeng_23244
+.2007_Ateuk Pahlawan_23241
+.2001_Kampung Baru_23242
+.2006_Neusu Aceh_23244
+.2002_Neusu Jaya_23243
+.2005_Peuniti_23241
+.2004_Seutui_23243
+.2003_Sukaramai_23243
+11.71.07_Banda Raya_23238|23239
+.2003_Geuceu Iniem_23239
+.2004_Geuceu Kayee Jato_23239
+.2001_Geuceu Komplek_23239
+.2005_Lam Ara_23238
+.2002_Lamlagang (Lam Lagang)_23239
+.2010_Lampeout (Lampuot)_23238
+.2009_Lhong Cut_23238
+.2006_Lhong Raya_23238
+.2007_Mibo_23238
+.2008_Peunyerat (Peunyeurat)_23238
+11.71.08_Jaya Baru_23230|23236
+.2002_Bitai_23235
+.2006_Emperom_23236
+.2007_Geuceu Meunara_23241
+.2003_Lamjamee_23235
+.2005_Lampoh Daya_23235
+.2009_Lamteumen Barat (Lamtemen Barat)_23230
+.2008_Lamteumen Timur (Lamtemen Timur)_23230
+.2001_Punge Blang Cut_23234
+.2004_Ulee Pata_23235
+11.71.02_Kuta Alam_23126|23127
+.2008_Bandar Baru_23126
+.2006_Beurawe_23124
+.2004_Keuramat (Kramat)_23126
+.2005_Kota Baru_23125
+.2007_Kuta Alam_23121
+.2003_Laksana_23122
+.2011_Lambaro Skep_23127
+.2009_Lamdingin_23127
+.2010_Lampula / Lampulo_23127
+.2001_Mulia_23123
+.2002_Peunayong_23122
+11.71.06_Kuta Raja_23128|23242
+.2006_Gampong Jawa_23128
+.2005_Gampong Pande_23128
+.2001_Keudah_23129
+.2004_Lampaseh Kota_23231
+.2003_Merduati_23242
+.2002_Peulanggahan_23129
+11.71.05_Lueng Bata_23244|23249
+.2006_Batoh_23245
+.2004_Blang Cut_23248
+.2002_Cot Mesjid_23246
+.2008_Lamdom (Lam Dom / Landom)_23244
+.2009_Lampaloh_23248
+.2005_Lamseupeung_23247
+.2001_Leung Bata (Lueng Bata)_23247
+.2003_Panteriek_23247
+.2007_Sukadamai_23249
+11.71.03_Meuraxa_23231|23234
+.2006_Alue Deah Teungoh (Alue Deyah Tengoh)_23232
+.2009_Asoe Nanggroe (Asoi Nanggro)_23234
+.2008_Blang Oi_23233
+.2013_Cot Lamkuweuh (Cot Lamkuweueh)_23233
+.2005_Deyah Baro (Deah Baro)_23232
+.2004_Deyah Gelumpang (Deah Glumpang)_23232
+.2015_Gampong Baro_23234
+.2010_Gampong Blang_23234
+.2011_Gampong Pie_23233
+.2003_Lambung_23233
+.2012_Lamjabat_23234
+.2007_Lampaseh Aceh_23231
+.2001_Punge Jurong_23231
+.2016_Punge Ujong_23233
+.2014_Surien_23234
+.2002_Ulee Lheue_23234
+11.71.04_Syiah Kuala_23111|23116
+.2004_Alue Naga_23116
+.2003_Deah Raya_23116
+.2005_Ie Masen Kayee Adang (Iemasen Kaye Adang)_23116
+.2001_Jeulingke_23114
+.2008_Kopelma Darussalam_23111
+.2007_Lamgugob_23115
+.2010_Peurada (Gampong Peurada)_23116
+.2006_Pineung_23116
+.2009_Rukoh_23112
+.2002_Tibang_23114
+11.71.09_Ulee Kareng_23117|23119
+.2006_Ceurih_23117
+.2007_Doi/Doy_23117
+.2009_Ie Masen Ulee Kareng (Iemasen Ulee Kareng)_23117
+.2003_Ilie_23119
+.2001_Lambhuk_23118
+.2008_Lamglumpang_23117
+.2002_Lamteh_23118
+.2005_Pango Deah_23119
+.2004_Pango Raya_23119

@@ -1,0 +1,145 @@
+14.08.08_Bunga Raya_28764
+.2012_Buatan/Buantan Lestari_28764
+.2001_Bunga Raya_28764
+.2016_Dayang Suri (Dayangsuri)_28764
+.2002_Jati Baru_28764
+.2003_Jayapura (Jaya Pura)_28764
+.2011_Kemuning Muda_28764
+.2014_Langsat Permai_28764
+.2017_Suak Merambai_28764
+.2015_Temusai_28764
+.2013_Tuah Indrapura_28764
+14.08.06_Dayun_28671
+.2002_Banjar Seminai_28671
+.2006_Berumbung Baru (Tilan)_28671
+.2008_Buana Makmur_28671
+.2001_Dayun_28671
+.2005_Lubuk Tilam (Lubuk Tilan)_28671
+.2004_Merangkai_28671
+.2007_Pangkalan Makmur_28671
+.2010_Sawit Permai_28671
+.2011_Sialang Sakti_28671
+.2009_Suka Mulia/Mulya_28671
+.2003_Teluk Merbau_28671
+14.08.10_Kandis_28686
+.2007_Bekalar_28686
+.2004_Belutu_28686
+.2008_Jambai Makmur_28686
+.2005_Kandis_28686
+.1003_Kandis Kota_28686
+.2011_Libo Jaya_28686
+.2010_Pencing Bekuto_28686
+.2006_Sam Sam_28686
+.1001_Simpang Belutu_28686
+.2009_Sungai Gondang_28686
+.1002_Telaga Sam-Sam_28686
+14.08.07_Kerinci Kanan_28654
+.2003_Buana Bakti/Bhakti_28654
+.2009_Buatan Baru_28654
+.2006_Bukit Agung_28654
+.2004_Bukit Harapan_28654
+.2013_Delima Jaya_28654
+.2010_Gabung Makmur_28654
+.2011_Jati Mulia/Mulya_28654
+.2001_Kerinci Kanan_28654
+.2002_Kerinci Kiri_28654
+.2005_Kumbara Utama_28654
+.2012_Seminai_28654
+.2008_Simpang Perak Jaya_28654
+14.08.09_Koto Gasib_28672
+.2004_Buatan I_28672
+.2005_Buatan II_28672
+.2008_Empang Pandan_28672
+.2009_Keranji Guguh_28672
+.2002_Kuala Gasib_28672
+.2001_Pangkalan Pisang_28672
+.2007_Rantau Panjang_28672
+.2006_Sengkemang_28672
+.2010_Sri Gemilang_28672
+.2011_Tasik Seminai_28672
+.2003_Teluk Rimba_28672
+14.08.11_Lubuk Dalam_28655
+.2006_Empang Baru_28655
+.2001_Lubuk Dalam_28655
+.2002_Rawang Kao_28655
+.2007_Rawang Kao Barat_28655
+.2004_Sialang Baru_28655
+.2005_Sialang Palas_28655
+.2003_Sri Gading_28655
+14.08.13_Mempura_28773
+.2003_Benteng Hilir_28773
+.2004_Benteng Hulu_28773
+.2005_Kampung Tengah_28773
+.2001_Kota Ringin_28773
+.2007_Merempan Hilir_28773
+.2002_Paluh_28773
+.1006_Sungaimempura (Sungai Mempura)_28773
+.2008_Telukmerempan (Teluk Merempan)_28773
+14.08.03_Minas_28685
+.2004_Mandi Angin_28685
+.2003_Minas Barat_28685
+.1001_Minas Jaya_28685
+.2002_Minas Timur_28685
+.2005_Rantau Bertuah_28685
+14.08.14_Pusako_28765
+.2004_Benayah_28765
+.2003_Dosan_28765
+.2006_Dusun Pusaka_28765
+.2005_Pebadaran_28765
+.2007_Perincit_28765
+.2001_Sungai Berbari_28765
+.2002_Sungai Limau_28765
+14.08.12_Sabak Auh_28684
+.2007_Bandar Pedada_28684
+.2001_Bandar Sungai_28684
+.2003_Belading_28684
+.2005_Laksamana_28684
+.2002_Rempak_28684
+.2006_Sabak Permai_28684
+.2008_Selat Guntung_28684
+.2004_Sungai Tengah_28684
+14.08.01_Siak_28673
+.2015_Buantan Besar_28673
+.1001_Kampung Dalam_28673
+.1002_Kampung Rempak_28673
+.2003_Langkai_28673
+.2012_Merempan Hulu_28673
+.2013_Rawang Air Putih_28673
+.2014_Suak Lanjut_28673
+.2011_Tumang_28673
+14.08.02_Sungai Apit_28662
+.2016_Bungsur (Bunsur)_28662
+.2017_Harapan_28662
+.2019_Kayu Ara Permai_28662
+.2009_Lalang_28662
+.2010_Mengkapan_28662
+.2004_Parit I/II_28662
+.2012_Penyengat_28662
+.2020_Rawa Mekar Jaya_28662
+.1001_Sungai Apit_28662
+.2008_Sungai Kayu Ara_28662
+.2011_Sungai Rawa_28662
+.2003_Tanjung Kuras_28662
+.2014_Teluk Batil_28662
+.2002_Teluk Lanus_28662
+.2005_Teluk Mesjid_28662
+14.08.05_Sungai Mandau_28674
+.2008_Bencah Umbai_28674
+.2005_Lubuk Jering_28674
+.2007_Lubuk Umbut_28674
+.2006_Muara Bungkal_28674
+.2001_Muara Kelantan_28674
+.2004_Olak_28674
+.2003_Sungai Selodang (Sungai Lodang)_28674
+.2009_Tasik Betung_28674
+.2002_Teluk Lancang_28674
+14.08.04_Tualang_28772
+.2004_Meredan_28772
+.2007_Meredan Barat_28772
+.1001_Perawang_28772
+.2008_Perawang Barat_28772
+.2003_Pinang Sebatang_28772
+.2006_Pinang Sebatang Barat_28772
+.2005_Pinang Sebatang Timur_28772
+.2002_Tualang_28772
+.2009_Tualang Timur_28772

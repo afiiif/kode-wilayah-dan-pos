@@ -1,0 +1,74 @@
+13.08.04_Bonjol_26381
+.2004_Ganggo Hilia_26381
+.2003_Ganggo Mudiak_26381
+.2002_Koto Kaciak_26381
+.2007_Koto Kaciak Barat_26381
+.2001_Limo Koto_26381
+13.08.12_Duo Koto_26311
+.2002_Cubadak_26311
+.2007_Cubadak Barat_26311
+.2006_Cubadak Tengah_26311
+.2005_Cubadak Timur_26311
+.2001_Simpang Tonang_26311
+.2003_Simpang Tonang Selatan_26311
+.2004_Simpang Tonang Utara_26311
+13.08.05_Lubuk Sikaping_26318
+.2005_Aia Manggih_26318
+.2011_Aia Manggih Barat_26318
+.2010_Aia Manggih Selatan_26318
+.2009_Aia Manggih Utara_26318
+.2003_Durian Tinggi_26318
+.2002_Jambak_26318
+.2004_Pauah_26318
+.2006_Sundata_26318
+.2013_Sundata Selatan_26318
+.2012_Sundata Utara_26318
+.2001_Tanjuang Baringin_26318
+.2008_Tanjuang Baringin Selatan_26318
+.2007_Tanjuang Baringin Utara_26318
+13.08.08_Mapat Tunggul_26353
+.2002_Lubuak Gadang (Lubuk Gadang)_26353
+.2001_Muara Tais_26353
+.2006_Muaro Tais Koto Gadang_26353
+.2005_Pintu Padang_26353
+13.08.15_Mapat Tunggul Selatan_26354
+.2002_Muaro Sei/Sungai Lolo_26354
+.2001_Silayang_26354
+13.08.17_Padang Gelugur_26352
+.2004_Bahagia Padang Gelugua_26352
+.2001_Padang Gelugur_26352
+.2003_Sitombol Padang Gelugua_26352
+.2002_Sontang Cubadak_26352
+13.08.07_Panti_26351
+.2001_Panti_26351
+.2004_Panti Selatan_26351
+.2003_Panti Timur_26351
+.2005_Panti Utara_26351
+13.08.14_Rao_26355
+.2010_Padang Mantinggi Utara_26355
+.2005_Padang Metinggi/Mantinggi_26355
+.2002_Taruang Taruang_26355
+.2008_Taruang Taruang Selatan_26355
+.2009_Taruang Taruang Utara_26355
+13.08.19_Rao Selatan_26356
+.2001_Lansek Kadok_26356
+.2004_Lansek Kadok Barat_26356
+.2002_Lubuak Layang_26356
+.2003_Tanjung Betung_26356
+.2006_Tanjung Betung Timur_26356
+.2005_Tanjung Betung Utara_26356
+13.08.18_Rao Utara_26357
+.2001_Koto Nopan_26357
+.2002_Koto Rajo_26357
+.2003_Languang_26357
+13.08.16_Simpang Alahan Mati_26382
+.2001_Alahan Mati_26382
+.2003_Alahan Mati Hilia_26382
+.2002_Simpang_26382
+.2004_Simpang Utara_26382
+13.08.13_Tigo Nagari_26358
+.2003_Binjai_26358
+.2002_Ladang Panjang_26358
+.2005_Ladang Panjang Barat_26358
+.2001_Malampah_26358
+.2004_Malampah Barat_26358

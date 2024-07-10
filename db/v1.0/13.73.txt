@@ -1,0 +1,41 @@
+13.73.02_Barangin_27421|27427
+.2010_Balai Batu Sadara (Balai Batu Sandaran)_27422
+.1003_Durian I_27425
+.1004_Durian II_27425
+.2006_Kolok Mudik/Mudiak_27425
+.2007_Kolok Nan Tuo_27427
+.1002_Lubang Panjang_27424
+.2009_Lumindai_27421
+.2005_Santur/Santua_27424
+.1001_Saringan_27421
+.2008_Talago Gunung/Gunuang_27423
+13.73.01_Lembah Segar_27411|27419
+.1006_Air/Aia Dingin_27419
+.1001_Aur Mulio (Air Mulyo / Aurmulyo)_27418
+.1003_Kubang Sirakuk/Sirakuak Selatan_27415
+.1002_Kubang Sirakuk/Sirakuak Utara_27415
+.2009_Kubang Tangah_27413
+.2010_Kubang Utara Sikabu_27412
+.2008_Lunto Barat_27418
+.2007_Lunto Timur_27416
+.2011_Pasa Kubang (Pasar Kubang)_27415
+.1004_Pasar_27411
+.1005_Tanah Lapang_27411
+13.73.03_Silungkang_27431|27435
+.2004_Muaro Kalaban_27435
+.2001_Silungkang Duo_27432
+.2002_Silungkang Oso_27433
+.2003_Silungkang Tigo_27431
+.2005_Taratak Bancah/Boncah_27434
+13.73.04_Talawi_27441|27449
+.2004_Batu Tanjung (Batu Tanjuang)_27443
+.2003_Bukit Gadang (Bukik Gadang)_27444
+.2007_Data Mansiang (Datar Mansiang)_27441
+.2005_Kumbayau_27443
+.2011_Rantih_27449
+.2009_Salak_27447
+.2008_Sijantang Koto_27446
+.2010_Sikalang_27448
+.2001_Talawi Hilie (Talawi Hilir / Hilia)_27445
+.2002_Talawi Mudik/Mudiak_27444
+.2006_Tumpuk Tangah (Tumpuak Tangah)_27442

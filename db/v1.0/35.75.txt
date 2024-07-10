@@ -1,0 +1,38 @@
+35.75.03_Bugul Kidul_67123|67129
+.1005_Bakalan_67128
+.1001_Blandongan_67128
+.1009_Bugul Kidul_67129
+.1002_Kepel_67129
+.1006_Krampyangan_67127
+.1003_Tapa'an (Tapaan)_67129
+35.75.01_Gadingrejo_67131|67139
+.1005_Bukir_67138
+.1009_Gadingrejo'an (Gadingrejo)_67134
+.1002_Gentong_67139
+.1001_Karangketug_67135
+.1007_Krapyakrejo_67137
+.1004_Petahunan_67136
+.1006_Randusari_67136
+.1003_Sebani_67139
+35.75.04_Panggungrejo_67111|67133
+.1004_Bangilan_67111
+.1010_Bugul Lor_67129
+.1011_Kandangsapi (Kandang Sapi)_67125
+.1001_Karanganyar_67131
+.1005_Kebonsari_67114
+.1013_Mandaranrejo_67123
+.1006_Mayangan_67112
+.1007_Ngemplakrejo_67113
+.1012_Panggungrejo_67124
+.1009_Pekuncen_67126
+.1008_Petamanan_67126
+.1002_Tamba'an (Tambaan)_67133
+.1003_Trajeng_67132
+35.75.02_Purworejo_67111|67171
+.1005_Kebonagung_67116
+.1001_Pohjentrek_67171
+.1004_Purutrejo_67117
+.1006_Purworejo_67115
+.1011_Sekargadung_67127
+.1003_Tembokrejo_67118
+.1002_Wirogunan_67118

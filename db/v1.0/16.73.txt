@@ -1,0 +1,80 @@
+16.73.06_Lubuk Linggau Barat Dua (II)_31611|31616
+.1004_Bandung Kanan_31611
+.1005_Keputraan_31611
+.1006_Lubuklinggau Ilir (Lubuk Linggau Ilir)_31611
+.1007_Lubuklinggau Ulu (Lubuk Linggau Ulu)_31611
+.1008_Pasar Permiri_31611
+.1001_Sidorejo_31616
+.1003_Tapak Lebar_31611
+.1002_Ulak Lebar_31611
+16.73.02_Lubuk Linggau Barat Satu (I)_31611|31615
+.1008_Bandung Kiri_31611
+.1004_Bandung Ujung_31611
+.1001_Kayu Ara_31615
+.1016_Lubuk Aman_31614
+.1002_Lubuk Tanjung_31614
+.1010_Muara Enim_31611
+.1019_Pelita Jaya_31611
+.1009_Sukajadi_31613
+.1018_Tanjung Aman_31611
+.1003_Tanjung Indah_31611
+.1015_Watas Lubuk Durian (Lubuk Durian)_31611
+16.73.07_Lubuk Linggau Selatan Dua (II)_31627
+.1005_Eka Marga_31627
+.1003_Karang Ketuan_31627
+.1006_Marga Mulya_31627
+.1007_Marga Rahayu_31627
+.1009_Moneng Sepati_31627
+.1002_Simpang Periuk (Simpang Priuk)_31627
+.1004_Siring Agung_31627
+.1008_Taba Pingin_31627
+.1001_Tanah Periuk (Tanah Priuk)_31627
+16.73.03_Lubuk Linggau Selatan Satu (I)_31629
+.1009_Air Kati_31629
+.1010_Air Teman (Air Temam)_31629
+.1008_Jukung_31629
+.1012_Lubuk Binjai_31629
+.1001_Lubuk Kupang_31629
+.1011_Perumnas Rahmah_31629
+.1003_Rahmah_31629
+16.73.05_Lubuk Linggau Timur Dua (II)_31621|31624
+.1009_Cereme Taba_31623
+.1004_Dempo_31623
+.1001_Jawa Kanan_31621
+.1002_Jawa Kanan Ss_31621
+.1005_Jawa Kiri_31622
+.1006_Karya Bakti_31623
+.1007_Mesat Jaya_31624
+.1008_Mesat Seni_31623
+.1003_Wira Karya_31623
+16.73.01_Lubuk Linggau Timur Satu (I)_31628
+.1001_Air Kuti_31628
+.1007_Batu Urip Taba_31628
+.1002_Majapahit_31628
+.1004_Nikan Jaya_31628
+.1003_Taba Jemekeh_31628
+.1015_Taba Koji_31628
+.1005_Taba Lestari_31628
+.1016_Watervang_31628
+16.73.08_Lubuk Linggau Utara Dua (II)_31617|31628
+.1001_Batu Urip_31627
+.1007_Jogoboyo (Joyoboyo)_31619
+.1010_Kali Serayu_31619
+.1003_Kenanga_31619
+.1006_Megang_31628
+.1004_Pasar Satelit (Pasar Satlit)_31619
+.1009_Ponorogo_31619
+.1008_Puncak Kemuning_31619
+.1005_Senalang_31619
+.1002_Ulak Surung_31617
+16.73.04_Lubuk Linggau Utara Satu (I)_31618|31619
+.1005_Belalau I_31619
+.1006_Belalau II_31619
+.1001_Durian Rampak_31619
+.1004_Marga Bakti_31619
+.1008_Marga Rejo (Margorejo)_31619
+.1010_Petanang Ilir_31618
+.1009_Petanang Ulu_31618
+.1003_Sumber Agung_31619
+.1007_Taba Baru_31619
+.1002_Tanjung Raya_31619

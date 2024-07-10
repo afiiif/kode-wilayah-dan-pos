@@ -1,0 +1,244 @@
+14.09.06_Benai_29566
+.2003_Banjar Benai_29566
+.2007_Banjar Lopak_29566
+.1001_Benai_29566
+.2016_Benai Kecil_29566
+.2005_Gunungkesiangan_29566
+.2021_Koto Benai_29566
+.2012_Pulauingu_29566
+.2006_Pulaukalimanting_29566
+.2015_Pulaulancang_29566
+.2010_Pulautongah_29566
+.2009_Siberakun_29566
+.2013_Simandolak_29566
+.2004_Talontom_29566
+.2008_Tanjungsimandolak_29566
+.2014_Tebing Tinggi_29566
+.2011_Ujung Tanjung_29566
+14.09.05_Cerenti_29555
+.2005_Kampung Baru_29555
+.2013_Kampung Baru Timur_29555
+.2003_Kompe Berangin_29555
+.2007_Koto Cerenti_29555
+.1002_Koto Peraku_29555
+.1001_Pasar Cerenti_29555
+.2010_Pesikaian/Pasikaian_29555
+.2009_Pulau Panjang Cerenti_29555
+.2008_Pulaubayur (Pulau Bayur)_29555
+.2006_Pulaujambu (Pulau Jambu)_29555
+.2004_Sikakak_29555
+.2012_Tanjungmedan (Tanjung Medan)_29555
+.2011_Telukpauh (Teluk Pauh)_29555
+14.09.07_Gunungtoar (Gunung Toar)_29565
+.2007_Gunung_29565
+.2010_Kampung Baru_29565
+.2006_Koto Gunung_29565
+.2012_Lubuk Terentang (Lubuk Terantang)_29565
+.2009_Petapahan_29565
+.2011_Pisang Berebus_29565
+.2001_Pulaumungkur (Pulau Mungkur)_29565
+.2003_Pulaurumput (Pulau Rumput)_29565
+.2004_Seberang Gunung_29565
+.2014_Seberang Sungai_29565
+.2013_Siberobah_29565
+.2005_Teberau Panjang_29565
+.2002_Telukberingin (Teluk Beringin)_29565
+.2008_Toar_29565
+14.09.12_Hulu Kuantan_29568
+.2009_Inuman_29568
+.2006_Koto Kombu_29568
+.2001_Lubuk Ambacang_29568
+.2008_Mudik Ulo_29568
+.2012_Sampurago_29568
+.2011_Serosa (Serosah / Serusa)_29568
+.2007_Sumpu_29568
+.2005_Sungaialah (Sungai Alah)_29568
+.2002_Sungaikelelawar (Sungai Kalilawar / Kelelawar)_29568
+.2004_Sungaipinang (Sungai Pinang)_29568
+.2003_Tanjung_29568
+.2010_Tanjungmedang (Tanjung Medang)_29568
+14.09.11_Inuman_29569
+.2008_Banjar Nan Tigo (Banjar Nantigo)_29569
+.2007_Bedeng Sikuran_29569
+.2013_Kampung Baru Koto_29569
+.2014_Ketaping Jaya_29569
+.2002_Koto Inuman_29569
+.2012_Lebuh Lurus_29569
+.2001_Pasar Inuman_29569
+.2006_Pulaubusuk (Pulau Busuk)_29569
+.2010_Pulaubusuk Jaya (Pulau Busuk Jaya)_29569
+.2004_Pulaupanjang Hilir (Pulau Panjang Hilir)_29569
+.2003_Pulaupanjang Hulu (Pulau Panjang Hulu)_29569
+.2009_Pulausipan (Pulau Sipan)_29569
+.2011_Seberang Pulau Busuk_29569
+.2005_Sigaruntang_29569
+14.09.04_Kuantan Hilir_29561
+.2006_Banuaran_29561
+.2020_Dusun Tuo_29561
+.2028_Gunungmelintang_29561
+.2007_Kampung Madura_29561
+.2017_Kampung Medan_29561
+.2016_Kampung Tengah_29561
+.2018_Kepala Pulau_29561
+.2005_Koto Tuo_29561
+.1002_Pasar Baru_29561
+.1001_Pasar Usang_29561
+.2009_Pulau Kijang (Pulaukijang)_29561
+.2015_Pulaumadinah_29561
+.2004_Rawang Bonto_29561
+.2030_Simpang Pulauberalo_29561
+.2003_Simpang Tanah Lapang_29561
+.2019_Teratak Baru_29561
+14.09.13_Kuantan Hilir Seberang_29562
+.2009_Danau_29562
+.2010_Kasang Limau Sundai_29562
+.2011_Koto Rajo_29562
+.2006_Lumbok_29562
+.2004_Pelukahan_29562
+.2005_Pengalihan_29562
+.2001_Pulaubaru_29562
+.2002_Pulauberalo_29562
+.2003_Pulaukulur_29562
+.2014_Rawang Oguang_29562
+.2013_Sungaisorik_29562
+.2012_Tanjung_29562
+.2008_Tanjungpisang_29562
+.2007_Teratak Jering_29562
+14.09.01_Kuantan Mudik_29564
+.2004_Air Buluh_29564
+.2026_Aur Duri_29564
+.2019_Banjar Guntung_29564
+.2011_Banjar Padang_29564
+.2025_Bukit Kauman_29564
+.2020_Bukitpedusunan_29564
+.2013_Kasang_29564
+.2024_Kinali_29564
+.2009_Koto Cengar_29564
+.2014_Koto Lubuk Jambi_29564
+.2018_Luai_29564
+.2007_Lubuk Ramo_29564
+.2030_Muaro Tombang_29564
+.2005_Pantai_29564
+.1012_Pasar Lubuk Jambi_29564
+.2023_Pebaun Hilir_29564
+.2022_Pebaun Hulu_29564
+.2015_Pulaubinjai_29564
+.2017_Rantau Sialang_29564
+.2021_Saik_29564
+.2010_Sangau_29564
+.2008_Seberang Cengar_29564
+.2016_Seberang Pantai_29564
+.2027_Sungaimanau_29564
+14.09.02_Kuantan Tengah_29511|29516
+.2001_Bandar Alai_29511
+.2023_Beringin Taluk_29511
+.2020_Jake_29511
+.2022_Jaya_29511
+.2007_Kopah_29511
+.2017_Koto Kari_29511
+.2015_Koto Taluk_29515
+.2006_Koto Tuo_29511
+.2008_Munsalo_29511
+.1016_Pasar Teluk_29511
+.2019_Pintu Gobang_29511
+.2005_Pulau Baru (Pulaubaru)_29511
+.2021_Pulau Godang Kari (Pulaugodang Kari)_29511
+.2003_Pulauaro_29511
+.2028_Pulaubanjar Kari_29511
+.2002_Pulaukedundung_29514
+.2014_Sawah_29511
+.2004_Seberang Taluk_29511
+.2026_Seberang Taluk Hilir_29511
+.1018_Simpang Tiga_29511
+.2024_Sitorajo_29511
+.1025_Sungaijering_29513
+.2027_Titian Modang Kopah_29512
+14.09.10_Logas Tanah Darat_29556
+.2014_Bumi Mulya_29556
+.2013_Giri Sako_29556
+.2012_Hulu Teso_29556
+.2011_Kuantan Sako_29556
+.2002_Logas_29556
+.2003_Lubuk Kebun_29556
+.2001_Perhentian Luas_29556
+.2006_Rambahan_29556
+.2010_Sako Margasari (Sako Margosari)_29556
+.2015_Sidodadi_29556
+.2008_Sikijang_29556
+.2005_Situgal_29556
+.2009_Sukaraja_29556
+.2004_Sungai Rambai_29556
+.2007_Teratak Rendah_29556
+14.09.09_Pangean_29553
+.2002_Koto Pangian/Pangean_29553
+.2009_Padang Kunik_29553
+.2008_Padang Tanggung_29553
+.2001_Pasar Baru Pangean_29553
+.2011_Pauh Angit_29553
+.2017_Pauh Angit Hulu_29553
+.2010_Pembatang_29553
+.2005_Pulauderas (Pulau Deras)_29553
+.2003_Pulaukumpai (Pulau Kumpai)_29553
+.2013_Pulaurengas (Pulau Rengas)_29553
+.2004_Pulautongah (Pulau Tengah / Tongah)_29553
+.2014_Rawang Binjai_29553
+.2015_Sako_29553
+.2012_Sukaping_29553
+.2016_Sungailangsat (Sungai Langsat)_29553
+.2007_Tanah Bekali_29553
+.2006_Telukpauh (Teluk Pauh)_29553
+14.09.15_Pucuk Rantau_29557
+.2002_Ibul_29557
+.2010_Kampung Baru Ibul_29557
+.2003_Muarapetai_29557
+.2008_Muaratobek_29557
+.2007_Muaro Tiu Makmur_29557
+.2004_Pangkalan_29557
+.2001_Perhentian Sungkai_29557
+.2006_Setiang_29557
+.2005_Sungaibesar_29557
+.2009_Sungaibesar Hilir_29557
+14.09.14_Sentajo Raya_29567
+.1015_Beringin Jaya_29567
+.2014_Geringging Jaya_29567
+.2010_Geringing Baru_29567
+.2009_Jalur Patah_29567
+.2004_Kampungbaru Sentajo (Kampung Baru Sentajo)_29567
+.2003_Koto Sentajo_29567
+.2012_Langsat Hulu_29567
+.2011_Marsawa_29567
+.2013_Muara Langsat_29567
+.2002_Muaro Sentajo_29567
+.2008_Parit Teratak Air Hitam_29567
+.2001_Pulaukomang Sentajo_29567
+.2005_Pulaukopung Sentajo_29567
+.2007_Seberang Teratak Air Hitam_29567
+.2006_Teratak Air Hitam_29567
+14.09.03_Singingi_29563
+.2009_Air Mas/Emas_29563
+.2005_Kebun Lado_29563
+.2004_Logas_29563
+.2014_Logas Hilir_29563
+.1003_Muara Lembu_29563
+.2001_Pangkalan Indarung_29563
+.2010_Pasir Emas_29563
+.2011_Petai Baru_29563
+.2002_Pulaupadang (Pulau Padang)_29563
+.2013_Sumber Datar_29563
+.2008_Sungaibawang (Sungai Bawang)_29563
+.2012_Sungaikeranji (Sungai Keranji)_29563
+.2006_Sungaikuning (Sungai Kuning)_29563
+.2007_Sungaisirih (Sungai Sirih)_29563
+14.09.08_Singingi Hilir_29560
+.2011_Beringin Jaya_29560
+.2010_Bukitraya (Bukit Raya)_29560
+.2001_Koto Baru_29560
+.2009_Muara Bahan_29560
+.2002_Petai_29560
+.2005_Simpang Raya_29560
+.2007_Suka Damai_29560
+.2012_Suka Maju (Sukamaju)_29560
+.2008_Sumber Jaya_29560
+.2006_Sungaibuluh (Sungai Buluh)_29560
+.2003_Sungaipaku (Sungai Paku)_29560
+.2004_Tanjungpauh (Tanjung Pauh)_29560

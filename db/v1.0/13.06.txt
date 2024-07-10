@@ -1,0 +1,108 @@
+13.06.07_Ampek Angkek (IV Angkat Candung)_26190
+.2005_Ampang Gadang_26190
+.2008_Balai Gurah_26190
+.2001_Batu Taba_26190
+.2002_Biaro Gadang_26190
+.2003_Lambah_26190
+.2004_Panampuang (Panampung)_26190
+.2006_Pasia_26190
+13.06.13_Ampek Nagari (IV Nagari )_26161
+.2001_Batu Kambing_26161
+.2003_Bawan_26161
+.2002_Sitalang_26161
+.2004_Sitanang_26161
+13.06.06_Banuhampu_26181
+.2006_Cingkariang_26181
+.2004_Kubang Putiah_26181
+.2005_Ladang Laweh_26181
+.2001_Padang Lua_26181
+.2003_Pakan Sinayan_26181
+.2007_Sungai Tanang_26181
+.2002_Taluak Ampek Suku_26181
+13.06.08_Baso_26192
+.2007_Koto Baru (Koto Baru III Jorong)_26192
+.2009_Koto Gadang_26192
+.2001_Koto Tinggi_26192
+.2005_Padang Tarok_26192
+.2006_Salo_26192
+.2004_Simarasok_26192
+.2008_Sungai Cubadak_26192
+.2002_Tabek Panjang_26192
+13.06.14_Candung_26191
+.2003_Bukik Batabuah_26191
+.2001_Canduang Koto Laweh_26191
+.2002_Lasi_26191
+13.06.05_IV Koto (Ampek Koto)_26160
+.2003_Balingka_26160
+.2005_Guguak Tabek Sarojo (Guguk Tabek Sarajo)_26160
+.2008_Koto Gadang_26160
+.2006_Koto Panjang_26160
+.2004_Koto Tuo_26160
+.2007_Sianok Anam Suku_26160
+.2002_Sungai Landia_26160
+13.06.15_Kamang Magek_26152
+.2002_Kamang Hilia_26152
+.2003_Kamang Mudiak_26152
+.2004_Kamang Tangah Anam Suku_26152
+.2001_Magek_26152
+.2005_Pauh Kamang Mudiak_26152
+13.06.02_Lubuk Basung_26451
+.2002_Garagahan (Geragahan)_26451
+.2003_Kampung Pinang_26451
+.2004_Kampung Tangah_26451
+.2001_Lubuk Basung_26451
+.2005_Manggopoh_26451
+13.06.16_Malalak (Malakak)_26163
+.2004_Malalak Barat_26163
+.2003_Malalak Selatan_26163
+.2002_Malalak Timur_26163
+.2001_Malalak Utara_26163
+13.06.04_Matur_26162
+.2004_Lawang_26162
+.2001_Matua Hilia (Matur Hilia)_26162
+.2002_Matua Mudiak (Matur Mudiak)_26162
+.2006_Panta Pauh_26162
+.2005_Parik Panjang_26162
+.2003_Tigo Balai_26162
+13.06.11_Palembayan (Pelembayan)_26164
+.2004_Ampek Koto (Ampek Koto Palembayan)_26164
+.2001_Baringin_26164
+.2006_Salareh Aia_26164
+.2009_Salareh Aia Barat_26164
+.2007_Salareh Aia Timur_26164
+.2008_Salareh Aia Utara_26164
+.2002_Sipinang_26164
+.2003_Sungai Puar_26164
+.2005_Tigo Koto Silungkang_26164
+13.06.10_Palupuh_26151
+.2001_Koto Rantang_26151
+.2005_Nan Limo_26151
+.2004_Nan Tujuah_26151
+.2003_Pagadih_26151
+.2002_Pasia Laweh_26151
+13.06.12_Sungai Pua (Puar)_26182
+.2003_Batagak_26182
+.2004_Batu Palano_26182
+.2001_Padang Laweh_26182
+.2005_Sariak_26182
+.2002_Sungai Pua_26182
+13.06.01_Tanjung Mutiara_26473
+.2004_Durian Kapeh Darussalam_26473
+.2003_Tiku Limo Jorong_26473
+.2001_Tiku Selatan_26473
+.2002_Tiku Utara_26473
+13.06.03_Tanjung Raya_26471
+.2004_Bayua_26471
+.2011_Dalko_26471
+.2007_Duo Koto_26471
+.2008_Koto Gadang Anam Koto_26471
+.2006_Koto Kaciak_26471
+.2009_Koto Malintang_26471
+.2003_Maninjau_26471
+.2010_Paninjauan_26471
+.2002_Sungai Batang_26471
+.2001_Tanjung Sani_26471
+13.06.09_Tilatang Kamang_26153
+.2003_Gadut (Gaduk)_26153
+.2004_Kapau_26153
+.2001_Koto Tangah_26153

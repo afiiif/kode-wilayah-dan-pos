@@ -1,0 +1,99 @@
+73.01.01_Benteng_92812
+.1002_Benteng_92812
+.1003_Benteng Selatan_92812
+.1001_Benteng Utara_92812
+73.01.02_Bontoharu_92811
+.1002_Bontobangung (Bontobangun)_92811
+.2004_Bontoborusu_92811
+.2005_Bontolebang_92811
+.2003_Bontosunggu_92811
+.2006_Bontotangnga_92811
+.2007_Kahu-Kahu_92811
+.2008_Kalepadang_92811
+.1001_Putabangung (Putabangun)_92811
+73.01.04_Bontomanai_92851
+.2002_Barugaiya_92851
+.2006_Bonea Makmur_92851
+.2010_Bonea Timur_92851
+.2011_Bontokoraang_92851
+.2008_Bontomarannu_92851
+.2003_Jambuiya_92851
+.2012_Kaburu_92851
+.2004_Mare Mare_92851
+.2001_Parak_92851
+.2005_Polebunging (Polebungin)_92851
+73.01.03_Bontomatene_92854
+.2007_Barat Lambongan_92854
+.1001_Batangmata_92854
+.1002_Batangmata Sapo_92854
+.2008_Bontona Saluk (Bontonasaluk)_92854
+.2005_Bungaiya_92854
+.2006_Kayu Bauk_92854
+.2010_Maharaya (Maharayya)_92854
+.2011_Menara Indah_92854
+.2009_Onto_92854
+.2003_Pamatata_92854
+.2015_Tamalanrea_92854
+.2004_Tanete_92854
+73.01.05_Bontosikuyu_92855
+.2009_Appatanah_92855
+.2007_Binanga Sambaiya (Binanga Sombaiya)_92855
+.2001_Harapan_92855
+.2012_Khusus Bahuluang_92855
+.2005_Laiyolo_92855
+.2004_Laiyolo Baru_92855
+.2006_Lantibongan (Lantimbongan)_92855
+.2008_Lowa_92855
+.2002_Patikarya_92855
+.2003_Patilereng_92855
+.2011_Polassi_92855
+.2010_Tambolongan_92855
+73.01.11_Buki_92851|92854
+.2003_Balang Butung_92854
+.2005_Bontolempangan_92851
+.2001_Buki_92854
+.2007_Buki Timur_92854
+.2004_Kohala_92851
+.2002_Lalang Bata_92854
+.2006_Mekar Indah_92854
+73.01.09_Pasilambena_92863
+.2002_Garaupa_92863
+.2006_Garaupa Raya_92863
+.2001_Kalaotoa_92863
+.2005_Karumpa_92863
+.2003_Lembang Matene_92863
+.2004_Pulo Madu_92863
+73.01.07_Pasimarannu_92862
+.2003_Batu Bingkung_92862
+.2004_Bonea_92862
+.2001_Bonerate_92862
+.2006_Komba-Komba_92862
+.2008_Lamantu_92862
+.2005_Lambego_92862
+.2002_Majapahit_92862
+.2007_Sambali_92862
+73.01.06_Pasimasunggu (Pasimassunggu)_92811|92861
+.2009_Bontosaile_92811
+.2001_Kembang Ragi_92861
+.2006_Labuang Pamajang_92861
+.2003_Ma'minasa_92861
+.2007_Masungke (Massungke)_92861
+.2005_Tanamalala_92861
+.2011_Telukkampe (Teluk Kampe)_92861
+73.01.10_Pasimasunggu Timur_92861
+.2002_Bontobaru_92861
+.2001_Bontobulaeng_92861
+.2005_Bontojati_92861
+.2003_Bontomaling (Bontomalling)_92861
+.2004_Lembangbaji (Lembang Baji)_92861
+.2006_Ujung_92861
+73.01.08_Taka Bonerate (Takabonerate)_92860
+.2002_Batang_92860
+.2005_Jinato_92860
+.2001_Kayuadi_92860
+.2009_Khusus Pasitallu_92860
+.2007_Latondu_92860
+.2003_Nyiur Indah_92860
+.2006_Rajuni_92860
+.2004_Tambuna_92860
+.2008_Tarupa_92860

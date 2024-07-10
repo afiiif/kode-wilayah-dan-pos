@@ -1,0 +1,141 @@
+73.16.05_Alla_91754
+.2018_Bolang_91754
+.1003_Buntu Sugi_91754
+.1002_Kalosi_91754
+.1001_Kambiolangi_91754
+.2004_Mata Allo_91754
+.2011_Pana_91754
+.2010_Sumillan_91754
+.2017_Taulo_91754
+73.16.04_Anggeraja_91752
+.2003_Bamba Puang_91752
+.2013_Batunoni (Batu Noni)_91752
+.2011_Bubun Lamba_91752
+.1001_Lakawan_91752
+.2006_Mampu_91752
+.1004_Mataran_91752
+.2015_Mendatte (Mandatte)_91752
+.2007_Pekalobean_91752
+.2009_Salu Dewata_91752
+.2014_Saruran_91752
+.2005_Siambo_91752
+.2008_Singki_91752
+.2012_Tampo_91752
+.1002_Tanete_91752
+.2010_Tindalun (Tindallun)_91752
+73.16.03_Baraka_91753
+.1021_Balla_91753
+.2003_Banti_91753
+.1001_Baraka_91753
+.2022_Bonebone (Bone Bone)_91753
+.2005_Bontongan_91753
+.2019_Janggurara_91753
+.2020_Kadingeh_91753
+.2012_Kendenan_91753
+.2023_Pandung Batu_91753
+.2007_Parinding_91753
+.2011_Pepandungan_91753
+.2015_Perangian (Parangian)_91753
+.2006_Salukanan_91753
+.2010_Tirowali (Tiro Wali)_91753
+.1002_Tomenawa_91753
+73.16.12_Baroko_91755
+.2001_Baroko_91755
+.2002_Benteng Ala (Benteng Alla)_91755
+.2003_Benteng Alla Utara_91755
+.2005_Patongloan_91755
+.2004_Tongko_91755
+73.16.06_Bungin_91761
+.2010_Banua_91761
+.2004_Baruka_91761
+.2009_Bulo_91761
+.2002_Bungin_91761
+.2008_Sawito_91761
+.2003_Talang Rilau (Tallang Rilau)_91761
+73.16.10_Buntu Batu_91750
+.2004_Buntu Mondong_91750
+.2002_Eran Batu_91750
+.2007_Langda_91750
+.2003_Latimojong_91750
+.2005_Ledan_91750
+.2006_Lunjen_91750
+.2001_Pasui_91750
+.2008_Potok Ulin (Potok Ullin)_91750
+73.16.07_Cendana_91711
+.2001_Cendana_91711
+.2005_Karrang_91711
+.2006_Lebang_91711
+.2004_Malalin_91711
+.2003_Pinang_91711
+.2007_Pundi Lemo (Pundilemo)_91711
+.2002_Taulan_91711
+73.16.08_Curio_91756
+.2002_Buntu Barana_91756
+.2003_Buntu Pema_91756
+.2007_Curio_91756
+.2010_Mandalan_91756
+.2008_Mekkala (Mekkale / Mekkalak)_91756
+.2004_Parombean_91756
+.2006_Pebaloran (Pabaloran)_91756
+.2011_Salassa_91756
+.2001_Sengiepongan_91756
+.2009_Sumbang_91756
+.2005_Tallung Ura (Tallungura)_91756
+73.16.02_Enrekang_91711|91712
+.2006_Buttu Batu_91711
+.2015_Cemba_91711
+.1001_Galonta_91712
+.1002_Juppandang_91711
+.2013_Kaluppini_91711
+.2008_Karueng_91711
+.2019_Lembang_91711
+.1010_Leoran_91711
+.1004_Lewaja_91711
+.1003_Puserren_91711
+.2005_Ranga_91711
+.2018_Rosoan (Rossoan)_91711
+.2011_Tallu Bamba_91711
+.2017_Temban_91711
+.2014_Tobalu_91711
+.2007_Tokkonan_91711
+.1016_Tuara_91711
+.2012_Tungka_91711
+73.16.01_Maiwa_91760
+.1001_Bangkala_91760
+.2014_Baringin_91760
+.2006_Batu Mila_91760
+.2012_Boiya_91760
+.2011_Botto Malangga (Boto Malangga)_91760
+.2019_Kaluppang_91760
+.2022_Labuku_91760
+.2015_Lebani_91760
+.2016_Limbuang_91760
+.2010_Mangkawani (Mengkawani)_91760
+.2013_Matajang_91760
+.2020_Ongko_91760
+.2017_Paladang_91760
+.2008_Palakka_91760
+.2018_Pariwang_91760
+.2004_Pasang_91760
+.2002_Patondon Salu_91760
+.2007_Puncak Harapan_91760
+.2005_Salodua (Salo Dua)_91760
+.2021_Tanete_91760
+.2009_Tapong_91760
+.2003_Tuncung_91760
+73.16.09_Malua_91751
+.2002_Bonto_91751
+.2008_Buntu Batuan_91751
+.2007_Dulang_91751
+.2006_Kolai_91751
+.1001_Malua_91751
+.2004_Rante Mario_91751
+.2003_Tallung Tondok_91751
+.2005_Tangru_91751
+73.16.11_Masalle_91757
+.2003_Batu Ke'de (Batu Kede)_91757
+.2006_Buntu Sarong_91757
+.2001_Masalle_91757
+.2004_Mundan_91757
+.2008_Rampunan_91757
+.2055_Tongkonan Basse_91757

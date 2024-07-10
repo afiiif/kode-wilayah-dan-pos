@@ -1,0 +1,159 @@
+63.06.04_Angkinang_71291
+.2005_Angkinang_71291
+.2007_Angkinang Selatan_71291
+.2011_Bakarung_71291
+.2002_Bamban_71291
+.2003_Bamban Selatan_71291
+.2001_Bamban Utara_71291
+.2004_Kayu Abang_71291
+.2009_Taniran Kubah_71291
+.2010_Taniran Selatan_71291
+.2008_Tawia_71291
+.2006_Telaga Sili Sili_71291
+63.06.11_Daha Barat_71252
+.2004_Badaun_71252
+.2005_Bajayau_71252
+.2007_Bajayau Lama_71252
+.2006_Bajayau Tengah_71252
+.2002_Baru_71252
+.2001_Siang Gantung_71252
+.2003_Tanjung Selor_71252
+63.06.07_Daha Selatan_71251
+.2004_Banjarbaru (Banjar Baru)_71251
+.2013_Banua Hanyar_71251
+.2015_Baruh Jaya_71251
+.2005_Bayanan_71251
+.2010_Habirau_71251
+.2011_Habirau Tengah_71251
+.2001_Muning Baru_71251
+.2002_Muning Dalam_71251
+.2003_Muning Tengah_71251
+.2006_Pandan Sari_71251
+.2012_Parigi_71251
+.2007_Pihanin Raya_71251
+.2016_Samuda_71251
+.2009_Sei/Sungai Pinang_71251
+.2014_Tambangan_71251
+.2008_Tumbukan Banyu_71251
+63.06.08_Daha Utara_71253
+.2008_Balah Paikat (Belah Paikat)_71253
+.2012_Baruh Kembang_71253
+.2019_Hakurung_71253
+.2016_Hamayung_71253
+.2017_Hamayung Utara_71253
+.2011_Mandala Murung Mesjid_71253
+.2007_Murung Raya_71253
+.2018_Paharangan_71253
+.2004_Pakan Dalam_71253
+.2001_Pakapuran Kecil_71253
+.2006_Pandak Daun_71253
+.2002_Panggandingan_71253
+.2005_Paramaian_71253
+.2014_Pasungkan_71253
+.2009_Sei/Sungai Garuda_71253
+.2010_Sei/Sungai Mandala_71253
+.2003_Tambak Bitin_71253
+.2013_Teluk Haur (Taluk Haur)_71253
+.2015_Teluk Kabak (Teluk Labak)_71253
+63.06.09_Kalumpang (Kelumpang)_71262
+.2003_Bago Tanggul_71262
+.2005_Balanti_71262
+.2001_Balimau_71262
+.2006_Kalumpang (Kelumpang)_71262
+.2004_Karang Bulan_71262
+.2002_Karang Paci_71262
+.2008_Sirih_71262
+.2009_Sirih Hulu_71262
+.2007_Tambingkar_71262
+63.06.05_Kandangan_71211|71217
+.2016_Amawang Kanan_71213
+.2014_Amawang Kiri_71213
+.2015_Amawang Kiri Muka_71213
+.2018_Baluti_71217
+.2010_Bangkau_71217
+.2013_Bariang_71213
+.2007_Gambah Dalam_71215
+.2008_Gambah Dalam Barat_71215
+.2005_Gambah Luar_71216
+.2006_Gambah Luar Muka_71216
+.1004_Jambu Hilir_71214
+.1003_Kandangan Barat_71213
+.1001_Kandangan Kota_71211
+.1002_Kandangan Utara_71214
+.2011_Lungau_71213
+.2009_Sei/Sungai Kupang_71217
+.2012_Sei/Sungai Paring_71213
+.2017_Tibung Raya_71214
+63.06.10_Loksado_71282
+.2001_Halunuk_71282
+.2010_Haratai_71282
+.2005_Hulu Banyu_71282
+.2007_Kamawakan_71282
+.2008_Lok Lahung_71282
+.2009_Loksado_71282
+.2003_Lumpangi_71282
+.2004_Malinau_71282
+.2002_Panggungan_71282
+.2006_Tumingki_71282
+.2011_Ulang (Muara Ulang)_71282
+63.06.02_Padang Batung_71281
+.2010_Batu Bini_71281
+.2015_Batu Laki_71281
+.2013_Durian Rabung_71281
+.2006_Jambu Hulu_71281
+.2014_Jelatang (Jalatang)_71281
+.2009_Jembatan Merah_71281
+.2005_Kaliring_71281
+.2002_Karang Jawa_71281
+.2001_Karang Jawa Muka_71281
+.2012_Madang_71281
+.2017_Malilingin_71281
+.2016_Malutu_71281
+.2011_Mawangi_71281
+.2008_Padang Batung_71281
+.2007_Pahampangan_71281
+.2004_Pandulangan_71281
+.2003_Tabihi_71281
+63.06.06_Simpur_71261
+.2004_Amparaya_71261
+.2003_Garunggang_71261
+.2011_Kapuh_71261
+.2005_Panjampang Bahagia_71261
+.2007_Pantai Ulin_71261
+.2002_Simpur_71261
+.2001_Tebing Tinggi_71261
+.2006_Ulin_71261
+.2010_Wasah Hilir_71261
+.2008_Wasah Hulu_71261
+.2009_Wasah Tengah_71261
+63.06.01_Sungai Raya_71271
+.2014_Asam_71271
+.2012_Baru_71271
+.2011_Batang Kulur Kanan_71271
+.2009_Batang Kulur Kiri_71271
+.2010_Batang Kulur Tengah_71271
+.2008_Bumi Berkat (Bumi Barkat)_71271
+.2001_Hamalau_71271
+.2006_Hariti_71271
+.2007_Ida Manggala_71271
+.2003_Karasikan_71271
+.2017_Paring Agung_71271
+.2016_Sarang Halang_71271
+.2015_Sei/Sungai Kali_71271
+.2005_Sei/Sungai Raya Selatan_71271
+.2004_Sei/Sungai Raya Utara_71271
+.2013_Tamiyang_71271
+.2018_Tanah Bangkang_71271
+.2002_Telaga Bidadari_71271
+63.06.03_Telaga Langsat_71292
+.2004_Ambutun_71292
+.2009_Gumbil_71292
+.2005_Hamak_71292
+.2006_Hamak Timur_71292
+.2007_Hamak Utara_71292
+.2001_Lok Binuang_71292
+.2010_Longawang_71292
+.2003_Mandala_71292
+.2008_Pakuan Timur_71292
+.2011_Pandulangan_71292
+.2002_Telaga Langsat_71292

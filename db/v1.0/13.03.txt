@@ -1,0 +1,70 @@
+13.03.05_IV Nagari_27561
+.2002_Koto Baru_27561
+.2005_Koto Tuo_27561
+.2003_Muaro Bodi_27561
+.2004_Mundam Sakti_27561
+.2001_Palangki_27561
+13.03.06_Kamang Baru_27572
+.2004_Aia Amo_27572
+.2002_Kamang_27572
+.2006_Kunangan Parik Rantang_27572
+.2010_Lubuk Tarantang_27572
+.2011_Maloro_27572
+.2003_Muaro Takuang_27572
+.2008_Padang Tarok_27572
+.2009_Siaur_27572
+.2005_Sungai Batuang_27572
+.2001_Sungai Lansek_27572
+.2007_Tanjung Kaliang_27572
+13.03.08_Koto VII_27562
+.2006_Bukit Bual_27562
+.2003_Guguak (Guguk)_27562
+.2001_Limo Koto_27562
+.2004_Padang Laweh_27562
+.2007_Padang Laweh Selatan_27562
+.2002_Palaluar_27562
+.2005_Tanjung_27562
+13.03.10_Kupitan_27564
+.2001_Batu Manjulur_27564
+.2004_Desa Kampung Baru_27564
+.2003_Padang Sibusuk_27564
+.2002_Pamuatan_27564
+13.03.07_Lubuak Tarok_27553
+.2003_Buluah Kasok_27553
+.2004_Kampung Dalam_27553
+.2002_Lalan_27553
+.2006_Latang_27553
+.2001_Lubuak Tarok_27553
+.2005_Silongo_27553
+13.03.04_Sijunjung_27554
+.2008_Aie Angek_27554
+.2007_Durian Gadang_27554
+.2002_Kandang Baru_27554
+.2001_Muaro_27554
+.2006_Paru_27554
+.2004_Pematang Panjang_27554
+.2009_Sijunjung_27554
+.2003_Silokek_27554
+.2005_Solok Ambah_27554
+13.03.09_Sumpur Kudus_27563
+.2007_Kumanis_27563
+.2008_Mangganti_27563
+.2001_Silantai_27563
+.2002_Sisawah_27563
+.2005_Sumpur Kudus_27563
+.2009_Sumpur Kudus Selatan_27563
+.2006_Tamparungo_27563
+.2004_Tanjung Bonai Aur_27563
+.2011_Tanjung Bonai Aur Selatan_27563
+.2010_Tanjung Labuah (Tanjuang Labuah)_27563
+.2003_Unggan_27563
+13.03.03_Tanjung Gadang_27571
+.2005_Langki_27571
+.2004_Pulasan_27571
+.2006_Sibakur_27571
+.2009_Sinyamu_27571
+.2002_Tanjung Gadang_27571
+.2007_Tanjung Lolo_27571
+.2003_Taratak Baru_27571
+.2008_Taratak Baru Utara_27571
+.2001_Timbulun_27571

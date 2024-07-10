@@ -1,0 +1,55 @@
+64.11.03_Laham_75779
+.2004_Danum Paroy_75779
+.2001_Laham_75779
+.2002_Long Gelawang_75779
+.2003_Muara Ratah_75779
+.2005_Nyaribungan_75779
+64.11.04_Long Apari_75769
+.2010_Long Apari_75769
+.2002_Long Kerioq_75769
+.2001_Long Penaneh I_75769
+.2003_Long Penaneh II_75769
+.2005_Long Penaneh III_75769
+.2007_Naha Buan_75769
+.2009_Naha Silat (Noha Silat)_75769
+.2008_Naha Tifab (Naha Tivab)_75769
+.2006_Tiong Bu'u (Tiong Buu)_75769
+.2004_Tiong Ohang_75769
+64.11.01_Long Bagun_75767
+.2009_Batoq Kelo_75767
+.2005_Batu Majang_75767
+.2007_Long Bagun Ilir_75767
+.2008_Long Bagun Ulu_75767
+.2001_Long Hurai_75767
+.2002_Long Melaham_75767
+.2010_Long Merah_75767
+.2003_Memahak Besar (Mamahak Ilir)_75767
+.2004_Memahak Ulu (Mamahak Ulu)_75767
+.2011_Rukun Damai_75767
+.2006_Ujoh Bilang_75767
+64.11.02_Long Hubung_75770
+.2009_Datah Bilang Baru_75770
+.2005_Datah Bilang Ilir_75770
+.2006_Datah Bilang Ulu_75770
+.2001_Long Hubung_75770
+.2011_Long Hubung Ulu_75770
+.2003_Lutan_75770
+.2004_Matalibaq_75770
+.2002_Memahak Teboq_75770
+.2010_Sirau_75770
+.2007_Tri Pariq Makmur_75770
+.2008_Wana Pariq_75770
+64.11.05_Long Pahangai_75768
+.2006_Datah Naha_75768
+.2001_Delang Kerohong (Delang Krohong)_75768
+.2007_Lirung Ubing_75768
+.2011_Liu Mulang_75768
+.2004_Long Isun_75768
+.2003_Long Lunuk_75768
+.2013_Long Lunuk Baru_75768
+.2008_Long Pahangai I_75768
+.2009_Long Pahangai II_75768
+.2002_Long Pakaq_75768
+.2012_Long Pakaq Baru_75768
+.2010_Long Tuyoq_75768
+.2005_Naha Aru (Naha Aruq)_75768

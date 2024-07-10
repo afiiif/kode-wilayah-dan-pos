@@ -1,0 +1,161 @@
+14.06.10_Bangun Purba_28557
+.2004_Bangun Purba_28557
+.2006_Bangun Purba Barat_28557
+.2005_Bangun Purba Timur Jaya_28557
+.2001_Pasir Agung_28557
+.2002_Pasir Intan_28557
+.2003_Rambah Jaya_28557
+.2007_Tangun_28557
+14.06.13_Bonai Darussalam_28559
+.2003_Bonai_28559
+.2007_Kasang Mungai_28559
+.2006_Kasang Padang_28559
+.2005_Pauh_28559
+.2004_Rawa Makmur_28559
+.2002_Sontang_28559
+.2001_Teluk Sono_28559
+14.06.12_Kabun_28554
+.2002_Aliantan_28554
+.2005_Batu Langkah Besar_28554
+.2004_Bencah/Boncah Kesuma_28554
+.2006_Giti_28554
+.2001_Kabun_28554
+.2003_Kota/Koto Ranah_28554
+14.06.05_Kepenuhan_28563
+.2003_Kepenuhan Barat_28563
+.2009_Kepenuhan Barat Mulya_28563
+.2006_Kepenuhan Barat Sei Rokan Jaya_28563
+.2008_Kepenuhan Baru_28563
+.2004_Kepenuhan Hilir_28563
+.2007_Kepenuhan Raya_28563
+.2005_Kepenuhan Timur_28563
+.1001_Kepenuhantengah (Kepenuhan Tengah)_28563
+.2012_Rantau Binuang Sakti_28563
+.2010_Ulak Patian_28563
+14.06.15_Kepenuhan Hulu_28564
+.2003_Kepayang (Kepayan)_28564
+.2001_Kepenuhan Hulu_28564
+.2005_Kepenuhan Jaya_28564
+.2004_Muara Jaya_28564
+.2002_Pekan Tebih_28564
+14.06.06_Kunto Darussalam_28556
+.2018_Bagan Tujuh_28556
+.2017_Bukit Intan Makmur_28556
+.2009_Kota Baru_28556
+.2003_Kota Intan_28556
+.1001_Kota Lama_28556
+.2008_Kota Raya_28556
+.2004_Muara Dilam_28556
+.2011_Pasir Indah_28556
+.2012_Pasir Luhur_28556
+.2010_Sungai Kuti_28556
+14.06.14_Pagaran Tapah Darussalam_28550
+.2002_Kembang Damai_28550
+.2001_Pagaran Tapah_28550
+.2005_Sangkir Indah_28550
+14.06.16_Pendalian IV Koto_28555
+.2004_Air Panas_28555
+.2002_Bengkolan Salak_28555
+.2001_Pendalian_28555
+.2005_Sei Kandis_28555
+.2003_Suligi_28555
+14.06.03_Rambah_28560
+.2013_Babussalam_28560
+.2010_Koto Tinggi_28560
+.2006_Menaming_28560
+.2007_Pasir Baru_28560
+.2014_Pasir Maju_28560
+.1001_Pasir Pengarayan_28560
+.2012_Pemalang Berangan (Pematang Berangan)_28560
+.2005_Rambah Tengah Barat_28560
+.2003_Rambah Tengah Hilir_28560
+.2004_Rambah Tengah Hulu_28560
+.2002_Rambah Tengah Utara_28560
+.2008_Sialang Jaya_28560
+.2011_Suka Maju_28560
+.2009_Tanjung Belit_28560
+14.06.08_Rambah Hilir_28561
+.2008_Lubuk Krapat/Kerapat_28561
+.2012_Muara Musu_28561
+.2005_Pasir Jaya_28561
+.2004_Pasir Utama_28561
+.2009_Rambah_28561
+.2001_Rambah Hilir_28561
+.2002_Rambah Hilir Tengah_28561
+.2003_Rambah Hilir Timur_28561
+.2006_Rambah Muda_28561
+.2013_Sejati_28561
+.2010_Serambau/Serombau Indah_28561
+.2011_Sungai Dua Indah_28561
+.2007_Sungai Sitolang_28561
+14.06.07_Rambah Samo_28565
+.2006_Karya Mulya_28565
+.2008_Langkitan (Langkitin)_28565
+.2014_Lubuk Bilang_28565
+.2010_Lubuk Napai (Lubuk Napal)_28565
+.2007_Marga Mulya_28565
+.2009_Masda Makmur_28565
+.2005_Pasir Makmur_28565
+.2003_Rambah Baru_28565
+.2001_Rambah Samo_28565
+.2002_Rambah Samo Barat_28565
+.2004_Rambah Utama_28565
+.2013_Sei Kuning_28565
+.2012_Sei Salak_28565
+.2011_Teluk Aur_28565
+14.06.02_Rokan IV Koto_28551
+.2018_Alahan_28551
+.2002_Cipang Kanan_28551
+.2004_Cipang Kiri Hilir_28551
+.2003_Cipang Kiri Hulu_28551
+.2008_Lubuk Bendahara_28551
+.2007_Lubuk Bendahara Timur_28551
+.2016_Lubuk Betung_28551
+.2017_Pemandang_28551
+.1001_Rokan_28551
+.2013_Rokan Koto Ruang_28551
+.2014_Rokan Timur_28551
+.2010_Sikebau Jaya_28551
+.2006_Tanjung Medan_28551
+.2019_Tibawan_28551
+14.06.04_Tambusai_28558
+.2008_Batang Kumu_28558
+.2004_Batas_28558
+.2011_Lubuk Soting_28558
+.2006_Rantau Panjang_28558
+.2009_Sialang Rindang_28558
+.2010_Suka Maju_28558
+.2007_Sungai Komango (Sungai Kumango)_28558
+.2005_Talikumain (Tali Kumain)_28558
+.2002_Tambusai Barat_28558
+.1001_Tambusai Tengah_28558
+.2003_Tambusai Timur_28558
+.2012_Tingkok_28558
+14.06.09_Tambusai Utara_28562
+.2003_Bangun Jaya_28562
+.2002_Mahato_28562
+.2011_Mahato Sakti_28562
+.2007_Mekar Jaya_28562
+.2005_Pagar Mayang_28562
+.2006_Payung Sekaki_28562
+.2010_Rantau Sakti_28562
+.2004_Simpang Harapan_28562
+.2009_Suka Damai_28562
+.2001_Tambusai Utara_28562
+.2008_Tanjung Medan_28562
+14.06.11_Tandun_28552
+.2003_Bona Tapung (Bono Tapung)_28552
+.2004_Dayo_28552
+.2008_Koto Tandun_28552
+.2002_Kumain_28552
+.2006_Puo Raya_28552
+.2007_Sei/Sungai Kuning_28552
+.2001_Tandun_28552
+.2009_Tandun Barat_28552
+.2005_Tapung Jaya_28552
+14.06.01_Ujung Batu_28553
+.2003_Ngaso_28553
+.2005_Pematang Tebih_28553
+.2002_Suka Damai_28553
+.1001_Ujung Batu_28553
+.2004_Ujung Batu Timur_28553

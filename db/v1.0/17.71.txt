@@ -1,0 +1,76 @@
+17.71.02_Gading Cempaka_38221|38229
+.1027_Cempaka Permai_38221
+.1002_Jalan Gedang_38225
+.1024_Lingkar Barat_38221
+.1001_Padang Harapan_38225
+.1021_Sidomulyo (Sido Mulyo)_38229
+17.71.05_Kampung Melayu_38215|38216
+.1001_Kandang_38216
+.1002_Kandang Mas_38215
+.1006_Muara Dua_38215
+.1005_Padang Serai_38215
+.1004_Sumber Jaya_38215
+.1003_Teluk Sepang_38215
+17.71.04_Muara Bangka Hulu_38121|38126
+.1002_Bentiring_38126
+.1006_Bentiring Permai_38121
+.1005_Beringin Raya_38121
+.1001_Kandang Limun_38122
+.1003_Pematang Gubernur_38125
+.1004_Rawa Makmur_38121
+.1007_Rawa Makmur Permai_38121
+17.71.06_Ratu Agung_38223|38228
+.1004_Kebun Beler_38223
+.1005_Kebun Kenanga_38223
+.1001_Kebun Tebeng_38227
+.1008_Lempuing_38223
+.1003_Nusa Indah_38224
+.1006_Sawah Lebar_38228
+.1007_Sawah Lebar Baru_38223
+.1002_Tanah Patah_38224
+17.71.07_Ratu Samban_38221|38227
+.1006_Anggut Atas_38222
+.1005_Anggut Bawah_38223
+.1007_Anggut Dalam_38222
+.1003_Belakang Pondok_38221
+.1002_Kebun Dahri_38221
+.1008_Kebun Geran (Gerand)_38222
+.1001_Padang Jati_38227
+.1009_Pengantungan (Penggantungan)_38221
+.1004_Penurunan_38223
+17.71.01_Selebar_38211|38216
+.1005_Betungan_38214
+.1004_Bumu Ayu (Bumi Ayu)_38216
+.1001_Pagar Dewa_38211
+.1003_Pekan Sabtu_38213
+.1002_Sukarami_38216
+.1006_Sumur Dewa_38216
+17.71.09_Singaran Pati_38221|38229
+.1003_Dusun Besar_38229
+.1002_Jembatan Kecil_38224
+.1006_Lingkar Timur_38221
+.1004_Padang Nangka_38221
+.1001_Panorama_38226
+.1005_Timur Indah_38221
+17.71.08_Sungai Serut_38119
+.1001_Kampung Kelawi/Klawi_38119
+.1007_Pasar Bengkulu_38119
+.1003_Semarang_38119
+.1002_Sukamerindu (Suka Merindu)_38119
+.1006_Surabaya_38119
+.1004_Tanjung Agung_38119
+.1005_Tanjung Jaya_38119
+17.71.03_Teluk Segara_38113|38119
+.1008_Bajak (Kampung Teleng)_38118
+.1001_Berkas_38114
+.1003_Jitra (Pasar Jitra)_38119
+.1019_Kampung Bali_38119
+.1011_Kebun Keling_38116
+.1005_Kebun Roos/Ros_38117
+.1014_Malabero/Malabro_38119
+.1002_Pasar Baru_38114
+.1004_Pasar Melintang_38115
+.1018_Pintu Batu_38115
+.1010_Pondok Besi_38117
+.1013_Sumur Meleleh_38113
+.1007_Tengah Padang_38118

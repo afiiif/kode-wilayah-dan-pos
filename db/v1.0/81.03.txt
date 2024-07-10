@@ -1,0 +1,92 @@
+81.03.06_Fordata (Yaru)_97466
+.2006_Adodo Fordata_97466
+.2003_Awear_97466
+.2001_Romean_97466
+.2002_Rumngeur_97466
+.2004_Sofyanin_97466
+.2005_Walerang_97466
+81.03.08_Kormomolin_97461
+.2008_Alusi Batjasi_97461
+.2006_Alusi Bukjalim_97461
+.2005_Alusi Kelaan_97461
+.2004_Alusi Krawain_97461
+.2007_Alusi Tamrian_97461
+.2002_Kilmasa_97461
+.2009_Lorwembun_97461
+.2001_Lumasebu_97461
+.2003_Meyano Bab_97461
+.2010_Meyano Das_97461
+81.03.18_Molu Maru_97462
+.2002_Adodo Molu (Adodo Molo)_97462
+.2005_Nurkat_97462
+.2004_Tutunametal_97462
+.2001_Wadankou (Wadankau)_97462
+.2003_Wulmasa_97462
+81.03.09_Nirunmas_97463
+.2001_Arma_97463
+.2003_Manglusi_97463
+.2004_Tutukembong_97463
+.2002_Watmuri_97463
+.2005_Waturu_97463
+81.03.02_Selaru_97481
+.2001_Adaut_97481
+.2007_Eliasa_97481
+.2005_Fursuy (Fursui)_97481
+.2003_Kandar_97481
+.2004_Lingat_97481
+.2002_Namtabung_97481
+.2006_Werain_97481
+81.03.01_Tanimbar Selatan_97471
+.2010_Bomaki_97471
+.2003_Ilngei_97471
+.2004_Kabiarat (Kabiarat Raya)_97471
+.2009_Latdalam_97471
+.2005_Lauran_97471
+.2008_Lermatang_97471
+.2011_Matakus_97471
+.2007_Olilit Raya (Olilit)_97471
+.1001_Saumlaki_97471
+.1002_Saumlaki Utara_97471
+.2006_Sifnana_97471
+.2002_Wowonda_97471
+81.03.05_Tanimbar Utara_97464
+.2006_Kelaan_97464
+.2005_Kilobar (Keliober)_97464
+.2007_Lamdesar Barat_97464
+.2008_Lamdesar Timur_97464
+.2001_Lelingluan_97464
+.2003_Ridool_97464
+.2002_Ritabel_97464
+.2004_Watidal_97464
+81.03.04_Wermaktian (Wer Maktian)_97472
+.2007_Batu Putih_97472
+.2001_Kamatubun_97472
+.2008_Makatian (Makatiang)_97472
+.2009_Marantutul_97472
+.2002_Rumahsalut (Rumasalut)_97472
+.2004_Themin_97472
+.2003_Welutu_97472
+.2005_Weratan_97472
+.2006_Wermatang_97472
+81.03.03_Wertamrian (Wer Tamrian)_97473
+.2004_Amdasa_97473
+.2006_Arui Bab_97473
+.2007_Arui Das_97473
+.2009_Atubul Da_97473
+.2003_Atubul Dol_97473
+.2002_Lorulun_97473
+.2008_Sangliat Dol_97473
+.2005_Sangliat Krawain_97473
+.2001_Tumbur_97473
+81.03.07_Wuar Labobar_97465
+.2001_Abat_97465
+.2009_Awear Rumngeur_97465
+.2010_Karatat_97465
+.2012_Kiloon_97465
+.2002_Labobar_97465
+.2013_Lingada_97465
+.2016_Romnus_97465
+.2014_Teineman_97465
+.2015_Wabar_97465
+.2008_Watmasa_97465
+.2011_Wunlah_97465

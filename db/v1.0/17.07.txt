@@ -1,0 +1,116 @@
+17.07.10_Amen_39264
+.1009_Amen_39264
+.2008_Garut_39264
+.2001_Nangai Tayau_39264
+.2002_Nangai Tayau I_39264
+.2003_Pyang Mbik (Paya Embik)_39264
+.2007_Selebar Jaya_39264
+.2004_Sukau Mergo (Suka Marga)_39264
+.2005_Sukau Rajo (Sukaraja)_39264
+.2010_Sungai Gerong_39264
+.2006_Talang Bunut_39264
+17.07.07_Bingin Kuning_39262
+.2002_Bukit Nibung_39262
+.2009_Bungin_39262
+.2001_Karang Dapo Atas_39262
+.2003_Karang Dapo Bawah_39262
+.2006_Pelabuhan Talang Liak (Pelabuhan Talang Leak)_39262
+.2004_Pungguk Pedaro_39262
+.2005_Talang Kerinci_39262
+.2007_Talang Liak I (Talang Leak I)_39262
+.2008_Talang Liak II (Talang Leak II)_39262
+17.07.02_Lebong Atas_39265
+.2012_Blau_39265
+.2008_Daneo / Daneu / Danau_39265
+.2001_Sukau Kayo (Suka Kayo)_39265
+.2005_Tabeak Blau_39265
+.2006_Tabeak Blau I_39265
+.2004_Tik Tebing (Atas Tebing)_39265
+17.07.08_Lebong Sakti_39267
+.2006_Lemeu Pit_39267
+.2005_Magelang Baru_39267
+.2002_Muning Agung_39267
+.2009_Suka Bumi_39267
+.2008_Tabeak Dipoa_39267
+.2007_Tabeak Kauk_39267
+.2001_Ujung Tanjung I (satu)_39267
+.2003_Ujung Tanjung II (dua)_39267
+.2004_Ujung Tanjung III (tiga)_39267
+17.07.04_Lebong Selatan_39258
+.2001_Kutai Donok_39258
+.2019_Manai Blau_39258
+.2016_Mangkurajo_39258
+.1004_Mubai_39258
+.2014_Suka Sari_39258
+.1003_Taba Anyar_39258
+.1002_Tes_39258
+.2018_Tik Jeniak_39258
+.1005_Turan Lalang_39258
+.2013_Turan Tiging_39258
+17.07.03_Lebong Tengah_39263
+.2016_Danau Liang_39263
+.1005_Embong Panjang_39263
+.2009_Karang Anyar_39263
+.2008_Pagar Agung_39263
+.2015_Semelako Atas_39263
+.2007_Semelako I_39263
+.2013_Semelako II_39263
+.2014_Semelako III_39263
+.2020_Suka Damai_39263
+.2006_Tanjung Bungai I_39263
+.2023_Tanjung Bungai II_39263
+17.07.01_Lebong Utara_39259
+.2002_Gandung_39259
+.2033_Gandung Baru_39259
+.2023_Kampung Dalam_39259
+.1004_Kampung Jawa_39259
+.2024_Kampung Muara Aman_39259
+.2022_Ladang Palembang_39259
+.2016_Lebong Tambang_39259
+.2028_Lokasari_39259
+.2014_Nangai Amen_39259
+.1006_Pasar Muara Aman_39259
+.2007_Talang Ulu_39259
+.2005_Tunggang_39259
+17.07.12_Pinang Belapis_39269
+.2005_Air Kopras_39269
+.2006_Bioa Putiak_39269
+.2001_Ketenong I_39269
+.2002_Ketenong II_39269
+.2003_Ketenong Jaya_39269
+.2007_Sebelat_39269
+.2008_Sungai Lisai_39269
+.2004_Tambang Saweak (Tambang Sawah)_39269
+17.07.05_Rimbo Pengadang_39261
+.2013_Bajok_39261
+.2010_Bioa Sengok_39261
+.1002_Rimbo Pengadang_39261
+.2009_Talang Ratau_39261
+.2012_Teluk Dien_39261
+.2011_Tik Kuto_39261
+17.07.06_Topos_39260
+.2004_Ajai Siang_39260
+.2003_Suka Negeri_39260
+.2007_Talang Baru I_39260
+.2008_Talang Baru II_39260
+.2005_Talang Donok_39260
+.2006_Talang Donok I_39260
+.2002_Tik Sirong_39260
+.1001_Topos_39260
+17.07.09_Tubei (Pelabai)_39266
+.2004_Gunung Alam_39266
+.2006_Kota Baru Santan_39266
+.2008_Pelabai_39266
+.2002_Sukau Datang_39266
+.2003_Sukau Datang I_39266
+.2005_Tabeak Blau II_39266
+.1001_Tanjung Agung_39266
+.2007_Tik Teleu_39266
+17.07.11_Uram Jaya_39268
+.2001_Embong_39268
+.2002_Embong I_39268
+.2004_Kota Agung_39268
+.2003_Kota Baru_39268
+.2005_Lemeu / Limau_39268
+.2006_Pangkalan_39268
+.2007_Tangua_39268

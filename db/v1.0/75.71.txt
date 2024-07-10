@@ -1,0 +1,59 @@
+75.71.08_Dumbo Raya_96112|96119
+.1004_Botu_96118
+.1005_Bugis_96112
+.1002_Leato Selatan_96119
+.1001_Leato Utara_96119
+.1003_Talumolo_96118
+75.71.04_Dungingi_96135|96139
+.1001_Huangobotu_96138
+.1002_Libuo_96135
+.1003_Tomulabutao_96139
+.1005_Tomulabutao Selatan_96139
+.1004_Tuladengi (Tuladenggi)_96137
+75.71.09_Hulonthalangi_96111|96117
+.1004_Donggala_96116
+.1002_Pohe_96117
+.1005_Siendeng_96111
+.1001_Tanjung Kramat_96111
+.1003_Tenda_96117
+75.71.01_Kota Barat_96131|96136
+.1008_Buladu_96136
+.1004_Buliide_96133
+.1001_Dembe I_96131
+.1002_Lekobalo_96131
+.1006_Molosifat W (Molosipat W)_96134
+.1003_Pilolodaa_96132
+.1005_Tenilo_96133
+75.71.02_Kota Selatan_96111|96115
+.1010_Biawao_96111
+.1012_Biawu_96111
+.1013_Limba B_96115
+.1020_Limba U Dua (Limba U II)_96115
+.1019_Limba U Satu (Limba U I)_96115
+75.71.06_Kota Tengah_96127|96129
+.1002_Dulalowo_96128
+.1006_Dulalowo Timur_96128
+.1003_Liluwo_96129
+.1005_Paguyaman_96129
+.1004_Pulubala_96127
+.1001_Wumialo_96128
+75.71.05_Kota Timur_96112|96119
+.1004_Heledulaa Selatan_96114
+.1003_Heledulaa Utara_96119
+.1005_Ipilo_96112
+.1008_Moodu_96113
+.1009_Padebuolo_96113
+.1011_Tamalate_96113
+75.71.03_Kota Utara_96121|96123
+.1003_Dembe II_96121
+.1015_Dembe Jaya_96121
+.1010_Dulomo Selatan_96123
+.1014_Dulomo Utara_96123
+.1005_Wongkaditi Barat_96122
+.1004_Wongkaditi Timur_96122
+75.71.07_Sipatana_96121|96126
+.1003_Bulotadaa Barat_96124
+.1004_Bulotadaa Timur_96121
+.1005_Molosifat U (Molosipat U)_96126
+.1001_Tanggikiki_96126
+.1002_Tapa_96125

@@ -1,0 +1,180 @@
+12.04.11_Bawolato_22876
+.2026_Balale Toba'a_22876
+.2019_Banua Sibohou Silima Ewali_22876
+.2012_Botohaenga_22876
+.2017_Dahana (Dahana Bawolato)_22876
+.2004_Gazamanu_22876
+.2006_Hilialawa_22876
+.2007_Hilifaosi_22876
+.2003_Hiliganoita_22876
+.2022_Hilihao Cugala_22876
+.2005_Hilihoru_22876
+.2008_Hiliwarokha_22876
+.2024_Hou_22876
+.2021_Lagasimahe_22876
+.2013_Orahili_22876
+.2018_Orahua_22876
+.2023_Orahua Faondrato_22876
+.2020_Si'ofaewali Selatan_22876
+.2016_Sifaoroasi Uluhou_22876
+.2025_Sindrondro_22876
+.2015_Siofabanua_22876
+.2010_Siofaewali_22876
+.2002_Sisarahili Bawolato_22876
+.2009_Sitolu Banua (Sitolubanua)_22876
+.2011_Sohoya_22876
+.2014_Tagaule_22876
+12.04.21_Botomuzoi_22815
+.2008_Balohili Botomuzoi_22815
+.2014_Banua Sibohou Botomuzoi_22815
+.2010_Fulolo Botomuzoi_22815
+.2001_Hiligodu Botomuzoi_22815
+.2009_Hilihambawa Botomuzoi (Hiliambowo Botomuzoi)_22815
+.2004_Hilimbowo Botomuzoi_22815
+.2003_Hiliwaele I_22815
+.2006_Hiliwaele II_22815
+.2002_Lasara Botomuzoi (Lazara Botomuzoi)_22815
+.2011_Loloana'a (Lololana'a)_22815
+.2015_Mohili Berua Botomuzoi_22815
+.2018_Ola Nori_22815
+.2012_Ononamolo Talafu_22815
+.2005_Simanaere Botomuzoi_22815
+.2013_Sisobahili Dola_22815
+.2017_Talafu_22815
+.2016_Tetehosi Botomuzoi_22815
+.2007_Tuhegafoa I_22815
+12.04.06_Gido_22871
+.2008_Akhelauwe (Akhelaume)_22871
+.2019_Heliweto Gido (Hiliweto Gido)_22871
+.2006_Hiliotalua_22871
+.2016_Hilisebua_22871
+.2054_Hilizoi_22871
+.2024_Ladea_22871
+.2051_Ladea Orahua_22871
+.2023_Lahemo_22871
+.2050_Lasela_22871
+.2030_Lazara Idanoi (Lasara Idanoi)_22871
+.2020_Loloana'a Gido (Loloanaa Gido)_22871
+.2029_Lolozasai_22871
+.2053_Nifolo'o Lauru_22871
+.2056_Olindrawa Sisarahili_22871
+.2018_Sirete_22871
+.2022_Sisobahili_22871
+.2028_Soewe (Saewe)_22871
+.2017_Somi_22871
+.2055_Somi Botogo'o_22871
+.2052_Tulumbaho Salo'o_22871
+.2027_Umbu_22871
+12.04.05_Hiliduho_22854
+.2021_Dima_22854
+.2027_Fadoro Lauru_22854
+.2030_Hiliduho_22854
+.2031_Hiligodu Tanoseo_22854
+.2028_Lasara Tanose'o_22854
+.2034_Mazingo Tanose'o (Tanoseo)_22854
+.2023_Ombolata Salo'o (Ombolalasalo'o)_22854
+.2042_Ombolata Sisarahili_22854
+.2001_Ononamolo I Bot_22854
+.2040_Onowaembo Hiligara_22854
+.2033_Onozitolidulu_22854
+.2041_Silimabanua_22854
+.2022_Sinarikhi_22854
+.2032_Sisobahili I Tanoseo_22854
+.2024_Sisobalauru_22854
+.2025_Tuhegafoa II_22854
+12.04.20_Hiliserangkai (Hili Serangkai / Hilisaranggu)_22850
+.2012_Awela_22850
+.2007_Dahadano Botombawo_22850
+.2011_Ehosakhozi_22850
+.2001_Fadoro Hunogoa_22850
+.2008_Fadoro Lalai_22850
+.2003_Fulolo Lalai_22850
+.2010_Hilizia Lauru_22850
+.2005_Lalai I/II_22850
+.2004_Lawa-Lawa_22850
+.2015_Lolofaoso_22850
+.2002_Lolofaoso Lalai_22850
+.2006_Lolowua_22850
+.2009_Lolowua Hiliwarasi_22850
+.2013_Onombongi_22850
+.2014_Orahili Idanoi_22850
+12.04.10_Idanogawo (Idano Gawo)_22872
+.2017_Ahedano_22872
+.2026_Awoni Lauso_22872
+.2031_Baruzo_22872
+.2025_Biouti_22872
+.2037_Biouti Timur_22872
+.2027_Bobozioli Loloana'a (Bobozioli Loloanaa)_22872
+.2015_Bozihona_22872
+.2035_Hili'adulo_22872
+.2034_Hiligogowaya Maliwa'a_22872
+.2008_Hililawae_22872
+.2005_Hilimoasio_22872
+.2036_Hilimoasio Dua_22872
+.2018_Hilina'a Tafuo (Hilinaa Tafuo)_22872
+.2019_Hiliono Zega (Hilionozega)_22872
+.2029_Laira_22872
+.2007_Laowo Hilimbaruzo_22872
+.2024_Maliwa'a (Maliwaa)_22872
+.2020_Mondrali_22872
+.2016_Oladano_22872
+.2032_Orahili Zuzundrao_22872
+.2030_Otalua_22872
+.2023_Saiwahili Hili'adulo (Saiwahili Hiliadulo)_22872
+.2028_Sandruta_22872
+.2014_Sisobahili Iraonohura_22872
+.2006_Tetegeona'ai (Tete Goenaai)_22872
+.2022_Tetehosi_22872
+.2033_Tiga Serangkai Maliwa'a_22872
+.2009_Tuhewaebu_22872
+12.04.28_Ma'u_22855
+.2007_Atualuo_22855
+.2001_Balodano_22855
+.2009_Dekha_22855
+.2005_Lasara Siwalu Banua_22855
+.2008_Lewa Lewa (Lewa - Lewa)_22855
+.2002_Lewuoguru II (Lewu Oguru II / Lewuaguru II)_22855
+.2003_Sihare'o III (Sihaero III)_22855
+.2010_Sihare'o III Bawosalo'o Berua_22855
+.2011_Sihare'o III Hilibadalu_22855
+.2004_Sisarahilima'u (Sisarahili Ma U)_22855
+.2006_Tuhemberua_22855
+12.04.35_Sogae'adu (Sogae Adu / Sogaeadu)_22871
+.2007_Baruzo_22871
+.2002_Hilibadalu_22871
+.2004_Hilimbana_22871
+.2003_La'uri (Lauri)_22871
+.2005_Saitagaramba (Saetagaramba)_22871
+.2011_Sihare'o Sogae'adu (Sihareo Sogaeadu)_22871
+.2009_Sisarahili Sogae'adu (Sisarahili Sogeadu)_22871
+.2006_Sogae'adu (Sogaeadu)_22871
+.2001_Tuhembuasi_22871
+.2008_Tulumbaho_22871
+.2010_We'a-we'a (Wea-Wea)_22871
+12.04.29_Somolo-Molo (Samolo)_22871
+.2010_Hiliborodano_22871
+.2009_Hiligodu Somolo-Molo_22871
+.2003_Huno (Hino)_22871
+.2002_I'odano (Iodano)_22871
+.2006_Lewuoguru I_22871
+.2008_Lewuombanua_22871
+.2007_Sifaoro Asi (Sifaoroasi)_22871
+.2004_Sisaratandrawa_22871
+.2001_Sisobawino I_22871
+.2011_So'ewali_22871
+.2005_Somolo-Molo_22871
+12.04.27_Ulugawo_22861
+.2007_Fahandrona_22861
+.2006_Fatodano_22861
+.2005_Hilibadalu_22861
+.2013_Hiligafoa_22861
+.2004_Hilimbowo_22861
+.2002_Hiliwetogela (Hiliweto Gela / Somolomolo)_22861
+.2009_Holi_22861
+.2003_Lawalawa Luo (Lawa-Lawaluo)_22861
+.2012_Mohili_22861
+.2008_Onodalinga_22861
+.2001_Orahili (Orahili Somolomolo)_22861
+.2011_Sifaro'asi Ulu Gawo (Sifaoroasi Ulugawo)_22861
+.2014_Sisarahili Soroma'asi_22861
+.2010_Sisobahili Ulugawo_22861

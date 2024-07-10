@@ -1,0 +1,151 @@
+18.04.19_Air Hitam_34866
+.2004_Gunung Terang_34866
+.2010_Manggarai (Mangarai)_34866
+.2008_Rigis Jaya_34866
+.2002_Semarang Jaya_34866
+.2001_Sidodadi_34866
+.2007_Sinar Jaya_34866
+.2006_Sri Menanti_34866
+.2009_Suka Damai (Sukadamai)_34866
+.2005_Suka Jadi (Sukajadi)_34866
+.2003_Sumber Alam_34866
+18.04.04_Balik Bukit_34811|34818
+.2011_Bahway_34811
+.2007_Gunung Sugih_34816
+.2002_Kubu Perahu_34813
+.2004_Padang Cahya_34811
+.2009_Padang Dalom_34818
+.1001_Pasar Liwa_34814
+.2005_Sebarus_34815
+.2012_Sedampah Indah_34811
+.2010_Sukarame_34811
+.2008_Wates (Watas)_34817
+.2006_Way Empulau Ulu_34811
+.1003_Way Mengaku_34812
+18.04.23_Bandar Negeri Suoh_34882
+.2003_Bandar Agung_34882
+.2005_Bumi Hantatai_34882
+.2006_Gunungratu (Gunung Ratu)_34882
+.2008_Negeri Jaya_34882
+.2004_Ringin Jaya_34882
+.2002_Srimulyo_34882
+.2001_Suoh_34882
+.2007_Tanjungsari_34882
+.2009_Tembelang_34882
+.2010_Tri Mekar Jaya_34882
+18.04.10_Batu Brak_34881
+.2007_Canggu_34881
+.2004_Gunung Sugih_34881
+.2003_Kegeringan_34881
+.2001_Kembahang_34881
+.2010_Kerang_34881
+.2008_Kota Besi_34881
+.2002_Negeri Ratu_34881
+.2005_Pekon Balak_34881
+.2006_Sukabumi_34881
+.2009_Sukaraja_34881
+.2011_Teba Liyokh_34881
+18.04.21_Batu Ketulis_34872
+.2001_Argomulyo (Argo Mulyo)_34872
+.2003_Atar Bawang_34872
+.2010_Atar Kuwau_34872
+.2006_Bakhu_34872
+.2002_Batu Kebayan_34872
+.2004_Campang Tiga_34872
+.2008_Kubu Liku Jaya_34872
+.2005_Luas_34872
+.2009_Sumber Rejo_34872
+.2007_Way Ngison_34872
+18.04.06_Belalau_34873
+.2005_Bedudu_34873
+.2003_Bumi Agung_34873
+.2020_Fajar Agung_34873
+.2007_Hujung_34873
+.2002_Kejadian_34873
+.2001_Kenali_34873
+.2013_Serungkuk_34873
+.2019_Suka Makmur_34873
+.2006_Sukarame_34873
+.2004_Turgak_34873
+18.04.15_Gedung Surian_34871
+.2003_Cipta Waras_34871
+.2001_Gedung Surian_34871
+.2005_Mekar Jaya (Mekarjaya)_34871
+.2002_Pura Mekar (Puramekar)_34871
+.2004_Tri Mulyo (Trimulyo)_34871
+18.04.18_Kebun Tebu_34867
+.2008_Cipta Mulya_34867
+.2009_Muara Baru_34867
+.2005_Muara Jaya Dua (II)_34867
+.2004_Muara Jaya Satu (I)_34867
+.2001_Pura Jaya (Purajaya)_34867
+.2002_Pura Wiwitan (Purawiwitan)_34867
+.2010_Sinar Luas_34867
+.2006_Tribudi Makmur_34867
+.2003_Tribudi Syukur (Tri Budisukur)_34867
+.2007_Tugu Mulya_34867
+18.04.22_Lumbok Seminung_34879
+.2002_Heni Arong (Heni Harong)_34879
+.2008_Keagungan_34879
+.2001_Lombok_34879
+.2011_Lombok Selatan_34879
+.2004_Lombok Timur_34879
+.2010_Pancur Mas_34879
+.2003_Suka Banjar_34879
+.2005_Suka Banjar II Ujung Rembun_34879
+.2006_Suka Maju_34879
+.2009_Tawan Suka Mulya_34879
+.2007_Ujung_34879
+18.04.20_Pagar Dewa_34885
+.2002_Basungan_34885
+.2008_Batu Api_34885
+.2006_Marga Jaya_34885
+.2003_Mekar Sari_34885
+.2009_Pagar Dewa_34885
+.2001_Pahayu Jaya_34885
+.2005_Sidodadi_34885
+.2004_Sidomulyo_34885
+.2007_Suka Jaya_34885
+.2010_Suka Mulya_34885
+18.04.08_Sekincau_34886
+.2008_Giham Sukamaju_34886
+.2001_Pampangan_34886
+.1005_Sekincau_34886
+.2007_Tiga Jaya_34886
+.2006_Waspada_34886
+18.04.11_Sukau_34868
+.2018_Bandar Baru_34868
+.2003_Buay Nyerupa_34868
+.2019_Bumi Jaya_34868
+.2002_Hanakau_34868
+.2005_Jaga Raga_34868
+.2009_Pagar Dewa_34868
+.2012_Suka Mulya_34868
+.2001_Tanjung Raya_34868
+.2004_Tapak Siring_34868
+.2020_Teba Pering Jaya (Teba Pering Raya)_34868
+18.04.05_Sumber Jaya_34870
+.2001_Simpang Sari (Simpangsari)_34870
+.2011_Sindang Pagar_34870
+.2010_Sukajaya_34870
+.2012_Sukapura_34870
+.1016_Tugu Sari_34870
+.2013_Way Petay/Petai_34870
+18.04.09_Suoh_34880
+.2006_Banding Agung_34880
+.2018_Ringin Sari_34880
+.2010_Roworejo_34880
+.2017_Sidorejo_34880
+.2003_Suka Marga_34880
+.2004_Sumber Agung_34880
+.2005_Tuguratu (Tugu Ratu)_34880
+18.04.07_Way Tenong_34884
+.1001_Fajar Bulan (Pajar Bulan)_34884
+.2003_Karang Agung_34884
+.2004_Mutar Alam_34884
+.2008_Padang Tambak_34884
+.2002_Puralaksana (Pura Laksana)_34884
+.2006_Sukananti_34884
+.2007_Sukaraja_34884
+.2009_Tambak Jaya_34884
+.2005_Tanjung Raya_34884

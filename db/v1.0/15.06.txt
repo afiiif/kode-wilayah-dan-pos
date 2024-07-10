@@ -1,0 +1,147 @@
+15.06.07_Batang Asam_36550
+.1001_Dusun Kebon/Kebun_36550
+.2005_Kampung Baru_36550
+.2006_Lubuk Bernai_36550
+.2010_Lubuk Lawas_36550
+.2007_Rawamedang (Rawa Medang)_36550
+.2009_Rawangkempas (Rawang Kempas)_36550
+.2002_Sri Agung_36550
+.2003_Suban_36550
+.2011_Sungaibadar (Sungai Badar)_36550
+.2008_Sungaipenoban (Sungai Penoban)_36550
+.2004_Tanjungbojo (Tanjung Bojo)_36550
+15.06.04_Betara_36555
+.2015_Bunga Tanjung_36555
+.2011_Lubuk Terentang_36555
+.2008_Makmur Jaya_36555
+.2017_Mandala Jaya_36555
+.1007_Mekar Jaya_36555
+.2013_Muntialo_36555
+.2012_Pematang Buluh_36555
+.2001_Pematang Lumut_36555
+.2009_Serdang Jaya_36555
+.2016_Sungaiterap (Sungai Tera)_36555
+.2014_Telukkulbi_36555
+.2010_Terjun Gajah_36555
+15.06.11_Bram Itam_36514
+.2002_Bram Itam Kanan (Bram Itan Kanan / Beram Itam)_36514
+.1001_Bram Itam Kiri (Bram Itan Kiri / Beram Itam)_36514
+.2005_Bram Itam Raya_36514
+.2007_Jati Emas_36514
+.2008_Kemuning_36514
+.2009_Mekar Tanjung_36514
+.2006_Pantaigading (Pantai Gading)_36514
+.2004_Pembengis_36514
+.2010_Semau_36514
+.2003_Tanjungsenjulang (Tanjung Senjulang)_36514
+15.06.12_Kuala Betara_36556
+.2003_Betara Kanan_36556
+.1001_Betara Kiri_36556
+.2005_Dataran Pinang_36556
+.2009_Kuala Indah_36556
+.2010_Suak Labu_36556
+.2002_Sungaidualap (Sungai Dualap)_36556
+.2008_Sungaidungun (Sungai Dungun)_36556
+.2004_Sungaigebar (Sungai Gebar)_36556
+.2007_Sungaigebar Barat (Sungai Gebar Barat)_36556
+.2006_Tanjungpasir (Tanjung Pasir)_36556
+15.06.05_Merlung_36554
+.2014_Adi Purwa_36554
+.2013_Bukitharapan (Bukit Harapan)_36554
+.2006_Lubuk Terap_36554
+.1007_Merlung (Desa)_36554
+.2020_Merlung (Kelurahan)_36554
+.2005_Penyabungan_36554
+.2018_Pinang Gading_36554
+.2012_Tanjungbenanak (Tanjung Benanak)_36554
+.2021_Tanjungmakmur (Tanjung Makmur)_36554
+.2008_Tanjungpaku (Tanjung Paku)_36554
+15.06.09_Muara Papalik_36558
+.2004_Bukit Indah_36558
+.2002_Dusun Mudo_36558
+.2003_Intan Jaya_36558
+.2005_Kemang Manis_36558
+.2007_Lubuk Sebontan_36558
+.2010_Pematang Balam_36558
+.1001_Rantau Badak_36558
+.2006_Rantau Badak Lamo_36558
+.2009_Sungaimuluk (Sungai Muluk)_36558
+.2008_Sungaipapauh (Sungai Papauh)_36558
+15.06.03_Pengabuan_36553
+.2018_Karya Maju_36553
+.2008_Mekar Jati_36553
+.2015_Parit Bilal_36553
+.2006_Parit Pudin_36553
+.2013_Parit Sidang_36553
+.2020_Pasar Senin_36553
+.2016_SuakSamin (Suak Samin)_36553
+.2017_Sungaibaung (Sungai Baung)_36553
+.2014_Sungaijering (Sungai Jering)_36553
+.2012_Sungaipampang (Sungai Pampang)_36553
+.2019_Sungairaya (Sungai Raya)_36553
+.2007_Sungaiserindit (Sei / Sungai Serindit)_36553
+.1001_Teluknilau (Teluk Nilau)_36553
+15.06.08_Renah Mendaluh_36559
+.2010_Bukitbakar (Bukit Bakar)_36559
+.2005_Cinta Damai_36559
+.2004_Lampisi_36559
+.1001_Lubuk Kambing_36559
+.2007_Muaradanau (Muara Danau)_36559
+.2002_Pulaupauh (Pulau Pauh)_36559
+.2003_Rantau Benar_36559
+.2009_Sungaipaur (Sungai Pau)_36559
+.2006_Sungairotan (Sei / Sungai Rotan)_36559
+.2008_Tanahtumbuh (Tanah Tumbuh)_36559
+15.06.10_Seberang Kota_36511
+.2006_Harapan Jaya_36511
+.2003_Kuala Baru_36514
+.2007_Kuala Kahar_36511
+.2005_Mekar Alam_36511
+.2008_Muaraseberang (Muara Seberang)_36511
+.2004_Telukpulai Raya (Teluk Pulai Raya)_36514
+.2002_Tungkal Empat (IV) Desa_36514
+.1001_Tungkal Lima (V)_36514
+15.06.13_Senyerang_36513
+.2006_Kempas Jaya_36513
+.2007_Lumahan_36513
+.2005_Margo Rukun_36513
+.1001_Senyerang_36513
+.2002_Sungaikayu Aro (Sungai Kayu Aro)_36513
+.2010_Sungaikepayang (Sungai Kepayang)_36513
+.2008_Sungailandak (Sungai Landak)_36513
+.2004_Sungairambai (Sungai Rambai)_36513
+.2009_Sungsang_36513
+.2003_Telukketapang (Teluk Ketapang)_36513
+15.06.06_Tebing Tinggi_36551
+.2004_Adi Jaya_36551
+.2009_Dataran Kempas_36551
+.2010_Delima_36551
+.2005_Kelagian_36551
+.2002_Purwodadi_36551
+.2003_Suka Damai (Sukadamai)_36551
+.2008_Sungaikeruh_36551
+.2007_Talang Makmur_36551
+.1001_Tebing Tinggi_36551
+.2006_Telukpengkah_36551
+15.06.02_Tungkal Ilir_36557
+.1015_Kampung Nelayan_36557
+.1016_Patunas_36557
+.1017_Sriwijaya_36557
+.1018_Sungainibung_36557
+.2014_Teluksialang (Teluk Sialang)_36557
+.1004_Tungkal Empat Kota_36557
+.1006_Tungkal Harapan_36557
+.2003_Tungkal I_36557
+.1007_Tungkal II_36557
+.1005_Tungkal III_36557
+15.06.01_Tungkal Ulu_36552
+.2001_Badang_36552
+.2021_Badang Sepakat_36552
+.2017_Brasau_36552
+.2019_Gemuruh_36552
+.2003_Kuala Dasal_36552
+.1005_Pelabuhan Dagang_36552
+.2004_Pematang Pauh_36552
+.2020_Pematang Tembesu_36552
+.2006_Taman Raja_36552
+.2002_Tanjungtayas (Tanjung Tayas)_36552

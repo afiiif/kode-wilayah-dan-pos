@@ -1,0 +1,369 @@
+32.10.05_Argapura_45462
+.2014_Argalingga_45462
+.2005_Argamukti_45462
+.2002_Cibunut_45462
+.2010_Cikaracak_45462
+.2013_Gunungwangi_45462
+.2008_Haurseah_45462
+.2011_Heubeulisuk_45462
+.2009_Mekarwangi_45462
+.2007_Sadasari_45462
+.2001_Sagara_45462
+.2006_Sukadana_45462
+.2004_Sukasari Kaler_45462
+.2012_Sukasari Kidul_45462
+.2003_Tejamulya_45462
+32.10.22_Banjaran_45468
+.2005_Banjaran_45468
+.2007_Cimeong_45468
+.2003_Darmalarang_45468
+.2001_Genteng_45468
+.2013_Girimulya_45468
+.2012_Hegarmanah_45468
+.2006_Kagok_45468
+.2009_Kareo_45468
+.2008_Panyindangan_45468
+.2010_Sangiang_45468
+.2004_Sindangpala_45468
+.2002_Sunia_45468
+.2011_Sunia Baru (Suniabaru)_45468
+32.10.02_Bantarujeg_45464
+.2017_Babakansari_45464
+.2010_Bantarujeg_45464
+.2012_Cikidang_45464
+.2008_Cimangguhilir_45464
+.2013_Cinambo_45464
+.2002_Cipeundeuy_45464
+.2011_Gununglarang_45464
+.2014_Haurgeulis_45464
+.2009_Salawangi_45464
+.2018_Silihwangi_45464
+.2022_Sindanghurip_45464
+.2015_Sukamenak_45464
+.2016_Wadowetan_45464
+32.10.20_Cigasong_45476
+.2007_Baribis_45476
+.2008_Batujaya_45476
+.1006_Cicenang_45476
+.1004_Cigasong_45476
+.2010_Karayunan_45476
+.2001_Kawunghilir_45476
+.2009_Kutamanggu_45476
+.1005_Simpeureum_45476
+.2002_Tajur_45476
+.2003_Tenjolayar_45476
+32.10.03_Cikijing_45466
+.2010_Bagjasari_45466
+.2006_Banjaransari_45466
+.2008_Cidulang_45466
+.2004_Cikijing_45466
+.2015_Cilancang (Cilangcang)_45466
+.2012_Cipulus_45466
+.2002_Cisoka_45466
+.2009_Jagasari_45466
+.2013_Kancana_45466
+.2007_Kasturi_45466
+.2005_Sindang_45466
+.2003_Sindangpanji_45466
+.2014_Sukamukti_45466
+.2001_Sukasari_45466
+.2011_Sunalari_45466
+32.10.23_Cingambul_45467
+.2002_Cidadap_45467
+.2008_Cikondang_45467
+.2006_Cimanggu (Cimanggugirang)_45467
+.2007_Cingambul_45467
+.2012_Cintaasih_45467
+.2009_Ciranjeng_45467
+.2011_Kondangmekar_45467
+.2003_Maniis_45467
+.2013_Muktisari_45467
+.2004_Nagarakembang_45467
+.2010_Rawa_45467
+.2001_Sedareja (Sedaraja)_45467
+.2005_Wangkelang_45467
+32.10.12_Dawuan_45453
+.2011_Balida_45453
+.2021_Baturuyuk_45453
+.2015_Bojongcideres_45453
+.2007_Dawuan_45453
+.2006_Gandu_45453
+.2008_Genteng_45453
+.2012_Karanganyar_45453
+.2010_Mandapa_45453
+.2018_Pasirmalati_45453
+.2013_Salawana_45453
+.2017_Sinarjati_45453
+32.10.15_Jatitujuh_45458
+.2008_Babajurang_45458
+.2001_Biyawak_45458
+.2010_Jatiraga_45458
+.2006_Jatitengah_45458
+.2007_Jatitujuh_45458
+.2012_Pangkalanpari_45458
+.2003_Panongan_45458
+.2002_Panyingkiran_45458
+.2015_Pasindangan_45458
+.2009_Pilangsari_45458
+.2005_Putridalem_45458
+.2013_Randegan Kulon_45458
+.2004_Randegan Wetan_45458
+.2014_Sumber Kulon_45458
+.2011_Sumber Wetan_45458
+32.10.11_Jatiwangi_45454
+.2004_Andir_45454
+.2001_Burujul Kulon_45454
+.2002_Burujul Wetan_45454
+.2007_Cibentar_45454
+.2009_Cibolerang (Ciborelang)_45454
+.2003_Cicadas_45454
+.2011_Jatisura_45454
+.2012_Jatiwangi_45454
+.2008_Leuweunggede (Leuwenggede)_45454
+.2013_Loji_45454
+.2015_Mekarsari_45454
+.2006_Pinangraja_45454
+.2014_Sukaraja Kulon_45454
+.2005_Sukaraja Wetan_45454
+.2016_Surawangi_45454
+.2010_Sutawangi_45454
+32.10.13_Kadipaten_45452
+.2003_Babakananyar (Babakan Anyar)_45452
+.2007_Cipaku_45452
+.2001_Heuleut_45452
+.2002_Kadipaten_45452
+.2004_Karangsambung_45452
+.2005_Liangjulang_45452
+.2006_Pagandon_45452
+32.10.24_Kasokandel_45451
+.2010_Gandasari_45451
+.2007_Girimukti_45451
+.2005_Gunungsari_45451
+.2008_Jatimulya_45451
+.2001_Jatisawit_45451
+.2006_Kasokandel_45451
+.2002_Leuwikidang_45451
+.2003_Ranji Kulon (Ranjikulon)_45451
+.2004_Ranji Wetan (Ranjiwetan)_45451
+.2009_Wanajaya_45451
+32.10.14_Kertajati_45457
+.2005_Babakan_45457
+.2007_Bantarjati_45457
+.2006_Kertajati_45457
+.2010_Kertasari_45457
+.2003_Kertawinangun_45457
+.2011_Mekarjaya_45457
+.2012_Mekarmulya_45457
+.2001_Pakubeureum_45457
+.2004_Palasah_45457
+.2008_Pasiripis_45457
+.2014_Sahbandar_45457
+.2013_Sukakerta_45457
+.2009_Sukamulya_45457
+.2002_Sukawana_45457
+32.10.01_Lemahsugih_45465
+.2002_Bangbayang_45465
+.2003_Borogojol_45465
+.2004_Cibulan_45465
+.2010_Cigaleuh_45465
+.2001_Cipasung_45465
+.2017_Cisalak_45465
+.2018_Dayeuhwangi_45465
+.2009_Kalapadua_45465
+.2007_Kepuh_45465
+.2005_Lemahputih (Lemah Putih)_45465
+.2019_Lemahsugih_45465
+.2011_Margajaya_45465
+.2015_Mekarmulya_45465
+.2013_Mekarwangi (Mekar Wangi)_45465
+.2008_Padarek_45465
+.2006_Sadawangi_45465
+.2014_Sinargalih_45465
+.2012_Sukajadi_45465
+.2016_Sukamaju_45465
+32.10.10_Leuwimunding_45473
+.2010_Ciparay_45473
+.2011_Heuleut_45473
+.2012_Karangasem_45473
+.2004_Lame_45473
+.2007_Leuwikujang_45473
+.2009_Leuwimunding_45473
+.2005_Mindi_45473
+.2008_Mirat_45473
+.2003_Nanggerang_45473
+.2001_Parakan_45473
+.2014_Parungjaya_45473
+.2002_Patuanan_45473
+.2006_Rajawangi_45473
+.2013_Tanjungsari_45473
+32.10.16_Ligung_45456
+.2008_Ampel_45456
+.2009_Bantarwaru_45456
+.2002_Beber_45456
+.2003_Beusi_45456
+.2005_Buntu_45456
+.2001_Cibogor_45456
+.2016_Gandawesi_45456
+.2011_Kedungkencana (Kedungkancana)_45456
+.2019_Kedungsari_45456
+.2012_Kertasari_45456
+.2017_Kodasari_45456
+.2013_Leuweunghapit_45456
+.2018_Leuwiliang Baru_45456
+.2006_Ligung_45456
+.2014_Ligung Lor_45456
+.2010_Majasari_45456
+.2015_Sukawera_45456
+.2004_Tegalaren_45456
+.2007_Wanasalam_45456
+32.10.06_Maja_45461
+.2004_Anggrawati_45461
+.2013_Banjaran_45461
+.2003_Cengal_45461
+.2015_Cicalung_45461
+.2010_Cieurih_45461
+.2001_Cihaur_45461
+.2005_Cipicung_45461
+.2011_Kartabasuki (Kertabasuki)_45461
+.2017_Maja Selatan_45461
+.2008_Maja Utara_45461
+.2006_Malongpong_45461
+.2018_Nunuk Baru_45461
+.2016_Pageraji_45461
+.2014_Paniis_45461
+.2009_Pasanggrahan_45461
+.2012_Sindangkerta_45461
+.2007_Tegalsari_45461
+.2002_Wanahayu_45461
+32.10.07_Majalengka_45411|45419
+.1002_Babakan Jawa_45419
+.2014_Cibodas_45411
+.1003_Cicurug_45412
+.1013_Cijati_45417
+.1010_Cikasarung_45415
+.2006_Kawunggirang_45411
+.2005_Kulur_45411
+.1008_Majalengka Kulon_45418
+.1007_Majalengka Wetan_45411
+.1001_Munjul_45417
+.2012_Sidamukti_45411
+.1004_Sindangkasih_45411
+.1009_Tarikolot_45416
+.1011_Tonjong_45414
+32.10.26_Malausma_45460
+.2007_Banyusari_45460
+.2008_Buninagara_45460
+.2005_Cimuncang_45460
+.2006_Ciranca_45460
+.2010_Girimukti_45460
+.2009_Jagamulya_45460
+.2011_Kramat Jaya (Keramat Jaya)_45460
+.2004_Lebakwangi_45460
+.2003_Malausma_45460
+.2001_Sukadana_45460
+.2002_Werasari_45460
+32.10.19_Palasah_45475
+.2007_Buniwangi_45475
+.2002_Cisambeng_45475
+.2012_Enggalwangi_45475
+.2011_Karamat_45475
+.2001_Majasuka_45475
+.2003_Palasah_45475
+.2010_Pasir_45475
+.2008_Sindanghaji_45475
+.2013_Sindangwasa_45475
+.2006_Tarikolot_45475
+.2005_Trajaya_45475
+.2009_Waringin_45475
+.2004_Weragati_45475
+32.10.18_Panyingkiran_45459
+.2004_Bantrangsana_45459
+.2006_Bonang_45459
+.2001_Cijurey_45459
+.2003_Jatipamor_45459
+.2005_Jatiserang_45459
+.2009_Karyamukti_45459
+.2007_Leuwiseeng_45459
+.2008_Panyingkiran_45459
+.2002_Pasirmuncang_45459
+32.10.09_Rajagaluh_45472
+.2004_Babakankareo_45472
+.2011_Cipinang_45472
+.2012_Cisetu_45472
+.2007_Kumbung_45472
+.2001_Pajajar_45472
+.2003_Payung_45472
+.2013_Rajagaluh_45472
+.2008_Rajagaluh Kidul_45472
+.2010_Rajagaluh Lor_45472
+.2006_Sadomas_45472
+.2005_Sindangpano_45472
+.2009_Singawada_45472
+.2002_Teja_45472
+32.10.25_Sindang_45471
+.2008_Bayureja_45471
+.2003_Garawastu_45471
+.2005_Gunungkuning (Gunung Kuning)_45471
+.2004_Indrakila_45471
+.2001_Pasirayu_45471
+.2007_Sangkanhurip_45471
+.2002_Sindang_45471
+32.10.21_Sindangwangi_45474
+.2008_Balagedog_45474
+.2001_Bantaragung (Bantar Agung)_45474
+.2006_Buahkapas_45474
+.2004_Jerukleueut_45474
+.2003_Lengkong Kulon (Lengkongkulon)_45474
+.2010_Lengkong Wetan (Lengkongwetan)_45474
+.2009_Leuwilaja_45474
+.2002_Padaherang_45474
+.2005_Sindangwangi_45474
+.2007_Ujungberung_45474
+32.10.08_Sukahaji_45470
+.2016_Babakanmanjeti (Babakan Manjeti)_45470
+.2019_Candrajaya_45470
+.2018_Cikalong_45470
+.2011_Cikeusik_45470
+.2015_Cikoneng_45470
+.2001_Ciomas_45470
+.2012_Jayi_45470
+.2013_Nanggewer_45470
+.2002_Padahanten_45470
+.2014_Palabuhan/Palabuan_45470
+.2010_Salagedang_45470
+.2009_Sukahaji_45470
+.2017_Tanjungsari_45470
+32.10.17_Sumberjaya_45455|45468
+.2005_Banjaran_45468
+.2002_Bongas Kulon_45455
+.2001_Bongas Wetan_45455
+.2010_Cidenok_45455
+.2003_Garawangi_45455
+.2015_Gelok Mulya_45455
+.2011_Lojikobong (Loji Kobong)_45455
+.2014_Pancaksuji_45455
+.2007_Paningkiran_45455
+.2009_Panjalin Kidul_45455
+.2012_Panjalin Lor_45455
+.2008_Parapatan_45455
+.2004_Rancaputat_45455
+.2006_Sepat_45455
+.2013_Sumberjaya_45455
+32.10.04_Talaga_45463
+.2005_Argasari_45463
+.2007_Campaga_45463
+.2002_Cibeureum_45463
+.2006_Cicanir_45463
+.2003_Cikeusal_45463
+.2011_Ganeas_45463
+.2013_Gunungmanik_45463
+.2004_Jatipamor_45463
+.2014_Kertahayu (Kertarahayu)_45463
+.2001_Lampuyang_45463
+.2016_Margamukti_45463
+.2017_Mekarhurip_45463
+.2015_Mekarraharja_45463
+.2012_Salado_45463
+.2008_Sukaperna_45463
+.2009_Talaga Kulon (Talagakulon)_45463
+.2010_Talaga Wetan (Talagawetan)_45463

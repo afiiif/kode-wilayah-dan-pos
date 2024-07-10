@@ -1,0 +1,269 @@
+53.06.17_Adonara_86262
+.2007_Adonara_86262
+.2003_Kolilanang_86262
+.2002_Kolimasang_86262
+.2008_Kolipetung_86262
+.2006_Lamahoda_86262
+.2005_Nisa Nulan (Nisanulan)_86262
+.2001_Sagu_86262
+.2004_Tikatukan (Tikatukang)_86262
+53.06.08_Adonara Barat_86263
+.2010_Bukit Seburi I_86263
+.2024_Bukit Seburi II_86263
+.2019_Bungalima (Bugalima)_86263
+.2012_Danibao_86263
+.2008_Duanur (Duwanur)_86263
+.2021_Homa_86263
+.2017_Hurung_86263
+.2014_Ile Pati (Ilepati)_86263
+.2026_Kimakamak (Kima Kamak)_86263
+.2032_Nimun Danibao (Nimun Dani Bao)_86263
+.2013_Pajinian_86263
+.2036_Riangpadu_86263
+.2016_Tonuwotan_86263
+.2033_Waitukan (Wai Tukan)_86263
+.2011_Waiwadan_86263
+.2030_Watobaya (Wato Baya)_86263
+.2035_Wolokibang_86263
+.2015_Wureh_86263
+53.06.18_Adonara Tengah_86264
+.2008_Baya_86264
+.2009_Bidara_86264
+.2011_Hoko Horowura_86264
+.2001_Horowura_86264
+.2004_Kenotan_86264
+.2002_Kokotobo_86264
+.2007_Lewobele_86264
+.2012_Lewopao_86264
+.2003_Lite_86264
+.2005_Nubalema_86264
+.2013_Nubalema Dua_86264
+.2010_Oesayang (Oe Sayang)_86264
+.2006_Wewit_86264
+53.06.10_Adonara Timur_86261
+.2014_Belota_86261
+.2005_Bilal_86261
+.2003_Dawataa_86261
+.2019_Gelong_86261
+.2015_Ipi Ebang (Ipiebang)_86261
+.2009_Karinglamalouk_86261
+.2011_Kiwangona (Kiwang Ona)_86261
+.2018_Kwaelaga Lamawato_86261
+.2006_Lamahala Jaya_86261
+.2016_Lamalata_86261
+.1002_Lamatwelu (Lamatewelu)_86261
+.2020_Lelen Bala_86261
+.2013_Lewobunga_86261
+.2008_Narasaosina_86261
+.2017_Puhu_86261
+.2021_Saosina_86261
+.2012_Tapobali_86261
+.2004_Teromh_86261
+.2010_Tuawolo_86261
+.2007_Waiburak_86261
+.1001_Waiwerang Kota_86261
+53.06.14_Demon Pagong_86219
+.2006_Bama_86219
+.2004_Blepanawa_86219
+.2005_Kawalelo_86219
+.2001_Lamika_86219
+.2003_Lewokluok_86219
+.2007_Lewomuda_86219
+.2002_Watotika Ile_86219
+53.06.13_Ile Boleng_86253
+.2019_Bayuntaa_86253
+.2001_Bedalewun_86253
+.2009_Boleng_86253
+.2004_Bungalawan_86253
+.2018_Dokeng_86253
+.2011_Duablolong_86253
+.2014_Harubala_86253
+.2006_Helanlangowuyo_86253
+.2016_Lamabayung_86253
+.2005_Lamawolo_86253
+.2002_Lebanuba_86253
+.2017_Lewat_86253
+.2012_Lewokeleng (Lewo Keleng)_86253
+.2007_Lewopao_86253
+.2010_Neleblolong_86253
+.2015_Nelelamadike (Nelelamadiken)_86253
+.2013_Nelelamawangi (Nele Lamawangi)_86253
+.2021_Nelelamawangi Dua_86253
+.2008_Nelereren (Nelerereng)_86253
+.2020_Nobo_86253
+.2003_Riawale/Rianwale_86253
+53.06.16_Ile Bura_86254
+.2002_Birawan_86254
+.2006_Dulipali_86254
+.2005_Lewoawang_86254
+.2004_Nobokonga_86254
+.2003_Nurri_86254
+.2007_Riang Rita_86254
+.2001_Riangbura_86254
+53.06.04_Ile Mandiri_86211
+.2007_Halakodanuan_86211
+.2006_Lewohala_86211
+.2002_Lewoloba_86211
+.2008_Mudakaputu (Mudakeputu)_86211
+.2005_Riangkemie (Riang Kemie)_86211
+.2003_Tiwatobi_86211
+.2001_Wailolong_86211
+.2004_Watotutu_86211
+53.06.11_Kelubagolit_86265
+.2002_Adolaba (Adobala)_86265
+.2003_Hinga_86265
+.2008_Horinara_86265
+.2019_Keluwain_86265
+.2004_Lamapaha_86265
+.2010_Lambunga (Lamabunga)_86265
+.2012_Mangaaleng_86265
+.2007_Muda_86265
+.2006_Nisakarang_86265
+.2009_Pepakelu (Pepak Kelu)_86265
+.2001_Rodentena (Redontena)_86265
+.2005_Sukutokan_86265
+53.06.03_Larantuka_86212|86219
+.1010_Amagarapati_86219
+.1005_Balela_86214
+.1011_Ekasapta_86217
+.2020_Lamawalang_86219
+.1004_Larantuka_86213
+.1002_Lewolere_86212
+.1007_Lohayong_86215
+.1008_Lokea_86215
+.2019_Mokantarak_86219
+.1003_Pantai Besar_86213
+.1022_Pohon Bao_86219
+.1006_Pohon Sirih_86214
+.1009_Postoh_86216
+.1014_Pukentobi Wangin Bao (Puken Tobi Wangi Bao)_86219
+.1012_Sarotari_86219
+.1023_Sarotari Tengah_86219
+.1024_Sarotari Timur_86219
+.1001_Waibalun_86212
+.1021_Waihali_86219
+.1013_Weri_86219
+53.06.15_Lewolema_86252
+.2005_Baluk Herin (Balukhering)_86252
+.2002_Bantala_86252
+.2001_Ile Padung_86252
+.2007_Lewobelen_86252
+.2004_Paingnapang (Painapang)_86252
+.2006_Riangkotek_86252
+.2003_Sinar Hading_86252
+53.06.06_Solor Barat_86272
+.2008_Balaweling I_86272
+.2007_Balaweling II_86272
+.2015_Daniwato (Dani Wato)_86272
+.2004_Kalelu_86272
+.2013_Karawatung_86272
+.2003_Lamaole_86272
+.2014_Lamawalang (Lamawohong)_86272
+.2020_Lewonama_86272
+.2017_Lewotanah Ole_86272
+.2005_Nusadani_86272
+.2012_Ongalereng_86272
+.2009_Pamakayo_86272
+.1001_Ritaebang_86272
+.2002_Tanah Lein_86272
+.2019_Titehena_86272
+53.06.19_Solor Selatan_86273
+.2007_Bubuatagamu (Bubu Atagamu)_86273
+.2001_Kalike / Kelike_86273
+.2002_Kalike / Kelike Aimatan_86273
+.2004_Kenere_86273
+.2005_Lemanu_86273
+.2006_Lewograran_86273
+.2003_Sulengwaseng_86273
+53.06.07_Solor Timur_86271
+.2019_Kwuta (Kawuta)_86271
+.2007_Labelen_86271
+.2018_Lamawai_86271
+.2003_Lebao_86271
+.2017_Lewogeka_86271
+.2013_Lewohedo_86271
+.2011_Liwo_86271
+.2009_Lohayong I_86271
+.2014_Lohayong II_86271
+.2008_Menanga_86271
+.2005_Motonwutun_86271
+.2012_Tanah Werang_86271
+.2002_Watanhura_86271
+.2016_Watanhura II_86271
+.2006_Watobuku_86271
+.2004_Watohari_86271
+.2010_Wulublolong_86271
+53.06.05_Tanjung Bunga_86251
+.2021_Aransina_86251
+.2010_Bahinga_86251
+.2016_Bandona_86251
+.2020_Gekengderan_86251
+.2015_Kolaka_86251
+.2023_Lamanabi_86251
+.2012_Lamatutu_86251
+.2013_Latonliwo (Laton Liwo)_86251
+.2022_Latonliwo Dua_86251
+.2006_Lewobunga_86251
+.2017_Nusa Nipa (Nusanipa)_86251
+.2018_Patisira Walang (Patisirawalang)_86251
+.2008_Ratulodong (Ratu Lodong)_86251
+.2007_Sinamalaka_86251
+.2009_Sinarhadigala (Sina Hadigala)_86251
+.2011_Waibao_86251
+53.06.02_Titehena_86255
+.2011_Adabang_86255
+.2014_Bokang Wolomatang_86255
+.2013_Duli Jaya_86255
+.2012_Dun Tana Lewoingu_86255
+.2010_Ile Gerong_86255
+.2001_Kobasoma_86255
+.2009_Konga_86255
+.2006_Leraboleng_86255
+.2003_Lewoingu_86255
+.2002_Lewolaga_86255
+.2007_Serinuho_86255
+.2005_Tenawahang_86255
+.2004_Tuakepa_86255
+.2008_Watowara_86255
+53.06.12_Witihama_86266
+.2010_Balaweling_86266
+.2016_Balaweling Noten_86266
+.2014_Baobage_86266
+.2006_Lamabelawa (Lamablawa)_86266
+.2015_Lamaleka_86266
+.2008_Lewopulo_86266
+.2004_Oringbele_86266
+.2007_Pledo_86266
+.2012_Riangduli_86266
+.2009_Sandosi_86266
+.2011_Tobitika_86266
+.2002_Tuagoetobi (Tuwagoetobi)_86266
+.2013_Waiwuring_86266
+.2001_Watololong_86266
+.2005_Watoone_86266
+.2003_Weranggere_86266
+53.06.09_Wotan Ulumando_86260
+.2008_Bliko_86260
+.2013_Demondei_86260
+.2005_Kawela_86260
+.2006_Klukengnuking_86260
+.2003_Nayubaya_86260
+.2004_Oyangbarang_86260
+.2007_Pandai_86260
+.2009_Samsoge_86260
+.2012_Tana Tukan_86260
+.2011_Tobilota_86260
+.2001_Wailebe_86260
+.2002_Wotanulumado_86260
+53.06.01_Wulanggitang_86256
+.2008_Boru_86256
+.2014_Boru Kedang_86256
+.2002_Hewa_86256
+.2012_Hokeng Jaya_86256
+.2021_Klatanlo_86256
+.2007_Nawokote_86256
+.2011_Nileknoheng_86256
+.2001_Ojandetun_86256
+.2013_Pantai Oa_86256
+.2009_Pululera_86256
+.2003_Waiula_86256

@@ -1,0 +1,40 @@
+32.72.05_Baros_43161|43166
+.1001_Baros_43161
+.1003_Jayamekar_43166
+.1002_Jayaraksa_43166
+.1004_Sudajaya Hilir (Sudajayahilir)_43161
+32.72.07_Cibeureum_43142|43165
+.1002_Babakan_43142
+.1001_Cibeureum Hilir (Cibeureumhilir)_43165
+.1004_Limusnunggal_43165
+.1003_Sindangpalay_43162
+32.72.02_Cikole_43111|43116
+.1001_Cikole_43113
+.1005_Cisarua_43115
+.1003_Gunungparang (Gunung Parang)_43111
+.1004_Kebonjati_43112
+.1002_Selabatu_43114
+.1006_Subangjaya_43116
+32.72.03_Citamiang_43141|43145
+.1005_Cikondang_43142
+.1001_Citamiang_43143
+.1004_Gedongpanjang_43144
+.1003_Nanggeleng_43145
+.1002_Tipar_43141
+32.72.01_Gunung Puyuh (Gunungpuyuh)_43121|43123
+.1001_Gunung Puyuh_43123
+.1002_Karamat_43122
+.1004_Karang Tengah (Karangtengah)_43121
+.1003_Sriwidari (Sriwedari)_43121
+32.72.06_Lembursitu_43134|43169
+.1004_Cikundul_43168
+.1001_Cipanengah_43134
+.1003_Lembursitu_43169
+.1005_Sindangsari_43167
+.1002_Situmekar_43169
+32.72.04_Warudoyong_43131|43135
+.1005_Benteng_43132
+.1003_Dayeuhluhur_43134
+.1002_Nyomplong_43131
+.1004_Sukakarya_43135
+.1001_Warudoyong_43133

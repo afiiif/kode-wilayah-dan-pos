@@ -1,0 +1,77 @@
+74.15.01_Batauga_93741
+.1012_Bandar Batauga_93741
+.2006_Bola_93741
+.1002_Busoa_93741
+.1010_Lakambau_93741
+.2009_Lampanairi_93741
+.1003_Laompo_93741
+.2001_Lawela_93741
+.2008_Lawela Selatan_93741
+.1005_Majapahit_93741
+.1004_Masiri_93741
+.1011_Molagina_93741
+.2007_Poogalampa_93741
+74.15.04_Batu Atas_93745
+.2004_Batu Atas Timur (Batuatas Timur)_93745
+.2002_Batuatas Barat_93745
+.2001_Batuatas Liwu_93745
+.2006_Taduasa_93745
+.2005_Tolando Jaya_93745
+.2003_Wacuala_93745
+.2007_Wambongi_93745
+74.15.07_Kadatua_93742
+.2006_Banabungi_93742
+.2008_Banabungi Selatan_93742
+.2002_Kaofe_93742
+.2005_Kapoa_93742
+.2010_Kapoa Barat_93742
+.2004_Lipu_93742
+.2009_Marawali_93742
+.2007_Mawambunga_93742
+.2003_Uwemaasi_93742
+.2001_Waonu_93742
+74.15.03_Lapandewa_93746
+.2004_Burangasi_93746
+.2003_Burangasi Rumbia_93746
+.2002_Gaya Baru (Gayabaru)_93746
+.2006_Lapandewa_93746
+.2007_Lapandewa Jaya_93746
+.2005_Lapandewa Kaindea (Lapandewa Kaidea)_93746
+.2001_Lapandewa Makmur_93746
+74.15.02_Sampolawa_93747
+.2010_Bahari_93747
+.2013_Bahari 2 (dua)_93747
+.2014_Bahari 3 (tiga)_93747
+.2001_Bangun_93747
+.2011_Gerak Makmur_93747
+.2006_Gunung Sejuk_93747
+.2008_Hendea_93747
+.1004_Jaya Bakti_93747
+.1003_Katilombu_93747
+.2012_Lipu Mangau_93747
+.2007_Sandang Pangan_93747
+.2009_Tira_93747
+.1005_Todombulu_93747
+.2016_Watiginanda_93747
+.2002_Wawoangi_93747
+.2015_Windu Makmur_93747
+74.15.06_Siompu_93743
+.2007_Batuawu_93743
+.2001_Biwinapada_93743
+.2002_Kaimbulawa_93743
+.2006_Karae_93743
+.2010_Lapara_93743
+.2005_Lontoi_93743
+.2008_Nggulanggula_93743
+.2004_Tongali_93743
+.2009_Waindawula_93743
+.2003_Wakinamboro_93743
+74.15.05_Siompu Barat_93744
+.2007_Kamoali_93744
+.2005_Katampe_93744
+.2003_Lalole_93744
+.2006_Lamaninggara_93744
+.2002_Mbanua_93744
+.2008_Mokobeau_93744
+.2001_Molona_93744
+.2004_Watuampara_93744

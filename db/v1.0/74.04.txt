@@ -1,0 +1,102 @@
+74.04.22_Kapontori_93755
+.2001_Barangka_93755
+.2003_Boneatiro_93755
+.2017_Boneatiro Barat_93755
+.2010_Bukit Asri_93755
+.2011_Kamelanta_93755
+.2004_Lambusango_93755
+.2012_Lambusango Timur_93755
+.2014_Mabulugo (Mambulugo)_93755
+.2007_Todanga_93755
+.2008_Tuangila_93755
+.2016_Tumada_93755
+.2002_Wakalambe_93755
+.1006_Wakangka_93755
+.2013_Wakuli_93755
+.2015_Wambulu_93755
+.2009_Waondo Wolio_93755
+.1005_Watumotobe_93755
+74.04.23_Lasalimu_93756
+.2013_Benteng_93756
+.2007_Bonelalo_93756
+.2001_Kakenauwe_93756
+.1005_Kamaru_93756
+.2006_Lasembangi_93756
+.2003_Lawele_93756
+.2015_Nambo_93756
+.2010_Sribatara_93756
+.2004_Suandala_93756
+.2014_Talaga Baru_93756
+.2011_Togomangura (Togo Mangura)_93756
+.2009_Wagari_93756
+.2002_Waoleona_93756
+.2012_Wasambaa_93756
+.2008_Wasuamba_93756
+74.04.24_Lasalimu Selatan_93757
+.2006_Ambuau Indah_93757
+.2022_Ambuau Togo_93757
+.2023_Balimu_93757
+.2017_Harapan Jaya_93757
+.2007_Kinapani Makmur_93757
+.2010_Lasalimu_93757
+.2019_Megabahari_93757
+.2008_Mopaano/Mopano_93757
+.2016_Mulya Jaya (Mulia Jaya)_93757
+.2021_Rejo Sari_93757
+.2018_Sangia Arano_93757
+.2013_Siomanuru_93757
+.2012_Siontapina (Siotapina)_93757
+.2020_Sumber Agung_93757
+.2009_Umalaoge_93757
+.2011_Wajah Jaya (Wajahjaya)_93757
+74.04.11_Pasarwajo (Pasar Wajo)_93752
+.1023_Awainulu_93752
+.2025_Banabungi_93752
+.2019_Dongkala_93752
+.1020_Holimombo_93752
+.2017_Holimombo Jaya_93752
+.2029_Kabawakole_93752
+.1026_Kambulabulana_93752
+.2007_Kancinaa_93752
+.2031_Kaongkeongkea_93752
+.1021_Kombeli_93752
+.2018_Kondowa_93752
+.2024_Laburunci_93752
+.2004_Lapodi_93752
+.2030_Mantowu_93752
+.1027_Pasarwajo_93752
+.1028_Saragi_93752
+.1022_Takimpo_93752
+.2002_Waangu-angu (Wangu Angu)_93752
+.1005_Wakoko_93752
+.2003_Warinta_93752
+.1006_Wasaga_93752
+.2008_Winning_93752
+74.04.27_Siotapina (Siontapia / Siontapina)_93758
+.2011_Bahari Makmur_93758
+.2010_Gunungjaya (Gunung Jaya)_93758
+.2008_Karya Jaya_93758
+.2005_Kumbewaha_93758
+.2004_Kuraa_93758
+.2007_Labuandiri_93758
+.2009_Manuru_93758
+.2002_Matanauwe_93758
+.2003_Sampuabalo_93758
+.2006_Sumber Sari_93758
+.2001_Walompo_93758
+74.04.29_Wabula_93753
+.2007_Bajo Bahari_93753
+.2004_Holimombo_93753
+.2005_Koholimembona (Koholimombona)_93753
+.2002_Wabula_93753
+.2006_Wabula Satu_93753
+.2003_Wasampela_93753
+.2001_Wasuemba_93753
+74.04.28_Wolowa_93754
+.2006_Bungi_93754
+.2007_Galanti_93754
+.2001_Kaumbu_93754
+.2003_Matawia_93754
+.2005_Suka Maju (Sukamaju)_93754
+.2002_Wolowa_93754
+.2004_Wolowa Baru_93754

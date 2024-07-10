@@ -1,0 +1,141 @@
+15.09.12_Muara Tabir_37570
+.2007_Bangko Pintas_37570
+.2004_Bangun Seranten (Bangun Saranten)_37570
+.2003_Embacang Gedang_37570
+.2008_Olak Kemang_37570
+.2002_Pintas Tuo_37570
+.2006_Sungai Jernih_37570
+.2005_Tambun Arang_37570
+.2001_Tanah Garo_37570
+15.09.04_Rimbo Bujang_37551
+.2016_Jaya Mulya_37551
+.1010_Mandiri Agung_37551
+.2011_Mekar Kencana_37551
+.2008_Pematang Sapat_37551
+.2002_Perintis_37551
+.2014_Perintis Jaya_37551
+.2015_Perintis Makmur_37551
+.2012_Purwo Dadi_37551
+.2004_Purwo Harjo_37551
+.2003_Rimbo Mulyo_37551
+.2007_Sapta Mulia (Sapta Mulyo)_37551
+.1009_Sarana Agung_37551
+.2005_Tegal Arum_37551
+.2013_Tegal Asri_37551
+.2006_Tirta Kencana (Tirtakencana)_37551
+.1001_Wirotho Agung_37551
+15.09.08_Rimbo Ilir_37552
+.2010_Giri Mulyo_37552
+.2005_Giri Purno_37552
+.2001_Giriwinangun_37552
+.2004_Karang Dadi_37552
+.2003_Pulung Rejo_37552
+.2009_Rantau Kembang_37552
+.2007_Sarimulya (Sari Mulyo / Mulya)_37552
+.2008_Sepakat Bersatu_37552
+.2002_Sidorejo (Sido Rejo)_37552
+.2006_Sumber Agung_37552
+15.09.07_Rimbo Ulu_37553
+.2010_Damai Makmur_37553
+.2007_Mekar Sari_37553
+.2012_Sido Mulyo_37553
+.2004_Sido Rukun_37553
+.2001_Suka Damai_37553
+.2011_Suka Jaya_37553
+.2006_Suka Maju_37553
+.2003_Sumber Sari_37553
+.2005_Sungai Pandan_37553
+.2008_Wana Arum_37553
+.2009_Wana Mulya_37553
+.2002_Wana Reja (Wanareja)_37553
+15.09.10_Serai Serumpun_37554
+.2003_Bukit Pamuatan (Bukit Pemuatan)_37554
+.2004_Napal Putih_37554
+.2006_Pagar Puding Lamo_37554
+.2001_Pinang Belai/Balai_37554
+.2005_Sako Makmur_37554
+.2002_Sekutur Jaya_37554
+.2007_Tanjung Aur Seberang_37554
+.2008_Teluk Melintang_37554
+15.09.05_Sumay_37573
+.2006_Jati Belarik_37573
+.2002_Lembak Bungur_37573
+.2010_Muara Sekalo_37573
+.2012_Pemayungan (Pemayongan)_37573
+.2005_Punti Kalo (Puntikalo)_37573
+.2011_Semambu (Desa Semambu)_37573
+.2009_Suo Suo_37573
+.2004_Tambun Arang_37573
+.2003_Teluk Langkap_37573
+.2001_Teluk Singkawang_37573
+.2008_Teriti_37573
+.2007_Tuo Sumay_37573
+15.09.02_Tebo Ilir_37572
+.2012_Betung Bedarah Barat_37572
+.2011_Betung Bedarah Timur_37572
+.2018_Kemantan_37572
+.2014_Kunangan_37572
+.2015_Muara Ketalo_37572
+.2002_Sungai Aro_37572
+.1001_Sungai Bengkal_37572
+.2017_Sungai Bengkal Barat_37572
+.2005_Teluk Rendah Ilir_37572
+.2003_Teluk Rendah Pasar_37572
+.2004_Teluk Rendah Ulu_37572
+.2008_Tuo Ilir (Desa Tuo Ilir)_37572
+15.09.01_Tebo Tengah_37571
+.2011_Aburan Batang Tebo_37571
+.2003_Bedaro Rampak_37571
+.2008_Kandang_37571
+.2004_Mangun Jayo_37571
+.1001_Matebo (Muara Tebo)_37571
+.2009_Pelayang_37571
+.2007_Semabu_37571
+.2012_Sungai Alai_37571
+.2010_Sungai Keruh_37571
+.1002_Tebing Tinggi_37571
+.2005_Teluk Pandak_37571
+.2006_Tengah Ulu_37571
+15.09.03_Tebo Ulu_37555
+.2008_Bungo Tanjung_37555
+.2015_Jambu_37555
+.2010_Lubuk Benteng_37555
+.2017_Medan Seri Rambahan_37555
+.2012_Melako Intan (Malako Intan)_37555
+.2003_Pagar Puding_37555
+.2016_Pulau Jelmu_37555
+.2009_Pulau Panjang_37555
+.1001_Pulautemiang (Pulau Temiang)_37555
+.2006_Rantau Langkap_37555
+.2002_Sungai Rambai_37555
+.2007_Tanjung Aur_37555
+.2005_Teluk Kasai Rambahan_37555
+.2004_Teluk Kembang Jambu_37555
+.2011_Teluk Kuali_37555
+.2019_Teluk Pandan Rambahan_37555
+.2018_Ulak Banjir Rambahan_37555
+15.09.09_Tengah Ilir_37574
+.2005_Lubuk Mandarsah (Lubuk Mandarasah)_37574
+.2006_Lubuk Mandrasah Ulu_37574
+.2003_Mengupeh_37574
+.2001_Muara Kilis_37574
+.2002_Penapalan_37574
+.2004_Rantau Api_37574
+15.09.06_VII Koto_37561
+.2005_Aur Cino_37561
+.2014_Dusun Baru_37561
+.2002_Kuamang_37561
+.2007_Muara Niro_37561
+.2016_Muara Tabun_37561
+.2004_Sungai Abang_37561
+.2015_Tabun_37561
+.2001_Tanjung Pucuk Jambi (Pucuk Jambi)_37561
+.2003_Teluk Kayu Putih_37561
+.2013_Teluk Lancang_37561
+15.09.11_VII Koto Ilir_37562
+.2002_Balai Rajo_37562
+.2003_Cermin Alam_37562
+.2005_Paseban_37562
+.2006_Pasir Mayang_37562
+.2004_Sungai Karang_37562
+.2001_Teluk Kepayang Pulau Indah_37562

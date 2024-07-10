@@ -1,0 +1,140 @@
+18.10.07_Adiluwih (Adi Luwih)_35674
+.2001_Adiluwih (Adi Luwih)_35674
+.2002_Bandung Baru_35674
+.2011_Bandung Baru Barat_35674
+.2004_Enggal Rejo_35674
+.2013_Kuta Waringin_35674
+.2008_Purwodadi_35674
+.2003_Sinarwayah (Sinar Waya)_35674
+.2009_Srikaton_35674
+.2005_Sukoharum_35674
+.2012_Totokarto_35674
+.2007_Tri Tunggal Mulya (Tritunggal Mulya)_35674
+.2010_Tunggul Pawenang_35674
+.2006_Waringin Sari Timur (Waringinsari Timur)_35674
+18.10.03_Ambarawa_35376
+.2001_Ambarawa_35376
+.2002_Ambarawa Barat_35376
+.2008_Ambarawa Timur_35376
+.2006_Jati Agung_35376
+.2003_Kresno Mulyo (Kresnomulyo)_35376
+.2007_Margodadi_35376
+.2004_Sumber Agung_35376
+.2005_Tanjung Anom_35376
+18.10.06_Banyumas_35373
+.2005_Banjarejo_35373
+.2010_Banyu Urip_35373
+.2001_Banyumas_35373
+.2002_Banyuwangi_35373
+.2011_Mulyo Rejo_35373
+.2008_Nusa Wungu_35373
+.2009_Sinar Mulyo/Mulya_35373
+.2007_Sri Rahayu_35373
+.2004_Sriwungu_35373
+.2003_Sukamulya_35373
+.2006_Waya Krui_35373
+18.10.02_Gading Rejo_35372
+.2002_Blitarejo_35372
+.2004_Bulokarto (Bulukarto)_35372
+.2011_Bulurejo_35372
+.2019_Gading Rejo Timur (Gadingrejo Timur)_35372
+.2020_Gading Rejo Utara (Gadingrejo Utara)_35372
+.2008_Gadingrejo (Gading Rejo)_35372
+.2013_Kediri_35372
+.2016_Klaten_35372
+.2014_Mataram_35372
+.2003_Panjerejo_35372
+.2001_Parerejo_35372
+.2021_Tambah Rejo Barat (Tambahrejo Barat)_35372
+.2006_Tambahrejo (Tambak Rejo)_35372
+.2009_Tegalsari_35372
+.2010_Tulung Agung_35372
+.2005_Wates_35372
+.2018_Wates Selatan_35372
+.2017_Wates Timur_35372
+.2007_Wonodadi_35372
+.2022_Wonodadi Utara_35372
+.2015_Wonosari_35372
+.2012_Yogyakarta (Jogjakarta)_35372
+.2023_Yogyakarta Selatan_35372
+18.10.05_Pagelaran_35375
+.2010_Bumi Ratu_35375
+.2032_Bumi Rejo_35375
+.2001_Candi Retno_35375
+.2031_Ganjaran_35375
+.2020_Gemah Ripah_35375
+.2009_Gumuk Mas_35375
+.2024_Gumukrejo (Gumuk Rejo)_35375
+.2008_Karangsari_35375
+.2012_Lugusari_35375
+.2028_Padang Rejo_35375
+.2006_Pagelaran_35375
+.2019_Pamenang_35375
+.2011_Panutan_35375
+.2023_Pasir Ukir_35375
+.2007_Patoman_35375
+.2027_Puji Harjo_35375
+.2029_Sidodadi_35375
+.2005_Suka Ratu (Sukaratu)_35375
+.2004_Suka Wangi (Sukawangi)_35375
+.2030_Sumber Rejo_35375
+.2002_Tanjung Dalam/Dalom_35375
+.2003_Way Ngison (Way Ngisom)_35375
+18.10.09_Pagelaran Utara_35370
+.2001_Fajar Baru_35370
+.2004_Fajar Mulya / Mulia_35370
+.2006_Giri Tunggal_35370
+.2010_Gunung Raya_35370
+.2002_Kemilin_35370
+.2008_Madaraya_35370
+.2005_Margosari_35370
+.2003_Neglasari_35370
+.2007_Sumber Bandung_35370
+.2009_Way Kunir_35370
+18.10.04_Pardasuka_35681
+.2001_Kedaung_35681
+.2002_Pardasuka_35681
+.2013_Pardasuka Selatan_35681
+.2011_Pardasuka Timur_35681
+.2006_Pujodadi_35681
+.2009_Rantau Tijang_35681
+.2008_Selapan_35681
+.2010_Sidodadi_35681
+.2003_Suka Negeri (Sukanegeri / Sukanegara)_35681
+.2007_Sukorejo_35681
+.2004_Tanjung Rusia_35681
+.2012_Tanjung Rusia Timur_35681
+.2005_Wargo/Warga Mulyo_35681
+18.10.01_Pringsewu_35371
+.2010_Bumi Arum_35371
+.2013_Bumi Ayu_35371
+.2015_Fajar Agung Barat_35371
+.1001_Fajaresuk (Pajar Esuk)_35371
+.2006_Margakaya_35371
+.2011_Pajar/Fajar Agung_35371
+.2009_Podomoro_35371
+.2014_Podosari_35371
+.1004_Pringsewu Barat_35371
+.1003_Pringsewu Selatan_35371
+.1005_Pringsewu Timur_35371
+.1002_Pringsewu Utara_35371
+.2012_Rejo Sari (Rejosari)_35371
+.2008_Sidoharjo_35371
+.2007_Waluyojati_35371
+18.10.08_Sukoharjo_35673
+.2009_Keputran_35673
+.2007_Pandan Sari_35673
+.2013_Pandan Sari Selatan_35673
+.2008_Pandan Surat_35673
+.2015_Panggung Rejo Utara_35673
+.2006_Panggungrejo (Panggung Rejo)_35673
+.2011_Siliwangi_35673
+.2001_Sinar Baru_35673
+.2014_Sinar Baru Timur_35673
+.2002_Sukoharjo I_35673
+.2003_Sukoharjo II_35673
+.2004_Sukoharjo III_35673
+.2016_Sukoharjo III Barat_35673
+.2005_Sukoharjo IV_35673
+.2010_Sukoyoso_35673
+.2012_Waringinsari Barat (Waringin Sari Barat)_35673

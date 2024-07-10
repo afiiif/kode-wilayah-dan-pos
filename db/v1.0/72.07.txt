@@ -1,0 +1,156 @@
+72.07.07_Buko_94881
+.2009_Batangono_94881
+.2012_Labasiano_94881
+.2010_Lalengan_94881
+.2015_Leme-Leme Bungin_94881
+.2016_Leme-Leme Darat_94881
+.2014_Malanggong_94881
+.2018_Okulo Potil_94881
+.2020_Olusi_94881
+.2008_Paisubatu_94881
+.2011_Peling Lalomo_94881
+.2017_Talas-talas_94881
+.2013_Tataba_94881
+.2019_Tatendeng_94881
+72.07.18_Buko Selatan_94880
+.2009_Apal_94880
+.2004_Buko_94880
+.2002_Kambani_94880
+.2006_Labangun_94880
+.2011_Landonan Bebeau_94880
+.2008_Lelang Matamaling_94880
+.2001_Lumbi-Lumbia_94880
+.2005_Palapat_94880
+.2010_Sapelang_94880
+.2007_Seano_94880
+.2003_Tatabau_94880
+72.07.06_Bulagi_94882
+.2035_Alul_94882
+.2020_Boloi (Boloy)_94882
+.1018_Bulagi I (Bulagi Satu)_94882
+.2019_Bulagi II (Bulagi Dua)_94882
+.2039_Kambal_94882
+.2040_Kayubet_94882
+.2025_Komba-Komba_94882
+.2015_Lalandai (Lalanday)_94882
+.2021_Meselesek_94882
+.2016_Montomisan_94882
+.2022_Oluno_94882
+.2024_Pelingseasa (Peling Seasa)_94882
+.2017_Sosom_94882
+.2023_Sumondung_94882
+.2014_Tolo_94882
+.2038_Toolon_94882
+72.07.09_Bulagi Selatan_94882
+.2019_Alasan Nggolobuton_94882
+.2015_Babang_94882
+.2006_Balalon_94882
+.2017_Boluni_94882
+.2001_Bonepuso_94882
+.2018_Labotankandi (Labotakandi)_94882
+.2014_Lemelu_94882
+.2009_Lolantang_94882
+.2012_Mangais_94882
+.2016_Momotan_94882
+.2005_Osan_94882
+.2011_Palabatu I (Palabatu Satu)_94882
+.2002_Palabatu II (Palabatu Dua)_94882
+.2004_Pandaluk_94882
+.2020_Pipilogot Paipaisu_94882
+.2007_Sabelak_94882
+.2008_Suit_94882
+.2003_Tatarandang_94882
+.2010_Toi-Toi (Toy-Toy)_94882
+.2013_Unu_94882
+72.07.17_Bulagi Utara_94889
+.2006_Bakalinga_94889
+.2002_Bangunemo_94889
+.2005_Bolubung_94889
+.2008_Koyobunga_94889
+.2007_Lukpanenteng (Luk Panenteng)_94889
+.2012_Mandok_94889
+.2011_Minanga_94889
+.2004_Montop_94889
+.2010_Ombuli_94889
+.2003_Paisuluno_94889
+.1009_Sabang_94889
+.2001_Sambulangan_94889
+72.07.05_Liang_94883
+.2018_Apal_94883
+.2012_Bajo_94883
+.2013_Balayon_94883
+.2016_Basosol_94883
+.2002_Binuntuli_94883
+.2017_Boyoumoute (Boyomoute)_94883
+.2006_Kindandal_94883
+.2011_Liang_94883
+.2026_Loolong_94883
+.2007_Mamulusan_94883
+.2004_Okumel_94883
+.2003_Popidolon_94883
+.2010_Saleati_94883
+.2025_Selekan_94883
+.2001_Tangkop_94883
+.2005_Tomboniki_94883
+72.07.16_Peling Tengah_94888
+.2005_Alakasing_94888
+.2002_Balombong_94888
+.2003_Kolak_94888
+.2004_Koyobunga_94888
+.2008_Labibi_94888
+.2007_Luk_94888
+.2001_Patukuki_94888
+.2009_Popisi_94888
+.2010_Tolulos_94888
+.2006_Tombos_94888
+.2011_Tunggaling_94888
+72.07.04_Tinangkung_94885
+.2010_Ambelang_94885
+.2014_Baka_94885
+.2017_Bakalan_94885
+.2013_Bongganan_94885
+.2016_Bulungkobit_94885
+.2022_Bungin_94885
+.2018_Kautu_94885
+.2009_Manggalai_94885
+.2011_Saiyong_94885
+.1015_Salakan_94885
+.2012_Tompudau_94885
+72.07.11_Tinangkung Selatan_94714|94885
+.2009_Bobu_94885
+.2008_Gansal_94885
+.2006_Kampung Baru_94714
+.2004_Mansamat A_94885
+.2005_Mansamat B_94885
+.2002_Paisumusoni (Paisumosoni)_94885
+.2007_Tinangkung_94885
+.2001_Tobing_94885
+.2003_Tobungin_94885
+72.07.19_Tinangkung Utara_94886
+.2006_Bampanga_94886
+.2002_Lalong_94886
+.2004_Luksagu (Luk Sagu)_94886
+.2005_Palam_94886
+.2003_Ponding-Ponding_94886
+.2001_Tatakalai_94886
+72.07.03_Totikum (Totikung)_94884
+.2015_Abason_94884
+.2009_Batang Babasal_94884
+.2008_Bolonan_94884
+.2017_Kombutokan_94884
+.2016_Lopito_94884
+.2013_Sakay_94884
+.2011_Salangano_94884
+.2012_Sambiut_94884
+.2010_Sampaka_94884
+.2007_Sobonon_94884
+.2014_Tone_94884
+72.07.15_Totikum Selatan_94887
+.2001_Kalumbatan_94887
+.2006_Kanali_94887
+.2008_Lobuton_94887
+.2007_Mata_94887
+.2004_Nulion_94887
+.2005_Peley_94887
+.2003_Tobungku_94887
+.2002_Tonuson_94887

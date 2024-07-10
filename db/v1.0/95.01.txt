@@ -1,0 +1,372 @@
+95.01.03_Asologaima_99531
+.2015_Araboda_99531
+.2006_Kimbin (Kimbim)_99531
+.2044_Kombagwe_99531
+.2017_Logotpaga_99531
+.2029_Loki_99531
+.2026_Miligatnem_99531
+.2034_Tikawo_99531
+.2008_Walak_99531
+.2045_Wanggonoma_99531
+.2025_Wawanca_99531
+95.01.09_Asolokobal_99501
+.2006_Asolokobal_99501
+.2012_Asotapo_99501
+.2015_Helaluwa_99501
+.2011_Hesatom_99501
+.2016_Mulinekama_99501
+.2014_Ninabua_99501
+.2005_Sinata_99501
+.2013_Wiaima_99501
+.2037_Yapema_99501
+95.01.36_Asotipo_99502
+.2009_Air Garam_99502
+.2002_Asotipo_99502
+.2005_Heberima_99502
+.2008_Hitigima_99502
+.2010_Hukulimo_99502
+.2006_Iwigima_99502
+.2004_Kuantapo_99502
+.2007_Pobiatma_99502
+.2003_Putageima (Putagaima)_99502
+.2001_Sogokmo (Sogomo)_99502
+95.01.05_Bolakme_99541
+.2016_Bandua_99541
+.2039_Bimu_99541
+.2001_Bolakme_99541
+.2037_Kugitero_99541
+.2019_Lani Timur_99541
+.2003_Munak_99541
+.2035_Nunggarugum_99541
+.2056_Owagambak_99541
+.2036_Poitmos_99541
+.2040_Tekani_99541
+.2014_Tononggame (Tenonggame)_99541
+.2038_Wenamela_99541
+95.01.34_Bpiri_99542
+.2004_Ayoma_99542
+.2007_Dlinggama_99542
+.2005_Dlonggoki_99542
+.2001_Irilinga / Irilingga (Irilingan)_99542
+.2002_Onggaba (Onggabaga/Onggobaga)_99542
+.2006_Tirunggu_99542
+.2003_Walakma_99542
+95.01.33_Bugi_99543
+.2008_Air Garam_99543
+.2001_Bugi_99543
+.2003_Dewene_99543
+.2007_Kodlangga_99543
+.2002_Manda_99543
+.2005_Tagulik_99543
+.2004_Totni_99543
+.2006_Walak Selatan_99543
+95.01.16_Hubikiak_99551
+.2003_Dokopku_99551
+.2002_Hituma (Hetuma)_99551
+.2007_Hom-hom_99551
+.2001_Hubukiak / Hubikiak_99551
+.2006_Husoak_99551
+.2004_Likino_99551
+.2005_Musiamia_99551
+.2008_Musiamia Dua_99551
+95.01.04_Hubikosi_99552
+.2001_Hubikosi_99552
+.2029_Ikilumo_99552
+.2019_Isakusa_99552
+.2028_Jibilabaga_99552
+.2021_Kikhumo_99552
+.2008_Kosihilapok_99552
+.2007_Kosimeage (Kosimeaga)_99552
+.2015_Meagama_99552
+.2020_Pelima_99552
+.2018_Pipukmo_99552
+.2030_Sunili_99552
+95.01.17_Ibele_99553
+.2003_Ayobaibur (Ayubaibur)_99553
+.2006_Habema_99553
+.2008_Holaliba_99553
+.2004_Ibele_99553
+.2005_Tipalok_99553
+.2001_Yagarobak (Yagakobak)_99553
+.2009_Yelebarek_99553
+.2010_Yokalpalek_99553
+.2002_Zapma_99553
+.2007_Zinai_99553
+95.01.19_Itlay Hisage_99503
+.2006_Helepalegem_99503
+.2009_Kemisake_99503
+.2001_Lukaken_99503
+.2002_Miami_99503
+.2007_Siliwa_99503
+.2008_Sumunikama_99503
+.2005_Tomisa_99503
+.2003_Waoba (Wuroba/Waroba)_99503
+.2004_Yogonima_99503
+95.01.26_Koragi_99544
+.2001_Koragi_99544
+.2003_Kumudiluk_99544
+.2004_Tagibaga_99544
+.2002_Telegai_99544
+.2005_Tenondek_99544
+95.01.02_Kurulu_99521
+.2009_Abusa_99521
+.2011_Eragama (Erema)_99521
+.2021_Hopama_99521
+.2019_Iyantik_99521
+.2017_Kumima (Kimina)_99521
+.2018_Mebagaima_99521
+.2006_Mulima_99521
+.2033_Obya_99521
+.2020_Umpagalo_99521
+.2043_Utkolo Satu_99521
+.2007_Waga Waga_99521
+.2001_Yiwika (Jiwika)_99521
+95.01.23_Libarek_99522
+.2003_Kilubaga_99522
+.2001_Muliama_99522
+.2004_Musalfak_99522
+.2005_Punakul_99522
+.2002_Wenabubaga_99522
+95.01.37_Maima_99504
+.2004_Esiak_99504
+.2005_Heraewa_99504
+.2007_Husewa_99504
+.2006_Kepi_99504
+.2001_Maima_99504
+.2008_Menagaima_99504
+.2002_Minimo_99504
+95.01.28_Molagalome_99545
+.2004_Kwigiluk_99545
+.2005_Mebunukme_99545
+.2003_Molagalome_99545
+.2006_Okwa_99545
+.2001_Tanahmerah_99545
+.2002_Towagame_99545
+95.01.32_Muliama_99532
+.2002_Asologaima_99532
+.2007_Delekama_99532
+.2005_Helefa / Halefa_99532
+.2004_Holkima_99532
+.2012_Hukuragi_99532
+.2003_Kewin_99532
+.2010_Konan_99532
+.2001_Miliama (Muliama)_99532
+.2008_Molebaga_99532
+.2011_Pilibaga_99532
+.2006_Sekom_99532
+.2009_Silamik_99532
+95.01.07_Musatfak_99533
+.2009_Abulukmo_99533
+.2002_Anegara (Anegera)_99533
+.2003_Elabukama_99533
+.2005_Hamuhi_99533
+.2006_Kosihave_99533
+.2007_Mulupalek_99533
+.2008_Pumasili_99533
+.2004_Siapma_99533
+.2001_Temia_99533
+.2010_Yumugima_99533
+95.01.13_Napua_99505
+.2005_Healekma_99505
+.2002_Holima_99505
+.2003_Lani Matuan_99505
+.2001_Napua_99505
+.2004_Okilik_99505
+.2007_Sapalek_99505
+.2009_Wilekama_99505
+.2006_Yelekama_99505
+.2008_Yomaima_99505
+95.01.10_Pelebaga_99554
+.2013_Aleak_99554
+.2028_Duabalek_99554
+.2018_Filia_99554
+.2003_Heatnem_99554
+.2027_Hitelowa_99554
+.2014_Inanekelok_99554
+.2019_Isugunik_99554
+.2017_Landia_99554
+.2016_Mulukmo_99554
+.2012_Waukahilapok_99554
+.2008_Wililimo_99554
+.2015_Witalak_99554
+.2009_Yabem_99554
+95.01.31_Piramid_99534
+.2006_Aboneri_99534
+.2004_Algonik_99534
+.2008_Balima_99534
+.2010_Beam_99534
+.2007_Gobalimo_99534
+.2003_Perabaga_99534
+.2001_Piramid_99534
+.2005_Yalinggume_99534
+.2002_Yonggime_99534
+.2009_Yumbun_99534
+95.01.25_Pisugi_99523
+.2003_Aikima_99523
+.2005_Akiaput_99523
+.2002_Pabuma_99523
+.2004_Pikhe_99523
+.2001_Pisugi_99523
+.2006_Suroba_99523
+.2007_Wara_99523
+95.01.38_Popugoba_99506
+.2001_Pupugoba (Popugoba)_99506
+.2002_Waima_99506
+.2004_Yelelo_99506
+.2003_Yomote_99506
+95.01.20_Siepkosi_99507
+.2007_Isawa Himan_99507
+.2008_Lunaima_99507
+.2005_Manika_99507
+.2004_Noagalo_99507
+.2003_Sekan_99507
+.2006_Sekan Dalam_99507
+.2001_Siepkosi_99507
+.2009_Wekia_99507
+.2002_Yumogima (Isibitlah)_99507
+95.01.30_Silo Karno Doga_99535
+.2007_Apnae_99535
+.2002_Elaboga (Elaboge)_99535
+.2006_Gigilobo_99535
+.2003_Holasili_99535
+.2005_Olagi_99535
+.2001_Wogi_99535
+.2008_Wonenggulik_99535
+.2004_Yerega_99535
+95.01.18_Taelarek_99555
+.2003_Bokiem_99555
+.2005_Budliem_99555
+.2008_Entagekokma_99555
+.2007_Huluaima_99555
+.2004_Iyora_99555
+.2002_Senogolik_99555
+.2001_Tailarek (Taila)_99555
+.2006_Yoman Weya_99555
+95.01.27_Tagime_99546
+.2006_Gume Kupari_99546
+.2004_Lakwame_99546
+.2009_Lapeyo_99546
+.2008_Mulugame_99546
+.2003_Onggobalo_99546
+.2002_Porome_99546
+.2001_Tagime_99546
+.2007_Wandinggunie_99546
+.2010_Yanggapura_99546
+.2011_Yogobur_99546
+.2005_Yordania Tulak_99546
+95.01.29_Tagineri_99547
+.2003_Binibaga_99547
+.2006_Gelelame_99547
+.2002_Injuta_99547
+.2008_Melemei_99547
+.2005_Pagaluk_99547
+.2001_Taginem (Tagineri)_99547
+.2004_Tamokilo (Tamokilu/Tamokulu)_99547
+.2007_Wilaloma_99547
+.2009_Wuragukme_99547
+95.01.12_Trikora_99508
+.2006_Anggulpa_99508
+.2003_Dinggilimo_99508
+.2004_Kora Jaya_99508
+.2005_Korambirik_99508
+.2002_Nanggo_99508
+.2001_Trikora_99508
+95.01.21_Usilimo_99524
+.2009_Abutpuk_99524
+.2008_Alona_99524
+.2006_Fikha_99524
+.2004_Gua Wisata_99524
+.2010_Isaiman_99524
+.2007_Meagamia_99524
+.2002_Siba_99524
+.2005_Undulumo_99524
+.2001_Usilimo_99524
+.2003_Wosiala_99524
+95.01.24_Wadangku_99525
+.2002_Agulimo_99525
+.2005_Luku-luku_99525
+.2003_Musiem_99525
+.2001_Wadangku_99525
+.2004_Yomosimo_99525
+95.01.14_Walaik_99509
+.2002_Elarek_99509
+.2003_Holima_99509
+.2001_Walaik_99509
+.2005_Welekama_99509
+.2004_Yelai_99509
+95.01.06_Walelagama_99510
+.2010_Itlay Halitopo_99510
+.2011_Kubulakma_99510
+.2012_Kulaken_99510
+.2002_Pugima_99510
+.2001_Walelagama_99510
+.2013_Wamusage_99510
+95.01.39_Wame_99536
+.2004_Dogoname_99536
+.2002_Dumapaga_99536
+.2001_Wame_99536
+.2003_Yanenggame_99536
+95.01.01_Wamena_99511
+.2037_Autakma_99511
+.2034_Batu Merah_99511
+.2059_Honaima_99511
+.2015_Honelama_99511
+.2058_Honelama Dua_99511
+.2025_Hulekama / Hurekama_99511
+.2060_Lanitipo_99511
+.1057_Sinakma_99511
+.1056_Sinapuk_99511
+.2061_Wamaroma_99511
+.1001_Wamena Kota_99511
+95.01.35_Welesi_99512
+.2006_Apenas_99512
+.2003_Asojelipele_99512
+.2004_Lantipo_99512
+.2005_Pawekama_99512
+.2007_Tulima_99512
+.2001_Welesi_99512
+.2002_Yagara_99512
+95.01.40_Wesaput_99513
+.2006_Agamoa_99513
+.1001_Ilokama_99513
+.2002_Kama_99513
+.2004_Mawampi_99513
+.2005_Parema_99513
+.2007_Silumarek_99513
+.2008_Wesaganya_99513
+.2003_Yaloaput_99513
+95.01.22_Wita Waya_99526
+.2004_Alolik_99526
+.2003_Alula_99526
+.2001_Koma_99526
+.2002_Tulem_99526
+.2005_Wiligima_99526
+95.01.08_Wolo_99548
+.2017_Alugi_99548
+.2008_Kukurima_99548
+.2011_Pirambor (Pirambot)_99548
+.2015_Tegabaga_99548
+.2028_Wodloma_99548
+.2016_Wollo Timur_99548
+.2001_Wolo (Wollo)_99548
+.2027_Wunan_99548
+95.01.15_Wouma_99514
+.2002_Ketimavit_99514
+.2004_Logonoba_99514
+.2006_Pipitmo_99514
+.2007_Sinarekowa_99514
+.2005_Wesakin_99514
+.2003_Wesakma_99514
+.2001_Wouma_99514
+95.01.11_Yalengga_99549
+.2010_Aipakma_99549
+.2008_Akorek_99549
+.2016_Bitti_99549
+.2009_Manili_99549
+.2006_Pilimo_99549
+.2002_Taganik_99549
+.2007_Tumun_99549
+.2017_Wamanuk Dua_99549
+.2004_Wananuk_99549
+.2015_Wugurima_99549
+.2001_Yalengga (Yelengga)_99549

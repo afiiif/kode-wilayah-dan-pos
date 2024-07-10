@@ -1,0 +1,309 @@
+11.04.18_Atu Lintang_24563
+.2001_Atu Lintang_24563
+.2008_Bintang Kekelip_24563
+.2010_Damar Mulyo (Damar Mulia)_24563
+.2005_Gayo Murni_24563
+.2006_Kepala Akal_24563
+.2009_Merah Jernang_24563
+.2002_Merah Mege_24563
+.2004_Merah Muyang/Mayang_24563
+.2003_Merah Pupuk_24563
+.2011_Pantan Damar_24563
+.2007_Tanoh Abu_24563
+11.04.03_Bebesen_24552
+.2015_Atu Gajah Reje Guru_24552
+.2016_Atu Tulu_24552
+.2013_Bahgie_24552
+.2002_Bebesen_24552
+.2007_Blang Gele_24552
+.2001_Blang Kolak I_24552
+.2010_Blang Kolak II_24552
+.2017_Burbiah (Bur Biah)_24552
+.2027_Calo Blang Gele_24552
+.2004_Daling_24552
+.2018_Empus Talu_24552
+.2019_Gele Lah_24552
+.2028_Kala Kemili_24552
+.2020_Kebet_24552
+.2008_Kemili_24552
+.2014_Keramat Mupakat_24552
+.2006_Lelabu_24552
+.2021_Lemah Burbana_24552
+.2022_Mah Bengi_24552
+.2003_Mongal_24552
+.2023_Nunang Antara_24552
+.2024_Pendere Saril_24552
+.2025_Sadong Juru Mudi_24552
+.2012_Simpang IV (Simpang Empat)_24552
+.2009_Tan Saril_24552
+.2005_Tensaran (Tensaren)_24552
+.2026_Ulu Nuwih/Nuih_24552
+.2011_Umang_24552
+11.04.20_Bies_24561
+.2004_Aru Latong (Arul Latong)_24561
+.2006_Atang Jungket_24561
+.2002_Bies Baru_24561
+.2003_Bies Mulie_24561
+.2001_Bies Penentanan_24561
+.2012_Karang Bayur_24561
+.2009_Lenga_24561
+.2008_Pucuk Deku_24561
+.2005_Simpang Lukup Badak (Simpang Lukub Badak)_24561
+.2011_Simpang Uning Niken_24561
+.2007_Tebes Lues_24561
+.2010_Uning Pegantungen_24561
+11.04.08_Bintang_24571
+.2001_Atu Payung_24571
+.2002_Bale Nosar_24571
+.2003_Bamil Nosar_24571
+.2004_Bewang_24571
+.2005_Dedamar_24571
+.2020_Gegarang_24571
+.2024_Gele Pulo_24571
+.2006_Genuren_24571
+.2021_Jamur Konyel_24571
+.2007_Kala Bintang_24571
+.2008_Kala Segi (Kala Segi Bintang)_24571
+.2009_Kejurun Syiah Utama_24571
+.2010_Kelitu Sintep_24571
+.2011_Kuala I (Kuala I Bintang)_24571
+.2012_Kuala II_24571
+.2013_Linung Bulen I_24571
+.2014_Linung Bulen II_24571
+.2015_Mengaya_24571
+.2022_Merodot_24571
+.2016_Mude Nosar_24571
+.2017_Serule_24571
+.2023_Sintep_24571
+.2018_Wakil Jalil_24571
+.2019_Wihlah Setie_24571
+11.04.13_Celala_24562
+.2001_Arul Gading_24562
+.2002_Belang Kekumur (Blang Kekumur)_24562
+.2003_Berawang Gading_24562
+.2016_Blang Delem_24562
+.2004_Celala_24562
+.2005_Cibro_24562
+.2017_Depet Indah_24562
+.2006_Kuyun_24562
+.2007_Kuyun Toa_24562
+.2008_Kuyun Uken_24562
+.2009_Makmur_24562
+.2010_Melala_24562
+.2011_Paya Kolak_24562
+.2012_Ramung Ara_24562
+.2013_Sepakat_24562
+.2014_Tanoh Depet_24562
+.2015_Uning Berawang Ramung_24562
+11.04.19_Jagong Jeget_24564
+.2002_Berawang Dewal_24564
+.2009_Bukit Kemuning_24564
+.2008_Bukit Sari_24564
+.2003_Gegarang_24564
+.2007_Jagong Jeget_24564
+.2005_Jeget Ayu_24564
+.2001_Merah Said_24564
+.2010_Paya Dedep_24564
+.2006_Paya Tungel/Tunggal_24564
+.2004_Telege Sari_24564
+11.04.11_Kebayakan_24517|24519
+.2010_Bukit_24519
+.2011_Bukit Ewih Tami Delem (Bukit Iwih Tami Delem)_24519
+.2001_Bukit Sama_24519
+.2012_Gunung Bahgie_24519
+.2013_Gunung Balohen_24519
+.2002_Gunung Bukit_24519
+.2014_Jongkok Bathin (Jongok Bathin)_24519
+.2003_Jongok Meluem_24518
+.2015_Kala Lengkio_24519
+.2004_Kelupak Mata_24519
+.2016_Kute Lot (Kutelot)_24519
+.2005_Lot Kala_24517
+.2006_Mendale_24519
+.2007_Paya Reje Tami Dalem (Paya Reje Tamidelem)_24519
+.2008_Paya Tumpi_24519
+.2017_Paya Tumpi Baru_24519
+.2018_Paya Tumpi I_24519
+.2009_Pinangan_24519
+.2020_Telege Atu_24519
+.2019_Timangan Gading_24519
+11.04.10_Ketol_24566
+.2001_Bah_24566
+.2018_Bergang_24566
+.2003_Bintang Pepara_24566
+.2002_Blang Mancung_24566
+.2019_Blang Mancung Bawah_24566
+.2020_Buge Ara_24566
+.2004_Burlah_24566
+.2005_Buter_24566
+.2006_Cang Duri_24566
+.2021_Genting Bulen_24566
+.2007_Geulumpang Payung (Gelumpang / Glumpang Payung)_24566
+.2022_Jalan Tengah_24566
+.2008_Jaluk_24566
+.2023_Jerata_24566
+.2009_Kala Ketol_24566
+.2010_Karang Ampar_24566
+.2011_Kekuyang_24566
+.2012_Kute Gelime_24566
+.2013_Pantan Penyo_24566
+.2014_Pantan Reduk_24566
+.2015_Pondok Balik_24566
+.2016_Rejewali_24566
+.2025_Selon_24566
+.2017_Serempah_24566
+.2024_Simpang Juli_24566
+11.04.12_Kute Panang_24568
+.2001_Atu Gogop_24568
+.2002_Balik_24568
+.2022_Blang Balik_24568
+.2015_Bukit Rata_24568
+.2003_Buter Balik_24568
+.2004_Dedingin_24568
+.2021_Empu Balik_24568
+.2023_Kala Nongkal_24568
+.2005_Kute Panang_24568
+.2006_Lukub Sabun_24568
+.2016_Lukub Sabun Barat_24568
+.2017_Lukub Sabun Tengah_24568
+.2018_Lukub Sabun Timur_24568
+.2024_Pantan Jerik_24568
+.2007_Pantan Sile_24568
+.2008_Ratawali_24568
+.2009_Segene Balik_24568
+.2010_Tapak Moge_24568
+.2020_Tapak Moge Timur_24568
+.2011_Tawar Miko_24568
+.2012_Tawardi_24568
+.2013_Timang Rasa_24568
+.2014_Wih Nongkal_24568
+.2019_Wih Nongkal Toa (Wih Nongkal Tua)_24568
+11.04.17_Laut Tawar (Lut Tawar)_24511|24516
+.2002_Asir-Asir_24513
+.2003_Asir-Asir Asia_24512
+.2004_Bale Atu_24512
+.2005_Bujang_24512
+.2006_Gunung Suku_24512
+.2007_Hakim Bale Bujang_24513
+.2008_Kenawat_24515
+.2009_Kuteni Reje (Kute Nireje / Kuteni Raja)_24512
+.2017_Merah Mersa_24516
+.2010_Pedemun One-One_24515
+.2011_Rawe_24516
+.2012_Takengon Barat_24514
+.2001_Takengon Timur_24511
+.2016_Teluk One-One_24515
+.2014_Toweran Toa (Toweren Toa)_24516
+.2013_Toweren Antara_24516
+.2015_Toweren Uken_24516
+.2018_Waq Toweren_24516
+11.04.01_Linge_24565
+.2036_Antara_24565
+.2031_Arul Item_24565
+.2003_Delung Sekinel_24565
+.2024_Despot Linge (Dispot Linge)_24565
+.2005_Gelampang Gading_24565
+.2025_Gemboyah_24565
+.2006_Gewat_24565
+.2032_Ise Ise_24565
+.2008_Jamat_24565
+.2009_Kemerleng (Air Asin Kemerleng)_24565
+.2010_Kute Baru_24565
+.2011_Kute Keramil_24565
+.2012_Kute Rayang_24565
+.2033_Kute Reje_24565
+.2013_Kute Riyem (Meriem)_24565
+.2014_Kute Robel_24565
+.2015_Linge_24565
+.2016_Lumut_24565
+.2018_Mungkur_24565
+.2019_Owaq_24565
+.2020_Pantan Nangka_24565
+.2035_Pantan Reduk_24565
+.2021_Penarun_24565
+.2034_Reje Payung_24565
+.2022_Simpang Tige Uning (Simpang III Uning)_24565
+.2023_Umang_24565
+11.04.07_Pegasing_24560
+.2001_Arul Badak_24560
+.2039_Belang Bebangka (Blang Bebangka)_24560
+.2004_Berawang Baro_24560
+.2008_Gelelungi (Gele Lungi)_24560
+.2009_Ie Reulop (Ie Relop)_24560
+.2032_Jejem_24560
+.2033_Jurusen_24560
+.2034_Kala Pegasing_24560
+.2010_Kayu Kul_24560
+.2011_Kedelah_24560
+.2012_Kung_24560
+.2013_Kute Lintang_24560
+.2014_Lelumu_24560
+.2035_Linung Ayu_24560
+.2036_Panangan Mata_24560
+.2037_Pantan Musara_24560
+.2016_Paya Jeget_24560
+.2017_Pedekok_24560
+.2018_Pegasing_24560
+.2019_Pepalang_24560
+.2021_Simpang Kelaping_24560
+.2042_Suka Damai_24560
+.2024_Tebuk_24560
+.2025_Terang Ulen_24560
+.2026_Ujung Gele_24560
+.2040_Uning_24560
+.2041_Uring_24560
+.2029_Wih Ilang_24560
+.2031_Wih Lah_24560
+.2030_Wih Nareh_24560
+.2038_Wih Terjun_24560
+11.04.21_Rusip Antara_24567
+.2004_Arul Pertik_24567
+.2007_Atu Singkih_24567
+.2009_Kerawang_24567
+.2014_Kuala Rawa_24567
+.2016_Lut Jaya_24567
+.2010_Mekar Maju_24567
+.2013_Meurandeh/Merandeh Paya_24567
+.2008_Pantan Bener_24567
+.2001_Pantan Tengah_24567
+.2011_Paya Tampu/Tumpu_24567
+.2003_Pilar_24567
+.2005_Pilar Jaya_24567
+.2015_Pilar Wih Kiri_24567
+.2002_Rusip_24567
+.2012_Tanjung_24567
+.2006_Tirmi Ara_24567
+11.04.02_Silih Nara_24569
+.2001_Arul Gele_24569
+.2002_Arul Kumer_24569
+.2039_Arul Kumer Barat_24569
+.2041_Arul Kumer Selatan_24569
+.2040_Arul Kumer Timur_24569
+.2016_Arul Putih_24569
+.2017_Arul Relem_24569
+.2034_Bius Utama_24569
+.2003_Burni Bius_24569
+.2018_Burni Bius Baru_24569
+.2004_Genting Gerbang_24569
+.2005_Gunung Singit_24569
+.2019_Jerata_24569
+.2035_Meker Indah (Mekar Indah)_24569
+.2036_Mulie Jadi_24569
+.2022_Paya Beke_24569
+.2023_Paya Pelu_24569
+.2007_Pepayungan Angkup (Pepayungen Angkup)_24569
+.2026_Rebe Gedung_24569
+.2008_Remesen_24569
+.2027_Reremal_24569
+.2009_Rutih_24569
+.2010_Semelit Mutiara_24569
+.2029_Senehen (Sanehen)_24569
+.2030_Simpang Kemili_24569
+.2031_Tenebuk Kampung Baru_24569
+.2032_Terang Engon_24569
+.2013_Wih Bakong (Wihni Bakong)_24569
+.2037_Wih Bersih_24569
+.2033_Wih Pesam_24569
+.2012_Wih Porak_24569
+.2038_Wih Sagi Indah_24569
+.2014_Wihni Durin_24569

@@ -1,0 +1,98 @@
+14.71.08_Binawidya_28290|28299
+.1010_Binawidya_28295
+.1008_Delima_28290
+.1001_Simpangbaru_28293
+.1014_Sungaisibam_28292
+.1009_Tobekgodang_28297
+14.71.07_Bukit Raya_28281|28289
+.1012_Airdingin_28284
+.1005_Simpang Tiga_28284
+.1011_Tangkerang Labuai_28281
+.1006_Tangkerang Selatan_28288
+.1008_Tangkerang Utara_28289
+14.71.14_Kulim_28286|28289
+.1001_Kulim_28286
+.1002_Mentangor_28286
+.1004_Pebatuan_28286
+.1005_Pematangkapau_28289
+.1003_Sialangrampai_28286
+14.71.04_Lima Puluh_28141|28144
+.1003_Pesisir_28144
+.1001_Rintis_28141
+.1004_Sekip_28142
+.1002_Tanjung RHU (Tanjung Rhu)_28143
+14.71.09_Marpoyan Damai_28125|28282
+.1005_Maharatu_28125
+.1006_Perhentianmarpoyan_28125
+.1003_Sidomulyo Timur_28125
+.1001_Tangkerang Barat_28282
+.1002_Tangkerang Tengah_28282
+.1004_Wonorejo_28125
+14.71.11_Payung Sekaki_28292
+.1004_Air Hitam_28292
+.1005_Bandarraya_28292
+.1003_Labuh Baru Barat_28292
+.1002_Labuh Baru Timur_28292
+.1001_Tampan_28292
+.1007_Tirtasiak_28292
+14.71.02_Pekanbaru Kota_28111|28116
+.1004_Kota Baru_28114
+.1006_Kota Tinggi_28112
+.1001_Simpang Empat_28116
+.1005_Sukaramai (Suka Ramai)_28113
+.1002_Sumahilang (Suma Hilang)_28111
+.1003_Tanah Datar_28115
+14.71.12_Rumbai (Rumbai Pesisir)_28261|28287
+.1004_Lembah Damai_28263
+.1006_Limbungan Baru_28261
+.1001_Meranti Pandak_28266
+.1010_Palas_28264
+.1009_Sri Meranti_28261
+.1011_Umban Sari_28265
+14.71.06_Rumbai Barat_28261|28267
+.1013_Agrowisata_28264
+.1012_Maharani_28264
+.1010_Muarafajar Barat_28267
+.1005_Muarafajar Timur_28267
+.1011_Rantaupanjang_28264
+.1003_Rumbai Bukit_28264
+14.71.15_Rumbai Timur_28261|28287
+.1004_Lembah Sari_28262
+.1005_Limbungan_28261
+.1003_Sungaiambang_28262
+.1002_Sungaiukai_28287
+.1001_Tebing Tinggi Okura_28287
+14.71.03_Sail_28131|28133
+.1001_Cinta Raja_28131
+.1002_Suka Mulia (Sukamulya)_28133
+.1003_Sukamaju (Suka Maju)_28132
+14.71.05_Senapelan_28151|28156
+.1005_Kampung Bandar_28153
+.1003_Kampung Baru_28154
+.1004_Kampung Dalam_28152
+.1001_Padang Bulan_28156
+.1006_Padang Terubuk_28155
+.1002_Sago_28151
+14.71.01_Sukajadi_28121|28128
+.1006_Harjosari_28122
+.1002_Jadirejo_28126
+.1004_Kampung Melayu_28124
+.1003_Kampung Tengah_28128
+.1005_Kedung Sari (Kedungsari)_28123
+.1008_Pulau Karomah_28127
+.1007_Sukajadi_28121
+14.71.10_Tenayan Raya_28281|28289
+.1005_Bambukuning_28281
+.1002_Bencahlesung_28285
+.1011_Industritenayan_28285
+.1010_Melebung_28285
+.1004_Rejosari_28281
+.1012_Sialangsakti_28285
+.1003_Tangkerang Timur_28289
+.1013_Tuahnegeri_28285
+14.71.13_Tuahmadani_28291|28299
+.1005_Airputih_28296
+.1002_Sialangmunggu_28299
+.1001_Sidomulyo Barat_28294
+.1003_Tuahkarya (Tuah Karya)_28291
+.1004_Tuahmadani_28298

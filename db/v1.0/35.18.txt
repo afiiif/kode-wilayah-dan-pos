@@ -1,0 +1,304 @@
+35.18.14_Bagor_64461
+.2007_Bagor Kulon_64461
+.2001_Balongrejo_64461
+.2020_Banaran Kulon_64461
+.2021_Banaran Wetan_64461
+.2005_Buduran_64461
+.2012_Gandu_64461
+.2018_Gemenggeng_64461
+.2002_Girirejo_64461
+.1014_Guyangan_64461
+.2010_Karang Tengah_64461
+.1015_Kedondong_64461
+.2019_Kendalrejo (Kendal Rejo)_64461
+.2013_Kerepkidul (Kerep Kidul)_64461
+.2016_Kutorejo_64461
+.2006_Ngumpul_64461
+.2009_Paron_64461
+.2003_Pesudukuh_64461
+.2008_Petak_64461
+.2004_Sekarputih (Sekar Putih)_64461
+.2011_Selorejo_64461
+.2017_Sugihwaras (Sugih Waras)_64461
+35.18.10_Baron_64394
+.2003_Baron_64394
+.2007_Garu_64394
+.2002_Gebangkerep (Gebang Kerep)_64394
+.2011_Jambi_64394
+.2008_Jekek_64394
+.2009_Katerban_64394
+.2006_Kemaduh_64394
+.2005_Kemlokolegi_64394
+.2010_Mabung_64394
+.2001_Sambiroto_64394
+.2004_Waung_64394
+35.18.03_Berbek_64473
+.2018_Balongrejo_64473
+.2007_Bendungrejo_64473
+.2005_Berbek_64473
+.2015_Bulu_64473
+.2002_Cepoko_64473
+.2016_Grojogan_64473
+.2011_Kacangan_64473
+.2003_Maguan_64473
+.2006_Mlilir_64473
+.2009_Ngrawan_64473
+.2013_Patranrejo_64473
+.2001_Salamrojo_64473
+.2004_Semare_64473
+.2012_Sendangbumen (Sendang Bumen)_64473
+.2008_Sengkut_64473
+.2019_Sonopatik (Sono Patik)_64473
+.2014_Sumberurip (Sumber Urip)_64473
+.2010_Sumberwindu_64473
+.2017_Tiripan_64473
+35.18.17_Gondang_64451
+.2012_Balonggebang (Balong Gebang)_64451
+.2014_Campur_64451
+.2015_Gondangkulon (Gondang Kulon)_64451
+.2007_Jaan_64451
+.2004_Karangsemi_64451
+.2006_Kedungglugu (Kedung Glugu)_64451
+.2009_Ketawang_64451
+.2017_Losari_64451
+.2003_Mojoseto_64451
+.2002_Nglinggo_64451
+.2010_Ngunjung (Ngujung)_64451
+.2013_Pandean_64451
+.2011_Sanggrahan_64451
+.2016_Senggowar_64451
+.2005_Senjayan_64451
+.2008_Sumberagung (Sumber Agung)_64451
+.2001_Sumberjo_64451
+35.18.20_Jatikalen_64392
+.2005_Begendeng_64392
+.2007_Dawuhan_64392
+.2011_Dlururejo (Dluru)_64392
+.2003_Gondang Wetan_64392
+.2004_Jatikalen_64392
+.2006_Lumpangkuwik (Lumpang Kuwik)_64392
+.2008_Munung_64392
+.2002_Ngasem_64392
+.2001_Perning_64392
+.2010_Pule_64392
+.2009_Pulowetan_64392
+35.18.08_Kertosono_64311|64315
+.1011_Banaran_64311
+.2003_Bangsri_64315
+.2001_Drenges_64315
+.2004_Kalianyar_64315
+.2007_Kepuh_64315
+.2014_Kudu_64312
+.2010_Kutorejo_64313
+.2012_Lambangkuning (Lambang Kuning)_64315
+.2006_Nglawak_64315
+.2013_Pandantoyo (Pandan Toyo)_64315
+.2009_Pelem_64314
+.2005_Tanjung_64315
+.2008_Tembarak_64315
+.2002_Yuwono (Juwono)_64315
+35.18.19_Lengkong_64393
+.2007_Balongasem (Balong Asem)_64393
+.2015_Bangle (Banggle)_64393
+.2001_Banjardowo (Banjar Dowo)_64393
+.2010_Jatipunggur (Jati Punggur)_64393
+.2003_Jegreg_64393
+.2004_Kedungmlaten (Kedung Mlaten)_64393
+.2011_Ketandan_64393
+.2002_Lengkong_64393
+.2013_Ngepung_64393
+.2009_Ngringin_64393
+.2014_Pinggir_64393
+.2005_Prayungan_64393
+.2008_Sawahan_64393
+.2012_Sumberkepuh (Sumber Kepuh)_64393
+.2016_Sumbermiri_64393
+.2006_Sumbersono_64393
+35.18.04_Loceret_64471
+.2022_Bajulan_64471
+.2015_Candirejo_64471
+.2014_Gejagan_64471
+.2003_Genjeng_64471
+.2006_Godean_64471
+.2011_Jatirejo_64471
+.2004_Karangsono_64471
+.2018_Kenep_64471
+.2017_Kwagean_64471
+.2010_Loceret_64471
+.2021_Macanan_64471
+.2008_Mungkung_64471
+.2005_Ngepeh_64471
+.2020_Nglaban_64471
+.2007_Patihan_64471
+.2019_Putukrejo_64471
+.2009_Sekaran_64471
+.2002_Sombron_64471
+.2016_Sukorejo_64471
+.2001_Tanjungrejo_64471
+.2013_Tekenglagahan (Teken Glagahan)_64471
+.2012_Tempel Wetan_64471
+35.18.13_Nganjuk_64411|64419
+.2015_Balongpacul (Balong Pacul)_64419
+.1013_Begadung_64413
+.1011_Bogo_64415
+.1010_Cangkriman (Cangkringan)_64415
+.1005_Ganung Kidul_64419
+.1001_Jatirejo_64416
+.1009_Kartoharjo_64416
+.1008_Kauman_64411
+.2014_Kedungdowo (Kedung Dowo)_64419
+.1004_Kramat_64419
+.1007_Mangundikaran (Mangun Dikaran)_64419
+.1003_Payaman_64418
+.1002_Ploso_64417
+.1012_Ringinanom (Ringin Anom)_64419
+.1006_Werungotok_64419
+35.18.02_Ngetos_64474
+.2008_Blongko_64474
+.2002_Kepel_64474
+.2005_Klodan_64474
+.2001_Kuncir_64474
+.2007_Kweden_64474
+.2006_Mojoduwur_64474
+.2004_Ngetos_64474
+.2009_Oro-Oro Ombo_64474
+.2003_Suru_64474
+35.18.18_Ngluyu_64452
+.2006_Bajang_64452
+.2005_Gampeng_64452
+.2004_Lengkong Lor_64452
+.2002_Ngluyu_64452
+.2001_Sugihwaras_64452
+.2003_Tempuran_64452
+35.18.07_Ngronggot_64395
+.2009_Banjarsari (Banjar Sari)_64395
+.2007_Betet_64395
+.2001_Cengkok_64395
+.2010_Dadapan_64395
+.2003_Juwet_64395
+.2012_Kalianyar (Kali Anyar)_64395
+.2008_Kaloran_64395
+.2004_Kelutan_64395
+.2013_Klurahan_64395
+.2006_Mojokendil_64395
+.2005_Ngronggot_64395
+.2002_Tanjungkalang (Tanjung Kalang)_64395
+.2011_Trayang_64395
+35.18.05_Pace_64451|64472
+.2009_Babadan_64472
+.2011_Banaran_64472
+.2010_Batembat_64472
+.2012_Bodor_64472
+.2008_Cerme_64472
+.2015_Gemenggeng_64472
+.2003_Gondang_64451
+.2001_Jampes_64472
+.2004_Jatigreges_64472
+.2014_Jetis_64472
+.2005_Joho_64472
+.2016_Kecubung_64472
+.2018_Kepanjen_64472
+.2002_Mlandangan_64472
+.2013_Pace Wetan_64472
+.2007_Pacekulon_64472
+.2017_Plosoharjo_64472
+.2006_Sanan_64472
+35.18.09_Patianrowo_64391
+.2002_Babadan_64391
+.2001_Bukur_64391
+.2005_Lestari_64391
+.2003_Ngepung_64391
+.2010_Ngrombot_64391
+.2008_Pakuncen_64391
+.2007_Patianrowo_64391
+.2006_Pecuk_64391
+.2004_Pisang_64391
+.2009_Rowomarto_64391
+.2011_Tirtobinangun_64391
+35.18.06_Prambon_64484
+.2006_Baleturi_64484
+.2004_Bandung_64484
+.2001_Gondanglegi_64484
+.2014_Kurungrejo_64484
+.2003_Mojoagung (Mojo Agung)_64484
+.2005_Nglawak_64484
+.2010_Rowoharjo_64484
+.2009_Sanggrahan_64484
+.2002_Singkalanyar (Singkal Anyar)_64484
+.2013_Sono Ageng_64484
+.2011_Sugihwaras_64484
+.2008_Tanjungtani (Tanjung Tani)_64484
+.2007_Tegaron_64484
+.2012_Watudandang (Watu Dandang)_64484
+35.18.16_Rejoso_64453
+.2016_Banjarejo_64453
+.2024_Bendoasri (Benda Asri)_64453
+.2001_Gempol_64453
+.2010_Jatirejo_64453
+.2021_Jintel_64453
+.2022_Kedungpadang (Kedung Padang)_64453
+.2009_Klagen_64453
+.2011_Mlorah_64453
+.2006_Mojorembun_64453
+.2002_Mungkung_64453
+.2019_Musir Kidul_64453
+.2018_Musir Lor_64453
+.2007_Ngadiboyo_64453
+.2014_Ngangkatan_64453
+.2012_Puhkerep (Puh Kerep)_64453
+.2008_Rejoso_64453
+.2017_Sambikerep (Sambi Kerep)_64453
+.2003_Setren_64453
+.2005_Sidokare_64453
+.2004_Sukorejo_64453
+.2015_Talang_64453
+.2013_Talun_64453
+.2023_Tritik_64453
+.2020_Wengkal_64453
+35.18.01_Sawahan_64475
+.2004_Bareng_64475
+.2001_Bendolo_64475
+.2006_Duren_64475
+.2009_Kebonagung (Kebon Agung)_64475
+.2008_Margopatut_64475
+.2003_Ngliman_64475
+.2002_Sawahan_64475
+.2005_Sidorejo_64475
+.2007_Siwalan_64475
+35.18.12_Sukomoro_64481
+.2010_Bagor Wetan_64481
+.2003_Blitaran_64481
+.2006_Bungur_64481
+.1002_Kapas_64481
+.2004_Kedungsoko (Kedung Soko)_64481
+.2005_Ngludo (Nglundo)_64481
+.2009_Ngrami_64481
+.2012_Ngrengket_64481
+.2008_Pehserut_64481
+.2011_Putren_64481
+.1007_Sokomoro (Sukomoro)_64481
+.2001_Sumengko_64481
+35.18.11_Tanjunganom_64482
+.2008_Banjaranyar (Banjar Anyar)_64482
+.2016_Demangan_64482
+.2005_Getas_64482
+.2012_Jogomerto_64482
+.2010_Kampungbaru_64482
+.2001_Kedungombo (Kedung Ombo)_64482
+.2014_Kedungrejo_64482
+.2004_Malangsari_64482
+.2007_Ngadirejo_64482
+.2015_Sambirejo_64482
+.2009_Sidoharjo_64482
+.2006_Sonobekel_64482
+.2002_Sumberkepuh_64482
+.1011_Tanjunganom (Tanjung Anom)_64482
+.1013_Warujayeng_64482
+.2003_Wates_64482
+35.18.15_Wilangan_64462
+.2004_Mancon_64462
+.2003_Ngadipiro_64462
+.2005_Ngudikan_64462
+.2006_Sokoharjo (Sukoharjo)_64462
+.2001_Sudimoroharjo_64462
+.2002_Wilangan_64462

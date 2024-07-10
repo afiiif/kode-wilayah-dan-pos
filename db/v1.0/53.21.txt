@@ -1,0 +1,139 @@
+53.21.12_Botin Leobele_85765
+.2001_Babotin_85765
+.2003_Babotin Maemina_85765
+.2004_Babotin Selatan_85765
+.2002_Kereana_85765
+.2005_Takarai_85765
+53.21.06_Io Kufeu_85768
+.2005_Bani-Bani_85768
+.2001_Biau_85768
+.2006_Fatoin_85768
+.2007_Ikan Tuanbeis_85768
+.2002_Kufeu_85768
+.2004_Tunabesi_85768
+.2003_Tunmat_85768
+53.21.11_Kobalima_85766
+.2001_Babulu_85766
+.2002_Babulu Selatan_85766
+.2007_Lakekun_85766
+.2008_Lakekun Barat_85766
+.2006_Lakekun Utara_85766
+.2005_Litamali_85766
+.2004_Rainawe_85766
+.2003_Sisi_85766
+53.21.10_Kobalima Timur_85767
+.2003_Alas_85767
+.2004_Alas Selatan_85767
+.2001_Alas Utara_85767
+.2002_Kotabiru_85767
+53.21.08_Laenmanen_85718
+.2008_Bisesmus_85718
+.2006_Boni Bais_85718
+.2003_Kapitan Meo_85718
+.2001_Meotroi_85718
+.2007_Nauke Kusa_85718
+.2009_Oenaek_85718
+.2002_Tesa_85718
+.2004_Tniumanu_85718
+.2005_Uabau_85718
+53.21.02_Malaka Barat_85763
+.2008_Besikama_85763
+.2003_Fafoe_85763
+.2004_Lasaen_85763
+.2010_Loofoun_85763
+.2009_Maktihan_85763
+.2013_Motaain_85763
+.2001_Motaulun_85763
+.2016_Naas_85763
+.2014_Oan Mane_85763
+.2011_Rabasa_85763
+.2012_Rabasa Haerain_85763
+.2006_Rabasahain_85763
+.2015_Raimataus_85763
+.2002_Sikun_85763
+.2007_Umalor_85763
+.2005_Umatoos_85763
+53.21.01_Malaka Tengah_85762
+.2004_Bakiruk_85762
+.2014_Barada_85762
+.2001_Barene_85762
+.2015_Bereliku_85762
+.2011_Fahiluka_85762
+.2013_Harekakae_85762
+.2002_Kakaniuk_85762
+.2005_Kamanasa_85762
+.2003_Kateri_85762
+.2009_Kletek_85762
+.2012_Lawalu_85762
+.2010_Naimana_85762
+.2016_Railor Tahak_85762
+.2017_Suai_85762
+.2007_Umakatahan_85762
+.2008_Umanen Lawalu_85762
+.2006_Wehali_85762
+53.21.09_Malaka Timur_85761
+.2005_Dirma_85761
+.2003_Kusa_85761
+.2004_Numponi_85761
+.2001_Raiulun_85761
+.2006_Sanleo_85761
+.2002_Wemeda_85761
+53.21.05_Rinhat_85764
+.2005_Alala_85764
+.2009_Biudukfoho_85764
+.2012_Boen_85764
+.2003_Lotas_85764
+.2019_Muke_85764
+.2016_Nabutaek_85764
+.2008_Naet_85764
+.2020_Naiusu_85764
+.2018_Nanebot_85764
+.2004_Nanin_85764
+.2010_Niti_85764
+.2006_Oekmurak_85764
+.2014_Raisamane_85764
+.2001_Saenama_85764
+.2011_Tafuli_85764
+.2017_Tafuli I_85764
+.2015_Weain_85764
+.2007_Webetun_85764
+.2013_Wekeke_85764
+.2002_Wekmidar_85764
+53.21.07_Sasitamean_85769
+.2001_As Manulea_85769
+.2008_Beaneno_85769
+.2005_Builaran_85769
+.2004_Fatuaruin_85769
+.2002_Manulea_85769
+.2006_Manumutin Silole_85769
+.2003_Naibone_85769
+.2009_Naisau_85769
+.2007_Umutnana_85769
+53.21.04_Weliman_85774
+.2005_Angkaes_85774
+.2013_Bonetasea_85774
+.2008_Forekmodok_85774
+.2002_Haitimuk_85774
+.2012_Haliklaran_85774
+.2004_Kleseleon_85774
+.2010_Lakulo_85774
+.2003_Laleten_85774
+.2007_Lamudur_85774
+.2011_Leunklot_85774
+.2014_Taaba_85774
+.2009_Umalawain_85774
+.2006_Wederok_85774
+.2001_Wesey_85774
+53.21.03_Wewiku_85775
+.2008_Alkani_85775
+.2004_Badarai_85775
+.2011_Biris_85775
+.2001_Halibasar_85775
+.2009_Lamea_85775
+.2006_Lorotolus_85775
+.2010_Rabasa Biris_85775
+.2007_Seserai_85775
+.2003_Webriamata_85775
+.2005_Weoe_85775
+.2012_Weseben_85775
+.2002_Weulun_85775

@@ -1,0 +1,348 @@
+32.12.23_Anjatan_45256
+.2001_Anjatan_45256
+.2010_Anjatan Baru_45256
+.2013_Anjatan Utara_45256
+.2003_Bugis_45256
+.2004_Bugis Tua (Bugistua)_45256
+.2011_Cilandak_45256
+.2012_Cilandak Lor_45256
+.2006_Kedungwungu_45256
+.2009_Kopyah_45256
+.2008_Lempuyang_45256
+.2002_Mangunjaya_45256
+.2005_Salamdarma_45256
+.2007_Wanguk_45256
+32.12.19_Arahan_45267
+.2001_Arahan Kidul_45267
+.2002_Arahan Lor_45267
+.2004_Cidempet_45267
+.2003_Linggajati_45267
+.2006_Pranggong_45267
+.2005_Sukadadi_45267
+.2007_Sukasari_45267
+.2008_Tawangsari_45267
+32.12.14_Balongan_45217|45285
+.2007_Balongan_45217
+.2005_Gelarmendala_45285
+.2008_Majakerta_45285
+.2004_Rawadalem_45217
+.2009_Sudimampir_45285
+.2010_Sudimampir Lor (Sudimampirlor)_45285
+.2002_Sukareja_45217
+.2003_Sukaurip_45217
+.2001_Tegal Sembadra (Tegalsembadra)_45285
+.2006_Tegalurung_45217
+32.12.06_Bangodua_45272
+.2015_Bangodua_45272
+.2016_Beduyut_45272
+.2019_Karanggetas_45272
+.2021_Malangsari_45272
+.2008_Mulyasari_45272
+.2017_Rancasari_45272
+.2020_Tegalgirang_45272
+.2018_Wanasari_45272
+32.12.22_Bongas_45255
+.2005_Bongas_45255
+.2006_Cipaat_45255
+.2001_Cipedang_45255
+.2004_Kertajaya_45255
+.2007_Kertamulya_45255
+.2003_Margamulya_45255
+.2008_Plawangan_45255
+.2002_Sidamulya_45255
+32.12.17_Cantigi_45253|45258
+.2001_Cangkring_45258
+.2002_Cantigi Kulon_45258
+.2003_Cantigi Wetan_45258
+.2007_Cemara_45253
+.2006_Lamarantarung_45258
+.2004_Panyingkiran Kidul_45258
+.2005_Panyingkiran Lor_45258
+32.12.04_Cikedung_45262
+.2004_Amis_45262
+.2012_Cikedung Lor_45262
+.2007_Cikidung Kidul (Cikedung)_45262
+.2006_Jambak_45262
+.2005_Jatisura_45262
+.2003_Loyang_45262
+.2013_Mundakjaya_45262
+32.12.03_Gabuswetan_45263
+.2002_Babakan Jaya (Babakanjaya)_45263
+.2010_Drunten Kulon_45263
+.2009_Drunten Wetan_45263
+.2003_Gabus Kulon (Gabuskulon)_45263
+.2008_Gabus Wetan (Gabuswetan)_45263
+.2005_Kedokan Gabus (Kedokangabus)_45263
+.2001_Kedung Dawa (Kedungdawa)_45263
+.2007_Rancahan_45263
+.2006_Rancamulya_45263
+.2004_Sekar Mulya (Sekarmulya)_45263
+32.12.25_Gantar_45264
+.2006_Balereja (Baleraja)_45264
+.2001_Bantarwaru_45264
+.2004_Gantar_45264
+.2003_Mekarjaya_45264
+.2007_Mekarwaru_45264
+.2002_Sanca_45264
+.2005_Situraja_45264
+32.12.01_Haurgeulis_45266
+.2013_Cipancuh_45266
+.2008_Haurgeulis_45266
+.2007_Haurkolot_45266
+.2011_Karangtumaritis_45266
+.2012_Kertanegara_45266
+.2014_Mekarjati_45266
+.2015_Sidodadi (Sidadadi)_45266
+.2009_Sukajati_45266
+.2016_Sumbermulya_45266
+.2010_Wanakaya_45266
+32.12.15_Indramayu_45211|45219
+.1001_Bojongsari_45214
+.2011_Dukuh_45215
+.1004_Karanganyar_45213
+.1003_Karangmalang_45213
+.2016_Karangsong_45219
+.1002_Kepandean_45214
+.1006_Lemahabang_45212
+.1005_Lemahmekar_45212
+.1007_Margadadi_45211
+.2017_Pabean Udik (Pabeanudik)_45219
+.1008_Paoman_45211
+.2015_Pekandangan_45216
+.2012_Pekandangan Jaya_45211
+.2010_Plumbon_45215
+.2014_Singajaya_45218
+.2013_Singaraja_45218
+.2020_Tambak_45219
+.2009_Telukagung_45215
+32.12.13_Jatibarang_45273
+.2004_Bulak_45273
+.2005_Bulak Lor_45273
+.2006_Jatibarang_45273
+.2003_Jatibarang Baru_45273
+.2009_Jatisawit_45273
+.2010_Jatisawit Lor_45273
+.2012_Kalimati_45273
+.2007_Kebulen_45273
+.2011_Krasak_45273
+.2014_Lohbener (Lobener)_45273
+.2015_Lohbener Lor (Lobener Lor)_45273
+.2013_Malang Semirang (Malangsemirang)_45273
+.2008_Pawidean_45273
+.2002_Pilangsari_45273
+.2001_Sukalila_45273
+32.12.11_Juntinyuat_45282
+.2004_Dadap_45282
+.2010_Juntikebon (Junti Kebon)_45282
+.2006_Juntikedokan_45282
+.2003_Juntiweden_45282
+.2005_Juntunyuat (Juntinyuat)_45282
+.2012_Limbangan_45282
+.2011_Lombang_45282
+.2007_Pondoh_45282
+.2008_Sambirmaya (Sambimaya)_45282
+.2002_Segeran_45282
+.2001_Segeran Kidul_45282
+.2009_Tinumpuk_45282
+32.12.21_Kandanghaur_45213|45254
+.2008_Bulak_45254
+.2001_Curug_45254
+.2012_Eretan Kulon_45254
+.2011_Eretan Wetan_45254
+.2009_Ilir_45254
+.2005_Karang Anyar (Karanganyar)_45213
+.2004_Karangmulya_45254
+.2013_Kertawinangun_45254
+.2007_Pareangirang (Parean Girang)_45254
+.2002_Pranti_45254
+.2010_Soge_45254
+.2003_Wirakanan_45254
+.2006_Wirapanjunan_45254
+32.12.10_Karangampel_45283
+.2011_Benda_45283
+.2015_Dukuh Jeruk (Dukuhjeruk)_45283
+.2016_Dukuh Tengah (Dukuhtengah)_45283
+.2019_Kaplongan Lor (Kaplonganlor)_45283
+.2014_Karangampel_45283
+.2013_Karangampel Kidul_45283
+.2017_Mundu_45283
+.2010_Pringgacala_45283
+.2012_Sendang_45283
+.2008_Tanjungpura_45283
+.2009_Tanjungsari_45283
+32.12.28_Kedokan Bunder_45280
+.2001_Cangkingan_45280
+.2007_Jayalaksana_45280
+.2002_Jayawinangun_45280
+.2006_Kaplongan_45280
+.2003_Kedokan Agung_45280
+.2004_Kedokanbunder_45280
+.2005_Kedokanbunderwetan (Kedokanbunder Wetan)_45280
+32.12.08_Kertasemaya_45274
+.2011_Jambe_45274
+.2008_Jengkok_45274
+.2014_Kertasemaya_45274
+.2015_Kliwed_45274
+.2017_Larangan Jambe (Laranganjambe)_45274
+.2012_Lemahayu_45274
+.2010_Manguntara_45274
+.2019_Sukawera_45274
+.2009_Tegal Wirangrong (Tegalwirangrong)_45274
+.2016_Tenajar_45274
+.2013_Tenajar Kidul_45274
+.2018_Tenajar Lor_45274
+.2007_Tulungagung_45274
+32.12.09_Krangkeng_45284
+.2004_Dukuhjati_45284
+.2009_Kalianyar_45284
+.2002_Kapringan_45284
+.2006_Kedungwungu_45284
+.2010_Krangkeng_45284
+.2008_Luwunggesik_45284
+.2001_Purwajaya_45284
+.2003_Singakerta_45284
+.2007_Srengseng_45284
+.2011_Tanjakan_45284
+.2005_Tegalmulya_45284
+32.12.02_Kroya_45265
+.2007_Jayamulya_45265
+.2002_Kroya_45265
+.2008_Suka Slamet (Sukaslamet)_45265
+.2004_Sukamelang_45265
+.2009_Sumberjaya_45265
+.2003_Sumbon_45265
+.2006_Tamiyangsari (Temiyangsari)_45265
+.2001_Tanjungkerta_45265
+.2005_Temiyang_45265
+32.12.05_Lelea_45261
+.2010_Cempeh_45261
+.2007_Langgengsari_45261
+.2009_Lelea_45261
+.2003_Nunuk_45261
+.2005_Pangauban_45261
+.2008_Tamansari_45261
+.2006_Tegalasari (Telagasari)_45261
+.2004_Tempel_45261
+.2011_Tempelkulon_45261
+.2002_Tugu_45261
+.2001_Tunggul Payung (Tunggulpayung)_45261
+32.12.18_Lohbener_45252
+.2008_Bojongslawi_45252
+.2002_Kiajaran Kulon_45252
+.2001_Kiajaran Wetan (Kijaran Wetan)_45252
+.2004_Langut_45252
+.2003_Lanjan_45252
+.2005_Larangan_45252
+.2007_Legok_45252
+.2009_Lohbener_45252
+.2010_Pamayahan_45252
+.2012_Rambatan Kulon_45252
+.2011_Sindangkerta_45252
+.2006_Waru_45252
+32.12.20_Losarang_45253
+.2013_Cemara Kulon_45253
+.2006_Jangga_45253
+.2007_Jumbleng_45253
+.2002_Krimun_45253
+.2010_Losarang_45253
+.2011_Muntur_45253
+.2008_Pangkalan_45253
+.2004_Pegagan_45253
+.2003_Puntang_45253
+.2005_Rajaiyang_45253
+.2001_Ranjeng_45253
+.2012_Santing_45253
+32.12.29_Pasekan_45213|45229
+.2001_Brondong_45219
+.2005_Karanganyar_45213
+.2002_Pabean Ilir (Pabeanilir)_45219
+.2003_Pagirikan_45227
+.2004_Pasekan_45228
+.2006_Totoran_45229
+32.12.31_Patrol_45257
+.2007_Arjasari_45257
+.2006_Bugel_45257
+.2001_Limpas_45257
+.2002_Mekarsari_45257
+.2005_Patrol_45257
+.2003_Patrol Baru_45257
+.2004_Patrol Lor (Patrollor)_45257
+.2008_Sukahaji_45257
+32.12.16_Sindang_45221|45227
+.2009_Babadan_45227
+.2006_Dermayu_45223
+.2004_Kenanga_45226
+.2001_Panyindangan Kulon_45225
+.2003_Panyindangan Wetan_45225
+.2008_Penganjang_45221
+.2002_Rambatan Wetan_45221
+.2007_Sindang_45222
+.2005_Terusan_45224
+.2014_Wanantara_45227
+32.12.12_Sliyeg_45281
+.2009_Gadingan_45281
+.2016_Longok_45281
+.2006_Majasari_45281
+.2007_Majasih_45281
+.2010_Mekargading_45281
+.2001_Sleman_45281
+.2005_Sleman Lor_45281
+.2008_Sliyeg_45281
+.2011_Sliyeg Lor (Sliyeglor)_45281
+.2003_Sudikampiran_45281
+.2002_Tambi_45281
+.2004_Tambi Lor_45281
+.2013_Tugu_45281
+.2012_Tugukidul (Tugu Kidul)_45281
+32.12.27_Sukagumiwang_45275
+.2002_Bondan_45275
+.2006_Cadang Pinggan (Cadangpinggan)_45275
+.2001_Cibeber_45275
+.2007_Gedangan_45275
+.2003_Gunungsari_45275
+.2004_Sukagumiwang_45275
+.2005_Tersana_45275
+32.12.24_Sukra_45259
+.2001_Bogor_45259
+.2017_Karang Layung_45259
+.2002_Sukra_45259
+.2005_Sukrawetan_45259
+.2006_Sumuradem_45259
+.2007_Sumuradem Timur_45259
+.2004_Tagal Taman (Tegaltaman)_45259
+.2003_Ujunggebang_45259
+32.12.26_Terisi (Trisi)_45260
+.2007_Cibereng_45260
+.2001_Cikawung_45260
+.2002_Jatimulya_45260
+.2003_Jatimunggul_45260
+.2006_Karangasem_45260
+.2008_Kendayakan_45260
+.2009_Manggungan_45260
+.2004_Plosokerep_45260
+.2005_Rajasinga_45260
+32.12.30_Tukdana_45270
+.2001_Bodas_45270
+.2005_Cangko_45270
+.2002_Gadel_45270
+.2006_Karangkerta_45270
+.2004_Kerticala_45270
+.2009_Lajer_45270
+.2008_Mekarsari_45270
+.2012_Pagedangan_45270
+.2003_Rancajawat_45270
+.2011_Sukadana_45270
+.2007_Sukamulya_45270
+.2013_Sukaperna_45270
+.2010_Tukdana_45270
+32.12.07_Widasari_45271
+.2006_Bangkaloa Ilir_45271
+.2010_Bunder_45271
+.2008_Kalensari_45271
+.2016_Kasmaran_45271
+.2012_Kongsijaya_45271
+.2015_Leuwigede_45271
+.2014_Ujung Pondok Jaya (Ujungpendokjaya)_45271
+.2011_Ujungaris_45271
+.2013_Ujungjaya_45271
+.2007_Widasari_45271

@@ -1,0 +1,125 @@
+16.71.15_Alang Alang Lebar_30151|30154
+.1001_Alang Alang Lebar_30154
+.1004_Karya Baru_30151
+.1002_Sri Jaya (Srijaya)_30153
+.1003_Talang Kelapa_30151
+16.71.11_Bukitkecil (Bukit Kecil)_30135|30136
+.1001_19 Ilir_30132
+.1002_22 Ilir_30131
+.1003_23 Ilir_30133
+.1004_24 Ilir_30134
+.1005_26 Ilir_30136
+.1006_Talang Semut_30135
+16.71.12_Gandus_30147|30149
+.1003_36 Ilir_30147
+.1001_Gandus_30149
+.1002_Karang Anyar_30148
+.1004_Karang Jaya_30149
+.1005_Pulo Kerto_30149
+16.71.01_Ilir Barat Dua (Ilir Barat II)_30141|30146
+.1006_27 Ilir_30141
+.1005_28 Ilir_30142
+.1004_29 Ilir_30143
+.1003_30 Ilir_30144
+.1002_32 Ilir_30145
+.1001_35 Ilir_30146
+.1007_Kemang Manis_30144
+16.71.04_Ilir Barat Satu (Ilir Barat I)_30131|30139
+.1003_26 Ilir D. I_30136
+.1006_Bukit Baru_30131
+.1001_Bukit Lama_30139
+.1005_Demang Lebar Daun_30131
+.1002_Lorok Pakjo_30137
+.1004_Siring Agung_30138
+16.71.06_Ilir Timur Dua (Ilir Timur II)_30111|30118
+.1007_1 Ilir_30117
+.1008_2 Ilir_30118
+.1006_3 Ilir_30116
+.1005_5 Ilir_30115
+.1009_Lawang Kidul_30111
+.1012_Sei Buah (Sungai Buah)_30111
+16.71.05_Ilir Timur Satu (Ilir Timur I)_30121|30129
+.1003_13 Ilir_30123
+.1004_14 Ilir_30124
+.1005_15 Ilir_30124
+.1002_16 Ilir_30122
+.1006_17 Ilir_30125
+.1001_18 Ilir_30121
+.1008_20 Ilir D IV (20 Ilir IV)_30128
+.1009_20 Ilir D. I (20 Ilir I)_30126
+.1007_20 Ilir D. III (20 Ilir III)_30129
+.1011_Kepandean Baru_30125
+.1010_Sungai Pangeran (Sei Pangeran)_30121
+16.71.18_Ilir Timur Tiga_30111|30114
+.1003_10 Ilir_30111
+.1004_11 Ilir_30112
+.1001_8 Ilir_30114
+.1002_9 Ilir_30113
+.1006_Duku_30111
+.1005_Kuto Batu_30111
+16.71.17_Jakabaring_30251|30257
+.1003_15 Ulu_30257
+.1001_8 Ulu_30252
+.1002_9-10 Ulu_30251
+.1004_Silaberanti_30251
+.1005_Tuan Kentang_30251
+16.71.10_Kalidoni_30114|30119
+.1001_Bukit Sangkal_30114
+.1002_Kalidoni_30119
+.1005_Sei Lais_30119
+.1003_Sei Selayur_30119
+.1004_Sei Selincah_30119
+16.71.09_Kemuning_30127|30128
+.1001_20 Ilir D II (20 Ilir II)_30127
+.1002_Ario Kemuning_30128
+.1004_Pahlawan_30128
+.1005_Pipa Reja_30128
+.1003_Sekip Jaya_30128
+.1006_Talang Aman_30128
+16.71.13_Kertapati_30258|30259
+.1005_Karya Jaya_30259
+.1002_Kemang Agung_30258
+.1001_Kemas Rindo_30258
+.1003_Keramasan_30259
+.1004_Kertapati_30258
+.1006_Ogan Baru_30258
+16.71.14_Plaju_30266|30268
+.1004_Bagus Kuning_30268
+.1005_Komperta_30268
+.1002_Plaju Darat_30267
+.1003_Plaju Ilir_30268
+.1001_Plaju Ulu_30266
+.1007_Talang Bubuk_30268
+.1006_Talang Putri_30268
+16.71.08_Sako_30161|30164
+.1002_Sako_30163
+.1007_Sako Baru_30165
+.1006_Sialang_30161
+.1001_Suka Maju (Sukamaju)_30164
+16.71.03_Seberang Ulu Dua (Seberang Ulu II)_30261|30267
+.1001_11 Ulu_30267
+.1002_12 Ulu_30262
+.1003_13 Ulu_30263
+.1004_14 Ulu_30264
+.1005_16 Ulu_30265
+.1007_Sentosa_30261
+.1006_Tangga Takat_30264
+16.71.02_Seberang Ulu Satu (Seberang Ulu I)_30251|30257
+.1002_1 Ulu_30257
+.1003_2 Ulu_30257
+.1004_3 / 4 Ulu (3-4 Ulu)_30255
+.1005_5 Ulu_30254
+.1006_7 Ulu_30253
+16.71.16_Sematangborang (Sematang Borang)_30161|30165
+.1005_Karya Mulia (Karya Mulya)_30161
+.1003_Lebong/Lebung Gajah_30161
+.1001_Sri Mulya (Srimulyo)_30162
+.1002_Sukamulya (Suka Mulya)_30161
+16.71.07_Sukarami_30151|30155
+.1010_Jambe (Talang Jambe)_30151
+.1007_Kebun Bunga_30151
+.1009_Suka Bangun_30151
+.1005_Suka Rami (Sukarami)_30153
+.1004_Sukajaya_30151
+.1011_Sukodadi_30151
+.1002_Talang Betutu_30155

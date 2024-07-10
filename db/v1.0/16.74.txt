@@ -1,0 +1,51 @@
+16.74.03_Cambai_31141|31145
+.1001_Cambai_31141
+.2004_Muara Sungai_31144
+.2003_Pangkul_31143
+.1002_Sindur_31142
+.1005_Sungai Medang_31145
+16.74.01_Prabumulih Barat_31121|31146
+.1011_Gunung Kemala_31122
+.1009_Muntang Tapus_31121
+.1007_Patih Galung_31127
+.1012_Payuputat (Payu Putat)_31141
+.1001_Prabumulih_31123
+.2013_Tanjung Telang_31146
+.1014_Tebing Tanah Puteh_31127
+16.74.06_Prabumulih Selatan_31112|31134
+.1001_Majasari_31124
+.1003_Sukaraja_31112
+.2004_Tanjung Menang_31134
+.1002_Tanjung Raman_31116
+16.74.02_Prabumulih Timur_31111|31117
+.1015_Arimbi Jaya_31111
+.1007_Gunung Ibul_31113
+.1008_Gunung Ibul Barat_31117
+.1013_Gunung Ibul Selatan_31113
+.1012_Gunung Ibul Timur_31113
+.1014_Gunung Ibul Utara_31113
+.1010_Karang Jaya_31115
+.1003_Karang Raja_31111
+.1006_Muara Dua_31113
+.1011_Muara Dua Barat_31113
+.1005_Prabu Jaya_31111
+.1009_Sukajadi_31111
+.1004_Tugu Kecil_31111
+16.74.05_Prabumulih Utara_31121|31126
+.1005_Anak Petai_31121
+.1004_Mangga Besar_31125
+.1001_Pasar Prabumulih I (Pasar Prabumulih)_31121
+.1002_Pasar Prabumulih II_31121
+.1007_Sidogede_31125
+.1006_Sidomulyo_31126
+.1003_Wonosari_31126
+16.74.04_Rambang Kapak Tengah_31131|31135
+.2006_Jungai_31131
+.2009_Karang Bindu_31133
+.2008_Karangan_31131
+.2003_Karya Mulya_31135
+.2011_Kemang Tanduk (Kembang Tanduk)_31131
+.2005_Rambang Senuling_31132
+.2010_Sinar Rambang_31131
+.2007_Talang Batu_31131
+.1001_Tanjung Rambang_31131

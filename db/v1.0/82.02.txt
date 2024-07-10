@@ -1,0 +1,71 @@
+82.02.02_Patani_97855
+.2013_Baka Jaya_97855
+.2005_Kipai_97855
+.2004_Wailegi_97855
+.2006_Yeisowo_97855
+.2012_Yondeliu_97855
+82.02.08_Patani Barat_97856
+.2001_Banemo_97856
+.2003_Bobane Indah_97856
+.2002_Bobane Jaya_97856
+.2004_Mareala (Moreala)_97856
+.2005_Sibenpope (Sibenpopo)_97856
+82.02.10_Patani Timur_97857
+.2003_Damuli_97857
+.2005_Masure_97857
+.2002_Nursifa_97857
+.2006_Palo_97857
+.2004_Peniti_97857
+.2001_Sakam_97857
+82.02.06_Patani Utara_97858
+.2006_Bilifitu_97858
+.2001_Gemia_97858
+.2011_Maliforo_97858
+.2008_Pantura Jaya_97858
+.2002_Tepeleo_97858
+.2007_Tepeleo Batudua_97858
+82.02.03_Pulau Gebe_97859
+.2007_Elfanun_97859
+.2002_Kacepi_97859
+.2001_Kapaleo_97859
+.2003_Sanafi_97859
+.2006_Sonof Kacepo_97859
+.2004_Umera_97859
+.2005_Umiyal_97859
+.2008_Yang_97859
+82.02.01_Weda_97850
+.2020_Fidy Jaya_97850
+.2024_Goeng_97850
+.2022_Nurweda_97850
+.2004_Nusliko_97850
+.2021_Sidanga_97850
+.2023_Weda / Wedana_97850
+.2005_Were_97850
+82.02.05_Weda Selatan_97851
+.2008_Air Salobar_97851
+.2005_Kluting Jaya_97851
+.2006_Lembah Asri_97851
+.2003_Loleo_97851
+.2002_Sosowomo_97851
+.2007_Sumber Sari_97851
+.2001_Tilope (Tiloppe)_97851
+.2004_Wairoro Indah_97851
+82.02.07_Weda Tengah_97853
+.2004_Kobe_97853
+.2007_Kulo Jaya_97853
+.2002_Lililef Sawai (Lelilef Sawai)_97853
+.2001_Lililef Waibulan (Lelilef Waibulen)_97853
+.2003_Sawai Itepo_97853
+.2006_Woejerana_97853
+.2005_Woekob_97853
+82.02.09_Weda Timur_97852
+.2001_Dotte_97852
+.2003_Kotalo_97852
+.2002_Messa_97852
+.2004_Yeke_97852
+82.02.04_Weda Utara_97854
+.2003_Fritu_97854
+.2001_Gemaf_97854
+.2008_Kiya_97854
+.2002_Sagea_97854
+.2004_Waleh_97854

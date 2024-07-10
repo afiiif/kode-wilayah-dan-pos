@@ -1,0 +1,166 @@
+17.06.14_Air Dikit_38765
+.2002_Air Dikit_38765
+.2007_Air Kasai_38765
+.2001_Dusun Baru V Koto_38765
+.2003_Pondok Lunang_38765
+.2004_Sari Bulan_38765
+.2005_Sari Makmur_38765
+.2006_Sumber Sari_38765
+17.06.13_Air Majunto_38767
+.2004_Agung Jaya_38767
+.2006_Kota Praja_38767
+.2002_Manjunto Jaya_38767
+.2001_Pondok Makmur_38767
+.2008_Sido Makmur_38767
+.2007_Sinar Jaya_38767
+.2003_Tirta Makmur_38767
+.2005_Tirta Mulya_38767
+17.06.07_Air Rami_38764
+.2002_Air Rami_38764
+.2001_Arga Jaya_38764
+.2009_Bukit Harapan_38764
+.2012_Bukit Mulya_38764
+.2011_Cinta Asih_38764
+.2008_Dusun Pulau_38764
+.2005_Makmur Jaya_38764
+.2006_Marga Mulia_38764
+.2007_Mekar Jaya_38764
+.2003_Rami Mulya (Rami Mulia)_38764
+.2004_Talang Rio_38764
+.2010_Tirta Kencana_38764
+17.06.05_Ipuh (Muko Muko Selatan)_38763
+.2004_Air Buluh_38763
+.2023_Manunggal Jaya_38763
+.2007_Medan Jaya_38763
+.2035_Mundam Marap_38763
+.2033_Pasar Baru_38763
+.2006_Pasar Ipuh_38763
+.2005_Pulau Baru_38763
+.2034_Pulau Makmur_38763
+.2028_Pulau Payung (Pulai Payung)_38763
+.2014_Retak Ilir (Retak Hilir)_38763
+.2009_Semundam_38763
+.2008_Sibak (Dusun Sibak)_38763
+.2015_Tanjung Harapan_38763
+.2017_Tanjung Jaya_38763
+.2029_Tanjung Medan_38763
+.2030_Tirta Mulya_38763
+17.06.02_Kota Mukomuko (Mukomuko Utara)_38711|38719
+.1018_Bandar Ratu_38712
+.1017_Koto Jaya_38715
+.1009_Pasar Mukomuko_38711
+.2007_Pasar Sebelah_38716
+.2010_Pondok Batu_38713
+.2012_Selagan Jaya_38717
+.2019_Tanah Harapan_38718
+.2011_Tanah Rekah_38719
+.2008_Ujung Padang_38714
+17.06.01_Lubuk Pinang_38756
+.2007_Arah Tiga_38756
+.2008_Lubuk Gedang_38756
+.2006_Lubuk Pinang_38756
+.2018_Ranah Karya_38756
+.2005_Suka Pindah_38756
+.2013_Sumber Makmur_38756
+.2009_Tanjung Alai_38756
+17.06.06_Malin Deman_38762
+.2007_Air Merah_38762
+.2004_Gajah Makmur_38762
+.2003_Lubuk Talang_38762
+.2005_Semambang Makmur (Semambung)_38762
+.2002_Serami Baru_38762
+.2001_Talang Arah_38762
+.2006_Talang Baru_38762
+17.06.10_Penarik_38768
+.2005_Bukit Makmur_38768
+.2003_Bumi Mulya_38768
+.2002_Lubuk Mukti_38768
+.2008_Maju Makmur_38768
+.2014_Marga Mukti_38768
+.2010_Marga Mulya Sakti_38768
+.2012_Mekar Mulya_38768
+.2001_Penarik_38768
+.2009_Sendang Mulyo_38768
+.2007_Sido Dadi_38768
+.2013_Sido Mulyo (Sido Mulya)_38768
+.2004_Suka Maju_38768
+.2006_Sumber Mulya_38768
+.2011_Wonosobo_38768
+17.06.04_Pondok Suguh_38766
+.2006_Air Berau_38766
+.2001_Air Bikuk_38766
+.2010_Air Hitam_38766
+.2022_Bumi Mekar Jaya_38766
+.2030_Karya Mulya_38766
+.2027_Lubuk Bento_38766
+.2014_Pondok Kandang_38766
+.2005_Pondok Suguh_38766
+.2029_Sinar Laut_38766
+.2031_Teluk Bakung_38766
+.2004_Tunggang (Dusun Tunggang)_38766
+17.06.09_Selagan Raya_38769
+.2009_Aur Cina_38769
+.2007_Lubuk Bangko_38769
+.2002_Lubuk Sahung_38769
+.2005_Pondok Baru_38769
+.2004_Sungai Gading_38769
+.2001_Sungai Ipuh_38769
+.2012_Sungai Ipuh Dua_38769
+.2011_Sungai Ipuh Satu_38769
+.2006_Sungai Jerinjing_38769
+.2003_Surian Bungkal_38769
+.2008_Talang Buai_38769
+.2010_Talang Medan_38769
+17.06.15_Sungai Rumbai_38761
+.2009_Banjar Sari_38761
+.2008_Gading Jaya_38761
+.2003_Gajah Mati_38761
+.2004_Mekar Sari_38761
+.2002_Padang Gading_38761
+.2001_Retak Mudik_38761
+.2005_Sido Dadi (Sidodadi)_38761
+.2006_Sumber Makmur_38761
+.2007_Talang Gading_38761
+17.06.08_Teramang Jaya_38760
+.2005_Bandar Jaya_38760
+.2012_Batu Ejung_38760
+.2007_Brangan Mulya_38760
+.2004_Bunga Tanjung_38760
+.2009_Lubuk Selandak_38760
+.2011_Mandi Angin Jaya_38760
+.2010_Nelan Indah_38760
+.2002_Nenggalo_38760
+.2001_Pasar Bantal_38760
+.2013_Pernyah_38760
+.2003_Pondok Baru_38760
+.2008_Sido Makmur_38760
+.2006_Teramang Jaya_38760
+17.06.03_Teras Terunjam_38758
+.2026_Karang Jaya_38758
+.2027_Mekar Jaya_38758
+.2009_Pondok Kopi_38758
+.2013_Setia Budi_38758
+.2024_Talang Kuning_38758
+.2008_Teras Terunjam_38758
+.2025_Teruntung_38758
+.2014_Tunggal Jaya_38758
+17.06.12_V Koto_38757
+.2001_Lalang Luas_38757
+.2009_Lubuk Cabau_38757
+.2003_Pondok Panjang_38757
+.2006_Pondok Tengah_38757
+.2002_Resno (Rasno)_38757
+.2005_Sungai Lintang_38757
+.2010_Sungai Rengas_38757
+.2004_Talang Petai_38757
+.2007_Talang Sakti_38757
+.2008_Talang Sepakat_38757
+17.06.11_XIV Koto_38755
+.2006_Dusun Baru Pelokan_38755
+.2001_Lubuk Sanai_38755
+.2007_Lubuk Sanai II_38755
+.2009_Lubuk Sanai III_38755
+.2005_Pauh Tarenja (Pauh Terenjah)_38755
+.2003_Rawa Bangun_38755
+.2002_Rawa Mulya_38755
+.2004_Tanjung Mulya_38755

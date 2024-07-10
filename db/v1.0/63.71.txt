@@ -1,0 +1,57 @@
+63.71.03_Banjarmasin Barat_70112|70245
+.1009_Basirih_70245
+.1002_Belitung Selatan_70116
+.1001_Belitung Utara_70116
+.1008_Kuin Cerucuk_70129
+.1007_Kuin Selatan_70128
+.1003_Pelambuan_70118
+.1004_Telaga Biru_70119
+.1005_Telawang_70112
+.1006_Teluk Tiram_70113
+63.71.01_Banjarmasin Selatan_70241|70249
+.1012_Basirih Selatan_70245
+.1004_Kelayan Barat_70241
+.1006_Kelayan Dalam_70242
+.1002_Kelayan Selatan_70246
+.1005_Kelayan Tengah_70242
+.1008_Kelayan Timur_70247
+.1001_Mantuil_70244
+.1007_Murung Raya_70247
+.1003_Pekauman_70243
+.1011_Pemurus Baru_70249
+.1010_Pemurus Dalam_70248
+.1009_Tanjung Pagar_70247
+63.71.05_Banjarmasin Tengah_70111|70241
+.1005_Antasan Besar_70114
+.1008_Gadang_70231
+.1012_Kelayan Luar_70241
+.1001_Kertak Baru Ilir_70111
+.1002_Kertak Baru Ulu_70111
+.1003_Mawar_70112
+.1009_Melayu_70234
+.1006_Pasar Lama_70115
+.1011_Pekapuran Laut_70235
+.1007_Seberang Mesjid (Seberang Masjid)_70231
+.1010_Sei/Sungai Baru_70233
+.1004_Teluk Dalam_70117
+63.71.02_Banjarmasin Timur_70234|70239
+.1006_Banua Anyar (Benua Anyar)_70239
+.1003_Karang Mekar_70234
+.1002_Kebun Bunga_70235
+.1001_Kuripan_70236
+.1008_Pekapuran Raya_70234
+.1009_Pemurus Luar_70236
+.1007_Pengambangan_70237
+.1004_Sei/Sungai Bilu_70236
+.1005_Sei/Sungai Lulut_70238
+63.71.04_Banjarmasin Utara_70121|70127
+.1003_Alalak Selatan_70126
+.1001_Alalak Tengah_70126
+.1002_Alalak Utara_70125
+.1008_Antasan Kecil Timur_70123
+.1009_Kuin Utara_70127
+.1007_Pangeran_70124
+.1004_Sei/Sungai Jingah_70121
+.1005_Sei/Sungai Miai_70123
+.1010_Sungai Andai_70122
+.1006_Surgi Mufti_70122

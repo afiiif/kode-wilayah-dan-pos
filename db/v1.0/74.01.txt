@@ -1,0 +1,147 @@
+74.01.12_Baula_93561
+.2006_Baula_93561
+.2002_Longori_93561
+.2007_Pewutaa_93561
+.2005_Puubenua_93561
+.2003_Puubunga_93561
+.2004_Puulemo_93561
+.1001_Puundoho_93561
+.2009_Puuroda_93561
+.2010_Ulu Baula_93561
+.2008_Watalara_93561
+74.01.27_Iwoimendaa_93552
+.2004_Iwoimendaa_93552
+.2002_Ladahai_93552
+.2005_Lambopini_93552
+.2010_Landoula_93552
+.2003_Lasiroku_93552
+.2008_Lawolia_93552
+.2001_Tamborasi_93552
+.2006_Ulu Kalo_93552
+.2009_Watumelewe_93552
+.2007_Wonualaku_93552
+74.01.04_Kolaka_93511|93519
+.1003_Balandete_93517
+.1006_Laloeha_93511
+.1004_Lalombaa_93518
+.1001_Lamokato_93511
+.1005_Sabilambo_93519
+.1007_Tahoa_93511
+.1002_Watuliandu_93515
+74.01.14_Latambaga_93512|93514
+.1006_Induha_93512
+.1002_Kolakaasi (Kolakaasih)_93512
+.1004_Latambaga_93514
+.1001_Mangolo_93512
+.1005_Sakuli_93514
+.1003_Sea_93514
+.1007_Ulunggolaka_93512
+74.01.25_Polinggona_93563
+.2007_Lamondape_93563
+.2003_Plasma Jaya_93563
+.1001_Polinggona_93563
+.2006_Pondowae (Pondouwaee)_93563
+.2002_Puudongi_93563
+.2004_Tanggeau_93563
+.2005_Wulonggere_93563
+74.01.07_Pomalaa_93562
+.1001_Dawi-Dawi_93562
+.2012_Hakatutobu_93562
+.2003_Huko Huko_93562
+.1011_Kumoro_93562
+.2010_Oko Oko_93562
+.2004_Pelambua_93562
+.2007_Pesouha_93562
+.1002_Pomalaa_93562
+.2006_Sopura_93562
+.2005_Tambea_93562
+.1009_Tonggoni_93562
+.2008_Totobo_93562
+74.01.20_Samaturu_93521
+.2006_Amamutu (Amomutu)_93521
+.2008_Awa_93521
+.2003_Kaloloa_93521
+.2002_Konaweha_93521
+.2005_Lambolemo_93521
+.2009_Latuo_93521
+.2007_Lawulo_93521
+.2018_Liku_93521
+.2011_Malaha_93521
+.2019_Meura_93521
+.2017_Puu Lawulo_93521
+.2015_Puu Tamboli_93521
+.2012_Sani Sani_93521
+.2004_Tamboli_93521
+.1013_Tonganapo_93521
+.1001_Tosiba_93521
+.2016_Ulaweng_93521
+.2014_Ulu Konaweha_93521
+.2010_Wawo Tambali_93521
+74.01.18_Tanggetada_93564
+.1003_Anaiwoi_93564
+.2007_Lalonggolosua_93564
+.2001_Lamedai_93564
+.2013_Lamoiko_93564
+.2012_Oneeha_93564
+.2010_Palewai_93564
+.2008_Petudua_93564
+.2004_Pewisoa Jaya_93564
+.2006_Popalia_93564
+.2011_Puundaipa_93564
+.2009_Rahanggada_93564
+.2002_Tanggetada_93564
+.2014_Tinggo_93564
+.2005_Tondowolio_93564
+74.01.24_Toari_93565
+.2004_Anawua_93565
+.2010_Horongkuli_93565
+.2002_Lakito_93565
+.2007_Rahabite_93565
+.2006_Rano jaya_93565
+.2009_Rano Sangia_93565
+.1003_Ranomentaa_93565
+.2001_Toari_93565
+.2008_Wonua Raya_93565
+.2005_Wowoli_93565
+74.01.08_Watubangga_93566
+.2023_Gunung Sari_93566
+.2020_Kastura_93566
+.2007_Kukutio_93566
+.2002_Lamundre_93566
+.2011_Langgosipi_93566
+.2017_Mataosu_93566
+.2025_Mataosu Ujung_93566
+.2016_Peoho_93566
+.2018_Polenga_93566
+.2026_Ranoteta_93566
+.2012_Sumber Rejeki_93566
+.1006_Tandebura_93566
+.1001_Watubangga_93566
+.1015_Wolulu_93566
+74.01.10_Wolo_93553
+.2002_Donggala_93553
+.2019_Iwoimopuro_93553
+.2011_Lalonaha_93553
+.2015_Lalonggopi_93553
+.2012_Lana_93553
+.2010_Langgomali_93553
+.2009_Lapao-Pao_93553
+.2016_Muara Lapao Pao_93553
+.2018_Samaenre_93553
+.2008_Tolowe Ponrewaru_93553
+.2021_Ulu Rina_93553
+.1007_Ulu Wolo_93553
+.2003_Ululapao-pao (Ulu Lapao-Pao)_93553
+.1001_Wolo_93553
+74.01.01_Wundulako_93560
+.1001_19 Nopember_93560
+.2007_Bende_93560
+.1004_Kowioha_93560
+.1003_Lamekongga_93560
+.1011_Ngapa_93560
+.2010_Sabiona (Sabiano)_93560
+.1005_Silea_93560
+.2009_Tikonu_93560
+.2006_Towua (Towua I)_93560
+.2008_Unamendaa (Una Mendaa)_93560
+.1002_Wundulako_93560

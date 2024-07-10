@@ -1,0 +1,279 @@
+35.09.17_Ajung_68175
+.2004_Ajung_68175
+.2005_Klompangan_68175
+.2002_Mangaran_68175
+.2003_Pancakarya_68175
+.2007_Rowoindah (Rowo Indah)_68175
+.2001_Sukamakmur_68175
+.2006_Wirowongso_68175
+35.09.12_Ambulu_68132|68172
+.2004_Ambulu_68172
+.2006_Andongsari_68172
+.2005_Karanganyar (Karang Anyar)_68132
+.2007_Pontang_68172
+.2002_Sabrang_68172
+.2003_Sumberejo (Sumberrejo)_68172
+.2001_Tegalsari_68172
+35.09.22_Arjasa_68191
+.2003_Arjasa_68191
+.2005_Biting_68191
+.2004_Candijati_68191
+.2002_Darsono_68191
+.2006_Kamal_68191
+.2001_Kemuninglor (Kemuningllor)_68191
+35.09.10_Balung_68161
+.2006_Balungkidul (Balung Kidul)_68161
+.2004_Balungkulon (Balung Kulon)_68161
+.2005_Balunglor (Balung Lor)_68161
+.2007_Curahlele_68161
+.2008_Gumelar_68161
+.2002_Karang Semanding_68161
+.2001_Karangduren (Karang Duren)_68161
+.2003_Tutul_68161
+35.09.09_Bangsalsari_68154
+.2011_Badean_68154
+.2003_Bangsalsari_68154
+.2010_Banjarsari_68154
+.2001_Curahkalong (Curah Kalong)_68154
+.2002_Gambirono_68154
+.2005_Karangsono_68154
+.2007_Langkap_68154
+.2009_Petung_68154
+.2006_Sukorejo_68154
+.2008_Tisnogambar_68154
+.2004_Tugusari_68154
+35.09.04_Gumukmas (Gumuk Mas)_68165
+.2007_Bagorejo_68165
+.2003_Gumukmas_68165
+.2008_Karangrejo (Karang Rejo)_68165
+.2001_Kepanjen_68165
+.2002_Mayangan_68165
+.2004_Menampu_68165
+.2006_Purwoasri_68165
+.2005_Tembokrejo_68165
+35.09.25_Jelbuk_68192
+.2004_Jelbuk_68192
+.2002_Panduman_68192
+.2001_Sucopangepok (Suco Pangepok)_68192
+.2006_Sugerkidul (Suger Kidul)_68192
+.2003_Sukojember (Suko Jember)_68192
+.2005_Sukowiryo_68192
+35.09.16_Jenggawah_68171
+.2008_Cangkring_68171
+.2007_Jatimulyo_68171
+.2006_Jatisari_68171
+.2003_Jenggawah_68171
+.2001_Kemuningsarikidul (Kemuning Sari Kidul)_68171
+.2004_Kertonegoro_68171
+.2005_Sruni (Seruni)_68171
+.2002_Wonojati_68171
+35.09.01_Jombang_68168
+.2003_Jombang_68168
+.2002_Keting_68168
+.2004_Ngampelrejo_68168
+.2001_Padomasan_68168
+.2006_Sarimulyo_68168
+.2005_Wringinagung (Wringin Agung)_68168
+35.09.27_Kalisat_68113|68193
+.2008_Ajung_68193
+.2010_Gambiran_68193
+.2006_Glagahwero_68193
+.2001_Gumuksari_68193
+.2007_Kalisat_68193
+.2003_Patempuran_68193
+.2009_Plalangan_68113
+.2012_Sebanen_68193
+.2002_Sukoreno_68193
+.2005_Sumberjeruk (Sumber Jeruk)_68193
+.2004_Sumberkalong (Sumber Kalong)_68193
+.2011_Sumberketempa (Sumber Ketempah)_68193
+35.09.19_Kaliwates_68131|68137
+.1005_Jemberkidul (Jember Kidul)_68131
+.1004_Kaliwates_68133
+.1003_Kebonagung (Kebon Agung)_68137
+.1006_Kepatihan_68137
+.1001_Mangli_68136
+.1002_Sempusari_68135
+.1007_Tegalbesar (Tegal Besar)_68132
+35.09.02_Kencong_68167
+.2001_Cakru_68167
+.2004_Kencong_68167
+.2003_Kraton_68167
+.2002_Paseban_68167
+.2005_Wonorejo_68167
+35.09.28_Ledokombo_68196
+.2003_Karangpaiton (Karang Paiton)_68196
+.2006_Ledokombo_68196
+.2001_Lembengan_68196
+.2009_Slateng_68196
+.2005_Sukogidri_68196
+.2004_Sumberanget (Sumber Anget)_68196
+.2010_Sumberbulus (Sumber Bulus)_68196
+.2007_Sumberlesung (Sumber Lesung)_68196
+.2008_Sumbersalak (Sumber Salak)_68196
+.2002_Suren_68196
+35.09.26_Mayang_68118|68182
+.2002_Mayang_68182
+.2001_Mrawan_68182
+.2003_Seputih_68182
+.2007_Sidomukti_68182
+.2006_Sumberkejayan (Sumber Kejayan)_68182
+.2005_Tegalrejo_68118
+.2004_Tegalwaru (Tegal Waru)_68182
+35.09.23_Mumbulsari_68174
+.2007_Karang Kedawung (Karangkedawung)_68174
+.2002_Kawangrejo_68174
+.2006_Lampeji_68174
+.2001_Lengkong_68174
+.2004_Mumbulsari_68174
+.2005_Suco_68174
+.2003_Tamansari_68174
+35.09.24_Pakusari_68181
+.2002_Bedadung_68181
+.2006_Jatian_68181
+.2005_Kertosari_68181
+.2007_Pakusari_68181
+.2001_Patemon_68181
+.2004_Subo_68181
+.2003_Sumberpinang (Sumber Pinang)_68181
+35.09.14_Panti_68153
+.2004_Glagahwero_68153
+.2006_Kemiri_68153
+.2002_Kemuning Sari Lor (Kemuningsari Lor)_68153
+.2001_Pakis_68153
+.2003_Panti_68153
+.2007_Serut_68153
+.2005_Suci_68153
+35.09.20_Patrang_68111|68118
+.1001_Banjarsengon (Banjar Sengon)_68118
+.1008_Baratan_68112
+.1005_Bintoro_68113
+.1003_Gebang_68117
+.1006_Jemberlor (Jember Lor)_68118
+.1002_Jumerto_68114
+.1007_Patrang_68111
+.1004_Slawu_68116
+35.09.08_Puger_68164
+.2007_Bagon_68164
+.2011_Grenden_68164
+.2010_Jambearum_68164
+.2006_Kasiyan_68164
+.2008_Kasiyan Timur_68164
+.2001_Mlokorejo_68164
+.2002_Mojomulyo_68164
+.2003_Mojosari_68164
+.2004_Pugerkulon (Puger Kulon)_68164
+.2012_Pugerwetan (Puger Wetan)_68164
+.2009_Wonosari_68164
+.2005_Wringintelu (Wringin Telu)_68164
+35.09.13_Rambipuji_68152
+.2002_Curahmalang_68152
+.2007_Gugut_68152
+.2004_Kaliwining_68152
+.2001_Nogosari_68152
+.2005_Pecoro_68152
+.2008_Rambigundam_68152
+.2006_Rambipuji_68152
+.2003_Rowotamtu_68152
+35.09.07_Semboro_68157
+.2002_Pondokdalem (Pondok Dalem)_68157
+.2001_Pondokjoyo (Pondok Joyo)_68157
+.2003_Rejoagung (Rejo Agung)_68157
+.2004_Semboro_68157
+.2005_Sidomekar_68157
+.2006_Sidomulyo_68157
+35.09.30_Silo_68184
+.2008_Garahan_68184
+.2002_Harjomulyo (Harjomolyo)_68184
+.2003_Karangharjo_68184
+.2006_Mulyorejo_68184
+.2005_Pace_68184
+.2001_Sempolan_68184
+.2009_Sidomulyo_68184
+.2004_Silo_68184
+.2007_Sumberjati_68184
+35.09.15_Sukorambi_68151
+.2002_Dukuhmencek (Dukuh Mencek)_68151
+.2001_Jubung_68151
+.2004_Karangpring_68151
+.2005_Klungkung (Kelungkung)_68151
+.2003_Sukorambi_68151
+35.09.29_Sukowono_68194
+.2008_Arjasa_68194
+.2005_Baletbaru (Balet Baru)_68194
+.2011_Dawuhanmangli (Dawuhan Mangli)_68194
+.2012_Mojogemi (Mojogeni)_68194
+.2010_Pocangan_68194
+.2002_Sukokerto_68194
+.2006_Sukorejo_68194
+.2007_Sukosari_68194
+.2004_Sukowono_68194
+.2009_Sumberdanti_68194
+.2003_Sumberwaru_68194
+.2001_Sumberwringin (Sumber Wringin)_68194
+35.09.03_Sumberbaru (Sumber Baru)_68156
+.2007_Gelang_68156
+.2004_Jambesari_68156
+.2001_Jamintoro_68156
+.2002_Jatiroto_68156
+.2003_Kaliglagah_68156
+.2010_Karangbayat (Karang Bayat)_68156
+.2009_Pringgowirawan_68156
+.2008_Rowotengah (Rowo Tengah)_68156
+.2006_Sumberagung (Sumber Agung)_68156
+.2005_Yosorati_68156
+35.09.31_Sumberjambe (Sumber Jambe)_68195
+.2005_Cumedak_68195
+.2007_Gunungmalang (Gunung Malang)_68195
+.2008_Jambearum (Jambe Arum)_68195
+.2001_Plerean (Plereyan)_68195
+.2003_Pringgondani_68195
+.2004_Randuagung (Randu Agung)_68195
+.2009_Rowosari_68195
+.2006_Sumberjambe_68195
+.2002_Sumberpakem (Sumber Pakem)_68195
+35.09.21_Sumbersari (Sumber Sari)_68121|68126
+.1007_Antirogo_68125
+.1004_Karangrejo_68124
+.1001_Kebonsari_68122
+.1003_Kranjingan (Keranjingan)_68126
+.1002_Sumbersari_68121
+.1005_Tegalgede (Tegal Gede)_68124
+.1006_Wirolegi_68124
+35.09.06_Tanggul_68155
+.2004_Darungan_68155
+.2008_Klatakan_68155
+.2007_Kramat Sukoharjo_68155
+.2005_Manggisan_68155
+.2003_Patemon_68155
+.2006_Selodakon_68155
+.2001_Tanggulkulon (Tanggul Kulon)_68155
+.2002_Tanggulwetan (Tanggul Wetan)_68155
+35.09.18_Tempurejo_68173
+.2003_Andongrejo_68173
+.2006_Curahnongko_68173
+.2007_Curahtakir_68173
+.2004_Pondokrejo_68173
+.2008_Sanenrejo_68173
+.2001_Sidodadi_68173
+.2002_Tempurejo_68173
+.2005_Wonoasri_68173
+35.09.05_Umbulsari_68166
+.2004_Gadingrejo_68166
+.2003_Gunungsari_68166
+.2010_Mundurejo_68166
+.2009_Paleran_68166
+.2002_Sidorejo_68166
+.2001_Sukoreno_68166
+.2007_Tanjungsari_68166
+.2008_Tegalwangi (Tegal Wangi)_68166
+.2005_Umbulrejo_68166
+.2006_Umbulsari_68166
+35.09.11_Wuluhan_68162
+.2002_Ampel_68162
+.2004_Dukuhdempok (Dukuh Dempok)_68162
+.2005_Glundengan_68162
+.2007_Kesilir_68162
+.2001_Lojejer_68162
+.2003_Tamansari_68162
+.2006_Tanjungrejo (Tanjung Rejo)_68162

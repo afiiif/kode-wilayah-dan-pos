@@ -1,0 +1,76 @@
+51.06.02_Bangli_80611|80614
+.1003_Bebalang_80614
+.2001_Bunutin_80614
+.1005_Cempaga_80612
+.1004_Kawan_80613
+.2007_Kayubihi_80614
+.1006_Kubu_80611
+.2009_Landih_80611
+.2008_Pengotan_80614
+.2002_Tamanbali (Taman Bali)_80614
+51.06.04_Kintamani_80652
+.2020_Abangsongan (Abang Songan)_80652
+.2013_Abuan_80652
+.2032_Awan_80652
+.2042_Bantang_80652
+.2012_Banua_80652
+.2022_Batudinding (Batu Dinding)_80652
+.2035_Batukaang_80652
+.2026_Batur Selatan_80652
+.2027_Batur Tengah_80652
+.2028_Batur Utara_80652
+.2008_Bayung Cerik (Bayungcerik)_80652
+.2016_Bayung Gede (Bayunggede)_80652
+.2010_Belancan_80652
+.2048_Belandingan_80652
+.2034_Belanga_80652
+.2036_Belantih_80652
+.2002_Binyan_80652
+.2014_Bonyoh_80652
+.2019_Buahan_80652
+.2004_Bunutin_80652
+.2037_Catur_80652
+.2031_Daup_80652
+.2041_Dausa_80652
+.2033_Gunungbau_80652
+.2011_Katung_80652
+.2018_Kedisan_80652
+.2029_Kintamani_80652
+.2044_Kutuh_80652
+.2005_Langgahan_80652
+.2006_Lembean_80652
+.2009_Mangguh_80652
+.2007_Manikliyu_80652
+.2001_Mengani_80652
+.2038_Pengejaran_80652
+.2047_Pinggan_80652
+.2040_Satra_80652
+.2015_Sekaan_80652
+.2017_Sekardadi_80652
+.2039_Selulung_80652
+.2030_Serai (Serahi)_80652
+.2046_Siakin (Siyakin)_80652
+.2024_Songan A_80652
+.2025_Songan B_80652
+.2045_Subaya_80652
+.2043_Sukawana_80652
+.2021_Suter_80652
+.2023_Terunyan_80652
+.2003_Ulian_80652
+51.06.01_Susut_80661
+.2003_Abuan_80661
+.2001_Apuan_80661
+.2002_Demulih_80661
+.2009_Pengiangan_80661
+.2006_Penglumbaran_80661
+.2008_Selat_80661
+.2005_Sulahan_80661
+.2004_Susut_80661
+.2007_Tiga_80661
+51.06.03_Tembuku_80671
+.2005_Bangbang_80671
+.2001_Jehem_80671
+.2006_Peninjoan_80671
+.2002_Tembuku_80671
+.2004_Undisan_80671
+.2003_Yangapi_80671

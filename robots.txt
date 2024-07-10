@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://afiiif.github.io/kode-wilayah-dan-pos
+
+# Sitemaps
+Sitemap: https://afiiif.github.io/kode-wilayah-dan-pos/sitemap.xml

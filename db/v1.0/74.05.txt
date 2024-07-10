@@ -1,0 +1,376 @@
+74.05.03_Andoolo_93810|93819
+.1002_Alangga_93811
+.2004_Alengge Agung_93811
+.2001_Andoolo_93810
+.2033_Ataku_93819
+.2010_Bumi Raya_93819
+.2014_Lalobao_93819
+.2015_Lalonggombu_93813
+.1018_Potoro_93811
+.2031_Punggapu_93819
+.2026_Wunduwatu_93819
+74.05.25_Andoolo Barat_93813|93819
+.2002_Anese_93813
+.2003_Bekenggasu_93819
+.2006_Bimamaroa_93819
+.2008_Lapoa Indah_93818
+.2010_Mataiwoi_93819
+.2005_Mataupe_93818
+.2001_Papawu_93813
+.2009_Puundoho_93819
+.2004_Watumokala_93819
+.2007_Wawobende_93818
+74.05.02_Angata_93875
+.2018_Angata_93875
+.2002_Aopa_93875
+.2041_Boloso_93875
+.2016_Kasebo_93875
+.2004_Lamoen_93875
+.2015_Lamoeri_93875
+.2010_Lamooso_93875
+.2011_Landabaro_93875
+.2043_Langgea Indah_93875
+.2020_Matabondu_93875
+.2017_Mataiwoi_93875
+.2040_Mokoau_93875
+.2003_Motaha_93875
+.2001_Pewutaa_93875
+.2006_Puao_93875
+.2019_Pudambu_93875
+.2042_Puulipu_93875
+.2012_Puungoni_93875
+.2014_Puuroe_93875
+.2005_Puusanggula_93875
+.2013_Sandarsi Jaya_93875
+.2007_Sandey_93875
+.2009_Simbangu_93875
+.2008_Teteasa_93875
+74.05.20_Baito_93883
+.2008_Ahuangguluri_93883
+.2001_Amosara (Amasara)_93883
+.2002_Baito_93883
+.2003_Matabubu_93883
+.2004_Mekar Jaya_93883
+.2005_Sambahule_93883
+.2006_Tolihe_93883
+.2007_Wonua/Wanua Raya_93883
+74.05.21_Basala_93876
+.2007_Basala_93876
+.2002_Epeesi_93876
+.2001_Iwoimendoro (Iwoi Mendoro)_93876
+.2005_Lambandia_93876
+.2003_Lere_93876
+.2004_Lipumasagena (Lipu Masagena)_93876
+.2006_Polo-Pololi_93876
+.2008_Tambekuku (Tombekuku)_93876
+.2009_Teporombua_93876
+74.05.13_Benua_93877
+.2010_Awalo_93877
+.2005_Benua_93877
+.2003_Benua Utama_93877
+.2004_Horodopi_93877
+.2011_Kosambi_93877
+.2001_Lamara_93877
+.2006_Palawewu (Palowewu)_93877
+.2002_Puosu (Puuosu)_93877
+.2007_Puunggawu Kawu (Punggawukawu)_93877
+.2012_Puuwehuko_93877
+.2009_Tetehaka_93877
+.2008_Uelawa_93877
+74.05.17_Buke_93812|93819
+.2005_Adaka Jaya_93815
+.2013_Adayu Indah_93814
+.2001_Andoolo Utama (Andolo Utama)_93813
+.2002_Anggokoti_93819
+.2003_Asembu Mulya_93819
+.2004_Awalo (Awolo)_93816
+.2006_Buke_93812
+.2007_Pelandia_93812
+.2008_Puudaria (Puudaria Jaya)_93812
+.2009_Rahamendaa (Raha Menda Jaya)_93819
+.2016_Ranooha Lestari_93814
+.2010_Silea Jaya_93814
+.2012_Tetenggolasa_93814
+.2011_Tirto Martani (Tirto / Tirta Wartani)_93814
+.2014_Wanua Maroa_93814
+.2015_Wulele Jaya_93814
+74.05.09_Kolono_93895
+.2028_Alosi_93895
+.2025_Andinete_93895
+.2012_Awunio_93895
+.1001_Kolono_93895
+.2016_Lamapu_93895
+.2011_Lamotau_93895
+.2003_Langgowala_93895
+.2007_Mataiwoi_93895
+.2005_Matandahi_93895
+.2013_Meletumbo_93895
+.2009_Mondoe Jaya_93895
+.2030_Puudongi_93895
+.2006_Puupi_93895
+.2014_Roda_93895
+.2031_Sarandua_93895
+.2002_Sawa_93895
+.2029_Silea_93895
+.2008_Tiraosu_93895
+.2010_Ulusena Jaya_93895
+.2026_Wawoosu_93895
+.2004_Waworano_93895
+74.05.23_Kolono Timur_93894
+.2008_Amolengu_93894
+.2007_Ampera_93894
+.2005_Batuh Putih (Batu Putih)_93894
+.2002_Lambangi_93894
+.2010_Langgapulu_93894
+.2004_Ngapawali_93894
+.2001_Rambu-Rambu_93894
+.2006_Rumba-Rumba_93894
+.2003_Tumbu-Tumbu Jaya_93894
+.2009_Ulunese_93894
+74.05.07_Konda_93874
+.2004_Alebo_93874
+.2009_Ambololi_93874
+.2020_Amohalo_93874
+.2012_Cialam Jaya_93874
+.1001_Konda_93874
+.2024_Konda Satu_93874
+.2019_Lalowiu_93874
+.2007_Lambusa_93874
+.2003_Lamomea_93874
+.2014_Lawoila_93874
+.2006_Lebo Jaya_93874
+.2011_Masagena_93874
+.2005_Morome (Morame)_93874
+.2008_Pambulsa Jaya (Pambulaa Jaya)_93874
+.2002_Puosu Jaya_93874
+.2021_Ranowila_93874
+.2010_Tanea_93874
+.2013_Wonua_93874
+74.05.19_Laeya_93880
+.2003_Aepodu_93880
+.2013_Ambakumina (Ambukumina)_93880
+.1002_Ambalodangge_93880
+.2008_Ambesea_93880
+.2012_Anduna_93880
+.2015_Anggoroboti_93880
+.2010_Labokeo_93880
+.2009_Laeya_93880
+.2014_Lambakara_93880
+.2006_Lamong Jaya_93880
+.2007_Lerepako_93880
+.2005_Ombu-Ombu Jaya_93880
+.1001_Puunggaluku (Punggaluku)_93880
+.2017_Puuwulo_93880
+.2004_Rambu-Rambu_93880
+.2011_Torobulu_93880
+.2016_Wonua Kongga_93880
+74.05.06_Lainea_93881
+.2020_Aoroo (Aoreo)_93881
+.2027_Bangun Jaya_93881
+.2021_Kaindi_93881
+.2028_Kalo-kalo_93881
+.2024_Lainea_93881
+.2011_Lalonggombu_93881
+.2022_Matabubu Jaya_93881
+.2025_Molinese_93881
+.2014_Pamandati_93881
+.2015_Pangan Jaya_93881
+.2026_Polewali_93881
+.2013_Watumeeto_93881
+74.05.12_Lalembuu_93885
+.1005_Atari Indah_93885
+.2002_Atari Jaya_93885
+.2006_Kapuwila_93885
+.2018_Lalouesamba_93885
+.2004_Lambandia_93885
+.2001_Lambodi Jaya_93885
+.2010_Lelembu Jaya (Lalembu Jaya)_93885
+.2015_Merongga Raya_93885
+.2003_Mokupa Jaya (Makupa Jaya)_93885
+.2013_Mondoke (Mandoke)_93885
+.2017_Padaleu_93885
+.2012_Potuho Jaya_93885
+.2007_Puunangga_93885
+.2009_Puurema Subur_93885
+.2011_Sukamukti (Suka Mukti)_93885
+.2014_Sumber Jaya_93885
+.2008_Teteinea (Teteinea Jaya)_93885
+.2016_Tombeleu_93885
+74.05.05_Landono_93873
+.2022_Abenggi_93873
+.2016_Amotowo_93873
+.2023_Arongo_93873
+.2024_Endanga_93873
+.2035_Lakomea_93873
+.2008_Lalonggapu_93873
+.1001_Landono_93873
+.2015_Landono Dua_93873
+.2009_Matabenua / Watawunua_93873
+.2042_Morini Mulya_93873
+.2014_Tridana Mulia_93873
+.2028_Wonua Koa_93873
+.2032_Wonua Sangia_93873
+74.05.11_Laonti_93892
+.2006_Batu Jaya_93892
+.2016_Cempedak_93892
+.2013_Kondono_93892
+.2001_Labaun Beropa (Labuan Beropa)_93892
+.2005_Labotaone_93892
+.2017_Laonti_93892
+.2012_Lawisata_93892
+.2008_Malaringgi_93892
+.2007_Namu_93892
+.2014_Peo Indah_93892
+.2015_Puudirangga (Puundirangga)_93892
+.2018_Rumbia Rumbia_93892
+.2010_Sangi-Sangi_93892
+.2004_Tambeanga_93892
+.2002_Tambolosu_93892
+.2009_Tue Tue_93892
+.2011_Ulu Sawa_93892
+.2020_Wandaeha_93892
+.2003_Woru Woru_93892
+74.05.10_Moramo_93891
+.2010_Amohola_93891
+.2014_Bakutara (Bakutaru)_93891
+.2027_Bisikori_93891
+.2015_Lakomea_93891
+.2017_Lamboo_93891
+.2016_Landipo_93891
+.1001_Lapuko_93891
+.2012_Marga Citta (Marga Cinta)_93891
+.2013_Moramo_93891
+.2021_Penambea Barata_93891
+.2018_Pudaria Jaya_93891
+.2028_Ranooha Raya_93891
+.2029_Selabangga_93891
+.2019_Sumber Sari_93891
+.2011_Tambosupa_93891
+.2020_Ulusena_93891
+.2025_Watu Porambaa_93891
+.2023_Wawondengi_93891
+.2026_Wonua Jaya_93891
+.2022_Wowosunggu (Wawosunggu)_93891
+74.05.16_Moramo Utara_93890
+.1002_Lalowaru_93890
+.2008_Lamokula_93890
+.2006_Lombueya (Lombuea)_93890
+.2010_Mata Lamokula_93890
+.2009_Mata Watu-Watu_93890
+.2007_Mekar Jaya_93890
+.2001_Puasana_93890
+.2005_Sanggula_93890
+.2003_Tanjung Tiram_93890
+.2004_Wawatu_93890
+74.05.15_Mowila_93879
+.2001_Kondoano_93879
+.2009_Lalosingi_93879
+.2017_Lamebara (Lamibara)_93879
+.2003_Lamelori (Lamolori)_93879
+.2016_Mataiwoi_93879
+.2012_Monapa_93879
+.2008_Mowila_93879
+.2005_Mulyasari (Mulya Sari / Muliasari)_93879
+.2011_Pudahoa (Pudohoa)_93879
+.2002_Punggulahi_93879
+.2013_Puuwehuko (Puwehuko)_93879
+.2006_Rakawuta_93879
+.2007_Ranoaopa (Rano Aopa)_93879
+.2014_Ranombayasa (Rano Mbayasa)_93879
+.2018_Tetesingi_93879
+.2004_Toluwonua_93879
+.2015_Wanuakongga (Wanua Kongga)_93879
+.2020_Wonua Monapa_93879
+.2019_Wonua Sari_93879
+.2010_Wuura_93879
+74.05.04_Palangga_93882
+.2025_Alakaya_93882
+.2005_Anggondara_93882
+.2003_Aosole_93882
+.2007_Eewa_93882
+.2030_Kapujaya (Kapu Jaya)_93882
+.2008_Kiaea_93882
+.2011_Mekar Sari_93882
+.2013_Onembute_93882
+.1001_Palangga_93882
+.2032_Sanggi-Sanggi_93882
+.2031_Watudemba_93882
+.2019_Watumerembe_93882
+.2029_Wawonggura_93882
+.2018_Waworaha_93882
+.2022_Wawouru_93882
+74.05.14_Palangga Selatan_93884
+.1001_Amondo (Amonda)_93884
+.2008_Koeono_93884
+.2002_Lakara_93884
+.2009_Lalowua_93884
+.2010_Mondoe_93884
+.2003_Parasi_93884
+.2004_Ulu Lakara (Ululakara)_93884
+.2005_Watu Mbohoti (Watumbohoti)_93884
+.2007_Watu Rapa (Watarapa / Waturapa)_93884
+.2006_Wawo Wonua_93884
+74.05.08_Ranomeeto_93870
+.2014_Ambaipua_93870
+.2008_Amoito_93870
+.2021_Amoito Siama_93870
+.2004_Boro-Boro R_93870
+.2020_Duduria_93870
+.2017_Kota Bangun_93870
+.2019_Laikaha_93870
+.2016_Langgea_93870
+.2002_Onewila_93870
+.2005_Rambu-Rambu Jaya_93870
+.1001_Ranomeeto_93870
+.2015_Ranooha_93870
+74.05.22_Ranomeeto Barat_93871
+.2008_Ambeko (Abeko)_93871
+.2001_Amokuni_93871
+.2005_Boro-Boro Lameuru_93871
+.2003_Jati Bali_93871
+.2004_Laikandonga_93871
+.2007_Lameruru (Lameuru)_93871
+.2006_Opaasi_93871
+.2002_Sindang Kasih_93871
+.2009_Tunduno_93871
+74.05.24_Sabulakoa_93872
+.2007_Asaria_93872
+.2005_Karoonua_93872
+.2001_Sabulakoa_93872
+.2002_Talumbinga_93872
+.2003_Tetenggabo_93872
+.2006_Ulu Sabulakoa_93872
+.2004_Watu-Watu_93872
+.2008_Wawobende_93872
+74.05.01_Tinanggea_93886
+.2036_Akuni_93886
+.2006_Asingi_93886
+.2035_Bomba-bomba_93886
+.2010_Bungin Permai_93886
+.2030_Lalo Watu_93886
+.2019_Lalonggasu_93886
+.2029_Lanowulu_93886
+.2003_Lapoa_93886
+.2024_Lapulu_93886
+.2037_Lasuai_93886
+.2038_Matambawi_93886
+.2039_Matandahi_93886
+.2020_Moolo Indah_93886
+.1002_Ngapaah (Ngapaaha)_93886
+.2014_Palotawo (Palo Tawo)_93886
+.2034_Panggoosi_93886
+.2027_Roraya_93886
+.2032_Tatangge_93886
+.2021_Telutu Jaya_93886
+.1001_Tinanggea_93886
+.2023_Torokeku_93886
+.2009_Wadonggo (Wadanggo)_93886
+.2007_Watu Melewe (Watumelewe)_93886
+.2033_Wundumbolo_93886
+74.05.18_Wolasi_93878
+.2003_Amoito Jaya_93878
+.2002_Aoma_93878
+.2007_Aunupe_93878
+.2004_Leleka_93878
+.2005_Mata Wolasi_93878
+.2001_Wolasi_93878

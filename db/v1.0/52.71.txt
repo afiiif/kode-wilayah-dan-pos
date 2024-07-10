@@ -1,0 +1,56 @@
+52.71.01_Ampenan_83118|83511
+.1004_Ampenan Selatan_83114
+.1005_Ampenan Tengah_83112
+.1007_Ampenan Utara_83511
+.1009_Banjar_83118
+.1013_Bintaro_83118
+.1012_Dayan Peken (Doyan Peken)_83118
+.1010_Kebun Sari (Kebunsari)_83118
+.1011_Pajarakan Karya_83118
+.1006_Pejeruk_83113
+.1008_Taman Sari (Tamansari)_83118
+52.71.03_Cakranegara_83238|83239
+.1005_Cakranegara Barat_83239
+.1004_Cakranegara Selatan_83239
+.1010_Cakranegara Selatan Baru_83239
+.1006_Cakranegara Timur_83239
+.1007_Cakranegara Utara_83239
+.1012_Cilinaya_83238
+.1014_Karang Taliwang_83238
+.1013_Mayura_83238
+.1011_Sapta Marga_83238
+.1009_Sayang Sayang_83239
+52.71.02_Mataram_83117|83127
+.1002_Mataram Timur_83121
+.1001_Pagesangan_83127
+.1009_Pagesangan Barat_83127
+.1010_Pagesangan Timur_83127
+.1008_Pagutan_83117
+.1014_Pagutan Barat_83127
+.1013_Pagutan Timur_83127
+.1011_Pejanggik_83127
+.1012_Punia_83127
+52.71.06_Sandubaya (Sandujaya)_83232|83237
+.1005_Abian Tubuh Baru_83237
+.1002_Babakan_83233
+.1003_Bertais_83236
+.1001_Dasan Cermen_83232
+.1007_Mandalika_83237
+.1004_Selagalas_83237
+.1006_Turida_83237
+52.71.04_Sekarbela_83115|83116
+.1003_Jempong Baru (Jempang Baru)_83116
+.1001_Karang Pule_83116
+.1005_Kekalik Jaya_83116
+.1002_Tanjung Karang_83115
+.1004_Tanjung Karang Permai_83116
+52.71.05_Selaprang (Selaparang)_83126
+.1002_Dasan Agung_83125
+.1007_Dasan Agung Baru_83125
+.1006_Gomong_83126
+.1004_Karang Baru_83123
+.1001_Mataram Barat_83126
+.1003_Monjok_83122
+.1009_Monjok Barat_83122
+.1008_Monjok Timur_83122
+.1005_Rembiga_83124

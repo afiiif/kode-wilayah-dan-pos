@@ -1,0 +1,210 @@
+32.16.02_Babelan_17610
+.2008_Babelankota (Babelan Kota)_17610
+.1006_Bahagia_17610
+.2001_Bunibakti (Buni Bakti)_17610
+.2004_Hurip Jaya_17610
+.1007_Kebalen_17610
+.2003_Kedung Pengawas_17610
+.2009_Kedungjaya_17610
+.2002_Muarabakti (Muara Bakti)_17610
+.2005_Pantaihurip (Pantai Hurip)_17610
+32.16.23_Bojongmangu_17350|17356
+.2003_Bojongmangu (Bojongmanggu)_17352
+.2002_Karangindah_17350
+.2001_Karangmulya_17356
+.2006_Medalkrisna_17350
+.2004_Sukabungah_17350
+.2005_Sukamukti_17350
+32.16.16_Cabangbungin_17720
+.2001_Jayabakti (Jaya Bakti)_17720
+.2002_Jayalaksana (Jaya Laksana)_17720
+.2007_Lenggahjaya (Lenggah Jaya)_17720
+.2008_Lenggahsari (Lenggah Sari)_17720
+.2006_Setiajaya (Setia Jaya)_17720
+.2005_Setialaksana_17720
+.2004_Sindangjaya (Sindang Jaya)_17720
+.2003_Sindangsari_17720
+32.16.22_Cibarusah_17340
+.2006_Cibarusah Jaya (Cibarusahjaya)_17340
+.2005_Cibarusah Kota (Cibarusahkota)_17340
+.2002_Ridogalih_17340
+.2003_Ridomanah_17340
+.2007_Sindangmulya_17340
+.2001_Sirnajaya (Sirnajati)_17340
+.2004_Wibawamulya_17340
+32.16.07_Cibitung_17520
+.2007_Cibuntu_17520
+.2003_Kertamukti (Kerta Mukti)_17520
+.2004_Muktiwari_17520
+.2005_Sarimukti_17520
+.2006_Sukajaya_17520
+.2002_Wanajaya_17520
+.1001_Wanasari_17520
+32.16.08_Cikarang Barat_17530
+.2011_Cikedokan_17530
+.2004_Danau Indah_17530
+.2005_Gandamekar_17530
+.2006_Gandasari_17530
+.2003_Jatiwangi_17530
+.2009_Kalijaya (Kali Jaya)_17530
+.2002_Mekarwangi (Mekar Wangi)_17530
+.2007_Sukadanau_17530
+.1008_Telaga Asih_17530
+.2001_Telagamurni (Telaga Murni)_17530
+.2010_Telajung_17530
+32.16.20_Cikarang Pusat_17531
+.2001_Cicau_17531
+.2004_Hegarmukti_17531
+.2005_Jayamukti_17531
+.2003_Pasiranji (Pasirpanji)_17531
+.2006_Pasirtanjung_17531
+.2002_Sukamahi_17531
+32.16.19_Cikarang Selatan_17532
+.2003_Ciantra_17532
+.2001_Cibatu_17532
+.2007_Pasirsari_17532
+.2006_Serang_17532
+.2004_Sukadami_17532
+.2005_Sukaresmi_17532
+.2002_Sukasejati_17532
+32.16.11_Cikarang Timur_17533
+.2002_Cipayung_17533
+.2003_Hegarmanah_17533
+.2005_Jatibaru_17533
+.2004_Jatireja_17533
+.2008_Karangsari_17533
+.2006_Labansari_17533
+.1007_Sertajaya_17533
+.2001_Tanjungbaru_17533
+32.16.09_Cikarang Utara_17534
+.2001_Cikarangkota (Cikarang Kota)_17534
+.2009_Hajarmekar (Harja Mekar)_17534
+.2003_Karangasih_17534
+.2002_Karangbaru (Karang Baru)_17534
+.2005_Karangraharja_17534
+.2010_Mekarmukti_17534
+.2006_Pasirgombong (Pasir Gombong)_17534
+.2007_Simpangan_17534
+.2008_Tanjungsari_17534
+.2004_Waluya_17534
+.2011_Wangunharja_17534
+32.16.10_Karang Bahagia (Karangbahagia)_17535
+.2004_Karanganyar_17535
+.2005_Karangbahagia (Karang Bahagia)_17535
+.2008_Karangmukti_17535
+.2002_Karangrahayu (Karang Rahayu)_17535
+.2007_Karangsatu (Karang Setu)_17535
+.2006_Karangsentosa (Karang Sentosa)_17535
+.2003_Karangsetia (Karang Setra)_17535
+.2001_Sukaraya_17535
+32.16.12_Kedung Waringin_17540
+.2006_Bojongsari_17540
+.2005_Karangharum (Karang Harum)_17540
+.2003_Karangmekar (Karang Mekar)_17540
+.2001_Karangsambung (Karang Sambung)_17540
+.2007_Kedungwaringin_17540
+.2004_Mekarjaya (Mekar Jaya)_17540
+.2002_Waringinjaya (Waringin Jaya)_17540
+32.16.17_Muaragembong (Muara Gembong)_17730
+.2006_Jayasakti_17730
+.2002_Pantai Bahagia_17730
+.2003_Pantai Bakti_17730
+.2004_Pantai Harapanjaya (Pantai Harapan Jaya)_17730
+.2001_Pantai Mekar_17730
+.2005_Pantai Sederhana_17730
+32.16.13_Pebayuran_17710
+.2013_Bantarjaya_17710
+.2012_Bantarsari_17710
+.2001_Karangharja (Karang Harja)_17710
+.2009_Karanghaur_17710
+.2006_Karangjaya_17710
+.2008_Karangpatri_17710
+.2005_Karangreja_17710
+.2002_Karangsegar_17710
+.2010_Kertajaya_17710
+.1011_Kertasari_17710
+.2004_Sumbereja (Sumberreja)_17710
+.2007_Sumbersari_17710
+.2003_Sumberurip_17710
+32.16.21_Serang Baru_17330
+.2007_Cilangkara_17330
+.2004_Jayamulya_17330
+.2008_Jayasampurna (Jaya Sampurna)_17330
+.2005_Nagacipta_17330
+.2006_Nagasari_17330
+.2002_Sirnajaya_17330
+.2001_Sukaragam_17330
+.2003_Sukasari_17330
+32.16.18_Setu_17320
+.2003_Burangkeng_17320
+.2005_Cibening_17320
+.2001_Cijengkol_17320
+.2008_Cikarageman_17320
+.2004_Ciledug (Cileduk)_17320
+.2011_Kertarahayu_17320
+.2002_Lubangbuaya_17320
+.2010_Muktijaya_17320
+.2009_Ragamanunggal (Ragemanunggal)_17320
+.2007_Taman Rahayu_17320
+.2006_Taman Sari_17320
+32.16.14_Sukakarya_17630
+.2002_Sukaindah_17630
+.2005_Sukajadi_17630
+.2006_Sukakarsa (Sukakersa)_17630
+.2003_Sukakarya_17630
+.2004_Sukalaksana_17630
+.2007_Sukamakmur_17630
+.2001_Sukamurni_17630
+32.16.15_Sukatani_17631
+.2006_Banjarsari (Banjar Sari)_17631
+.2004_Sukaasih (Suka Asih)_17631
+.2007_Sukadarma_17631
+.2003_Sukahurip_17631
+.2002_Sukamanah_17631
+.2001_Sukamulya_17631
+.2005_Sukarukun_17631
+32.16.03_Sukawangi_17620
+.2002_Sukabudi_17620
+.2003_Sukadaya_17620
+.2005_Sukakerta_17620
+.2007_Sukamekar_17620
+.2001_Sukaringin_17620
+.2006_Sukatenang_17620
+.2004_Sukawangi_17620
+32.16.04_Tambelang_17621
+.2007_Sukabakti_17621
+.2002_Sukamaju_17621
+.2006_Sukamantri_17621
+.2005_Sukarahayu_17621
+.2003_Sukaraja_17621
+.2004_Sukarapih_17621
+.2001_Sukawijaya_17621
+32.16.06_Tambun Selatan_17510
+.1001_Jatimulya_17510
+.2003_Lambangjaya_17510
+.2002_Lambangsari_17510
+.2009_Mangunjaya_17510
+.2007_Mekarsari_17510
+.2005_Setiadarma_17510
+.2006_Setiamekar_17510
+.2010_Sumberjaya (Sumber Jaya)_17510
+.2004_Tambun_17510
+.2008_Tridaya Sakti_17510
+32.16.05_Tambun Utara_17511
+.2002_Jalenjaya (Jejalenjaya)_17511
+.2008_Karangsatria_17511
+.2001_Satriajaya_17511
+.2003_Satriamekar_17511
+.2004_Sriamur_17511
+.2006_Srijaya_17511
+.2007_Srimahi_17511
+.2005_Srimukti_17511
+32.16.01_Tarumajaya_17211|17218
+.2004_Pahlawan Setia_17216
+.2008_Pantai Makmur_17212
+.2003_Pusaka Rakyat_17214
+.2001_Sagara Makmur (Segara Makmur)_17211
+.2006_Samudra Jaya_17217
+.2002_Segarajaya (Segara Jaya)_17218
+.2007_Setia Asih_17215
+.2005_Setia Mulya_17213

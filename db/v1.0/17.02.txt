@@ -1,0 +1,171 @@
+17.02.10_Bermani Ulu_39152
+.2001_Air Mundu_39152
+.2020_Air Pikat_39152
+.2003_Baru Manis_39152
+.2012_Kampung Melayu_39152
+.2015_Kampung Sajad_39152
+.2017_Pagar Gunung_39152
+.2019_Purwodadi_39152
+.2018_Selamat Sudiarjo_39152
+.2013_Sentral Baru_39152
+.2016_Suka Rami_39152
+.2021_Tebat Pulau_39152
+.2002_Tebat Tenong Dalam_39152
+17.02.24_Bermani Ulu Raya_39151
+.2010_Air Bening_39151
+.2008_Babakan Baru_39151
+.2002_Bandung Marga_39151
+.2007_Bangun Jaya_39151
+.2001_Dataran Tapus_39151
+.2003_Pal Seratus/100_39151
+.2004_Pal VII/Tujuh_39151
+.2005_Pal VIII/Delapan_39151
+.2009_Sumberejo Transad (Sumber Rejo Transad)_39151
+.2006_Tebat Tenong Luar_39151
+17.02.20_Binduriang_39182
+.2005_Air Apo_39182
+.2002_Kampung Jeruk_39182
+.2001_Kepala Curup_39182
+.2003_Simpang Beliti_39182
+.2004_Taba Padang_39182
+17.02.09_Curup_39111|39125
+.1023_Adirejo_39125
+.1013_Air Putih Lama_39112
+.1025_Air Rambai_39111
+.1012_Dwi Tunggal_39112
+.1031_Jalan Baru_39117
+.1026_Pasar Baru_39113
+.1027_Pasar Tengah_39117
+.1033_Talang Benih_39118
+.1047_Timbul Rejo_39125
+17.02.18_Curup Selatan_39112|39125
+.2011_Air Lanang_39125
+.1001_Air Putih Baru_39112
+.2007_Lubuk Ubar_39125
+.2008_Pungguk Lalang_39125
+.2003_Rimbo Recap_39125
+.2006_Suka Marga_39125
+.2010_Tanjung Dalam_39125
+.2005_Teladan (Desa Teladan)_39125
+.1002_Tempel Rejo_39124
+.2009_Turan Baru_39125
+.2004_Watas Marga_39125
+17.02.19_Curup Tengah_39113|39125
+.1006_Air Bang_39125
+.2010_Air Merah_39125
+.1009_Banyu Mas (Banyumas)_39125
+.1008_Batu Galing_39125
+.1005_Kampung Jawa_39115
+.1001_Kepala Siring_39116
+.1007_Pelabuhan Baru_39115
+.1004_Sidorejo/Siderejo_39119
+.1002_Talang Rimbo Baru_39113
+.1003_Talang Rimbo Lama_39114
+17.02.17_Curup Timur_39115|39125
+.2007_Air Meles Bawah_39115
+.2006_Duku Ilir_39125
+.2005_Duku Ulu_39125
+.2008_Kampung Delima_39125
+.1003_Karang Anyar_39116
+.1002_Kesambe Baru_39125
+.2009_Kesambe Lama_39125
+.1001_Sukaraja_39121
+.1004_Talang Ulu_39125
+17.02.16_Curup Utara_39119|39125
+.2003_Batu Dewa_39125
+.2005_Batu Panco_39125
+.1001_Dusun Curup_39119
+.2006_Dusun Sawah_39125
+.2013_Kota Pagu_39125
+.2007_Lubuk Kembang_39125
+.2010_Pahlawan (Desa Pahlawan)_39125
+.2004_Perbo_39125
+.2014_Seguring_39125
+.2008_Suka Datang_39125
+.2009_Tabarenah_39125
+.2012_Tanjung Beringin_39125
+.2011_Tasik Malaya (Tasikmalaya)_39125
+.1002_Tunas Harapan_39123
+17.02.06_Kota Padang_39183
+.1015_Bedeng SS_39183
+.2001_Derati_39183
+.2006_Durian Mas_39183
+.1016_Dusun Baru_39183
+.1004_Kota Padang_39183
+.2018_Kota Padang Baru_39183
+.2005_Lubuk Mumpo_39183
+.2003_Suka Rami_39183
+.2002_Taba Anyar_39183
+.2020_Tanjung Gelang_39183
+17.02.07_Padang Ulak Tanding_39180
+.2027_Air Kati_39180
+.2009_Belumai I_39180
+.2008_Belumai II_39180
+.2028_Bukit Batu_39180
+.2007_Guru Agung_39180
+.2001_Karang Baru_39180
+.2026_Kasie Kasubun_39180
+.2013_Muara Telita_39180
+.1011_Pasar Padang Ulak Tanding_39180
+.2021_Taba Tinggi_39180
+.2025_Taktoi_39180
+.2012_Tanjung Sanai I_39180
+.2022_Tanjung Sanai II_39180
+.2014_Ujan Panas_39180
+.2010_Ulak Tanding_39180
+17.02.11_Selupu Rejang_39153
+.1004_Air Duku_39153
+.2002_Air Meles Atas_39153
+.2001_Air Putih Kali Bandung_39153
+.1006_Cawang Baru_39153
+.2007_Cawang Lama_39153
+.2014_Kali Padang_39153
+.2013_Kampung Baru_39153
+.2011_Karang Jaya_39153
+.2012_Kayu Manis_39153
+.2003_Sambirejo_39153
+.1008_Simpang Nangka_39153
+.2005_Suban Ayam_39153
+.2010_Sumber Bening_39153
+.2009_Sumber Urip_39153
+17.02.23_Sindang Beliti Ilir_39184
+.2003_Balai Buntar/Butar_39184
+.2005_Lubuk Belimbing I_39184
+.2006_Lubuk Belimbing II_39184
+.2007_Lubuk Bingin Baru_39184
+.2004_Lubuk Tanjung/Tunjung_39184
+.2001_Merantau_39184
+.2002_Periang_39184
+.2008_Sari Pulau_39184
+.2010_Suka karya (Sukakarya)_39184
+.2009_Suka Merindu_39184
+17.02.21_Sindang Beliti Ulu_39181
+.2009_Air Nau_39181
+.2001_Apur_39181
+.2007_Jabi_39181
+.2004_Karang Pinang_39181
+.2002_Lawang Agung_39181
+.2003_Lubuk Alai_39181
+.2006_Pengambang_39181
+.2005_Tanjung Agung_39181
+.2008_Tanjung Herang (Tanjung Heran)_39181
+17.02.22_Sindang Dataran (Sindang Daratan)_39154
+.2002_Air Rusa_39154
+.2003_Bengko_39154
+.2001_IV Suko Menanti (IV / Empat Suku Menanti)_39154
+.2004_Sinar Gunung_39154
+.2006_Talang Belitar_39154
+.2005_Warung Pojok_39154
+17.02.08_Sindang Kelingi_39155
+.2009_Air Dingin_39155
+.2003_Belitar Muka_39155
+.2011_Belitar Seberang_39155
+.1006_Beringin Tiga_39155
+.2013_Cahaya Negeri_39155
+.2005_Kayu Manis_39155
+.2015_Mojorejo_39155
+.2004_Pelalo_39155
+.2002_Sindang Jati_39155
+.2001_Sindang Jaya_39155
+.2016_Talang Lahat_39155
+.2014_Tanjung Aur_39155

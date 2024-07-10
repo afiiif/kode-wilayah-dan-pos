@@ -1,0 +1,200 @@
+35.27.09_Banyuates_69263
+.2010_Asem Jaran_69263
+.2018_Banyuates_69263
+.2016_Batioh_69263
+.2019_Jatra Timur_69263
+.2011_Kembang Jeruk_69263
+.2005_Lar Lar_69263
+.2017_Masaran_69263
+.2013_Montor_69263
+.2012_Morbatoh_69263
+.2007_Nagasareh_69263
+.2015_Nepa_69263
+.2001_Olor_69263
+.2002_Planggaran Barat_69263
+.2003_Planggaran Timur_69263
+.2020_Tapaan_69263
+.2014_Tebanah_69263
+.2009_Terosan_69263
+.2006_Tlagah_69263
+.2004_Tolang_69263
+.2008_Trapang_69263
+35.27.04_Camplong_69281
+.2011_Anggersek_69281
+.2002_Banjar Talela_69281
+.2010_Banjartabulu (Banjar Tabulu)_69281
+.2006_Batukarang (Batu Karang)_69281
+.2005_Dharma Camplong_69281
+.2008_Dharma Tanjung_69281
+.2012_Madupat_69281
+.2013_Pamolaan_69281
+.2014_Plampaan_69281
+.2004_Prajjan_69281
+.2009_Rabasan_69281
+.2007_Sejati_69281
+.2001_Taddan_69281
+.2003_Tambaan_69281
+35.27.07_Jrengik_69272
+.2003_Asemnonggal (Asem Nonggal)_69272
+.2001_Asemraja (Asem Raja)_69272
+.2013_Bancelok_69272
+.2014_Buker_69272
+.2008_Jrengik_69272
+.2011_Jungkarang_69272
+.2009_Kalangan Prao_69272
+.2010_Kotah_69272
+.2004_Majangan_69272
+.2005_Margantoko_69272
+.2012_Mlakah (Mlaka)_69272
+.2006_Penyepen (Panyepen)_69272
+.2002_Plakaran_69272
+.2007_Taman_69272
+35.27.14_Karangpenang (Karang Penang)_69254
+.2001_Bluuran (Blu Uran)_69254
+.2003_Bulmatet_69254
+.2007_Gunung Kesan_69254
+.2005_Karangpenang Oloh (Karang Penang Oloh)_69254
+.2006_Karangpenang Onjur (Karang Penang Onjur)_69254
+.2004_Poreh_69254
+.2002_Tlambah_69254
+35.27.06_Kedungdung_69252
+.2006_Bajrasoka (Bajrasokah)_69252
+.2009_Banjar_69252
+.2001_Banyukapah_69252
+.2013_Batoporo Barat_69252
+.2014_Batoporo Timur_69252
+.2016_Daleman_69252
+.2015_Gunungeleh (Gunung Eleh)_69252
+.2004_Kedungdung_69252
+.2005_Komis_69252
+.2007_Kramat_69252
+.2012_Muktesareh (Moktesareh)_69252
+.2008_Nyeloh_69252
+.2010_Ombul_69252
+.2011_Pajeruan_69252
+.2018_Palenggiyan (Palenggian)_69252
+.2017_Pasarenan_69252
+.2002_Rabasan_69252
+.2003_Rohayu_69252
+35.27.12_Ketapang_69261
+.2014_Banyusokah_69261
+.2007_Bira Barat_69261
+.2002_Bunten Barat_69261
+.2003_Bunten Timur_69261
+.2005_Karanganyar (Karang Anyar)_69261
+.2011_Ketapang Barat_69261
+.2009_Ketapang Daya_69261
+.2010_Ketapang Laok_69261
+.2008_Ketapang Timur_69261
+.2004_Pancor_69261
+.2006_Pangereman_69261
+.2012_Paopale Daya_69261
+.2001_Paopale Laok (Paopalelaok)_69261
+.2013_Rabiyan_69261
+35.27.05_Omben_69291
+.2014_Angsokah_69291
+.2005_Astapah_69291
+.2007_Gersempal_69291
+.2015_Jrangoan (Jranguan)_69291
+.2011_Kamondung_69291
+.2019_Karanggayam (Karang Gayam)_69291
+.2002_Karangnangger (Karang Nangger)_69291
+.2001_Kebun Sareh_69291
+.2010_Madulang_69291
+.2009_Meteng_69291
+.2018_Napo Daya (Napa Daya)_69291
+.2017_Napo Laok (Napolaok / Napa Laok)_69291
+.2012_Omben_69291
+.2020_Pandan_69291
+.2004_Rapa Daya_69291
+.2003_Rapa Laok_69291
+.2016_Rongdalem (Rongdalam)_69291
+.2006_Sogiyan (Sogian)_69291
+.2013_Tambak_69291
+.2008_Temoran_69291
+35.27.13_Pangarengan_69271
+.2002_Apa an (Apaan)_69271
+.2003_Gulbung_69271
+.2005_Pacanggaan_69271
+.2001_Pangarengan_69271
+.2004_Panyerangan (Panyirangan)_69271
+.2006_Ragung_69271
+35.27.10_Robatal_69255
+.2009_Bapelle_69255
+.2015_Gunung Rancak_69255
+.2013_Jelgung_69255
+.2008_Lepelle_69255
+.2016_Pandiyangan_69255
+.2014_Robatal_69255
+.2010_Sawah Tengah_69255
+.2011_Torjunan_69255
+.2012_Tragih_69255
+35.27.03_Sampang_69212|69216
+.2002_Aengsareh (Aeng Sareh)_69216
+.1004_Banyuanyar_69216
+.2015_Banyumas_69216
+.2018_Baruh_69216
+.1009_Dalpenang_69212
+.2005_Gunung Maddah_69216
+.1008_Gunung Sekar_69216
+.2014_Kamuning (Kamoning)_69216
+.1007_Karang Dalam (Karang Dalem)_69216
+.2016_Pangelen_69216
+.2010_Panggung_69216
+.2017_Paseyan_69216
+.2012_Pekalongan (Pakalongan)_69216
+.1003_Polagan_69215
+.2001_Pulau Mandangin (Mandingan)_69216
+.1006_Rongtengah (Rong Tengah)_69216
+.2011_Taman Sareh_69216
+.2013_Tanggumong_69216
+35.27.11_Sokobanah_69262
+.2004_Bira Tengah_69262
+.2005_Bira Timur_69262
+.2010_Sokobanah Daya_69262
+.2006_Sokobanah Laok_69262
+.2009_Sokobanah Tengah_69262
+.2011_Tamberu Barat_69262
+.2008_Tamberu Daya_69262
+.2007_Tamberu Laok_69262
+.2012_Tamberu Timur_69262
+.2001_Tobai Barat_69262
+.2002_Tobai Tengah_69262
+.2003_Tobai Timur_69262
+35.27.01_Sreseh_69273
+.2010_Bangsah_69273
+.2009_Bundah_69273
+.2005_Disanah_69273
+.2012_Junuk (Junok)_69273
+.2007_Klobur_69273
+.2008_Labang_69273
+.2002_Labuhan_69273
+.2006_Marparan_69273
+.2001_Noreh_69273
+.2011_Plasah_69273
+.2004_Sreseh_69273
+.2003_Taman_69273
+35.27.08_Tambelangan_69253
+.2008_Banjarbillah (Banjar Billah)_69253
+.2007_Barunggagah (Barung Gagah)_69253
+.2002_Batorasang (Baturasang)_69253
+.2004_Beringin (Bringin)_69253
+.2010_Birem_69253
+.2001_Karanganyar (Karang Anyar)_69253
+.2003_Mambulu Barat_69253
+.2005_Samaran_69253
+.2009_Somber_69253
+.2006_Tambelangan_69253
+35.27.02_Torjun_69270
+.2011_Bringinnonggal (Bringin Nonggal)_69270
+.2007_Dulang_69270
+.2014_Jeruk Porot_69270
+.2016_Kanjar_69270
+.2017_Kara_69270
+.2015_Kodak_69270
+.2010_Krampon_69270
+.2009_Pangongsean_69270
+.2013_Patapan_69270
+.2008_Patarongan_69270
+.2018_Tanah Merah_69270
+.2012_Torjun_69270

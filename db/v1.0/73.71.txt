@@ -1,0 +1,168 @@
+73.71.11_Biringkanaya (Biring Kanaya)_90241|90243
+.1011_Bakung_90242
+.1009_Berua_90241
+.1004_Buluroken (Bulurokeng)_90243
+.1002_Daya_90241
+.1010_Katimbang_90241
+.1008_Laikang_90242
+.1001_Paccerakkang (Paccerakang)_90241
+.1003_Pai_90243
+.1005_Sudiang_90242
+.1006_Sudiang Raya_90242
+.1007_Untia_90241
+73.71.06_Bontoala_90151|90157
+.1005_Baraya_90153
+.1004_Bontoala_90156
+.1009_Bontoala Parang_90157
+.1008_Bontoala Tua_90156
+.1011_Bunga Ejaya_90154
+.1003_Gaddong_90157
+.1006_Layang_90154
+.1001_Malimongan Baru_90152
+.1007_Parang Layang_90155
+.1012_Timungan Lompoa_90151
+.1010_Tompo Balang_90151
+.1002_Wajo Baru_90151
+73.71.15_Kepulauan Sangkarrang_90166|90168
+.1001_Barrang Caddi_90167
+.1002_Barrang Lompo_90166
+.1003_Kodingareng_90168
+73.71.03_Makassar_90141|90145
+.1002_Bara-Baraya_90143
+.1008_Bara-Baraya Selatan_90143
+.1007_Bara-Baraya Timur_90143
+.1014_Bara-Baraya Utara_90143
+.1010_Barana_90145
+.1004_Lariangbangi (Lariang Bangi)_90141
+.1005_Maccini_90144
+.1012_Maccini Gusung_90144
+.1011_Maccini Parang_90144
+.1003_Maradekaya_90141
+.1009_Maradekaya Selatan_90141
+.1013_Maradekaya Utara_90141
+.1001_Maricaya_90142
+.1006_Maricaya Baru_90142
+73.71.02_Mamajang_90131|90135
+.1012_Baji Mappakasunggu_90131
+.1008_Bonto Biraeng_90132
+.1006_Bonto Lebang_90133
+.1013_Karang Anyar_90134
+.1009_Labuang Baji_90132
+.1004_Mamajang Dalam_90135
+.1003_Mamajang Luar_90132
+.1010_Mandala_90135
+.1005_Maricaya Selatan_90131
+.1007_Pa'batang (Pa Batang)_90131
+.1002_Parang_90133
+.1001_Sambung Jawa_90134
+.1011_Tamparang Keke_90134
+73.71.12_Manggala_90233|90235
+.1004_Antang_90234
+.1002_Bangkala_90235
+.1005_Batua_90233
+.1007_Biring Romang_90235
+.1008_Bitowo_90234
+.1006_Borong_90233
+.1001_Manggala_90234
+.1003_Tamangapa_90235
+73.71.01_Mariso_90121|90126
+.1001_Bontorannu_90126
+.1008_Kampung Buyang_90121
+.1003_Kunjung Mae_90125
+.1004_Lette_90123
+.1007_Mario_90125
+.1006_Mariso_90122
+.1002_Mattoangin_90121
+.1005_Panambungan_90121
+.1009_Tamarunang_90126
+73.71.09_Panakkukang_90231|90233
+.1005_Karampuang_90231
+.1001_Karuwisi_90232
+.1009_Karuwisi Utara_90232
+.1007_Masale_90231
+.1004_Pampang_90231
+.1002_Panaikang_90231
+.1008_Pandang_90231
+.1011_Paropo_90233
+.1010_Sinrijala (Sinri Jala)_90231
+.1006_Tamamaung_90231
+.1003_Tello Baru_90233
+73.71.13_Rappocini_90221|90222
+.1007_Balla Parang (Ballaparang)_90222
+.1008_Banta-Bantaeng_90222
+.1005_Bonto Makkio_90222
+.1004_Buakana_90222
+.1010_Gunung Sari_90221
+.1009_Karunrung_90222
+.1002_Kassi-Kassi_90222
+.1003_Mappala_90222
+.1011_Minasa Upa_90221
+.1006_Rappocini_90222
+.1001_Tidung_90222
+73.71.07_Tallo_90211|90217
+.1011_Buloa_90212
+.1015_Bunga Eja Beru_90211
+.1003_Kaluku Bodoa_90215
+.1002_Kalukuang_90214
+.1008_La'latang (La Latang)_90211
+.1006_Lakkang_90211
+.1014_Lembo_90213
+.1001_Pannampu_90213
+.1004_Rappojawa_90215
+.1005_Rappokalling_90216
+.1012_Suangga (Suwangga)_90211
+.1007_Tallo_90212
+.1010_Tammua_90216
+.1013_Ujung Pandang Baru (Makassardang Baru)_90217
+.1009_Wala-Walaya_90217
+73.71.14_Tamalanrea_90241|90245
+.1005_Bira_90244
+.1007_Buntusu_90245
+.1002_Kapasa_90241
+.1008_Kapasa Raya_90241
+.1004_Parang Loe_90245
+.1001_Tamalanrea_90245
+.1003_Tamalanrea Indah_90245
+.1006_Tamalanrea Jaya_90245
+73.71.10_Tamalate_90221|90225
+.1006_Balang Baru_90224
+.1001_Barombong_90225
+.1005_Bongaya_90223
+.1011_Bonto Duri_90224
+.1003_Jongaya_90223
+.1002_Maccini Sombala_90224
+.1004_Mangasa_90221
+.1007_Mannuruki_90221
+.1008_Pa'baeng-Baeng (Pa Baeng-Baeng)_90221
+.1009_Parang Tambung_90224
+.1010_Tanjung Merdeka_90225
+73.71.04_Ujung Pandang_90111|90115
+.1005_Baru_90111
+.1006_Bulogading_90111
+.1007_Lae - Lae_90111
+.1010_Lajangiru_90114
+.1008_Losari_90112
+.1001_Maloku_90112
+.1002_Mangkura_90113
+.1003_Pisang Selatan_90114
+.1004_Pisang Utara_90115
+.1009_Sawerigading_90113
+73.71.08_Ujung Tanah_90161|90165
+.1011_Camba Berua_90162
+.1005_Cambaya_90162
+.1004_Gusung_90163
+.1003_Patingalloang (Pattingalloang)_90161
+.1012_Patingalloang Baru (Pattingalloang Baru)_90161
+.1002_Tabaringan_90165
+.1010_Tamalabba_90164
+.1009_Totaka_90165
+.1006_Ujung Tanah_90164
+73.71.05_Wajo_90171|90174
+.1003_Butung_90173
+.1005_Ende_90174
+.1007_Malimongan_90172
+.1004_Malimongan Tua_90172
+.1006_Mampu_90173
+.1002_Melayu_90171
+.1008_Melayu Baru_90171
+.1001_Pattunuang_90174

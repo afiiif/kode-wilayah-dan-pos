@@ -1,0 +1,127 @@
+11.10.11_Danau Paris_24784
+.2005_Biskang_24784
+.2001_Lae Balno_24784
+.2002_Napagaluh (Napa Galuh)_24784
+.2003_Sikoran_24784
+.2006_Sintuban Makmur (Situban Makmur)_24784
+.2004_Situbuh-Tubuh_24784
+11.10.06_Gunung Meriah (Mariah)_24793
+.2009_Blok 15_24793
+.2010_Blok 18_24793
+.2011_Blok 31_24793
+.2008_Blok VI Baru_24793
+.2003_Bukit Harapan_24793
+.2004_Cingkam_24793
+.2014_Gunung Lagan_24793
+.2005_Labuhan Kera (Labohan Kera)_24793
+.2024_Lae Butar_24793
+.2020_Panda Sari (Pandan Sari)_24793
+.2002_Penjahitan_24793
+.2015_Perangusan_24793
+.2019_Pertampakan_24793
+.2007_Rimo_24793
+.2021_Sanggaberu Silulusan_24793
+.2017_Sebatang_24793
+.2016_Seping Baru_24793
+.2025_Sianjo-Anjo Meriah (Sianjo Anjo Merah)_24793
+.2012_Sidorejo_24793
+.2013_Suka Makmur_24793
+.2006_Tanah Bara_24793
+.2018_Tanah Merah_24793
+.2001_Tanjung Betik_24793
+.2022_Tulaan_24793
+.2023_Tunas Harapan_24793
+11.10.09_Kota Baharu_24792
+.2003_Butar_24792
+.2010_Danau Bungara_24792
+.2005_Ladang Bisik_24792
+.2002_Lapahan Buaya_24792
+.2001_Lentong_24792
+.2006_Muara Pea_24792
+.2009_Pea Jambu_24792
+.2004_Samar Dua_24792
+.2008_Sumber Mukti_24792
+11.10.14_Kuala Baru_24789
+.2004_Kayu Menang_24789
+.2001_Kuala Baru Laut_24789
+.2002_Kuala Baru Sungai_24789
+.2003_Suka Jaya_24789
+11.10.01_Pulau Banyak_24791
+.2002_Pulau Baguk_24791
+.2001_Pulau Balai_24791
+.2004_Teluk Nibung_24791
+11.10.16_Pulau Banyak Barat_24790
+.2002_Asantola_24790
+.2001_Haloban_24790
+.2004_Suka Makmur_24790
+.2003_Ujung Sialit_24790
+11.10.02_Simpang Kanan_24794
+.2019_Cibubukan_24794
+.2017_Guha_24794
+.2002_Kain Golong_24794
+.2012_Kuta Batu_24794
+.2003_Kuta Kerangan (Kuta Karangan)_24794
+.2014_Kuta Tinggi_24794
+.2018_Lae Gambir_24794
+.2016_Lae Gecih_24794
+.2013_Lae Nipe_24794
+.2010_Lae Riman_24794
+.2001_Lipat Kajang_24794
+.2023_Lipat Kajang Atas_24794
+.2011_Pakiraman_24794
+.2025_Pandan Sari_24794
+.2005_Pangi_24794
+.2009_Pertabas_24794
+.2020_Serasah_24794
+.2004_Siatas_24794
+.2024_Sidodadi (Sododadi)_24794
+.2008_Silatong_24794
+.2006_Sukarejo_24794
+.2022_Tanjung Mas_24794
+.2021_Tugan_24794
+.2015_Tuhtuhan (Tuh Tuhan)_24794
+.2007_Ujung Limus_24794
+11.10.04_Singkil_24785
+.2004_Kilangan_24785
+.2005_Kuta Simboling (Kota Simboling)_24785
+.2001_Pasar (Pasar Singkil)_24785
+.2010_Pea Bumbung (Paya Bumbung)_24785
+.2011_Pemuka_24785
+.2003_Pulo Sarok_24785
+.2008_Rantau Gedang_24785
+.2014_Selok Aceh_24785
+.2019_Siti Ambia_24785
+.2020_Suka Damai_24785
+.2016_Suka Makmur_24785
+.2012_Takal Pasir_24785
+.2007_Teluk Ambun_24785
+.2009_Teluk Rumbia_24785
+.2002_Ujung_24785
+.2017_Ujung Bawang_24785
+11.10.10_Singkil Utara_24791
+.2006_Gosong Telaga Barat_24791
+.2002_Gosong Telaga Selatan_24791
+.2005_Gosong Telaga Timur_24791
+.2001_Gosong Telaga Utara_24791
+.2003_Kampung Baru_24791
+.2004_Ketapang Indah_24791
+.2007_Telaga Bakti (Telaga Sakti)_24791
+11.10.13_Singkohor_24788
+.2003_Lae Pinang_24788
+.2002_Lae Sipola_24788
+.2004_Mukti Jaya (Mukti Harapan)_24788
+.2007_Pea Jambu_24788
+.2001_Singkohor_24788
+.2006_Sri Kayu_24788
+11.10.12_Suro Makmur_24787
+.2005_Alur Linci_24787
+.2011_Bulu Ara_24787
+.2003_Bulu Sema_24787
+.2008_Keras_24787
+.2007_Ketangkuhan (Ketangkihan)_24787
+.2004_Lae Bangun_24787
+.2009_Mandumpang_24787
+.2002_Pangkalan Sulampi_24787
+.2006_Siompin_24787
+.2010_Sirimo Mungkur_24787
+.2001_Suro (Suro Baru)_24787

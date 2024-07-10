@@ -1,0 +1,80 @@
+53.12.15_Kota Waikabubak_87211|87217
+.2007_Kalembu Kuni_87217
+.1003_Kampung Baru_87214
+.1004_Kampung Sawah_87213
+.2005_Kodaka_87215
+.1002_Komerda_87211
+.2011_Lapale_87217
+.1009_Maliti_87217
+.2012_Modu Waimaringu_87212
+.1008_Pada Eweta_87217
+.2013_Puu Mawo_87212
+.2010_Soba Rade_87217
+.2006_Tebara_87216
+.1001_Wailiang_87212
+53.12.18_Laboya Barat (Lamboya Barat)_87270
+.2002_Gaura_87270
+.2004_Harona Kalla (Harona Kala)_87270
+.2003_Patiala Dete_87270
+.2001_Wee Tana_87270
+53.12.12_Lamboya_87271
+.2014_Bodo Hula_87271
+.2008_Kabu Karudi_87271
+.2011_Laboya Dete_87271
+.2006_Lamboya Bawah (Laboya Bawa)_87271
+.2015_Pala Moko_87271
+.2004_Patiala Bawa_87271
+.2009_Rajak (Rajaka)_87271
+.2012_Ringu Rara_87271
+.2010_Sodan (Sodana)_87271
+.2005_Wailibo (Welibo)_87271
+.2007_Watu Karere_87271
+53.12.10_Loli_87284
+.2004_Bali Ledo_87284
+.2001_Bera Dolu_87284
+.2005_Dedekadu (Dede Kadu)_87284
+.1013_Dira Tana_87284
+.2002_Doka Kaka_87284
+.1011_Loda Pare_87284
+.2014_Manola_87284
+.1008_Sobawawi (Soba Wawi)_87284
+.2003_Tana Rara_87284
+.2009_Tema Tana_87284
+.2006_Ubu Pede_87284
+.2010_Ubu Raya_87284
+.1012_Wee Dabo_87284
+.1007_Wee Karou_87284
+53.12.04_Tana Righu_87257
+.2010_Bondo Tera_87257
+.2016_Elu Loda_87257
+.2017_Kalebu Ana Kaka_87257
+.2006_Karaka Nduku (Kareka Nduku)_87257
+.2014_Kareka Nduku Selatan_87257
+.2013_Kareka Nduku Utara_87257
+.2005_Lingu Lango_87257
+.2001_Loko Ri (Ry)_87257
+.2012_Lolo Tana_87257
+.2002_Lolo Wano_87257
+.2003_Malata_87257
+.2011_Manu Kuku_87257
+.2015_Manu Mada (Manu Mada Pemekaran)_87257
+.2004_Ngadu Pada_87257
+.2018_Tarona_87257
+.2007_Wano Kasa (Wanokaza)_87257
+.2008_Wee Patola_87257
+.2009_Zala Kadu_87257
+53.12.11_Wanokaka_87272
+.2013_Ana Wolu_87272
+.2007_Bali Loku_87272
+.2004_Hoba Wawi_87272
+.2002_Hupu Mada_87272
+.2001_Katiku Loku_87272
+.2009_Mamodu_87272
+.2006_Pahola_87272
+.2014_Pari Rara_87272
+.2003_Praibakul (Prai Bakul)_87272
+.2011_Rewa Rara_87272
+.2010_Rua_87272
+.2008_Tara Manu_87272
+.2005_Waihura (Wai Hura)_87272
+.2012_Wei Mangoma_87272

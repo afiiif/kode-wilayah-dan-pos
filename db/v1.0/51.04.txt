@@ -1,0 +1,77 @@
+51.04.02_Blahbatuh (Belah Batuh)_80581
+.2007_Bedulu_80581
+.2004_Belega_80581
+.2005_Blahbatuh_80581
+.2009_Bona_80581
+.2006_Buruan_80581
+.2003_Keramas_80581
+.2008_Medahan_80581
+.2002_Pering_80581
+.2001_Saba_80581
+51.04.03_Gianyar_80511|80515
+.1005_Abianbase_80515
+.2009_Bakbakan_80515
+.1008_Beng_80513
+.1007_Bitera_80515
+.1006_Gianyar_80511
+.2004_Lebih_80515
+.2012_Petak_80515
+.2014_Petak Kaja_80515
+.1003_Samplangan_80512
+.2013_Serongga_80515
+.2010_Siangan_80515
+.2002_Sidan_80515
+.2016_Sumita_80515
+.2011_Suwat_80515
+.2017_Tegal Tugu_80515
+.2015_Temesi_80515
+.2001_Tulikup_80515
+51.04.07_Payangan_80572
+.2009_Bresela (Beresela)_80572
+.2005_Buahan_80572
+.2008_Buahan Kaja_80572
+.2003_Bukian_80572
+.2002_Kelusa_80572
+.2006_Kerta_80572
+.2001_Melinggih_80572
+.2007_Melinggih Kelod_80572
+.2004_Puhu_80572
+51.04.01_Sukawati_80582
+.2007_Batuan_80582
+.2012_Batuan Kaler_80582
+.2001_Batubulan_80582
+.2009_Batubulan Kangin_80582
+.2005_Celuk_80582
+.2003_Guwang_80582
+.2008_Kemenuh_80582
+.2002_Ketewel_80582
+.2006_Singapadu_80582
+.2011_Singapadu Kaler_80582
+.2010_Singapadu Tengah_80582
+.2004_Sukawati_80582
+51.04.04_Tampaksiring (Tampak Siring)_80552
+.2004_Manukaya_80552
+.2001_Pejeng_80552
+.2006_Pejeng Kaja_80552
+.2007_Pejeng Kangin_80552
+.2005_Pejeng Kawan_80552
+.2008_Pejeng Klod (Kelod)_80552
+.2002_Sanding_80552
+.2003_Tampaksiring_80552
+51.04.06_Tegallalang_80561
+.2004_Kedisan_80561
+.2001_Keliki_80561
+.2003_Kenderan_80561
+.2005_Pupuan_80561
+.2006_Sebatu_80561
+.2007_Taro_80561
+.2002_Tegallalang_80561
+51.04.05_Ubud_80571
+.2004_Kedewatan_80571
+.2001_Lodtunduh_80571
+.2002_Mas_80571
+.2006_Peliatan_80571
+.2007_Petulu_80571
+.2008_Sayan_80571
+.2003_Singakerta (Singekerta)_80571
+.1005_Ubud_80571

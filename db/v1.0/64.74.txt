@@ -1,0 +1,18 @@
+64.74.03_Bontang Barat_75313|75383
+.1001_Belimbing_75313
+.1003_Kanaan_75383
+.1002_Telihan (Gunung Telihan)_75383
+64.74.02_Bontang Selatan_75321|75325
+.1003_Berebas Pantai (Berbas Pantai)_75325
+.1002_Berebas Tengah (Berbas Tengah)_75325
+.1005_Bontang Lestari_75325
+.1004_Satimpo_75324
+.1001_Tanjung Laut_75321
+.1006_Tanjung Laut Indah_75325
+64.74.01_Bontang Utara_75311|75314
+.1006_Api-Api_75311
+.1002_Bontang Baru_75311
+.1001_Bontang Kuala_75312
+.1004_Guntung_75314
+.1005_Gunung Elai_75311
+.1003_Loktuan (Lok Tuan)_75314

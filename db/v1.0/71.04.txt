@@ -1,0 +1,172 @@
+71.04.02_Beo_95876
+.2011_Bantik (Beo Bantik)_95876
+.2020_Bantik Lama_95876
+.2019_Bengel_95876
+.1005_Beo_95876
+.1018_Beo Barat_95876
+.1017_Beo Timur_95876
+71.04.18_Beo Selatan_95877
+.2007_Matahit_95877
+.2003_Niampak_95877
+.2004_Niampak Utara_95877
+.2001_Pampalu (Papmpalu)_95877
+.2002_Rusoh (Russoh/Ruso)_95877
+.2005_Tarohan_95877
+.2006_Tarohan Selatan_95877
+71.04.14_Beo Utara_95881
+.2003_Awit_95881
+.2004_Awit Selatan_95881
+.2007_Lobbo_95881
+.2008_Lobbo I_95881
+.1001_Makatara_95881
+.1002_Makatara Timur_95881
+.2005_Rae_95881
+.2006_Rae Selatan_95881
+71.04.09_Damau (Damao)_95872
+.2004_Akas_95872
+.2008_Akas Balane_95872
+.2003_Birang_95872
+.2005_Damau_95872
+.2006_Damau Bowone (Damau Bawone)_95872
+.2002_Ighik_95872
+.2001_Peret_95872
+.2007_Taduwale_95872
+71.04.04_Essang_95883
+.2008_Bulude_95883
+.2019_Bulude Selatan_95883
+.2006_Essang_95883
+.2018_Essang Selatan_95883
+.2007_Lalue_95883
+.2020_Lalue Tengah_95883
+.2021_Lalue Utara_95883
+.2016_Maririk_95883
+71.04.19_Essang Selatan_95887
+.2006_Ambia_95887
+.2007_Ambia Utara_95887
+.2005_Batumbalango_95887
+.2003_Ensem_95887
+.2004_Ensem I (Ensem Timur)_95887
+.2008_Kuma_95887
+.2009_Kuma Selatan_95887
+.2002_Sambuara_95887
+.2001_Sambuara Satu_95887
+71.04.08_Gemeh_95888
+.2007_Apan_95888
+.2005_Arangkaa_95888
+.2002_Bambung_95888
+.2012_Bambung Timur_95888
+.2009_Bannada_95888
+.2004_Gemeh_95888
+.2010_Gemeh Rasmata (Gemeh Raamata)_95888
+.2011_Gemeh Wantane_95888
+.2015_Lahu_95888
+.2006_Malat_95888
+.2013_Malat Utara_95888
+.2001_Mamahan_95888
+.2014_Mamahan Barat_95888
+.2008_Taruan_95888
+.2003_Taturan_95888
+71.04.06_Kabaruan_95873
+.2007_Bulude_95873
+.2020_Bulude Selatan_95873
+.2009_Kabaruan_95873
+.2017_Kabaruan Timur_95873
+.2011_Kordakel_95873
+.2010_Mangaran_95873
+.2001_Pangeran_95873
+.2019_Pannulan_95873
+.2008_Pantuge (Patuge)_95873
+.2018_Pantuge Timur (Patuge Timur)_95873
+.2012_Rarange_95873
+.2013_Taduna_95873
+71.04.12_Kalongan_95874
+.2004_Alude_95874
+.2001_Kalongan_95874
+.2003_Kalongan Selatan_95874
+.2002_Kalongan Utara_95874
+.2005_Musi I_95874
+71.04.01_Lirung_95875
+.1005_Lirung_95875
+.1024_Lirung Matane_95875
+.1011_Lirung Satu (Lirung I)_95875
+.2007_Musi_95875
+.2006_Sereh_95875
+.2017_Sereh I_95875
+.2015_Talolang_95875
+71.04.07_Melonguane_95885
+.2008_Ambela_95885
+.2003_Kiama_95885
+.2012_Kiama Barat_95885
+.2002_Mala_95885
+.2017_Mala Timur_95885
+.2015_Maredaren Utara_95885
+.1001_Melonguane_95885
+.1010_Melonguane Barat_95885
+.1009_Melonguane Timur_95885
+.2007_Sawang_95885
+.2016_Sawang Utara_95885
+.2006_Tarun_95885
+.2011_Tarun Selatan_95885
+71.04.16_Melonguane Timur_95886
+.2004_Bowombaru (Bawombaru)_95886
+.2005_Bowombaru Tengah_95886
+.2006_Bowombaru Utara_95886
+.2001_Tule_95886
+.2002_Tule Tengah_95886
+.2003_Tule Utara_95886
+71.04.13_Miangas_95889
+.2001_Pulau Miangas_95889
+71.04.17_Moronge_95870
+.2001_Moronge_95870
+.2002_Moronge I_95870
+.2003_Moronge II_95870
+.2004_Moronge Selatan_95870
+.2006_Moronge Selatan I_95870
+.2005_Moronge Selatan II_95870
+71.04.05_Nanusa_95884
+.2004_Dampulis_95884
+.2009_Dampulis Selatan_95884
+.2001_Kakorotan_95884
+.2005_Karatung_95884
+.2008_Karatung Selatan_95884
+.2007_Karatung Tengah_95884
+.2003_Laluhe_95884
+.2002_Marampit_95884
+.2010_Marampit Timur_95884
+71.04.15_Pulutan_95878
+.2004_Daran_95878
+.2005_Daran Utara_95878
+.2001_Pulutan_95878
+.2003_Pulutan Selatan_95878
+.2002_Pulutan Utara_95878
+71.04.03_Rainis_95880
+.2003_Alo_95880
+.2022_Alo Utara_95880
+.2006_Bantane_95880
+.2015_Bantane Utara_95880
+.2004_Nunu_95880
+.2020_Nunu Utara_95880
+.2014_Parangen_95880
+.2005_Rainis_95880
+.2021_Rainis Batupenga (Rainis Baru Penga)_95880
+.2007_Tabang_95880
+.2018_Tabang Barat_95880
+71.04.11_Salibabu_95871
+.2006_Balang_95871
+.2001_Bitunuris_95871
+.2002_Bitunuris Selatan_95871
+.2005_Dalum_95871
+.2003_Salibabu_95871
+.2004_Salibabu Utara_95871
+71.04.10_Tampan' Amma (Tampan Amma)_95882
+.2004_Ammat_95882
+.2009_Ammat Selatan_95882
+.2005_Binalang_95882
+.2010_Binalang Timur_95882
+.2002_Dapalan_95882
+.2007_Dapihe_95882
+.2006_Ganalo_95882
+.2003_Riung_95882
+.2011_Riung Utara_95882
+.2001_Tuabatu_95882
+.2008_Tuabatu Barat_95882

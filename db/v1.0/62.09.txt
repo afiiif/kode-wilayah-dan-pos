@@ -1,0 +1,96 @@
+62.09.08_Batang Kawa_74664
+.2001_Batu Tambun_74664
+.2004_Benakitan_74664
+.2003_Ginih_74664
+.2009_Jamuat (Jemuat)_74664
+.2007_Karang Mas_74664
+.2008_Kina_74664
+.2002_Kinipan_74664
+.2005_Liku_74664
+.2006_Mengkalang_74664
+62.09.07_Belantikan Raya_74663
+.2005_Bayat_74663
+.2004_Belibi (Balibi)_74663
+.2007_Benuatan_74663
+.2010_Bintang Mangalih (Bintang Mengalih)_74663
+.2008_Kahingai_74663
+.2006_Karang Besi_74663
+.2001_Nanga Belantikan_74663
+.2009_Nanga Matu_74663
+.2011_Petarikan_74663
+.2002_Sei/Sungai Buluh_74663
+.2012_Sumber Cahaya_74663
+.2003_Tangga Batu_74663
+62.09.03_Bulik_74162|74612
+.2037_Arga Mulya (Argo Mulyo)_74162
+.2003_Batu Kotam_74162
+.2007_Beruta (Baruta)_74162
+.2036_Bukit Indah_74162
+.2031_Bumi Agung_74162
+.2006_Bunut_74162
+.2002_Guci_74162
+.2004_Kujan_74612
+.1005_Nanga Bulik_74611
+.2044_Nanga Pamalontian_74162
+.2043_Perigi Raya_74162
+.2032_Sumber Mulya_74162
+.2001_Sungai Mentawa_74162
+.2008_Tamiang_74162
+62.09.04_Bulik Timur_74163
+.2009_Batu Tunggal_74163
+.2011_Bukit Jaya_74163
+.2007_Merambang_74163
+.2010_Nanga Kemujan_74163
+.2004_Nanga Koring_74163
+.2001_Nanga Palikodan_74163
+.2003_Nuangan_74163
+.2008_Pedongatan_74163
+.2006_Sepondam_74163
+.2012_Suka Maju (Sukamaju)_74163
+.2002_Sungkup_74163
+.2005_Toka_74163
+62.09.02_Delang_74665
+.2020_Hulu Jojabo_74665
+.2014_Kubung_74665
+.1017_Kudangan_74665
+.2012_Landau Kantu_74665
+.2013_Lopus_74665
+.2010_Nyalang_74665
+.2016_Penyombaan (Penyobaan)_74665
+.2004_Riam Panahan (Riam Penahan)_74665
+.2011_Riam Tinggi_74665
+.2015_Sekombulan_74665
+.2005_Sepoyu (Sepoyo)_74665
+62.09.01_Lamandau_74660
+.2009_Bakonsu_74660
+.2003_Cuhai_74660
+.2005_Karang Taba_74660
+.2004_Kawa_74660
+.2006_Penopa (Panopa)_74660
+.2022_Samu Jaya_74660
+.2008_Sekoban_74660
+.2007_Suja_74660
+.2001_Sungai Tuat_74660
+.2002_Tanjung Beringin_74660
+.1012_Tapin Bini_74660
+62.09.05_Menthobi Raya_74164
+.2003_Batu Ampar_74164
+.2011_Bukit Harum_74164
+.2006_Bukit Makmur_74164
+.2008_Bukit Raya_74164
+.2004_Lubuk Hiju_74164
+.2001_Melata_74164
+.2007_Modang Mas_74164
+.2009_Mukti Manunggal_74164
+.2002_Nanuah_74164
+.2010_Sumber Jaya_74164
+.2005_Topalan_74164
+62.09.06_Sematu Jaya_74165
+.2007_Batu Hambawang_74165
+.2001_Bina Bhakti_74165
+.2004_Jangkar Prima_74165
+.2003_Mekar Mulya_74165
+.2005_Purwareja (Purworejo)_74165
+.2008_Rimba Jaya_74165
+.2006_Tri Tunggal_74165
+.2002_Wonorejo_74165

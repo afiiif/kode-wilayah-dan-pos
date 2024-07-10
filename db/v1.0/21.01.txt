@@ -1,0 +1,61 @@
+21.01.14_Bintan Pesisir_29151
+.2004_Air Glubi/Gelubi_29151
+.2001_Kelong_29151
+.2002_Mapur_29151
+.2003_Numbing_29151
+21.01.06_Bintan Timur_29150
+.1010_Gunung Lengkuas_29150
+.1008_Kijang Kota_29150
+.1011_Sungai Enam_29150
+.1009_Sungai Lekop_29150
+21.01.07_Bintan Utara_29152
+.2005_Lancang Kuning_29152
+.1001_Tanjung Uban Kota_29152
+.1003_Tanjung Uban Selatan_29152
+.1011_Tanjung Uban Timur_29152
+.1002_Tanjung Uban Utara_29152
+21.01.04_Gunung Kijang_29155
+.2001_Gunung Kijang_29155
+.1005_Kawal_29155
+.2002_Malang Rapat_29155
+.2003_Teluk Bakau_29155
+21.01.13_Mantang_29156
+.2004_Dendun_29156
+.2001_Mantang Baru_29156
+.2002_Mantang Besar_29156
+.2003_Mantang Lama_29156
+21.01.15_Seri Kuala Lobam (Sri)_29153
+.2001_Busung_29153
+.2004_Kuala Sempang_29153
+.1005_Tanjung Permai_29153
+.1003_Teluk Lobam_29153
+.2002_Teluk Sasah_29153
+21.01.09_Tambelan_29193
+.2002_Batu Lepuk_29193
+.2003_Kampung Hilir_29193
+.2004_Kampung Melayu_29193
+.2007_Kukup_29193
+.2008_Pengikik_29193
+.2005_Pulau Mentebung_29193
+.2006_Pulau Pinang_29193
+.1001_Teluk Sekuni_29193
+21.01.10_Telok Sebong (Teluk Sebong)_29154
+.2001_Berakit_29154
+.2002_Ekang Anculai_29154
+.1007_Kota Baru_29154
+.2003_Pengudang_29154
+.2004_Sebung/Sebong Lagoi_29154
+.2005_Sebung/Sebong Pereh_29154
+.2006_Sri Bintan_29154
+21.01.08_Teluk Bintan_29132|29136
+.2001_Bintan Buyu_29133
+.2002_Pangkil_29136
+.2003_Penaga_29134
+.2004_Pengujan_29135
+.2005_Tembeling_29132
+.1006_Tembeling Tanjung_29132
+21.01.12_Toapaya_29157
+.2001_Toapaya_29157
+.1004_Toapaya Asri_29157
+.2003_Toapaya Selatan_29157
+.2002_Toapaya Utara_29157

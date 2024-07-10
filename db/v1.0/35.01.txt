@@ -1,0 +1,184 @@
+35.01.06_Arjosari_63581
+.2004_Arjosari_63581
+.2008_Borang_63581
+.2015_Gayuhan_63581
+.2009_Gegeran_63581
+.2007_Gembong_63581
+.2005_Gunungsari_63581
+.2017_Jatimalang_63581
+.2012_Jetiskidul (Jetis Kidul)_63581
+.2014_Karanggede_63581
+.2016_Karangrejo_63581
+.2010_Kedungbendo_63581
+.2011_Mangunharjo_63581
+.2001_Mlati_63581
+.2006_Pagutan_63581
+.2002_Sedayu_63581
+.2013_Temon_63581
+.2003_Tremas_63581
+35.01.08_Bandar_63583
+.2003_Bandar_63583
+.2007_Bangunsari_63583
+.2008_Jeruk_63583
+.2004_Kledung_63583
+.2002_Ngunut_63583
+.2001_Petungsinarang_63583
+.2005_Tumpuk_63583
+.2006_Watupatok_63583
+35.01.01_Donorojo_63554
+.2012_Belah_63554
+.2007_Cemeng_63554
+.2011_Donorojo_63554
+.2006_Gedompol_63554
+.2008_Gendaran_63554
+.2003_Kalak_63554
+.2005_Klepu_63554
+.2002_Sawahan_63554
+.2010_Sekar_63554
+.2004_Sendang_63554
+.2009_Sukodono_63554
+.2001_Widoro_63554
+35.01.05_Kebonagung (Kebon Agung)_63561
+.2013_Banjarjo_63561
+.2010_Gawang_63561
+.2014_Gembuk_63561
+.2003_Kalipelus_63561
+.2004_Karanganyar_63561
+.2002_Karangnongko_63561
+.2005_Katipugal_63561
+.2011_Kebonagung_63561
+.2018_Ketepung_63561
+.2019_Ketro_63561
+.2006_Klesem_63561
+.2009_Mantren_63561
+.2001_Plumbungan (Pelumbungan)_63561
+.2016_Punjung_63561
+.2012_Purwoasri_63561
+.2015_Sanggrahan_63561
+.2007_Sidomulyo_63561
+.2017_Wonogondo_63561
+.2008_Worawari_63561
+35.01.07_Nawangan_63584
+.2001_Gondang_63584
+.2006_Jetis Lor (Jetislor)_63584
+.2002_Mujing_63584
+.2004_Nawangan_63584
+.2009_Ngromo_63584
+.2008_Pakis Baru (Pakisbaru)_63584
+.2007_Penggung_63584
+.2003_Sempu_63584
+.2005_Tokawi (Tokawai)_63584
+35.01.11_Ngadirojo_63572
+.2010_Bodag_63572
+.2008_Bogoharjo (Begoharjo)_63572
+.2013_Cangkring_63572
+.2009_Cokrokembang_63572
+.2004_Hadiluwih_63572
+.2002_Hadiwarno_63572
+.2007_Ngadirojo_63572
+.2012_Nogosari_63572
+.2005_Pagerejo (Pangerejo)_63572
+.2001_Sidomulyo_63572
+.2011_Tanjunglor (Tanjung Lor)_63572
+.2003_Tanjungpuro_63572
+.2006_Wiyoro_63572
+.2018_Wonoasri_63572
+.2015_Wonodadi Kulon_63572
+.2014_Wonodadi Wetan_63572
+.2016_Wonokarto_63572
+.2017_Wonosobo_63572
+35.01.04_Pacitan_63511|63518
+.2007_Arjowinangun_63516
+.1008_Baleharjo_63511
+.2009_Bangunsari_63518
+.2022_Banjarsari_63518
+.2023_Bolosingo_63518
+.2005_Kayen_63518
+.2003_Kembang_63518
+.2015_Menadi_63517
+.2016_Mentoro_63518
+.2018_Nanggungan_63518
+.1013_Pacitan_63512
+.1002_Ploso_63515
+.2024_Ponggok_63518
+.1012_Pucangsewu_63513
+.2017_Purworejo_63518
+.2021_Sambong_63518
+.2010_Sedeng_63518
+.2020_Semanten_63518
+.1001_Sidoharjo_63514
+.2006_Sirnoboyo_63518
+.2004_Sukoharjo_63518
+.2011_Sumberharjo_63518
+.2025_Tambakrejo_63518
+.2014_Tanjungsari_63518
+.2019_Widoro_63518
+35.01.02_Pringkuku_63552
+.2005_Candi_63552
+.2007_Dadapan_63552
+.2001_Dersono_63552
+.2011_Glinggangan_63552
+.2004_Jlubang_63552
+.2010_Ngadirejan_63552
+.2012_Pelem_63552
+.2006_Poko_63552
+.2008_Pringkuku_63552
+.2009_Sobo_63552
+.2002_Sugihwaras_63552
+.2013_Tamanasri_63552
+.2003_Watukarung (Watu Karung)_63552
+35.01.03_Punung_63553
+.2001_Bomo_63553
+.2011_Gondosari_63553
+.2012_Kebonsari_63553
+.2006_Kendal_63553
+.2008_Mantren_63553
+.2004_Mendolo Kidul_63553
+.2009_Mendolo Lor_63553
+.2005_Piton_63553
+.2010_Ploso_63553
+.2003_Punung_63553
+.2002_Sooka_63553
+.2013_Tinatar_63553
+.2007_Wareng_63553
+35.01.12_Sudimoro_63573
+.2009_Gunungrejo (Gunung Rejo)_63573
+.2008_Karangmulyo (Karang Mulyo)_63573
+.2005_Ketanggung_63573
+.2006_Klepu (Kelepu)_63573
+.2001_Pagerkidul (Pager Kidul)_63573
+.2002_Pagerlor (Pager Lor)_63573
+.2007_Sembowo_63573
+.2004_Sudimoro_63573
+.2003_Sukorejo_63573
+.2010_Sumberejo (Sumber Rejo)_63573
+35.01.09_Tegalombo_63582
+.2002_Gedangan_63582
+.2006_Gemaharjo_63582
+.2004_Kasihan_63582
+.2001_Kebondalem_63582
+.2009_Kemuning_63582
+.2003_Ngreco (Ngereco)_63582
+.2007_Ploso_63582
+.2005_Pucangombo_63582
+.2010_Tahunan_63582
+.2011_Tahunan Baru_63582
+.2008_Tegalombo_63582
+35.01.10_Tulakan_63571
+.2012_Bubakan_63571
+.2006_Bungur_63571
+.2009_Gasang_63571
+.2008_Jatigunung_63571
+.2001_Jetak_63571
+.2010_Kalikuning_63571
+.2016_Ketro_63571
+.2017_Ketro Harjo_63571
+.2005_Kluwih_63571
+.2013_Losari_63571
+.2011_Ngile_63571
+.2002_Nglaran (Ngelaran)_63571
+.2014_Ngumbul_63571
+.2004_Padi_63571
+.2007_Tulakan_63571
+.2003_Wonoanti_63571
+.2015_Wonosidi_63571

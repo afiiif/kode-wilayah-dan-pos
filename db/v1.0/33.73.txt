@@ -1,0 +1,27 @@
+33.73.03_Argomulyo_50732|50736
+.1006_Cebongan_50736
+.1004_Kumpulrejo_50734
+.1002_Ledok_50732
+.1001_Noborejo_50736
+.1005_Randuacir_50735
+.1003_Tegalrejo_50733
+33.73.04_Sidomukti_50721|50724
+.1002_Dukuh_50722
+.1004_Kalicacing_50724
+.1001_Kecandran_50723
+.1003_Mangunsari_50721
+33.73.01_Sidorejo_50711|50716
+.1001_Blotongan_50715
+.1004_Bugel_50713
+.1005_Kauman Kidul_50712
+.1006_Pulutan_50716
+.1003_Salatiga_50711
+.1002_Sidorejo Lor_50714
+33.73.02_Tingkir_50741|50746
+.1002_Gendongan_50743
+.1004_Kalibening_50744
+.1001_Kutowinangun Kidul_50742
+.1007_Kutowinangun Lor_50742
+.1003_Sidorejo Kidul_50741
+.1005_Tingkir Lor_50746
+.1006_Tingkir Tengah_50745

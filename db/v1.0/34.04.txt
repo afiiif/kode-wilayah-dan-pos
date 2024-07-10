@@ -1,0 +1,103 @@
+34.04.08_Berbah_55573
+.2004_Jogotirto (Jogo Tirto)_55573
+.2003_Kalitirto (Kali Tirto)_55573
+.2001_Sendangtirto (Sendang Tirto)_55573
+.2002_Tegaltirto (Tegal Tirto)_55573
+34.04.17_Cangkringan_55583
+.2001_Argomulyo (Argo Mulyo)_55583
+.2003_Glagaharjo (Glagah Harjo)_55583
+.2004_Kepuharjo (Kepuh Harjo)_55583
+.2005_Umbulharjo (Umbul Harjo)_55583
+.2002_Wukirsari (Wukir Sari)_55583
+34.04.07_Depok_55281|55283
+.2001_Caturtunggal (Catur Tunggal)_55281
+.2003_Condongcatur (Condong Catur)_55283
+.2002_Maguwoharjo_55282
+34.04.01_Gamping_55291|55592
+.2002_Ambarketawang_55294
+.2001_Balecatur_55295
+.2003_Banyuraden_55293
+.2004_Nogotirto_55592
+.2005_Trihanggo_55291
+34.04.02_Godean_55264
+.2004_Sidoagung_55264
+.2006_Sidoarum_55264
+.2005_Sidokarto_55264
+.2002_Sidoluhur_55264
+.2007_Sidomoyo_55264
+.2003_Sidomulyo_55264
+.2001_Sidorejo_55264
+34.04.10_Kalasan_55571
+.2001_Purwomartani (Purwo Martani)_55571
+.2004_Selomartani (Selo Martani)_55571
+.2003_Tamanmartani (Taman Martani)_55571
+.2002_Tirtomartani (Tirto Martani)_55571
+34.04.04_Minggir_55562
+.2003_Sendangagung_55562
+.2001_Sendangarum (Sendang Arum)_55562
+.2002_Sendangmulyo (Sendang Mulyo)_55562
+.2005_Sendangrejo (Sendang Rejo)_55562
+.2004_Sendangsari_55562
+34.04.06_Mlati_55284|55288
+.2002_Sendangadi_55285
+.2001_Sinduadi_55284
+.2005_Sumberadi_55288
+.2004_Tirtoadi_55287
+.2003_Tlogoadi_55286
+34.04.03_Moyudan_55563
+.2003_Sumberagung (Sumber Agung)_55563
+.2001_Sumberahayu (Sumberrahayu)_55563
+.2004_Sumberarum_55563
+.2002_Sumbersari_55563
+34.04.12_Ngaglik_55581
+.2006_Donoharjo_55581
+.2002_Minomartani_55581
+.2005_Sardonoharjo_55581
+.2001_Sariharjo (Sari Harjo)_55581
+.2003_Sinduharjo_55581
+.2004_Sukoharjo (Suko Harjo)_55581
+34.04.11_Ngemplak_55584
+.2002_Bimomartani (Bimo Martani)_55584
+.2001_Sindumartani_55584
+.2005_Umbulmartani_55584
+.2004_Wedomartani_55584
+.2003_Widodomartani (Widodo Martani)_55584
+34.04.16_Pakem_55582
+.2002_Candibinangun (Candi Binangun)_55582
+.2005_Hargobinangun (Hargo Binangun)_55582
+.2003_Harjobinangun (Harjo Binangun)_55582
+.2004_Pakembinangun (Pakem Binangun)_55582
+.2001_Purwobinangun (Purwo Binangun)_55582
+34.04.09_Prambanan_55572
+.2006_Bokoharjo (Boko Harjo)_55572
+.2003_Gayamharjo (Gayam Harjo)_55572
+.2005_Madurejo (Madu Rejo)_55572
+.2004_Sambirejo (Sambi Rejo)_55572
+.2001_Sumberharjo (Sumber Harjo)_55572
+.2002_Wukirharjo (Wukir Harjo)_55572
+34.04.05_Seyegan_55561
+.2005_Margoagung_55561
+.2002_Margodadi_55561
+.2003_Margokaton_55561
+.2001_Margoluwih_55561
+.2004_Margomulyo_55561
+34.04.13_Sleman_55511|55515
+.2001_Caturharjo (Catur Harjo)_55515
+.2004_Pandowoharjo (Pandowo Harjo)_55512
+.2003_Tridadi_55511
+.2002_Triharjo_55514
+.2005_Trimulyo (Tri Mulyo)_55513
+34.04.14_Tempel_55552
+.2001_Banyurejo (Banyu Rejo)_55552
+.2007_Lumbungrejo (Lumbung Rejo)_55552
+.2006_Margorejo (Margo Rejo)_55552
+.2008_Merdikorejo (Merdiko Rejo)_55552
+.2005_Mororejo (Moro Rejo)_55552
+.2004_Pondokrejo (Pondok Rejo)_55552
+.2003_Sumberrejo (Sumber Rejo)_55552
+.2002_Tambakrejo (Tambak Rejo)_55552
+34.04.15_Turi_55551
+.2001_Bangunkerto (Bangun Kerto)_55551
+.2002_Donokerto_55551
+.2003_Girikerto (Giri Kerto)_55551
+.2004_Wonokerto (Wono Kerto)_55551

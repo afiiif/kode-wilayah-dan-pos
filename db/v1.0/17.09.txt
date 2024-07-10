@@ -1,0 +1,154 @@
+17.09.10_Bang Haji_38372
+.2008_Air Napal_38372
+.2011_Bang Haji_38372
+.2009_Genting_38372
+.2007_Lubuk Langkap_38372
+.2006_Padang Berunai_38372
+.2001_Sekayun_38372
+.2003_Sekayun Hilir / Ilir_38372
+.2002_Sekayun Mudik_38372
+.2012_Sungkai Berayun_38372
+.2005_Taba Tengah_38372
+.2004_Talang Donok_38372
+.2010_Talang Panjang_38372
+17.09.01_Karang Tinggi_38382
+.2004_Durian Demang_38382
+.2007_Dusun Baru II_38382
+.2011_Kancing_38382
+.2009_Karang Tinggi_38382
+.2003_Padang Tambak_38382
+.2008_Penanding_38382
+.2005_Plaju (Pelajau)_38382
+.2010_Rena Lebar_38382
+.2015_Rena Semanek_38382
+.2013_Taba Mutung_38382
+.2001_Taba Terunjam_38382
+.2002_Talang Empat_38382
+.2012_Ujung Karang_38382
+17.09.07_Merigi Kelindang_38386
+.2010_Bajak II (Bajak I)_38386
+.2001_Jambu_38386
+.2009_Kelindang_38386
+.2013_Kelindang Atas_38386
+.2005_Lubuk Unen_38386
+.2011_Lubuk Unen Baru_38386
+.2012_Padang Kedeper_38386
+.2002_Penembang_38386
+.2007_Pungguk Beringin_38386
+.2006_Pungguk Ketupak (Pungguk Ketupat)_38386
+.2004_Taba Durian Sebakul_38386
+.2003_Talang Ambung / Lambung_38386
+.2008_Ulak Lebar_38386
+17.09.08_Merigi Sakti_38383
+.2006_Arga Indah II_38383
+.2002_Bajak Tiga (Bajak III)_38383
+.2007_Curup_38383
+.2011_Durian Lebar_38383
+.2008_Karang Panggung_38383
+.2001_Komering_38383
+.2009_Lubuk Pendam_38383
+.2010_Lubuk Puar_38383
+.2012_Pagar Agung_38383
+.2015_Pagar Besi_38383
+.2013_Pungguk Jaya_38383
+.2004_Punjung_38383
+.2003_Rajab Besi / Rajak Besi_38383
+.2005_Susup_38383
+.2014_Taba Gemantung (Taba Gematung)_38383
+17.09.05_Pagar Jati_38381
+.2018_Arga Indah I_38381
+.2013_Datar Penokot / Penokat_38381
+.2012_Karang Are_38381
+.2022_Keroya_38381
+.2009_Kerta Pati_38381
+.2023_Kerta Pati Mudik_38381
+.2014_Layang Lekat_38381
+.2010_Pagar Jati_38381
+.2024_Rena Jaya_38381
+.2017_Rena Kandis_38381
+.2008_Taba Renah / Rena_38381
+.2016_Talang Curup_38381
+.2006_Temiang_38381
+.2015_Tumbuk_38381
+17.09.04_Pematang Tiga_38370
+.2015_Air Kotok_38370
+.2002_Aturan Mumpo_38370
+.2022_Aturan Mumpo II_38370
+.2016_Batu Bariang / Beriang_38370
+.2023_Genting Dabuk_38370
+.2019_Kebun Lebar_38370
+.2004_Kota Titik_38370
+.2017_Pematang Tiga_38370
+.2021_Pematang Tiga Lama_38370
+.2007_Senabah / Senaban_38370
+.2003_Talang Tengah II_38370
+.2020_Tanjung Kepayang / Kepahyang_38370
+.2018_Tiambang_38370
+17.09.03_Pondok Kelapa_38371
+.2024_Abu Sakim_38371
+.2023_Bintang Selatan_38371
+.2025_Harapan (Desa Harapan)_38371
+.2020_Kembang Ayun_38371
+.2015_Padang Betuah_38371
+.2019_Pagar Dewa_38371
+.2021_Panca Mukti_38371
+.2012_Pasar Pedati_38371
+.2011_Pekik Nyaring_38371
+.2014_Pondok Kelapa_38371
+.2017_Sidodadi_38371
+.2016_Sidoreja (Sidorejo/Siderejo)_38371
+.2022_Sri Kuncoro_38371
+.2010_Srikaton_38371
+.2013_Sunda Kelapa_38371
+.2018_Talang Buseng / Boseng_38371
+.2009_Talang Pauh_38371
+17.09.09_Pondok Kubang_38375|38378
+.2002_Batu Raja_38375
+.2003_Dusun Anyar_38375
+.2009_Dusun Baru I_38376
+.2010_Harapan Makmur_38376
+.2008_Linggar Galing_38375
+.2011_Margo Mulyo (Margo Mulya)_38377
+.2006_Paku Haji_38375
+.2001_Pondok Kubang_38375
+.2012_Taba Jambu_38378
+.2005_Talang Tengah I (Talang Tengah)_38375
+.2004_Tanjung Dalam_38378
+.2007_Tanjung terdana_38375
+17.09.11_Semidang Lagan_38382|38388
+.2010_Bukit_38385
+.2004_Gajah Mati_38382
+.2002_Karang Nanding_38382
+.2011_Kota Niur_38388
+.2009_Lagan_38385
+.2006_Lagan Bungin_38385
+.2005_Padang Siring_38382
+.2001_Pagar Gunung_38382
+.2007_Pagar Jati_38385
+.2003_Semidang_38382
+.2008_Taba Lagan_38385
+17.09.06_Taba Penanjung_38388
+.2023_Bajak I_38388
+.2012_Datar Lebar_38388
+.2004_Karang Tengah_38388
+.2005_Lubuk Sini_38388
+.2013_Penum_38388
+.2010_Rindu Hati_38388
+.2003_Sukarami (Suka Rami)_38388
+.2009_Surau_38388
+.2024_Taba Baru_38388
+.1007_Taba Penanjung_38388
+.2008_Taba Teret_38388
+.2011_Tanjung Heran_38388
+.2002_Tanjung Raman_38388
+17.09.02_Talang Empat_38385
+.2017_Air Putih_38385
+.2001_Air Sebakul_38385
+.2007_Jayakarta (Jaya Karta)_38385
+.2014_Jum'at (Jumat)_38385
+.2005_Kembang Seri_38385
+.2008_Nakau_38385
+.2015_Padang Ulak Tanjung (Padang UlakTanjung)_38385
+.2009_Pulau Panggung_38385
+.2004_Taba Pasema (Pasmah)_38385
+.2006_Tengah Padang_38385

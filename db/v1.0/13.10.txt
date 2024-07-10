@@ -1,0 +1,63 @@
+13.10.10_Asam Jujuhan_27684
+.2002_Alahan Nan Tigo_27684
+.2003_Lubuk Besar_27684
+.2001_Sei/Sungai Limau_27684
+.2005_Sinamar_27684
+.2004_Tanjung Alam_27684
+13.10.01_Koto Baru_27681
+.2005_Ampang Kuranji_27681
+.2002_Koto Baru_27681
+.2008_Koto Padang_27681
+.2003_Sialang Gaung_27681
+13.10.11_Koto Besar_27685
+.2005_Abai Siat_27685
+.2004_Bonjol_27685
+.2001_Koto Besar_27685
+.2003_Koto Gadang_27685
+.2006_Koto Laweh_27685
+.2007_Koto Ranah_27685
+.2002_Koto Tinggi_27685
+13.10.07_Koto Salak_27680
+.2002_Ampalu_27680
+.2001_Koto Salak_27680
+.2003_Padukuan_27680
+.2004_Pulau Mainan_27680
+.2005_Simalidu_27680
+13.10.09_Padang Laweh_27682
+.2002_Batu Rijal_27682
+.2003_Muaro Sopan_27682
+.2001_Padang Laweh_27682
+.2004_Sopan Jaya_27682
+13.10.02_Pulau Punjung_27573
+.2006_Empat Koto Pulau Punjung_27573
+.2008_Gunung Selasih_27573
+.2009_Sikabau_27573
+.2001_Sungai Dareh_27573
+.2007_Sungai Kambut_27573
+.2002_Tebing Tinggi_27573
+13.10.05_Sembilan Koto_27683
+.2004_Banai_27683
+.2003_Koto Nan Empat Dibawuh_27683
+.2002_Lubuak Karak_27683
+.2001_Silago_27683
+13.10.04_Sitiung_27678
+.2004_Gunung Medan_27678
+.2005_Sei/Sungai Duo_27678
+.2002_Siguntur_27678
+.2001_Sitiung_27678
+13.10.03_Sungai Rumbai_27686
+.2004_Kurnia Koto Salak_27686
+.2008_Kurnia Selatan_27686
+.2003_Sungai Rumbai_27686
+.2007_Sungai Rumbai Timur_27686
+13.10.06_Timpeh_27679
+.2004_Panyubarangan (Panyuberangan)_27679
+.2005_Ranah Palabi_27679
+.2003_Tabek (Penyebrangan)_27679
+.2002_Taratak Tinggi_27679
+.2001_Timpeh_27679
+13.10.08_Tiumang_27687
+.2003_Koto Beringin (Koto Baringin)_27687
+.2002_Sei/Sungai Langkok_27687
+.2004_Sipangkur_27687
+.2001_Tiumang_27687

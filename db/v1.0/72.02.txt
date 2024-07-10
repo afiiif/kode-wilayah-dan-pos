@@ -1,0 +1,189 @@
+72.02.03_Lage_94661
+.2009_Bategencu_94661
+.2015_Labuadago_94661
+.2014_Labuan_94661
+.2012_Malei_94661
+.2006_Maliwuko_94661
+.2002_Pandiri_94661
+.2017_Rato'ombu_94661
+.2008_Sepe_94661
+.2007_Silanca_94661
+.2013_Sintuwulemba_94661
+.2005_Tagolu_94661
+.2004_Tambaro_94661
+.2001_Tampemadoro_94661
+.2011_Tongko_94661
+.2010_Toyado_94661
+.2003_Watuawu_94661
+72.02.23_Lore Barat_94654
+.2002_Kageroa_94654
+.2005_Kolori_94654
+.2006_Lelio_94654
+.2004_Lengkeka_94654
+.2003_Tomehipi_94654
+.2001_Tuare_94654
+72.02.25_Lore Piore_94653
+.2002_Betue_94653
+.2005_Siliwanga_94653
+.2003_Talabosa_94653
+.2004_Wanga_94653
+.2001_Watutau_94653
+72.02.09_Lore Selatan_94655
+.2007_Badangkaiya (Badangkaia)_94655
+.2008_Bakekau_94655
+.2010_Bewa_94655
+.2012_Bomba_94655
+.2009_Bulili_94655
+.2005_Gintu_94655
+.2011_Pada_94655
+.2006_Runde_94655
+72.02.08_Lore Tengah_94656
+.2008_Baleura (Baliura)_94656
+.2004_Bariri_94656
+.2003_Doda_94656
+.2001_Hangira (Hanggira)_94656
+.2006_Katu_94656
+.2002_Lempe_94656
+.2007_Rompo_94656
+.2005_Torire_94656
+72.02.24_Lore Timur_94657
+.2005_Kalemago_94657
+.2002_Maholo_94657
+.2004_Mekarsari_94657
+.2003_Tamadue_94657
+.2001_Winowanga_94657
+72.02.07_Lore Utara_94658
+.2009_Alitupu_94658
+.2016_Bumi Banyusari_94658
+.2001_Dodolo_94658
+.2006_Kaduwaa_94658
+.2008_Sedoa_94658
+.2007_Watumaeta_94658
+.2014_Wuasa_94658
+72.02.20_Pamona Barat_94662
+.2002_Meko_94662
+.2006_Owini_94662
+.2004_Salukaia_94662
+.2001_Taipa_94662
+.2003_Toinasa_94662
+.2005_Uranosari_94662
+72.02.04_Pamona Puselemba_94663
+.2005_Buyumpondoli_94663
+.2010_Dulumai_94663
+.2021_Leboni_94663
+.2004_Mayakeli_94663
+.1006_Pamona_94663
+.2009_Peura_94663
+.1008_Sangele_94663
+.2019_Soe_94663
+.1001_Tentena_94663
+.2003_Tonusu_94663
+.2022_Wera_94663
+72.02.06_Pamona Selatan_94664
+.2003_Bancea_94664
+.2021_Bangunjaya (Bangun Jaya)_94664
+.2004_Boe_94664
+.2020_Mayajaya (Maya Jaya)_94664
+.2018_Mayasari (Maya Sari)_94664
+.2007_Mayoa_94664
+.2019_Pandajaya (Panda Jaya)_94664
+.2006_Pandayora_94664
+.2022_Panjo_94664
+.2023_Pasir Putih_94664
+.2005_Pendolo_94664
+.2008_Uelene_94664
+72.02.26_Pamona Tenggara_94665
+.2009_Barati_94665
+.2001_Korobono_94665
+.2002_Omporiwo (Amporiwo)_94665
+.2008_Salindu_94665
+.2007_Singkona_94665
+.2005_Tindoli_94665
+.2004_Tokilo_94665
+.2006_Tolambo_94665
+.2003_Wayura_94665
+72.02.05_Pamona Timur_94666
+.2007_Didiri_94666
+.2006_Kamba_94666
+.2012_Kancuu_94666
+.2008_Kelei_94666
+.2013_Magapu_94666
+.2010_Masewe_94666
+.2011_Matialemba_94666
+.2005_Olumokunde_94666
+.2004_Pancasila_94666
+.2003_Petiro_94666
+.2009_Poleganyara_94666
+.2001_Taripa_94666
+.2002_Tiu_94666
+72.02.27_Pamona Utara_94667
+.2004_Kuku_94667
+.2007_Lena_94667
+.2005_Panjoka_94667
+.1009_Petirodongi_94667
+.2003_Sangira_94667
+.2001_Saojo_94667
+.1008_Sawidago_94667
+.2002_Sulewana_94667
+.1010_Tendeadongi_94667
+.2006_Uelincu_94667
+72.02.01_Poso Kota_94617|94619
+.1007_Gebangrejo_94619
+.1017_Gebangrejo Barat_94619
+.1016_Gebangrejo Timur_94619
+.1003_Kayamanya_94617
+.1018_Kayamanya Sentral_94617
+.1002_Moengko Baru_94618
+.1001_Moengko Lama_94618
+72.02.21_Poso Kota Selatan_94613|94619
+.1002_Bukit Bambu_94614
+.1003_Kawua_94619
+.1005_Lembamawo (Lembomawo)_94617
+.1004_Ronononcu (Ranononcu)_94619
+.1001_Sayo_94613
+72.02.22_Poso Kota Utara_94611|94616
+.1001_Bonesompe_94616
+.1002_Kasintuwu_94611
+.1004_Lawanga_94615
+.1007_Lawanga Tawongan_94615
+.1003_Lombogia (Lombugia)_94612
+.1006_Madale_94614
+.1005_Tegalrejo (Tegal Rejo)_94615
+72.02.02_Poso Pesisir_94652
+.2012_Bega_94652
+.2007_Betania_94652
+.1008_Kasinguncu_94652
+.2027_Lanto Jaya_94652
+.2028_Lape_94652
+.1009_Mapane_94652
+.2013_Masamba_94652
+.2016_Masani_94652
+.2015_Pinedapa_94652
+.2014_Saatu_94652
+.1031_Tabalu_94652
+.2018_Tiwaa_94652
+.2010_Toini_94652
+.2017_Tokorondo_94652
+.2029_Towu_94652
+.2030_Ueralulu_94652
+72.02.19_Poso Pesisir Selatan_94650
+.2006_Betalemba_94650
+.2001_Dewua_94650
+.2004_Malitu_94650
+.2008_Padalembara_94650
+.2007_Pantangolemba_94650
+.2005_Patiwunga_94650
+.2002_Sangginora_94650
+.2003_Tangkura_94650
+.2009_Taunca_94650
+72.02.18_Poso Pesisir Utara_94651
+.2007_Bakti Agung_94651
+.2003_Kalora_94651
+.2002_Kawende_94651
+.2001_Kilo_94651
+.2011_Maranda_94651
+.2010_Membuke_94651
+.2004_Tambarana_94651
+.2009_Tobe_94651
+.2006_Tri Mulya_94651
+.2005_Tumora_94651

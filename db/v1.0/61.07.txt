@@ -1,0 +1,141 @@
+61.07.04_Bengkayang_79212|79213
+.2006_Bani Amas/Emas_79211
+.2004_Bhakti/Bakti Mulya_79213
+.1001_Bumi Emas_79212
+.1010_Sabalo (Sebalo)_79211
+.2009_Setia Budi_79211
+.2003_Tirta Kencana_79211
+61.07.11_Capkala_79271
+.2004_Aris_79271
+.2001_Capkala_79271
+.2002_Mandor_79271
+.2006_Pawangi_79271
+.2005_Sebandut (Sabandut)_79271
+.2003_Setanduk_79271
+61.07.07_Jagoi Babang_79286
+.2007_Gersik_79286
+.2001_Jagoi_79286
+.2002_Kumba_79286
+.2006_Sekida (Jagoi Sekida)_79286
+.2008_Semunying Jaya (Semunyin Jaya)_79286
+.2009_Sinar Baru_79286
+61.07.03_Ledo_79283
+.2005_Dayung_79283
+.2007_Jesape_79283
+.2001_Lesabela_79283
+.2011_Lomba Karya_79283
+.2004_Rodaya_79283
+.2013_Seles_79283
+.2002_Semangat_79283
+.2003_Serangkat_79283
+.2012_Sidai_79283
+.2019_Suka Damai_79283
+.2021_Suka Jaya_79283
+.2018_Tebuah Marong (Trans)_79283
+61.07.16_Lembah Bawang_79281
+.2007_Godang Damar_79281
+.2003_Janyat_79281
+.2008_Kinande_79281
+.2002_Lembah Bawang_79281
+.2006_Papan Tembawang_79281
+.2005_Papan Uduk_79281
+.2001_Saka Taru_79281
+.2004_Tempapan_79281
+61.07.13_Lumar_79282
+.2004_Belimbing_79282
+.2005_Lamolda_79282
+.2001_Magmagan Karya_79282
+.2003_Seren Selimbau_79282
+.2002_Tiga Berkat_79282
+61.07.08_Monterado_79181
+.2007_Beringin Baru_79181
+.2002_Gerantung_79181
+.2004_Goa Boma_79181
+.2011_Jahandung_79181
+.2010_Mekar Baru_79181
+.2003_Monterado_79181
+.2006_Nek Ginap_79181
+.2009_Rantau_79181
+.2008_Sendoreng_79181
+.2012_Serindu_79181
+.2013_Siaga (Nyempen)_79181
+61.07.02_Samalantan_79280
+.2004_Babane_79280
+.2006_Bukit Serayan_79280
+.2007_Marunsu_79280
+.2005_Pasti Jaya_79280
+.2002_Sabau (Saba'u)_79280
+.2001_Samalantan_79280
+.2003_Tumiang_79280
+61.07.06_Sanggau Ledo_79284
+.2003_Bange_79284
+.2004_Danti_79284
+.2002_Gua_79284
+.2001_Lembang_79284
+.2005_Sango_79284
+61.07.05_Seluas_79285
+.2002_Bengkawan_79285
+.2005_Kalon_79285
+.2004_Mayak_79285
+.2003_Sahan_79285
+.2001_Seluas_79285
+.2006_Setangau Jaya (Sentangau Jaya)_79285
+61.07.12_Siding_79287
+.2005_Hli Buei_79287
+.2004_Siding_79287
+.2002_Sungkung I_79287
+.2007_Sungkung II_79287
+.2008_Sungkung III_79287
+.2009_Tamong_79287
+.2006_Tangguh_79287
+.2010_Tawang_79287
+61.07.14_Sungai Betung_79211
+.2001_Cipta Karya_79211
+.2003_Karya Bhakti_79211
+.2002_Suka Bangun_79211
+.2004_Suka Maju_79211
+61.07.01_Sungai Raya_79272
+.2001_Sei/Sungai Duri_79272
+.2004_Sei/Sungai Jaga A_79272
+.2005_Sei/Sungai Jaga B_79272
+.2006_Sei/Sungai Pangkalan I_79272
+.2007_Sei/Sungai Pangkalan II_79272
+61.07.15_Sungai Raya Kepulauan_79273
+.2004_Karimunting_79273
+.2005_Pulau Lemukutan_79273
+.2001_Rukma Jaya_79273
+.2002_Sei/Sungai Keran_79273
+.2003_Sei/Sungai Raya_79273
+61.07.10_Suti Semarang_79288
+.2004_Cempaka Putih_79288
+.2006_Kelayu (Kelayuk)_79288
+.2005_Kiung_79288
+.2002_Muhi Bersatu_79288
+.2001_Nangka_79288
+.2003_Suka Maju_79288
+.2007_Suti Semarang_79288
+.2008_Tapen_79288
+61.07.09_Teriak_79214
+.2007_Ampar Benteng_79214
+.2018_Bana_79214
+.2004_Bangun Sari_79214
+.2014_Benteng_79214
+.2001_Dharma Bhakti_79214
+.2013_Lulang_79214
+.2006_Malo Jelayan_79214
+.2010_Puteng_79214
+.2015_Sebente_79214
+.2005_Sebetung Menyala_79214
+.2011_Sekaruh_79214
+.2003_Setia Jaya_79214
+.2002_Sumber Karya_79214
+.2008_Tanjung_79214
+.2009_Telidik_79214
+.2017_Temia Sio_79214
+.2016_Teriak_79214
+.2012_Tubajur_79214
+61.07.17_Tujuh Belas_79250
+.2003_Bengkilu_79250
+.2002_Kamuh_79250
+.2004_Pisak_79250
+.2001_Sinar Tebudak_79250

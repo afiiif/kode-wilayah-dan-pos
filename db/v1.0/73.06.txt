@@ -1,0 +1,185 @@
+73.06.02_Bajeng_92152
+.2013_Bone_92152
+.2003_Bontosunggu_92152
+.1001_Kalebajeng_92152
+.2012_Lempangang_92152
+.1002_Limbung_92152
+.2006_Macini Baji (Maccinibaji)_92152
+.2010_Maradekaya_92152
+.1018_Mata Allo_92152
+.2007_Pa'bentengang_92152
+.2011_Panciro_92152
+.2015_Panyangkalang_92152
+.2019_Paraikate (Paraikatte)_92152
+.2009_Tangkebajeng_92152
+.1017_Tubajeng_92152
+73.06.18_Bajeng Barat_92151
+.2007_Bontomanai_92151
+.2001_Borimatangkasa_92151
+.2004_Gentungang_92151
+.2006_Kalemandelle (Kalemandalle)_92151
+.2002_Mandalle (Mandale)_92151
+.2003_Manjalling_92151
+.2005_Tanabangka_92151
+73.06.12_Barombong_90225
+.1001_Benteng Somba Opu_90225
+.2006_Biringala_90225
+.2002_Kanjilo_90225
+.1005_Lembang Parang (Lembangparang)_90225
+.2003_Moncobalang_90225
+.2007_Tamanyeleng (Tamannyeleng)_90225
+.2004_Tinggimae_90225
+73.06.11_Biringbulu_90244
+.2008_Batumalonro_90244
+.2007_Baturappe_90244
+.2005_Berutallasa_90244
+.2009_Borimasunggu_90244
+.2011_Julukanaya_90244
+.1004_Lauwa_90244
+.2010_Lembangloe_90244
+.2006_Parangloe_90244
+.2003_Pencong_90244
+.2001_Taring_90244
+.1002_Tonrorita_90244
+73.06.15_Bontolempangang_92176
+.2002_Bontolempangang (Bontolempangan)_92176
+.2004_Bontoloe_92176
+.2007_Bontotangnga_92176
+.2001_Julumate'ne_92176
+.2003_Lassa Lassa_92176
+.2005_Pa'ladingang_92176
+.2006_Paranglompoa (Parang Lampoa)_92176
+.2008_Ulujangang (Ulujangan)_92176
+73.06.06_Bontomarannu_92171
+.2014_Bili-Bili_92171
+.1002_Bontomanai_92171
+.1001_Borongloe_92171
+.2013_Mata Allo_92171
+.2004_Nirannuang_92171
+.2003_Pakkato (Pakatto)_92171
+.1012_Romang Lompoa_92171
+.2005_Romangloe_92171
+.2006_Sokkolia_92171
+73.06.01_Bontonompo_92153
+.2006_Barembeng_92153
+.2020_Bategulung_92153
+.2016_Bontobiraeng_92153
+.2022_Bontobiraeng Selatan_92153
+.2005_Bontolangkasa Selatan_92153
+.2004_Bontolangkasa Utara_92153
+.1001_Bontonompo_92153
+.2019_Bulogading_92153
+.2021_Kalabarembeng (Kalebarembeng)_92153
+.1003_Kalaserena_92153
+.2018_Katangka_92153
+.2015_Manjapai_92153
+.2017_Romanglasa_92153
+.1002_Tamallayang_92153
+73.06.16_Bontonompo Selatan_92154
+.1009_Bontoramba_92154
+.2005_Bontosunggu_92154
+.2008_Jipang_92154
+.2004_Pa'bundukang_92154
+.2006_Salajengki (Salajangki)_92154
+.2007_Salajo_92154
+.2001_Sengka_92154
+.2002_Tanrara_92154
+.2003_Tindang_92154
+73.06.09_Bungaya_92177
+.2004_Bissoloro_92177
+.2002_Bontomanai_92177
+.2003_Buakkang_92177
+.1010_Je'nebatu (Jenebatu)_92177
+.2012_Mangempang_92177
+.2011_Rannaloe_92177
+.1001_Sapaya_92177
+73.06.14_Manuju_92173
+.2005_Bilalang (Billang)_92173
+.2001_Manuju_92173
+.2004_Moncongloe_92173
+.2002_Pattallikang_92173
+.2003_Tamalatea_92173
+.2007_Tanakkaraeng_92173
+.2006_Tassese_92173
+73.06.07_Palangga (Pallangga)_92161
+.2004_Bontoala_92161
+.2009_Bontoramba_92161
+.2013_Bungaejaya_92161
+.2010_Jenetallasa_92161
+.2006_Julubori_92161
+.2011_Julukanaya_92161
+.2012_Julupa'mai_92161
+.2007_Kampili_92161
+.1015_Mangalli (Mangalili)_92161
+.2005_Pallangga_92161
+.2008_Panakkukang_92161
+.1002_Pangkabinanga_92161
+.1003_Parangbanoa (Parang Banoa)_92161
+.2016_Taeng_92161
+.1001_Tetebatu_92161
+.2014_Toddotoa_92161
+73.06.05_Parangloe_92179
+.2011_Belabori_92179
+.2009_Belapunranga_92179
+.2010_Bontokassi_92179
+.1002_Bontoparang_92179
+.2008_Borisalo (Borisallo)_92179
+.1001_Lanna_92179
+.2006_Lonjoboko_92179
+73.06.17_Parigi_92174
+.2005_Bilanrengi_92174
+.2002_Jonjo_92174
+.2001_Majannang_92174
+.2003_Manimbahoi_92174
+.2004_Sicini_92174
+73.06.13_Pattalasang (Pattallassang)_92172
+.2008_Borongpala'la_92172
+.2006_Je'nemadinging (Jenemadinging)_92172
+.2004_Paccellekang (Pacellekang)_92172
+.2002_Palantikang (Pallantikang)_92172
+.2007_Panaikang_92172
+.2005_Pattallassang_92172
+.2003_Sunggumanai_92172
+.2001_Timbuseng_92172
+73.06.08_Somba Opu (Upu)_92111|92119
+.1003_Batangkaluku_92117
+.1002_Bonto Bontoa_92111
+.1013_Bontoramba_92119
+.1009_Kalegowa_92116
+.1006_Katangka_92114
+.1014_Mawang_92119
+.1011_Paccinongang (Paccinongan)_92113
+.1007_Pandang Pandang_92115
+.1010_Romangpolong_92118
+.1005_Samata_92113
+.1001_Sungguminasa_92111
+.1012_Tamarunang_92112
+.1008_Tombolo_92114
+.1004_Tompobalang_92112
+73.06.04_Tinggimoncong_92178
+.1011_Bonto Lerung_92178
+.1002_Buluttana (Bulutana)_92178
+.1003_Gantarang_92178
+.1012_Garassi_92178
+.1001_Malino_92178
+.2004_Parigi_92178
+.1010_Pattapang_92178
+73.06.10_Tombolopao (Tombolo Pao)_92170
+.2006_Balassuka_92170
+.2009_Bolaromang_92170
+.2003_Erelembang_92170
+.2004_Kanreapia_92170
+.2007_Mamampang_92170
+.2005_Pao_92170
+.2002_Ta'binjai_92170
+.1001_Tamaona_92170
+.2008_Tonasa_92170
+73.06.03_Tompobullu (Tompobulu)_92175
+.2008_Bontobuddung_92175
+.1002_Cikoro_92175
+.2004_Datara_92175
+.2003_Garing_92175
+.1001_Malakaji_92175
+.2006_Rappoala_92175
+.2005_Rappolemba_92175
+.2007_Tanete_92175

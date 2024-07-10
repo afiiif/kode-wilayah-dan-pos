@@ -1,0 +1,124 @@
+12.24.09_Afulu_22857
+.2001_Afulu_22857
+.2009_Faekhuna'a (Faekhunaa)_22857
+.2005_Harewakhe_22857
+.2002_Lauru Fadoro_22857
+.2003_Lauru I (Lauru I Afulu)_22857
+.2007_Lauru Lahewa_22857
+.2004_Ombolata Afulu_22857
+.2008_Sifaoro'asi (Sifaoroasi)_22857
+.2006_Sisobahili_22857
+12.24.07_Alasa_22861
+.2003_Anaoma_22861
+.2008_Banua Sibohou I_22861
+.2010_Banua Sibohou II_22861
+.2001_Bitaya_22861
+.2011_Dahana Alasa_22861
+.2004_Dahana Tugala Oyo_22861
+.2005_Fulolo_22861
+.2006_Hiligawoni_22861
+.2014_Hilisebua Siwalubanua (Siwabanua)_22861
+.2002_Lahemboho_22861
+.2013_Loloana'a_22861
+.2009_Ombolata_22861
+.2012_Ononamolo Alasa_22861
+.2007_Ononamolo Tumula_22861
+12.24.06_Alasa Talumuzoi_22814
+.2001_Banua Sibohou III_22814
+.2002_Harefanaese_22814
+.2003_Hilimbowo Kare_22814
+.2006_Hilina'a (Hilina A)_22814
+.2004_Laehuwa_22814
+.2005_Mazingo_22814
+12.24.10_Lahewa_22853
+.2016_Afia_22853
+.2014_Balefadoro Tuho_22853
+.2021_Fadoro Hilihambawa_22853
+.2020_Fadoro Hilimbowo_22853
+.2011_Fadoro Sitolu Hili_22853
+.2013_Hiligawolo (Hili Gawolo)_22853
+.2008_Hiligodu Hoya (Hili Goduhoya)_22853
+.2010_Hilihati (Hili Hati)_22853
+.2007_Hilina'a (Hilina A)_22853
+.2005_Hilizukhu_22853
+.2003_Holi_22853
+.2002_Iraono Lase_22853
+.1001_Lahewa (Pasar Lahewa)_22853
+.2018_Lasara_22853
+.2012_Marafala_22853
+.2017_Moawo_22853
+.2015_Ombolata_22853
+.2006_Onozalukhu_22853
+.2004_Sifaoro'asi (Sifaoroasi)_22853
+.2019_Sihene'asi (Siheneasi)_22853
+.2009_Sitolubanua (Sitolu Banua)_22853
+12.24.11_Lahewa Timur_22858
+.2001_Laowowaga_22858
+.2002_Lukhu Lase_22858
+.2007_Meafu_22858
+.2006_Muzoi_22858
+.2004_Tefa'o (Tefao)_22858
+.2003_Tetehosi Sorowi_22858
+.2005_Tugala Lauru_22858
+12.24.01_Lotu_22856
+.2008_Baho_22856
+.2011_Dahadano_22856
+.2003_Fadoro Fulolo_22856
+.2001_Hilidundra_22856
+.2013_Hiligeo Afia_22856
+.2005_Hiligodu_22856
+.2004_Lawira I_22856
+.2010_Lawira II_22856
+.2002_Lawira Satua_22856
+.2009_Lolofaoso_22856
+.2012_Lolomboli_22856
+.2006_Lombuza'ua (Lombuzaua)_22856
+.2007_Maziaya_22856
+12.24.05_Namohalu Esiwa_22816|22817
+.2011_Banua Sibohou_22816
+.2001_Berua_22816
+.2003_Dahana Hiligodu_22816
+.2002_Esiwa_22816
+.2004_Hilibanua_22816
+.2007_Lasara_22816
+.2008_Namohalu_22816
+.2010_Orahili_22816
+.2005_Sisarahili_22816
+.2006_Sisobahili_22817
+.2009_Tuhenakhe I_22816
+12.24.02_Sawo_22852
+.2009_Hiliduruwa_22852
+.2007_Lasara Sawo_22852
+.2002_Ombolata Sawo_22852
+.2004_Onozitoli Sawo_22852
+.2003_Sanawuyu_22852
+.2008_Sawo_22852
+.2001_Seriwa'u (Seriwau)_22852
+.2005_Sifahandro_22852
+.2006_Sisarahili Teluk Siabang_22852
+.2010_Teluk Bengkuang_22852
+12.24.04_Sitolu Ori_22852
+.2006_Botombawo (Batom Bawo)_22852
+.2005_Fulolo Salo'o (Fulolo Saloo)_22852
+.2003_Hilimbosi_22852
+.2004_Hilisalo'o (Hilisaloo)_22852
+.2001_Tetehosi Maziaya_22852
+.2002_Umbubalodano_22852
+12.24.08_Tugala Oyo_22860
+.2007_Botona'ai_22860
+.2003_Fabaliwa Oyo_22860
+.2006_Gunung Tua_22860
+.2008_Harefa_22860
+.2005_Humene Siheneasi_22860
+.2004_Ononazara_22860
+.2002_Siwawo_22860
+.2001_Te'olo_22860
+12.24.03_Tuhemberua_22852
+.2004_Alo'oa (Alooa)_22852
+.2006_Banua Gea (Banuagea)_22852
+.2001_Botolakha_22852
+.2008_Fino_22852
+.2003_La'aya (Laaya)_22852
+.2005_Ladara_22852
+.2007_Silima Banua_22852
+.2002_Siofa Banua_22852

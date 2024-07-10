@@ -1,0 +1,146 @@
+18.71.20_Bumi Waras_35224|35228
+.1004_Bumi Raya_35228
+.1002_Bumi Waras_35225
+.1003_Garuntang_35227
+.1005_Kangkung_35224
+.1001_Sukaraja_35226
+18.71.17_Enggal_35111|35127
+.1001_Enggal_35118
+.1004_Gunungsari (Gunung Sari)_35111
+.1006_Pahoman_35213
+.1002_Pelita_35117
+.1005_Rawalaut (Rawa Laut)_35127
+.1003_Tanjungkarang (Tanjung Karang)_35111
+18.71.18_Kedamaian_35122|35133
+.1002_Bumi Kedamaian_35122
+.1005_Kalibalau Kencana (Kali Balok / Balau Kencana)_35132
+.1001_Kedamaian_35122
+.1003_Tanjungagung Raya (Tanjung Agung Raya)_35129
+.1004_Tanjungbaru (Tanjung Baru)_35133
+.1007_Tanjunggading (Tanjung Gading)_35128
+.1006_Tanjungraya (Tanjung Raya)_35128
+18.71.01_Kedaton_35141|35148
+.1003_Kedaton_35141
+.1010_Penengahan_35112
+.1012_Penengahan Raya_35112
+.1006_Sidodadi_35147
+.1005_Sukamenanti_35146
+.1009_Sukamenanti Baru_35146
+.1004_Surabaya_35148
+18.71.13_Kemiling_35153|35158
+.1003_Beringin Jaya (Beringin Raya)_35158
+.1010_Beringin Raya_35158
+.1006_Kedaung_35158
+.1004_Kemiling Permai_35158
+.1009_Kemiling Raya_35158
+.1007_Pinang Jaya_35158
+.1005_Sumber Agung_35158
+.1001_Sumber Rejo_35153
+.1008_Sumberrejo Sejahtera (Sumber Rejo Sejahtera)_35153
+18.71.14_Labuhan Ratu_35142|35149
+.1007_Kampung Baru_35149
+.1006_Kampung Baru Raya_35149
+.1004_Kota Sepang_35148
+.1001_Labuhan Ratu_35142
+.1002_Labuhan Ratu Raya_35142
+.1003_Sepang Jaya_35148
+18.71.16_Langkapura_35152|35157
+.1005_Bilabong Jaya_35155
+.1006_Gunungagung (Gunung Agung)_35157
+.1003_Gunungterang (Gunung Terang)_35152
+.1001_Langkapura (Langka Pura)_35154
+.1002_Langkapura Baru (Langka Pura Baru)_35154
+18.71.04_Panjang_35241|35246
+.1007_Karang Maritim_35245
+.1009_Ketapang_35245
+.1010_Ketapang Kuala_35246
+.1001_Panjang Selatan_35243
+.1003_Panjang Utara_35241
+.1004_Pidada_35241
+.1002_Srengsem_35242
+.1008_Way Lunik_35244
+18.71.10_Rajabasa_35144|35145
+.1002_Gedong Meneng_35145
+.1007_Gedong Meneng Baru_35145
+.1001_Rajabasa_35144
+.1009_Rajabasa Jaya_35144
+.1005_Rajabasa Nunyai_35144
+.1006_Rajabasa Pemuka_35144
+.1008_Rajabasa Raya_35144
+18.71.12_Sukabumi_35122|35245
+.1009_Campang Jaya_35122
+.1007_Campang Raya_35122
+.1008_Nusantara Permai_35122
+.1002_Sukabumi_35134
+.1004_Sukabumi Indah_35132
+.1010_Way Gubak_35244
+.1011_Way Laga_35245
+18.71.02_Sukarame_35131
+.1008_Korpri Jaya_35131
+.1009_Korpri Raya_35131
+.1003_Sukarame_35131
+.1006_Sukarame Baru_35131
+.1004_Way Dadi_35131
+.1007_Way Dadi Baru_35131
+18.71.11_Tanjung Senang_35141|35143
+.1003_Labuhan Dalam_35142
+.1005_Pematang Wangi_35141
+.1004_Perumnas Way Kandis_35141
+.1001_Tanjung Senang_35141
+.1002_Way Kandis_35143
+18.71.03_Tanjungkarang Barat (Tanjung Karang Barat)_35151|35159
+.1001_Gedong Air_35151
+.1008_Kelapa Tiga Permai_35159
+.1011_Segalamider (Segala Mider)_35152
+.1006_Sukadana Ham_35156
+.1002_Sukajawa (Suka Jawa)_35151
+.1010_Sukajawa Baru_35151
+.1004_Susunan Baru_35155
+18.71.06_Tanjungkarang Pusat (Tanjung Karang Pusat)_35111|35119
+.1001_Durian Payung_35116
+.1002_Gotong Royong_35119
+.1006_Kaliawi_35115
+.1012_Kaliawi Persada_35115
+.1007_Kelapa Tiga_35111
+.1005_Palapa_35116
+.1010_Pasir Gintung_35113
+18.71.05_Tanjungkarang Timur (Tanjung Karang Timur)_35121|35126
+.1004_Kebon Jeruk (Kebonjeruk)_35121
+.1002_Kota Baru_35121
+.1006_Sawah Brebes_35124
+.1005_Sawah Lama_35125
+.1003_Tanjung Agung_35126
+18.71.08_Telukbetung Barat_35232|35239
+.1005_Bakung_35238
+.1009_Batu Putuk_35239
+.1006_Kuripan_35232
+.1007_Negeri Olok Gading_35233
+.1008_Sukarame II_35234
+18.71.07_Telukbetung Selatan_35211|35229
+.1009_Gedong Pakuon (Gedong Pakuan / Pakuon)_35222
+.1013_Gunungmas (Gunung Mas)_35211
+.1001_Pesawahan_35223
+.1012_Sumur Putri_35215
+.1008_Talang_35229
+.1002_Telukbetung (Teluk Betung)_35221
+18.71.19_Telukbetung Timur_35231|35237
+.1004_Keteguhan_35235
+.1001_Kota Karang_35231
+.1002_Kota Karang Raya_35231
+.1003_Parwata (Perwata)_35237
+.1005_Sukamaju_35236
+.1006_Way Tataan_35236
+18.71.09_Telukbetung Utara_35211|35215
+.1007_Gulak Galik_35214
+.1001_Kupang Kota_35211
+.1003_Kupang Raya_35212
+.1004_Kupang Teba_35212
+.1006_Pengajaran_35215
+.1008_Sumur Batu_35214
+18.71.15_Way Halim_35123|35141
+.1003_Gunungsulah (Gunung Sulah)_35136
+.1004_Jagabaya I (Jaga Baya I)_35123
+.1005_Jagabaya II_35132
+.1006_Jagabaya III_35132
+.1001_Perumnas Way Halim_35141
+.1002_Way Halim Permai_35135

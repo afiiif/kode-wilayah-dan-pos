@@ -1,0 +1,37 @@
+62.08.03_Balai Riam_74173
+.2002_Air Dua_74173
+.2006_Balai Riam_74173
+.2012_Bangun Jaya_74173
+.2013_Bukit Sungkai_74173
+.2001_Jihing_74173
+.2005_Lupu Peruca_74173
+.2007_Pempaning_74173
+.2011_Sekuningan Baru_74173
+62.08.02_Jelai_74171
+.1001_Kuala Jelai_74171
+.2002_Pulau Nibung_74171
+.2003_Sei/Sungai Baru_74171
+.2004_Sei/Sungai Bundung_74171
+.2005_Sei/Sungai Raja_74171
+62.08.04_Pantai Lunci_74170
+.2003_Sei/Sungai Cabang Barat_74170
+.2001_Sei/Sungai Damar_74170
+.2004_Sei/Sungai Pasir_74170
+.2002_Sei/Sungai Tabuk_74170
+62.08.05_Permata Kecubung_74174
+.2003_Ajang_74174
+.2001_Kenawan_74174
+.2002_Laman Baru_74174
+.2006_Natai Kondang_74174
+.2005_Nibung Terjun_74174
+.2004_Semantun_74174
+.2007_Sembikuan (Sembi Kuan)_74174
+62.08.01_Sukamara_74172
+.2005_Kartamulia (Karta Mulya / Mulia)_74172
+.1003_Mendawai_74172
+.2001_Natai Sedawak_74172
+.1004_Padang_74172
+.2007_Pangkalan Muntai_74172
+.2008_Petarikan_74172
+.2002_Pudu_74172
+.2006_Sukaraja_74172

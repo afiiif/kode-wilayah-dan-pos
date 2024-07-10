@@ -1,0 +1,100 @@
+34.01.04_Galur_55661
+.2001_Banaran_55661
+.2007_Brosot_55661
+.2004_Karangsewu (Karang Sewu)_55661
+.2002_Kranggan_55661
+.2003_Nomporejo_55661
+.2006_Pandowan_55661
+.2005_Tirtorahayu (Tirta Rahayu)_55661
+34.01.09_Girimulyo_55674
+.2002_Giripurwo_55674
+.2001_Jatimulyo_55674
+.2003_Pendoworejo_55674
+.2004_Purwosari_55674
+34.01.12_Kalibawang_55672
+.2001_Banjararum_55672
+.2002_Banjarasri_55672
+.2003_Banjarharjo_55672
+.2004_Banjaroyo_55672
+34.01.08_Kokap_55653
+.2001_Hargomulyo_55653
+.2002_Hargorejo_55653
+.2005_Hargotirto_55653
+.2003_Hargowilis_55653
+.2004_Kalirejo_55653
+34.01.05_Lendah_55663
+.2002_Bumirejo_55663
+.2005_Gulurejo_55663
+.2003_Jatirejo_55663
+.2006_Ngentakrejo_55663
+.2004_Sidorejo_55663
+.2001_Wahyuharjo_55663
+34.01.10_Nanggulan_55671
+.2001_Banyuroto_55671
+.2002_Donomulyo_55671
+.2005_Jatisarono (Jati Sarono)_55671
+.2006_Kembang_55671
+.2004_Tanjungharjo_55671
+.2003_Wijimulyo_55671
+34.01.03_Panjatan_55655
+.2006_Bojong_55655
+.2003_Bugel_55655
+.2010_Cerme_55655
+.2005_Depok_55655
+.2001_Garongan_55655
+.2008_Gotakan_55655
+.2004_Kanoman_55655
+.2011_Krembangan_55655
+.2009_Panjatan_55655
+.2002_Pleret_55655
+.2007_Tayuban_55655
+34.01.07_Pengasih_55652
+.2002_Karangsari_55652
+.2003_Kedungsari_55652
+.2004_Margosari_55652
+.2005_Pengasih_55652
+.2006_Sendangsari_55652
+.2007_Sidomulyo_55652
+.2001_Tawangsari_55652
+34.01.11_Samigaluh_55673
+.2002_Banjarsari_55673
+.2005_Gerbosari_55673
+.2001_Kebonharjo (Kebon Harjo)_55673
+.2006_Ngargosari_55673
+.2007_Pagerharjo_55673
+.2003_Purwoharjo_55673
+.2004_Sidoharjo_55673
+34.01.06_Sentolo_55664
+.2008_Banguncipto_55664
+.2001_Demangrejo_55664
+.2006_Kaliagung_55664
+.2004_Salamrejo_55664
+.2007_Sentolo_55664
+.2002_Srikayangan_55664
+.2005_Sukoreno_55664
+.2003_Tuksono_55664
+34.01.01_Temon_55654
+.2008_Demen_55654
+.2004_Glagah_55654
+.2001_Jangkaran_55654
+.2014_Janten_55654
+.2005_Kalidengen (Kali Dengen)_55654
+.2010_Kaligintung_55654
+.2015_Karangwuluh (Karang Wuluh)_55654
+.2013_Kebonrejo_55654
+.2007_Kedundang_55654
+.2009_Kulur_55654
+.2003_Palihan_55654
+.2006_Plumbon_55654
+.2002_Sindutan_55654
+.2012_Temon Kulon_55654
+.2011_Temon Wetan_55654
+34.01.02_Wates_55651
+.2005_Bendungan_55651
+.2007_Giripeni (Giri Peni)_55651
+.2001_Karangwuni (Karang Wuni)_55651
+.2003_Kulwaru_55651
+.2004_Ngestiharjo_55651
+.2002_Sogan_55651
+.2006_Triharjo_55651
+.1008_Wates_55651

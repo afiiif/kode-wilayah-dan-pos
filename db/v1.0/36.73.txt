@@ -1,0 +1,73 @@
+36.73.05_Cipocok Jaya_42121|42128
+.1004_Banjar Agung (Banjaragung)_42122
+.1005_Banjarsari_42123
+.1001_Cipocok Jaya_42121
+.1007_Dalung_42127
+.1008_Gelam_42128
+.1002_Karundang_42125
+.1003_Panancangan_42124
+.1006_Tembong_42126
+36.73.04_Curug_42171
+.1005_Cilaku_42171
+.1004_Cipete_42171
+.1001_Curug_42171
+.1009_Curug Manis (Curugmanis)_42171
+.1003_Kemanisan (Kamanisan)_42171
+.1006_Pancalaksana_42171
+.1010_Sukajaya_42171
+.1008_Sukalaksana_42171
+.1007_Sukawana_42171
+.1002_Tinggar_42171
+36.73.02_Kasemen_42191
+.1007_Banten_42191
+.1006_Bendung_42191
+.1001_Kasemen_42191
+.1010_Kasunyatan_42191
+.1009_Kilasah_42191
+.1011_Margaluyu_42191
+.1002_Mesjid Priyayi_42191
+.1008_Sawah Luhur_42191
+.1003_Terumbu_42191
+.1004_Warung Jaud_42191
+36.73.01_Serang_42111|42119
+.1006_Cimuncang_42111
+.1002_Cipare_42117
+.1012_Kagungan_42114
+.1010_Kaligandu_42116
+.1004_Kota Baru (Kotabaru)_42112
+.1009_Lontarbaru_42115
+.1005_Lopang_42113
+.1001_Serang_42116
+.1008_Sukawana_42116
+.1003_Sumur Pecung (Sumurpecung)_42118
+.1011_Terondol_42119
+.1007_Unyur_42111
+36.73.06_Taktakan_42162
+.1013_Cibendung_42162
+.1006_Cilowong_42162
+.1008_Drangong_42162
+.1005_Kalanganyar (Kalang Anyar)_42162
+.1004_Kuranji_42162
+.1011_Lialang_42162
+.1003_Pancur_42162
+.1007_Panggungjati_42162
+.1002_Sayar_42162
+.1010_Sepang_42162
+.1001_Taktakan_42162
+.1012_Taman Baru (Tamanbaru)_42162
+.1009_Umbul Tengah_42162
+36.73.03_Walantaka_42183
+.1002_Cigoong_42183
+.1008_Kalodran (Kalodoran)_42183
+.1009_Kapuren (Kepuren)_42183
+.1006_Kiara_42183
+.1016_Lebakwangi_42183
+.1003_Nyapah_42183
+.1011_Pabuaran_42183
+.1007_Pager Agung (Pageragung)_42183
+.1004_Pangampelan (Pengampelan)_42183
+.1012_Pasuluhan_42183
+.1014_Pipitan_42183
+.1013_Tegalsari_42183
+.1010_Teritih_42183
+.1001_Walantaka_42183

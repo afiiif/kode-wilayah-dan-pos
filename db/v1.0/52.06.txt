@@ -1,0 +1,209 @@
+52.06.10_Ambalawi_84153
+.2006_Kole_84153
+.2004_Mawu_84153
+.2001_Nipa_84153
+.2003_Rite_84153
+.2005_Talapiti_84153
+.2002_Tolowata_84153
+52.06.04_Belo_84173
+.2005_Cenggu_84173
+.2016_Diha_84173
+.2002_Lido_84173
+.2001_Ncera_84173
+.2003_Ngali_84173
+.2004_Renda_84173
+.2015_Roka_84173
+.2006_Runggu_84173
+.2014_Soki_84173
+52.06.02_Bolo_84161
+.2007_Bontokape_84161
+.2014_Darussalam_84161
+.2004_Kananga_84161
+.2013_Kara_84161
+.2005_Leu_84161
+.2009_Nggembe_84161
+.2012_Rada_84161
+.2002_Rasabau_84161
+.2003_Rato_84161
+.2010_Sanolo_84161
+.2008_Sondosia_84161
+.2001_Tambe_84161
+.2006_Timu_84161
+.2011_Tumpu_84161
+52.06.08_Donggo_84162
+.2013_Bumi Pajo_84162
+.2005_Dori Dungga_84162
+.2006_Kala_84162
+.2008_Mbawa_84162
+.2012_Mpili_84162
+.2014_Ndano Na'e_84162
+.2007_O'o_84162
+.2009_Palama_84162
+.2010_Rora_84162
+52.06.17_Lambitu_84181
+.2005_Ka'owa_84181
+.2001_Kabaro_84181
+.2002_Kuta_84181
+.2006_Londu_84181
+.2003_Sambori_84181
+.2004_Teta_84181
+52.06.12_Lambu_84182
+.2010_Hidirasa_84182
+.2001_Kaleo_84182
+.2009_Lambu_84182
+.2004_Lanta_84182
+.2011_Lanta Barat (Lauta Barat)_84182
+.2003_Mangge_84182
+.2012_Melayu_84182
+.2014_Monta Baru_84182
+.2005_Nggelu_84182
+.2006_Rato_84182
+.2013_Sangga_84182
+.2002_Simpasai_84182
+.2008_Soro_84182
+.2007_Sumi_84182
+52.06.11_Langgudu_84180
+.2006_Doro Oo (Doro O'o)_84180
+.2011_Dumu_84180
+.2004_Kalodu_84180
+.2008_Kangga_84180
+.2009_Karampi_84180
+.2002_Karumbu_84180
+.2005_Kawuwu_84180
+.2007_Laju_84180
+.2014_Pusu_84180
+.2012_Rompo_84180
+.2003_Rupe_84180
+.2015_Sambane_84180
+.2013_Sarae Ruma_84180
+.2010_Waduruka_84180
+.2001_Waworada_84180
+52.06.13_Madapangga_84111
+.2009_Bolo_84111
+.2002_Campa_84111
+.2006_Dena_84111
+.2010_Madawau (Mandawau)_84111
+.2005_Monggo_84111
+.2003_Mpuri_84111
+.2011_Ncandi_84111
+.2004_Ndano_84111
+.2007_Rade_84111
+.2008_Tonda_84111
+.2001_Woro_84111
+52.06.01_Monta_84172
+.2012_Baralau_84172
+.2010_Monta_84172
+.2018_Nontotera_84172
+.2016_Pela_84172
+.2011_Sakuru (Sekuru)_84172
+.2008_Sie_84172
+.2007_Simpasai_84172
+.2006_Sondo_84172
+.2009_Tangga_84172
+.2017_Tangga Baru_84172
+.2005_Tolotangga_84172
+.2014_Tolouwi_84172
+.2019_Waro_84172
+.2015_Wilamaci_84172
+52.06.18_Palibelo_84174
+.2002_Belo_84174
+.2013_Bre_84174
+.2008_Dore_84174
+.2007_Nata_84174
+.2006_Ntonggu_84174
+.2012_Padolo_84174
+.2001_Panda_84174
+.2011_Ragi_84174
+.2009_Roi_84174
+.2005_Teke_84174
+.2003_Tolongondoa_84174
+.2004_Tonggorisa_84174
+52.06.16_Parado_84170
+.2004_Kanca_84170
+.2003_Kuta_84170
+.2005_Lere_84170
+.2002_Parado Rato (Paradorato)_84170
+.2001_Parado Wane (Paradowane)_84170
+52.06.09_Sanggar_84191
+.2002_Boro_84191
+.2003_Kore_84191
+.2005_Oi Saro_84191
+.2001_Piong_84191
+.2006_Sandue_84191
+.2004_Taloko_84191
+52.06.06_Sape_84183
+.2014_Bajo Pulo_84183
+.2002_Boke_84183
+.2004_Bugis_84183
+.2012_Buncu_84183
+.2003_Jia_84183
+.2011_Kowo_84183
+.2017_Lamera_84183
+.2008_Na'e_84183
+.2005_Naru_84183
+.2015_Naru Barat_84183
+.2018_Oi Maci_84183
+.2010_Parangina_84183
+.2013_Poja_84183
+.2009_Rai O'i_84183
+.2006_Rasabou_84183
+.2007_Sangia_84183
+.2001_Sari_84183
+.2016_Tanah Putih_84183
+52.06.15_Soromandi_84163
+.2001_Bajo_84163
+.2004_Kanata_84163
+.2007_Lewintana_84163
+.2002_Punti_84163
+.2005_Sai_84163
+.2006_Sampungu_84163
+.2003_Wadukopa_84163
+52.06.14_Tambora_84190
+.2002_Kawinda Nae_84190
+.2003_Kawinda Toi_84190
+.2001_Labuhan Kenanga_84190
+.2005_Oi Bura_84190
+.2006_Oi Katupa_84190
+.2004_Oi Panihi_84190
+.2007_Rasabou_84190
+52.06.05_Wawo_84184
+.2011_Kambilo_84184
+.2013_Kombo_84184
+.2006_Maria_84184
+.2012_Maria Utara_84184
+.2005_Ntori_84184
+.2007_Pesa_84184
+.2008_Raba_84184
+.2014_Rianmau_84184
+.2001_Tarlawi_84184
+52.06.07_Wera_84152
+.2008_Bala_84152
+.2005_Hadirasa_84152
+.2013_Kalajena_84152
+.2014_Mandala_84152
+.2011_Nanga Wera_84152
+.2001_Ntoke_84152
+.2003_Nunggi_84152
+.2009_Oi Tui_84152
+.2002_Pai_84152
+.2012_Ranggasolo_84152
+.2007_Sangiang_84152
+.2010_Tadewa_84152
+.2004_Tawali_84152
+.2006_Wora_84152
+52.06.03_Woha_84171
+.2010_Dadibou_84171
+.2009_Donggobolo_84171
+.2006_Kalampa_84171
+.2001_Keli_84171
+.2012_Naru_84171
+.2013_Nisa_84171
+.2008_Pandai_84171
+.2015_Penapali_84171
+.2004_Rabakodo_84171
+.2007_Risa_84171
+.2005_Samili_84171
+.2011_Talabiu_84171
+.2002_Tenga_84171
+.2003_Tente_84171
+.2014_Waduwani_84171

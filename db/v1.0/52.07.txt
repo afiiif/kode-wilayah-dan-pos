@@ -1,0 +1,73 @@
+52.07.07_Brang Ene_84455
+.2002_Kalimantong_84455
+.2003_Lampok_84455
+.2004_Manemeng_84455
+.2006_Mataiyang_84455
+.2005_Mujahiddin_84455
+.2001_Mura_84455
+52.07.05_Brang Rea_84455|84458
+.2003_Bangkat Monteh (Bangkat Monte)_84458
+.2001_Desa Beru_84458
+.2006_Lamuntet_84455
+.2008_Moteng_84455
+.2007_Rarak Ronges_84455
+.2004_Sapugara Bree_84458
+.2009_Seminar Salit_84455
+.2002_Tepas_84458
+.2005_Tepas Sepakat_84455
+52.07.01_Jereweh_84456
+.2002_Belo_84456
+.2003_Beru_84456
+.2009_Dasan Anyar_84456
+.2001_Goa_84456
+52.07.08_Maluk_84459
+.2002_Benete_84459
+.2003_Bukit Damai_84459
+.2001_Maluk_84459
+.2004_Mantun_84459
+.2005_Pasir Putih_84459
+52.07.06_Poto Tano_84454
+.2003_Kiantar_84454
+.2006_Kokarlian_84454
+.2002_Mantar_84454
+.2004_Poto Tano_84454
+.2001_Senayan_84454
+.2007_Tebo_84454
+.2008_Tuananga_84454
+.2005_UPT Tambak Sari (Tambak Sari)_84454
+52.07.04_Sekongkang_84457
+.2004_Ai Kangkung_84457
+.2007_Kemuning_84457
+.2001_Sekongkang Atas_84457
+.2002_Sekongkang Bawah_84457
+.2006_Talonang Baru (Talonang)_84457
+.2005_Tatar_84457
+.2003_Tongo_84457
+52.07.03_Seteluk (Sateluk)_84453
+.2002_Air Suning_84453
+.2015_Desaloka_84453
+.2008_Kelanir_84453
+.2013_Lamusung_84453
+.2001_Meraran_84453
+.2003_Rempe_84453
+.2014_Seran_84453
+.2004_Seteluk Atas_84453
+.2005_Seteluk Tengah_84453
+.2011_Tapir_84453
+52.07.02_Taliwang_84452
+.1019_Arab Kenangan_84452
+.2014_Banjar_84452
+.2015_Batu Putih_84452
+.1006_Bugis_84452
+.1007_Dalam_84452
+.1005_Kuang_84452
+.2010_Labuhan Kertasari (Labuan Kertasari)_84452
+.2001_Labuhan Lalar (Labuan Lalar)_84452
+.2009_Lalar Liang (Lalang Liang)_84452
+.2021_Lamunga_84452
+.1004_Menala_84452
+.1008_Sampir_84452
+.2011_Seloto_84452
+.2020_Sermong_84452
+.2013_Tamekan_84452
+.1012_Telaga Bertong_84452

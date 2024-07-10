@@ -1,0 +1,399 @@
+73.08.18_Ajangale_92755
+.2009_Allamungeng Patue_92755
+.2010_Amessangeng_92755
+.2006_Labissa_92755
+.2011_Lebbae_92755
+.2008_Leppangeng_92755
+.2012_Manciri_92755
+.2005_Opo_92755
+.2014_Pacciro_92755
+.2004_Pinceng Pute_92755
+.1001_Pompanua_92755
+.1002_Pompanua Riattang (Salewangeng)_92755
+.2013_Telle_92755
+.2007_Timurung_92755
+.2003_Welado_92755
+73.08.24_Amali_92756
+.2012_Ajang Laleng_92756
+.2006_Amali Riattang_92756
+.2009_Benteng Tellue_92756
+.2014_Bila_92756
+.2011_Laponrong_92756
+.2001_Liliriattang (Lili Riattang)_92756
+.1015_Mampotu_92756
+.2002_Mattaro Purae_92756
+.2010_Tacipong_92756
+.2007_Tassipi_92756
+.2013_Tocinnong_92756
+.2003_Ulaweng Riaja_92756
+.2004_Waempubu (Waempubbue)_92756
+.2005_Waemputiange (Waemputtange)_92756
+.2008_Wellulang_92756
+73.08.16_Awangpone_92776
+.2013_Abbanuang_92776
+.2015_Awolagading (Awo Lagading)_92776
+.2012_Bulumpare'e (Bulumparee)_92776
+.2017_Cakkebone (Cakke Bone)_92776
+.2002_Carebbu_92776
+.2016_Carigading (Cari Gading)_92776
+.2003_Cumpiga_92776
+.2011_Jaling_92776
+.2008_Kading_92776
+.2010_Kajuara_92776
+.2014_Lappoase (Lappo Ase)_92776
+.2005_Lattekko (Lettekko)_92776
+.1001_Maccope_92776
+.2009_Mallari_92776
+.2018_Mappalo Ulaweng_92776
+.2006_Matuju_92776
+.2004_Paccing_92776
+.2007_Unra_92776
+73.08.09_Barebbo_90225|92771
+.1006_Apala_92771
+.2001_Bacu_92771
+.2007_Barebbo_92771
+.2017_Cempanigga (Cempaniga)_92771
+.2015_Cingkang_92771
+.2016_Cinnong_92771
+.2003_Congko_92771
+.2012_Corawali (Corawalie)_92771
+.2009_Kading_90225
+.2010_Kajaolaliddong_92771
+.2008_Kampuno_92771
+.2002_Lampoko_92771
+.2005_Parippung_92771
+.2011_Samaelo_92771
+.2018_Sugiale_92771
+.2013_Talungeng_92771
+.2014_Watu_92771
+.2004_Wollangi_92771
+73.08.26_Bengo_92763
+.2004_Bengo_92763
+.2008_Bulu Allaporenge (Bulu Allapporenge)_92763
+.2006_Lili Riawang (Liliriawang)_92763
+.2005_Mattaropuli (Mattaro Puli)_92763
+.2009_Mattirowalie (Mattiro Walie)_92763
+.2001_Samaenre_92763
+.2003_Selli_92763
+.2002_Tungke_92763
+.2007_Walimpong_92763
+73.08.01_Bontocani_92767|92768
+.2005_Bana_92768
+.2004_Bonto Jai (Bontojai)_92768
+.2009_Bulu Sirua (Bulusirua)_92768
+.2008_Erecinnong (Ere Cinnong)_92768
+.1001_Kahu_92767
+.2010_Lamoncong_92768
+.2007_Langi_92768
+.2011_Mattiro Walie_92768
+.2006_Pammusureng_92768
+.2003_Pattuku_92768
+.2002_Watang Cani (Watangcani)_92768
+73.08.20_Cenrana_92754
+.2013_Ajalase_92754
+.2011_Awang Cengrana / Cenrana_92754
+.2007_Cenrana_92754
+.2012_Labonge (Lebbongnge)_92754
+.2010_Labotto_92754
+.2009_Laoni_92754
+.2004_Latonro_92754
+.2006_Nagauleng (Naga Uleng)_92754
+.2002_Pacubbe_92754
+.2015_Pallae_92754
+.2008_Pallime_92754
+.2003_Panyiwi_92754
+.2014_Pusunge (Pusungnge)_92754
+.1001_Ujung Tanah_92754
+.2016_Watangta (Watang Ta)_92754
+.2005_Watu_92754
+73.08.10_Cina_92772
+.2008_Abbumpungeng_92772
+.2006_Ajangpulu_92772
+.2002_Arasoe_92772
+.2010_Awo_92772
+.2012_Cinennung_92772
+.2011_Kanco_92772
+.2009_Kawerang_92772
+.2004_Lompu_92772
+.2007_Padang Loang_92772
+.1001_Tanete_92772
+.2003_Tanete Harapan_92772
+.2005_Walenreng (Welenreng)_92772
+73.08.19_Dua Boccoe_92753
+.2005_Cabbeng_92753
+.2016_Kampoti_92753
+.2003_Laccori_92753
+.2015_Lallatang_92753
+.2002_Mario_92753
+.2022_Matajang_92753
+.2009_Melle_92753
+.2014_Padacenga (Pada Cengnga)_92753
+.2010_Pakkassalo (Pakkasalo)_92753
+.2006_Panyili_92753
+.2004_Pattiro_92753
+.2017_Praja Maju_92753
+.2008_Sailong_92753
+.2007_Sanrangeng_92753
+.2020_Solo_92753
+.2011_Tawaroe_92753
+.2019_Tempe_92753
+.2018_Tocina_92753
+.2013_Ujung_92753
+.2012_Uloe_92753
+.1001_Unyi (Unnyi)_92753
+.2021_Watang Padacenga (Turumame/Padacengnga)_92753
+73.08.02_Kahu_92714|92767
+.2017_Arallae_92767
+.2006_Balle_92767
+.2010_Biru_92714
+.2018_Bonto Padang_92767
+.2005_Cakkela_92767
+.2014_Cammilo_92767
+.2015_Carima_92767
+.2008_Cenrana_92754
+.2013_Hulo_92767
+.2004_Labuaja_92767
+.2019_Lallepo (Lalepo)_92767
+.2020_Maggenrang (Manggenrang)_92767
+.2007_Matajang_92767
+.2016_Mattoanging_92767
+.2002_Nusa_92767
+.2011_Palakka_92761
+.1001_Palattae_92767
+.2003_Pasaka_92767
+.2009_Sanrego_92767
+.2012_Tompong Patu_92767
+73.08.03_Kajuara_92777
+.2003_Abbumpungeng_92777
+.2009_Ancu_92777
+.2016_Angkue / Angku_92777
+.1001_Awang Tangka_92777
+.2006_Buareng_92777
+.2004_Bulu Tanah_92777
+.2005_Gona_92777
+.2012_Kalero_92777
+.2013_Lappabosse (Lappa Bosse)_92777
+.2011_Lemo_92777
+.2018_Mallahae_92777
+.2017_Massangkae_92777
+.2008_Padaelo_92777
+.2007_Polewali_92777
+.2015_Pude_92777
+.2002_Raja_92777
+.2010_Tarasu_92777
+.2014_Waetuwo (Waetuo)_92777
+73.08.13_Lamuru_92764
+.2012_Barakkae_92764
+.2011_Barugae_92764
+.1001_Lalebata_92764
+.2009_Mamminasae_92764
+.2008_Massenreng pulu (Massenrenpulu)_92764
+.2005_Mattampa Bulu_92764
+.2002_Mattampa Walie_92764
+.2010_Padaelo_92764
+.2003_Poleonro_92764
+.2007_Seberang_92764
+.2004_Sengeng Palie_92764
+.2006_Turu Cinnae (Turucinnae)_92764
+73.08.12_Lappariaja_92760
+.2002_Lili Riattang_92760
+.2001_Mattampawalie (Mattampa Walie)_92760
+.2005_Patangkai_92760
+.2007_Pattuku Limpoe_92760
+.2003_Sengeng Palie_92760
+.2004_Tenri Pakkua_92760
+.2009_Tonronge_92760
+.2006_Ujung Lamuru_92760
+.2008_Waekeccee_92760
+73.08.06_Libureng_92766
+.2011_Baringeng_92766
+.2008_Binuang_92766
+.2006_Bune_92766
+.1010_Ceppaga_92766
+.2019_Laburasseng (Laburasse)_92766
+.2009_Mallinrung_92766
+.2012_Mario_92766
+.2016_Matirro Bulu (Mattiro Bulu)_92766
+.2017_Matirrodeceng (Mattiro Deceng)_92766
+.2014_Mattirowalie (Mattiro Walie)_92766
+.2005_Pitumpidange_92766
+.2015_Poleonro_92766
+.2004_Polewali_92766
+.2020_Ponre-Ponre_92766
+.2018_Suwa_92766
+.2007_Swadaya_92766
+.1001_Tanah Batue (Tanabatue)_92766
+.2003_Tappale_92766
+.2002_Tompo Bulu (Tompobulu)_92766
+.2013_Wanuawaru_92766
+73.08.07_Mare_92773
+.2011_Batu Gading_92773
+.2012_Cege_92773
+.2010_Data_92773
+.2013_Kadai_92773
+.2017_Karella_92773
+.2014_Lakukang_92773
+.2016_Lapasa_92773
+.2018_Lappaupang (Lappa Upang)_92773
+.2003_Mario_92773
+.2006_Mattampa Walie_92773
+.2002_Mattirowalie (Mattiro Walie)_92773
+.1001_Padaelo_92773
+.2015_Pattiro_92773
+.2008_Sumaling_92773
+.2009_Tellongeng_92773
+.2005_Tellu Boccoe_92773
+.2004_Ujung Salangketo_92773
+.2007_Ujung Tanah_92773
+73.08.15_Palakka_92761
+.2007_Bainang_92761
+.2001_Cinenung_92761
+.2014_Lemoape_92761
+.2012_Maduri_92761
+.2011_Mattanete Bua_92761
+.2013_Melle_92761
+.2006_Mico_92761
+.2015_Panyili_92761
+.2003_Pasempe_92761
+.2008_Pasippo (Passippo)_92761
+.2002_Siame_92761
+.2009_Tanah Tengnga (Tanah Tenga)_92761
+.2010_Tirong_92761
+.2004_Ureng_92761
+.2005_Usa_92761
+73.08.27_Patimpeng_92768
+.2005_Batu Lappa (Batulappa)_92768
+.2010_Bulu Ulaweng_92768
+.2002_Latellang_92768
+.2003_Maddenreng Pulu_92768
+.2004_Masago_92768
+.2007_Massila_92768
+.2006_Paccing_92768
+.2001_Patimpeng_92768
+.2009_Pationgi_92768
+.2008_Talabangi_92768
+73.08.11_Ponre_92765
+.2009_Bolli_92765
+.2001_Mappe Sangka (Mappesangka)_92765
+.2003_Matampae (Mattampae)_92765
+.2004_Pattimpa_92765
+.2008_Poleonro_92765
+.2007_Salampe_92765
+.2002_Salebba_92765
+.2005_Telu Boccoe (Tellu Boccoe)_92765
+.2006_Turu Adae_92765
+73.08.04_Salomekko_92775
+.2006_Bellu_92775
+.2005_Gattareng_92775
+.2002_Malimongeng_92775
+.2003_Manera_92775
+.2008_Mappatoba_92775
+.1001_Pancaitana_92775
+.2007_Tebba_92775
+.2004_Ulubalang (Ulu Balang)_92775
+73.08.08_Sibulue_92781
+.2011_Ajangpulu (Ajang Pulu)_92781
+.2020_Balieng Toa_92781
+.2019_Bulie_92781
+.2007_Cinnong_92781
+.2015_Kalibong_92781
+.2017_Letta Tanah (Lette Tanah)_92781
+.2013_Mabbiring_92781
+.2008_Mallusetasi (Malluse Tasi)_92781
+.2018_Manajeng_92781
+.1001_Maroanging_92781
+.2003_Massenreng Pulu (Massenrengpulu)_92781
+.2009_Pakkasalo_92781
+.2014_Pasaka_92781
+.2002_Pattiro Bajo_92781
+.2016_Pattiro Riolo_92781
+.2010_Pattiro Sompe_92781
+.2005_Polewali_92781
+.2012_Sumpang Minangae_92781
+.2006_Tadang Palie_92781
+.2004_Tunreng Tellue_92781
+73.08.21_Tanete Riattang_92711|92721
+.1001_Biru_92714
+.1004_Bukaka_92711
+.1006_Manurunge (Manurungnge)_92711
+.1008_Masumpu_92711
+.1005_Pappolo_92721
+.1002_Ta_92712
+.1007_Walanae (Walennae)_92711
+.1003_Watampone_92713
+73.08.22_Tanete Riattang Barat_92731|92735
+.1005_Bulu Tempe_92735
+.1006_Jeppee_92732
+.1003_Macanang_92733
+.1001_Macege_92732
+.1004_Majang_92734
+.1002_Matirro Walie (Mattiro Walie)_92731
+.1007_Polewali_92731
+.1008_Watang Palakka_92731
+73.08.23_Tanete Riattang Timur_92715|92719
+.1001_Bajoe_92716
+.1002_Cellu_92715
+.1008_Lonrae_92716
+.1005_Palette (Pallette)_92719
+.1003_Panyula_92717
+.1006_Tipojong (Tibojong)_92716
+.1007_Toro_92715
+.1004_Waetuo_92718
+73.08.17_Tellu Siattinge_92752
+.2011_Ajjalireng_92752
+.2007_Itterung_92752
+.2009_Lamuru_92752
+.2006_Lanca_92752
+.2016_Lappae_92752
+.2013_Lea_92752
+.2008_Mattoanging_92752
+.1001_Otting_92752
+.2014_Padaidi_92752
+.2003_Palongki_92752
+.2017_Patangnga_92752
+.2015_Pongka_92752
+.2012_Sijelling_92752
+.2004_Tajong_92752
+.1002_Tokaseng_92752
+.2005_Ulo_92752
+.2010_Waji_92752
+73.08.25_Tellulimpoe (Tellu Limpoe)_92771
+.2011_Batu Putih_92771
+.2008_Bonto Masunggu_92771
+.2003_Gaya Baru_92771
+.2002_Lagori_92771
+.2009_Pallawa_92771
+.2010_Polewali_92771
+.2005_Sadar_92771
+.2007_Samaenre_92771
+.2004_Tapong_92771
+.2001_Tellang Kere (Tellangkere)_92771
+.2006_Tondong_92771
+73.08.05_Tonra_92774
+.2007_Bacu_92774
+.2003_Biccoing_92774
+.2009_Bone Pute (Bonepute)_92774
+.2001_Bulu-Bulu_92774
+.2002_Gareccing_92774
+.2005_Libureng_92774
+.2008_Muara_92774
+.2010_Padatuo_92774
+.2006_Rappa_92774
+.2011_Samaenre_92774
+.2004_Ujunge_92774
+73.08.14_Ulaweng_92762
+.2003_Cani Sirenreng_92762
+.1001_Cinnong_92762
+.2012_Galung_92762
+.2006_Jompie_92762
+.2008_Lamakkaraseng_92762
+.2002_Lilina Ajangale_92762
+.2015_Manurunge_92762
+.2009_Mula Menree_92762
+.2005_Pallawa Rukka_92762
+.2007_Sappewalie (Sappe Walie)_92762
+.2013_Tadang Palie_92762
+.2011_Tea Malala_92762
+.2010_Tea Musu (Teamusu)_92762
+.2014_Timusu_92762
+.2004_Ulaweng Cinnong_92762

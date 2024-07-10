@@ -1,0 +1,76 @@
+16.12.04_Abab_31315
+.2001_Betung_31315
+.2002_Betung Barat_31315
+.2008_Betung Selatan_31315
+.2003_Karang Agung_31315
+.2005_Pengabuan_31315
+.2007_Pengabuan Timur (Pengabuhan Timur)_31315
+.2006_Prambatan_31315
+.2004_Tanjung Kurung_31315
+16.12.03_Penukal_31316
+.2005_Air Itam_31316
+.2007_Air Itam Timur_31316
+.2010_Babat_31316
+.2002_Gunung Menang_31316
+.2006_Gunung Raja_31316
+.2003_Mangkunegara_31316
+.2013_Mangkunegara Timur_31316
+.2001_Purun_31316
+.2012_Purun Timur_31316
+.2004_Raja Jaya_31316
+.2009_Spantan Jaya_31316
+.2011_Suka Raja_31316
+.2008_Sungai Langan_31316
+16.12.02_Penukal Utara_31317
+.2005_Karang Tanding_31317
+.2009_Kota Baru_31317
+.2006_Lubuk Tampui_31317
+.2013_Muara Ikan_31317
+.2003_Prabu Menang_31317
+.2001_Sukarami_31317
+.2012_Tambak_31317
+.2004_Tanding Marga_31317
+.2002_Tanjung Baru_31317
+.2007_Tempirai_31317
+.2008_Tempirai Selatan_31317
+.2011_Tempirai Timur (Tempurai Timur)_31317
+.2010_Tempirai Utara (Tempurai Utara)_31317
+16.12.01_Talang Ubi_31211|31214
+.2014_Benakat Minyak_31214
+.2002_Benuang_31214
+.2019_Beruge Darat_31214
+.1018_Handayani Mulya_31214
+.2006_Karta Dewa_31214
+.2007_Panta Dewa_31214
+.1017_Pasar Bhayangkara_31214
+.2009_Semangus_31214
+.2020_Simpang Tais_31214
+.2013_Sinar Dewa_31214
+.2016_Suka Damai_31214
+.2015_Suka Maju (Sukamaju)_31214
+.2008_Sungai Baung_31214
+.2005_Sungai Ibul_31214
+.2004_Talang Akar_31214
+.2001_Talang Bulang_31214
+.1010_Talang Ubi Barat_31211
+.1012_Talang Ubi Selatan_31212
+.1003_Talang Ubi Timur_31213
+.1011_Talang Ubi Utara_31214
+16.12.05_Tanah Abang_31314
+.2001_Bumi Ayu_31314
+.2006_Curup_31314
+.2011_Harapan Jaya_31314
+.2013_Lunas Jaya_31314
+.2009_Modong_31314
+.2016_Muara Dua_31314
+.2002_Muara Sungai_31314
+.2008_Pandan_31314
+.2007_Raja_31314
+.2014_Raja Barat_31314
+.2004_Sedupi_31314
+.2017_Sukamanis_31314
+.2005_Sukaraja_31314
+.2015_Tanah Abang Jaya_31314
+.2010_Tanah Abang Selatan_31314
+.2003_Tanah Abang Utara_31314
+.2012_Tanjung Dalam_31314

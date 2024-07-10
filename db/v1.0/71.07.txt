@@ -1,0 +1,156 @@
+71.07.03_Belang_95992
+.2003_Belang_95992
+.2005_Beringin (Beringing)_95992
+.2002_Borgo_95992
+.2020_Borgo Satu_95992
+.2004_Buku_95992
+.2010_Buku Selatan_95992
+.2016_Buku Tengah_95992
+.2018_Buku Tenggara_95992
+.2009_Buku Utara_95992
+.2001_Mangkit_95992
+.2008_Molompar_95992
+.2014_Molompar Timur_95992
+.2013_Molompar Utara_95992
+.2019_Ponosakan Belang_95992
+.2017_Ponosakan Indah_95992
+.2006_Tababo_95992
+.2015_Tababo Selatan_95992
+.2007_Watuliney_95992
+.2012_Watuliney Indah_95992
+.2011_Watuliney Tengah_95992
+71.07.11_Pasan_95993
+.2007_Liwutung_95993
+.2009_Liwutung Dua_95993
+.2008_Liwutung Satu_95993
+.2011_Maulit_95993
+.2010_Poniki_95993
+.2004_Tolombukan_95993
+.2006_Tolombukan Barat_95993
+.2005_Tolombukan Satu_95993
+.2001_Towuntu_95993
+.2003_Towuntu Barat_95993
+.2002_Towuntu Timur_95993
+71.07.02_Pusomaen_95997
+.2003_Bentenan_95997
+.2008_Bentenan Indah_95997
+.2014_Bentenan Satu_95997
+.2005_Makalu_95997
+.2012_Makalu Selatan_95997
+.2006_Minanga_95997
+.2010_Minanga Dua_95997
+.2007_Minanga Satu_95997
+.2011_Minanga Tiga_95997
+.2009_Minanga Timur_95997
+.2001_Tatengesan_95997
+.2013_Tatengesan Satu_95997
+.2004_Tumbak_95997
+.2015_Tumbak Madani_95997
+.2002_Wiau_95997
+71.07.01_Ratahan_95994
+.1008_Lowu Dua_95994
+.1009_Lowu Satu_95994
+.1016_Lowu Utara_95994
+.1017_Nataan_95994
+.2003_Rasi_95994
+.2021_Rasi Satu_95994
+.1004_Tosuraya_95994
+.1018_Tosuraya Barat_95994
+.1019_Tosuraya Selatan_95994
+.1005_Wawali_95994
+.1020_Wawali Pasan_95994
+71.07.12_Ratahan Timur_95995
+.2006_Pangu_95995
+.2008_Pangu Dua_95995
+.2007_Pangu Satu_95995
+.2003_Wioi Dua_95995
+.2002_Wioi Satu_95995
+.2004_Wioi Tiga_95995
+.2005_Wioi Timur_95995
+.2001_Wioy (Wioi)_95995
+.2010_Wongkai Satu_95995
+.2009_Wongkay (Wongkai)_95995
+71.07.04_Ratatotok_95999
+.2005_Basaan_95999
+.2010_Basaan Dua_95999
+.2006_Basaan Satu_95999
+.2007_Morea (Moreah)_95999
+.2008_Morea Satu (Moreah Satu)_95999
+.2014_Ratatotok_95999
+.2002_Ratatotok Dua_95999
+.2015_Ratatotok Muara_95999
+.2001_Ratatotok Satu_95999
+.2003_Ratatotok Selatan_95999
+.2013_Ratatotok Tengah_95999
+.2012_Ratatotok Tenggara_95999
+.2004_Ratatotok Timur_95999
+.2011_Ratatotok Utara_95999
+.2009_Soyoan (Soyowan)_95999
+71.07.08_Silian Raya_95998
+.2001_Silian_95998
+.2008_Silian Barat_95998
+.2005_Silian Dua_95998
+.2009_Silian Kota_95998
+.2003_Silian Satu_95998
+.2004_Silian Selatan_95998
+.2006_Silian Tengah_95998
+.2007_Silian Tiga_95998
+.2010_Silian Timur_95998
+.2002_Silian Utara_95998
+71.07.05_Tombatu_95996
+.2008_Betelan_95996
+.2016_Betelan Satu_95996
+.2012_Kali_95996
+.2017_Kali Oki_95996
+.2014_Pisa_95996
+.2015_Tombatu_95996
+.2009_Tombatu Satu_95996
+.2018_Tombatu Tiga Selatan_95996
+.2019_Tombatu Tiga Timur_95996
+.2006_Tonsawang_95996
+.2020_Tonsawang Satu_95996
+71.07.09_Tombatu Timur_95990
+.2009_Esandom_95990
+.2011_Esandom Dua_95990
+.2010_Esandom Satu_95990
+.2001_Molompar_95990
+.2003_Molompar Atas_95990
+.2004_Molompar Dua_95990
+.2006_Molompar Dua Selatan_95990
+.2005_Molompar Dua Utara_95990
+.2002_Molompar Satu_95990
+.2007_Mundung_95990
+.2008_Mundung Satu_95990
+71.07.10_Tombatu Utara_95991
+.2007_Kuyanga_95991
+.2008_Kuyanga Satu_95991
+.2001_Tombatu Dua_95991
+.2003_Tombatu Dua Barat_95991
+.2004_Tombatu Dua Tengah_95991
+.2002_Tombatu Dua Utara_95991
+.2005_Tombatu Tiga_95991
+.2006_Tombatu Tiga Tengah_95991
+.2009_Winorangian_95991
+.2010_Winorangian Satu_95991
+71.07.06_Touluaan_95981
+.2022_Lobu_95981
+.2021_Lobu Atas_95981
+.2006_Lobu Dua_95981
+.2020_Lobu Kota_95981
+.2005_Lobu Satu_95981
+.2003_Ranoketang Atas_95981
+.2019_Ranoketang Atas Satu_95981
+.2004_Tondanauw (Toundanouw / Toundanou)_95981
+.2017_Tondanouw Satu (Toundanouw Satu)_95981
+.2018_Toundanouw Atas_95981
+71.07.07_Touluaan Selatan_95982
+.2007_Banga_95982
+.2006_Bunag_95982
+.2001_Kalait_95982
+.2003_Kalait Dua_95982
+.2002_Kalait Satu_95982
+.2004_Kalait Tiga_95982
+.2005_Lowatag (Lowatak / Lowantag)_95982
+.2009_Ranoako_95982
+.2010_Suhuyon_95982
+.2008_Tambelang_95982

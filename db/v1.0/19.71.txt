@@ -1,0 +1,49 @@
+19.71.01_Bukit Intan (Bukitintan)_33147|33149
+.1007_Air Itam_33149
+.1011_Air Mawar_33147
+.1006_Bacang_33148
+.1008_Pasir Putih_33147
+.1004_Semabung Lama_33147
+.1010_Sinar Bulan_33147
+.1009_Temberan_33147
+19.71.06_Gabek_33111|33119
+.1005_Air Salemba_33111
+.1004_Gabek Dua_33116
+.1003_Gabek Satu_33118
+.1006_Jerambah Gantung_33119
+.1001_Selindung (Selindung Lama)_33117
+.1002_Selindung Baru_33117
+19.71.05_Gerunggang_33123|33125
+.1007_Air Kepala Tujuh_33123
+.1002_Bukitmerapin (Bukit Merapin / Bukit Merapen)_33123
+.1004_Bukitsari (Bukit Sari)_33123
+.1006_Kacang Pedang_33125
+.1001_Taman Bunga_33123
+.1005_Tua Tunu (Tua Tunu indah)_33124
+19.71.07_Girimaya_33141|33146
+.1003_Bukitbesar (Bukit Besar)_33145
+.1002_Bukitintan (Batu Intan)_33141
+.1001_Pasar Padi_33142
+.1005_Semabung Baru_33146
+.1004_Sriwijaya_33143
+19.71.03_Pangkal Balam_33111|33115
+.1007_Ampui_33113
+.1006_Ketapang_33111
+.1005_Lontong Pancur_33115
+.1004_Pasir Garam_33115
+.1008_Rejo Sari (Rejosari)_33111
+19.71.04_Rangkui_33132|33139
+.1006_Asam_33135
+.1002_Bintang_33138
+.1010_Gajah Mada_33139
+.1009_Keramat_33134
+.1005_Masjid Jamik_33132
+.1007_Melintang_33136
+.1008_Parit Lalang_33137
+.1001_Pintu Air_33133
+19.71.02_Taman Sari_33121|33127
+.1003_Batin Tikal_33121
+.1002_Gedung Nasional_33127
+.1005_Kejaksaan_33123
+.1001_Opas Indah_33121
+.1004_Rawa Bangun_33121

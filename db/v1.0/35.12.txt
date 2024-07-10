@@ -1,0 +1,153 @@
+35.12.11_Arjasa_68371
+.2007_Arjasa_68371
+.2002_Bayeman_68371
+.2006_Curah Tatal_68371
+.2005_Jatisari_68371
+.2001_Kayumas (Kayu Mas)_68371
+.2004_Kedungdowo (Kedung Dowo)_68371
+.2003_Ketowan_68371
+.2008_Lamongan_68371
+35.12.13_Asembagus_68373
+.2008_Asembagus_68373
+.2003_Awar-Awar_68373
+.2002_Bantal_68373
+.2009_Gudang_68373
+.2001_Kedunglo (Kedonglo)_68373
+.2006_Kertosari_68373
+.2007_Mojosari_68373
+.2004_Parante (Perante)_68373
+.2005_Trigonco_68373
+.2010_Wringin Anom_68373
+35.12.16_Banyuglugur_68359
+.2005_Banyuglugur_68359
+.2007_Kalianget_68359
+.2002_Kalisari_68359
+.2001_Lubawang_68359
+.2004_Selabanteng (Selobanteng)_68359
+.2006_Telempong_68359
+.2003_Tepos_68359
+35.12.14_Banyuputih_68374
+.2004_Banyuputih (Banyu Putih)_68374
+.2002_Sumberanyar_68374
+.2003_Sumberejo_68374
+.2005_Sumberwaru_68374
+.2001_Wonorejo_68374
+35.12.02_Besuki_68356
+.2009_Besuki_68356
+.2004_Blimbing_68356
+.2006_Bloro_68356
+.2010_Demung_68356
+.2003_Jetis_68356
+.2008_Kalimas_68356
+.2005_Langkap_68356
+.2007_Pesisir_68356
+.2002_Sumberejo_68356
+.2001_Widoropayung (Widoro Payung)_68356
+35.12.17_Bungatan_68358
+.2006_Bletok_68358
+.2005_Bungatan_68358
+.2004_Mlandingan Wetan_68358
+.2007_Pasir Putih_68358
+.2001_Patemon_68358
+.2003_Selowogo_68358
+.2002_Sumbertengah_68358
+35.12.12_Jangkar_68372
+.2008_Agel_68372
+.2002_Curah Kalak_68372
+.2005_Gadingan_68372
+.2004_Jangkar_68372
+.2006_Kumbangsari_68372
+.2003_Palangan_68372
+.2007_Pesanggrahan_68372
+.2001_Sopet_68372
+35.12.01_Jatibanteng_68357
+.2005_Curahsuri (Curah Suri)_68357
+.2004_Jatibanteng_68357
+.2007_Kembangsari_68357
+.2001_Pategalan_68357
+.2008_Patemon_68357
+.2002_Semambung_68357
+.2003_Sumberanyar_68357
+.2006_Wringinanom_68357
+35.12.10_Kapongan_68362
+.2002_Curah Cotok (Corak Cotok)_68362
+.2009_Gebangan_68362
+.2001_Kandang_68362
+.2007_Kapongan_68362
+.2008_Kesambirampak (Kesambi Rampak)_68362
+.2006_Landangan_68362
+.2003_Peleyan_68362
+.2010_Pokaan (Poka'an)_68362
+.2005_Seletreng_68362
+.2004_Wonokoyo_68362
+35.12.05_Kendit_68352
+.2003_Balung_68352
+.2001_Bugeman_68352
+.2002_Kendit_68352
+.2007_Klatakan_68352
+.2006_Kukusan_68352
+.2005_Rajekwesi_68352
+.2004_Tambak Ukir_68352
+35.12.09_Mangaran_68363
+.2002_Mangaran_68363
+.2004_Semiring_68363
+.2001_Tanjung Glugur_68363
+.2003_Tanjung Kamal_68363
+.2005_Tanjung Pecinan_68363
+.2006_Trebungan_68363
+35.12.04_Mlandingan_68353
+.2001_Alas Bayur_68353
+.2003_Campoan_68353
+.2007_Mlandingan Kulon_68353
+.2006_Selomukti_68353
+.2005_Sumber Pinang_68353
+.2002_Sumberanyar (Sumber Anyar)_68353
+.2004_Trebungan_68353
+35.12.06_Panarukan_68351
+.2006_Alasmalang (Alas Malang)_68351
+.2007_Duwet_68351
+.2008_Gelung_68351
+.2004_Kilensari_68351
+.2001_Paowan_68351
+.2005_Peleyan_68351
+.2002_Sumberkolak (Sumber Kolak)_68351
+.2003_Wringinanom_68351
+35.12.08_Panji_68321|68323
+.1002_Ardirejo_68321
+.2003_Battal_68323
+.2010_Curah Jeru_68323
+.2005_Juglangan_68323
+.2012_Kayu Putih_68323
+.2004_Klampokan_68323
+.1007_Mimbaan_68322
+.2006_Panji Kidul_68323
+.2008_Panji Lor_68323
+.2001_Sliwung_68323
+.2011_Tenggir_68323
+.2009_Tokelan_68323
+35.12.07_Situbondo_68311|68316
+.1003_Dawuhan_68311
+.2001_Kalibagor_68314
+.2004_Kotakan_68313
+.2006_Olean_68316
+.1002_Patokan_68312
+.2005_Talkandang_68315
+35.12.03_Suboh_68354
+.2007_Buduan_68354
+.2001_Cemara_68354
+.2006_Dawuan_68354
+.2003_Gunung Malang_68354
+.2004_Gunung Putri_68354
+.2008_Ketah_68354
+.2002_Mojodungkul (Mojo Dungkol)_68354
+.2005_Suboh_68354
+35.12.15_Sumbermalang_68355
+.2006_Alastengah (Alas Tengah)_68355
+.2005_Baderan_68355
+.2004_Kalirejo_68355
+.2009_Plalangan_68355
+.2002_Sumberargo_68355
+.2007_Taman_68355
+.2001_Tamankursi_68355
+.2003_Tamansari (Taman Sari)_68355
+.2008_Tlogosari_68355

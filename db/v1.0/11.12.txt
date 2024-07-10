@@ -1,0 +1,161 @@
+11.12.06_Babah Rot_23767
+.2013_Alue Dawah_23767
+.2004_Alue Jeuruejak_23767
+.2006_Alue Peunawa_23767
+.2005_Blang Dalam_23767
+.2008_Blang Raja_23767
+.2014_Cot Seumantok_23767
+.2003_Gunung Samarinda_23767
+.2002_Ie Mirah_23767
+.2012_Lhok Gayo_23767
+.2007_Pante Cermin_23767
+.2001_Pante Rakyat_23767
+.2009_Rukoen Dame_23767
+.2010_Simpang Gadeng_23767
+.2011_Teladan Jaya_23767
+11.12.01_Blangpidie (Blang Pidie)_23764
+.2022_Alue Manggota_23764
+.2030_Babah Lhueng_23764
+.2024_Baharu_23764
+.2014_Cot Jeurat_23764
+.2020_Geulumpang Payong_23764
+.2029_Gudang_23764
+.2006_Guhang_23764
+.2025_Keude Paya_23764
+.2016_Keude Siblah_23764
+.2017_Kuta Bahagia_23764
+.2018_Kuta Tinggi_23764
+.2028_Kuta Tuha_23764
+.2023_Lam Kuta (Lamkuta)_23764
+.2008_Lhung Asan_23764
+.2010_Lhung Tarok_23764
+.2019_Mata Ie_23764
+.2015_Meudang Ara_23764
+.2021_Panton Raya_23764
+.2026_Pasar Blangpidie_23764
+.2007_Seunaloh_23764
+11.12.08_Jeumpa_23769
+.2002_Alue Rambot_23769
+.2012_Alue Seulaseh_23769
+.2004_Alue Sungai Pinang_23769
+.2007_Asoe Nanggroe_23769
+.2001_Baru_23769
+.2005_Cot Mane_23769
+.2009_Ikue Lhung (Iku Lhung)_23769
+.2011_Jeumpa Barat_23769
+.2003_Kuta Jeumpa_23769
+.2010_Kuta Makmur_23769
+.2006_Ladang Neubok_23769
+.2008_Padang Geulumpang_23769
+11.12.05_Kuala Batee_23766
+.2007_Alue Padee_23766
+.2014_Alue Pisang_23766
+.2005_Blang Makmur_23766
+.2012_Blang Panyang_23766
+.2019_Drien Beurumbang_23766
+.2003_Geulanggang Gajah (Gelanggang Gajah)_23766
+.2016_Ie Mameh_23766
+.2011_Kampung Tengah_23766
+.2017_Keude Baro (Keudee Baro)_23766
+.2001_Kota Bahagia_23766
+.2013_Krueng Batee_23766
+.2021_Krueng Panto_23766
+.2004_Kuala Terubue_23766
+.2018_Lama Tuha_23766
+.2015_Lhok Gajah_23766
+.2009_Lhung Geulumpang (Lhung Gelumpang)_23766
+.2008_Muka Blang_23766
+.2010_Padang Sikabu_23766
+.2006_Panto Cut_23766
+.2002_Pasar Kota Bahagia (Pasar Kuta Bahagia)_23766
+.2020_Rumoh Panyang_23766
+11.12.09_Lembah Sabil_23762
+.2010_Alue Rambot_23762
+.2003_Cot Bak-U_23762
+.2006_Geulanggang Batee_23762
+.2014_Kayee Aceh_23762
+.2007_Kuta Paya_23762
+.2011_Ladang Tuha I_23762
+.2012_Ladang Tuha II_23762
+.2004_Meunasah Sukon_23762
+.2005_Meunasah Teungoh / Tengah_23762
+.2001_Meurandeh_23762
+.2009_Padang Keulele/Kelele_23762
+.2002_Sukadamai (Suka Damai)_23762
+.2013_Tokoh II_23762
+.2008_Ujung Tanah_23762
+11.12.03_Manggeng_23760
+.2024_Blang Manggeng_23760
+.2001_Kedai_23760
+.2009_Ladang Panah_23760
+.2027_Lhok Pawoh_23760
+.2007_Lhok Puntoy_23760
+.2022_Lhueng Baro_23760
+.2002_Padang_23760
+.2031_Pante Cermin_23760
+.2029_Pante Pirak_23760
+.2025_Pante Raja_23760
+.2011_Panton Makmur_23760
+.2005_Paya_23760
+.2010_Pusu Ingin Jaya_23760
+.2026_Sejahtera_23760
+.2006_Seuneulop_23760
+.2003_Tengah_23760
+.2023_Tokoh_23760
+.2030_Ujung Tanah_23760
+11.12.07_Setia_23763
+.2005_Alue Dama_23763
+.2009_Cinta Makmur_23763
+.2010_Kuta Murni_23763
+.2001_Lhang_23763
+.2008_Mon Mameh (Pesisir Mon Mameh)_23763
+.2003_Pisang_23763
+.2002_Rambong_23763
+.2007_Tangan Tangan Cut_23763
+.2004_Ujong Tanoh (Ujung Tanah)_23763
+11.12.04_Susoh_23765
+.2010_Baharu_23765
+.2003_Barat_23765
+.2023_Blang Dalam_23765
+.2028_Cot Mancang_23765
+.2006_Durian Jangek_23765
+.2002_Durian Rampak_23765
+.2021_Gadang_23765
+.2029_Geulima Jaya_23765
+.2017_Kedai Palak Kerambil_23765
+.2015_Kedai Susoh_23765
+.2019_Kepala Bandar_23765
+.2018_Ladang_23765
+.2025_Lampoh Drien_23765
+.2024_Meunasah_23765
+.2012_Padang Baru_23765
+.2022_Padang Hilir_23765
+.2026_Padang Panjang_23765
+.2005_Palak Hilir_23765
+.2004_Palak Hulu_23765
+.2016_Panjang Baru_23765
+.2001_Pantai Perak_23765
+.2011_Pawoh_23765
+.2008_Pinang_23765
+.2013_Pulau Kayu_23765
+.2027_Rubek Meupayong_23765
+.2007_Rumah Dua Lapis_23765
+.2009_Rumah Panjang_23765
+.2020_Tangah_23765
+.2014_Ujung Padang_23765
+11.12.02_Tangan-Tangan_23768
+.2001_Adan_23768
+.2014_Bineh Krueng_23768
+.2006_Blang Padang_23768
+.2016_Drien Jalo_23768
+.2015_Drien Kipah_23768
+.2004_Gunong Cut (Gunung Cut)_23768
+.2020_Ie Lhob_23768
+.2019_Kuta Bak Drien_23768
+.2003_Mesjid_23768
+.2007_Padang Bak Jeumpa_23768
+.2017_Padang Bak Jok_23768
+.2005_Padang Kawa_23768
+.2002_Pante Geulumpang_23768
+.2008_Suak Labu_23768
+.2018_Suak Nibong_23768

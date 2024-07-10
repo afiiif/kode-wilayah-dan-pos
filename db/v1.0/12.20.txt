@@ -1,0 +1,400 @@
+12.20.07_Batang Onang_22762
+.2008_Batang Onang Baru_22762
+.2005_Batang Onang Lama_22762
+.2018_Batu Mamak_22762
+.2031_Batu Nanggar_22762
+.2011_Batu Pulut_22762
+.2006_Bonan Dolok_22762
+.2013_Galanggang_22762
+.2024_Gunung Tua Julu_22762
+.2015_Gunungtua Batang Onang (Gunung Tua Batang Onang)_22762
+.2014_Gunungtua Tumbu Jati (Gunung Tua Jati / Tumbujat)_22762
+.2012_Huta Lambung_22762
+.2029_Janji Manahan_22762
+.2022_Janji Mauli_22762
+.2032_Morang_22762
+.2030_Padang Bujur Baru_22762
+.2019_Padang Garugur_22762
+.2020_Padang Matinggi_22762
+.2026_Pagaran Batu_22762
+.2003_Pangkal Dolok Julu (Pangkalan Dolok Julu)_22762
+.2002_Pangkal Dolok Lama (Pangkalan Dolok Lama)_22762
+.2009_Parau Sorat_22762
+.2010_Pasar Matanggor_22762
+.2025_Pasir Ampolu Hopong (Pasir Ampolu Hepeng)_22762
+.2004_Pintu Padang_22762
+.2021_Purba Tua_22762
+.1001_Sayur Matinggi_22762
+.2023_Sayur Matinggi Julu (Sayur Matinggi II Julu)_22762
+.2016_Simanapang_22762
+.2028_Simangambat Dolok_22762
+.2017_Simaninggir (Simaninggir Psm)_22762
+.2007_Simardona_22762
+.2027_Tamosu_22762
+12.20.02_Dolok_22756
+.2004_Aek Haruaya_22756
+.2025_Aek Ilung_22756
+.2020_Aek Rao TN_22756
+.2010_Aek Suhat Jae_22756
+.2070_Aek Suhat TR_22756
+.2057_Aek Sundur_22756
+.2083_Aek Tangga_22756
+.2047_Arse_22756
+.2024_Bahap_22756
+.2079_Bandar Nauli_22756
+.2058_Baringin Sil_22756
+.2017_Baringin Sip_22756
+.2022_Batu Runding_22756
+.2075_Binanga Gumbot_22756
+.2003_Binanga Panasahan_22756
+.2007_Bintais Julu_22756
+.2077_Bukit Tinggi_22756
+.2008_Bunut_22756
+.2044_Dalihan Natolu_22756
+.2051_Dolok Sanggul_22756
+.2071_Gumaruntar_22756
+.2031_Gumbot_22756
+.2018_Gunung Maria_22756
+.2032_Gunung Selamat_22756
+.2059_Hula Baringin_22756
+.2011_Huta Baru Sil_22756
+.2066_Huta Baru Sip_22756
+.2029_Hutaimbaru Gul_22756
+.2035_Jambur Batu_22756
+.2040_Janji Manahan Gul_22756
+.2016_Janji Manahan Sil_22756
+.2073_Janji Matogu_22756
+.2023_Lubuk Godang_22756
+.2034_Lubuk Kundur_22756
+.2046_Lubuk Lanjang_22756
+.2019_Mompang Dolok_22756
+.2015_Mompang Lombang_22756
+.2060_Nabonggal_22756
+.2038_Naga Saribu_22756
+.2069_Napasundali_22756
+.2054_Pagaran Julu II_22756
+.2067_Pagaran Siregar_22756
+.2043_Panca_22756
+.2014_Pangaran Julu I_22756
+.2068_Parigi_22756
+.2042_Parmeraan_22756
+.2006_Pasar Sipiongot_22756
+.2009_Paya Ombik_22756
+.2053_Pijor Koling_22756
+.2086_Pintu Padang Merdeka_22756
+.2061_Purba Tua_22756
+.2037_Rancaran_22756
+.2084_Rongkare_22756
+.2055_Siala Gundi_22756
+.2074_Sialang Dolok_22756
+.2080_Sibayo_22756
+.2050_Sibayo Jae_22756
+.2063_Sibio Bio_22756
+.2085_Siburbur_22756
+.2049_Sigala Gala_22756
+.2001_Siguga_22756
+.2072_Sijantung Jae_22756
+.2021_Sijantung Julu_22756
+.2065_Sijara Jara_22756
+.2012_Sijorang_22756
+.2052_Silangge_22756
+.2033_Silogo Logo_22756
+.2028_Siloung_22756
+.2078_Simambal_22756
+.2048_Simangambat Tua_22756
+.2013_Simaninggir Sip_22756
+.2076_Simanosor_22756
+.2041_Simataniari_22756
+.2039_Simataniari Jae_22756
+.2036_Simatorkis_22756
+.2081_Sinabongan_22756
+.2002_Singanyal_22756
+.2030_Sipiongot_22756
+.2056_Siraga HP_22756
+.2082_Siranap_22756
+.2064_Situmbaga_22756
+.2045_Sungai Datar_22756
+.2027_Sungai Pining_22756
+.2005_Tanjung Baru B_22756
+.2062_Tanjung Longat_22756
+.2026_Tarutung Bolak_22756
+12.20.01_Dolok Sigompulon_22757
+.2003_Aek Jabut_22757
+.2037_Aek Kanan_22757
+.2034_Aek Kundur_22757
+.2032_Aek Simanap_22757
+.2018_Batu Hibul_22757
+.2022_Gadung Holbung_22757
+.2014_Gonting Bange_22757
+.2005_Gunung Sormin_22757
+.2026_Hasahatan_22757
+.2035_Hatiran_22757
+.2015_Hutaimbaru Simundol_22757
+.2001_Janji Manahan GNT_22757
+.2036_Karang Anyar_22757
+.2007_Kuala Simpang_22757
+.2013_Malino_22757
+.2004_Nabundong_22757
+.2038_Nahula Jae_22757
+.2009_Nahula Julu_22757
+.2031_Padang Malakka_22757
+.2021_Padang Matinggi GNT_22757
+.2016_Padang Matinggi Simundol_22757
+.2020_Pamarai_22757
+.2044_Pamonoran_22757
+.2024_Panyabungan_22757
+.2002_Pasang Lela_22757
+.2040_Pasar Sayur Matinggi_22757
+.2043_Pasar Simundol_22757
+.2027_Pinarik_22757
+.2033_Pulo Liman_22757
+.2012_Saba Bangun_22757
+.2023_Salusuhan_22757
+.2025_Sayur Matinggi_22757
+.2019_Sigordang_22757
+.2006_Sihalo Halo_22757
+.2039_Simadihon_22757
+.2011_Simangambat_22757
+.2010_Simaninggir Simundol_22757
+.2008_Simundol_22757
+.2029_Sipogas_22757
+.2030_Sipogas A_22757
+.2042_Sitonun_22757
+.2017_Sunut_22757
+.2041_Tj. Baru Silaiya_22757
+.2028_Unte Manis_22757
+12.20.03_Halongonan_22753
+.2005_Balimbing_22753
+.2020_Bargot Topong Jae_22753
+.2019_Bargot Topong Julu_22753
+.2044_Batu Tunggal_22753
+.2018_Halongonan_22753
+.2002_Hambulo_22753
+.2014_Hasahatan_22753
+.2009_Hiteurat_22753
+.2001_Hutaimbaru_22753
+.2032_Hutanopan_22753
+.2041_Japinulik_22753
+.2017_Napa Lancat_22753
+.2015_Pagar Gunung_22753
+.2016_Pangarambangan_22753
+.2004_Pangirkiran_22753
+.2003_Paolan_22753
+.2042_Paran Honas_22753
+.2006_Rondaman Siburegar_22753
+.2037_Saba_22753
+.2011_Sandean Jae_22753
+.2013_Sandean Julu_22753
+.2012_Sandean Tonga_22753
+.2010_Siboru Angin_22753
+.2023_Sigala Gala_22753
+.2008_Silantoyung_22753
+.2007_Sipaho_22753
+.2036_Sipenggeng_22753
+.2021_Siringki Jae_22753
+.2043_Siringki Julu_22753
+.2038_Sitabola_22753
+.2039_Sitonun_22753
+.2040_Tapus Jae_22753
+.2022_Ujung Padang_22753
+12.20.11_Halongonan Timur_22752
+.2012_Batang Pane I_22752
+.2013_Batang Pane II_22752
+.2014_Batang Pane III_22752
+.2002_Bolatan_22752
+.2004_Gunung Intan_22752
+.2006_Gunung Manaon III_22752
+.2010_Hutabaru Nangka_22752
+.2005_Mompang I_22752
+.2003_Pasir Bara_22752
+.2009_Rondaman_22752
+.2001_Siancimun_22752
+.2007_Sihopuk Baru_22752
+.2008_Sihopuk Lama_22752
+.2011_Situmbaga_22752
+12.20.09_Hulu Sihapas_22740
+.2001_Aek Godang_22740
+.2002_Aek Nauli_22740
+.2004_Pangirkiran_22740
+.2010_Parmeraan_22740
+.2007_Pintu Bosi_22740
+.2003_Sampuran Simarloting_22740
+.2008_Sidong-dong (Sidongdong)_22740
+.2005_Simaninggir_22740
+.2009_Sitabar_22740
+.2006_Suka Dame_22740
+12.20.04_Padang Bolak_22754
+.2075_Aek Gambir_22754
+.2077_Aek Jangkang_22754
+.2031_Aek Suhat_22754
+.2013_Ambasang Natigor_22754
+.2043_Batang Baruhar Jae_22754
+.2042_Batang Baruhar Julu_22754
+.2027_Batu Mamak_22754
+.2054_Batu Sundung_22754
+.2050_Batu Tambun_22754
+.2020_Botung_22754
+.2076_Bukit Raya Sordang_22754
+.2022_Dolok Sae_22754
+.2052_Garoga_22754
+.2055_Garonggang_22754
+.2069_Gunung Manaon II_22754
+.2029_Gunung Tua Baru_22754
+.2039_Gunung Tua Jae_22754
+.2040_Gunung Tua Julu_22754
+.2038_Gunung Tua Tonga_22754
+.2053_Hajoran_22754
+.2045_Hambiri_22754
+.2073_Hutaimbaru II_22754
+.2041_Hutalombang_22754
+.2057_Liang Hasona_22754
+.2026_Losung Batu_22754
+.2008_Lubuk Torop_22754
+.2017_Mananti_22754
+.2056_Nabonggal_22754
+.2014_Napagadung Laut_22754
+.2060_Padang Garugur_22754
+.2047_Pagaran Singkam_22754
+.2048_Pagaran Tonga_22754
+.2018_Paran Padang_22754
+.2064_Parlimbatan_22754
+.1001_Pasar Gunung Tua_22754
+.2044_Purba Sinomba_22754
+.2070_Purba Tua_22754
+.2019_Rahuning Jae_22754
+.2015_Rampa Jae_22754
+.2016_Rampa Julu_22754
+.2066_Saba Bangunan_22754
+.2065_Saba Sitahul tahul_22754
+.2028_Sampuran_22754
+.2049_Sibagasi_22754
+.2030_Sibatang Kayu_22754
+.2067_Sidingkat_22754
+.2062_Sigama_22754
+.2063_Sigama Ujung Gading_22754
+.2021_Sigimbal_22754
+.2024_Sihapas Hapas_22754
+.2058_Simandiangin Dolok_22754
+.2059_Simandiangin Lombang_22754
+.2061_Simanosor_22754
+.2023_Simasi_22754
+.2078_Simbolon_22754
+.2074_Siombob_22754
+.2046_Sosopan_22754
+.2071_Sungai Durian_22754
+.2072_Sungai Orosan_22754
+.2025_Sungai Tolang_22754
+.2012_Tanjung Marulak_22754
+.2051_Tanjung Tiram_22754
+12.20.05_Padang Bolak Julu_22753
+.2018_Aek Bargot_22753
+.2020_Balakka (Balangka)_22753
+.2007_Balimbing Jae_22753
+.2009_Balimbing Julu_22753
+.2016_Batu Gana_22753
+.2004_Batu Rancang_22753
+.2019_Gariang_22753
+.2002_Hasambi_22753
+.2015_Lantosan II_22753
+.2017_Padang Baruas_22753
+.2013_Padang Bujur_22753
+.2011_Pamuntaran_22753
+.2001_Pancur Pangko_22753
+.2012_Paran Gadung_22753
+.2003_Paran Nangka_22753
+.2021_Parupuk Jae_22753
+.2022_Parupuk Julu_22753
+.2023_Sialang_22753
+.2008_Sipupus Lombang_22753
+.2005_Sitanggoru_22753
+.2006_Siunggam Dolok_22753
+.2010_Sobar_22753
+.2014_Ubar_22753
+12.20.10_Padang Bolak Tenggara_22751
+.2004_Aek Bayur_22751
+.2005_Aek Tolong_22751
+.2008_Bangun Purba_22751
+.2012_Gulangan_22751
+.2011_Mompang II_22751
+.2009_Naga Saribu_22751
+.2013_Pijor Koling_22751
+.2014_Purba Tua Dolok_22751
+.2010_Sihoda-Hoda_22751
+.2007_Simaninggir_22751
+.2003_Siunggam Jae_22751
+.2001_Siunggam Julu_22751
+.2002_Siunggam Tonga_22751
+.2006_Tangga-Tangga Hambeng_22751
+12.20.06_Portibi_22741
+.2004_Aek Haruaya (Aek Haruya)_22741
+.2021_Aek Siala_22741
+.2027_Aek Torop_22741
+.2012_Aloban_22741
+.2017_Bahal_22741
+.2032_Balakka Torop_22741
+.2031_Bangkudu_22741
+.2018_Bara_22741
+.2022_Gumarupu Baru_22741
+.2024_Gumarupu Lama (Guma Rupu Lama)_22741
+.2005_Gunung Baringin_22741
+.2015_Gunung Manaon I (Gunung Manaon)_22741
+.2025_Gunung Martua_22741
+.2006_Hadungdung_22741
+.2020_Hotang Sasa_22741
+.2033_Janji Matogu_22741
+.2003_Lantosan I_22741
+.2030_Mangaledang_22741
+.2029_Mangaledang Lama_22741
+.2034_Muara Sigama_22741
+.2028_Napa Lombang_22741
+.2035_Napahalas (Napa Halas)_22741
+.2023_Padang Manjoir_22741
+.2011_Parsarmaan_22741
+.2016_Pasir Pinang_22741
+.2014_Portibi Jae_22741
+.2013_Portibi Julu_22741
+.2007_Rondaman Dolok_22741
+.2010_Rondaman Lombang_22741
+.2036_Sigama Napahalas_22741
+.2026_Sihambeng_22741
+.2019_Simandiangin (Simandi Angin)_22741
+.2008_Sipirok_22741
+.2002_Sitopayan_22741
+.2009_Tanjung Salamat_22741
+.2039_Torluk Muara Dolok_22741
+12.20.08_Simangambat_22747
+.2015_Aekraru_22747
+.2028_Gunung Manaon Simangambat_22747
+.2027_Huta Baringin_22747
+.2018_Huta Baru_22747
+.2022_Huta Pasir_22747
+.2024_Jabi Jabi_22747
+.2019_Janji Matogu_22747
+.2034_Kosik Putih_22747
+.2023_Langkimat_22747
+.2017_Mandasip_22747
+.2020_Paran Padang_22747
+.2030_Paran Tonga Simangambat_22747
+.2033_Sigagan_22747
+.2025_Simangambat Jae_22747
+.2032_Simangambat Julu_22747
+.2029_Sionggoton_22747
+.2021_Tanjung Botung_22747
+.2016_Tanjung Maria_22747
+.2026_Ujung Gading Jae_22747
+.2031_Ujung Gading Julu_22747
+.2014_Ulak Tano_22747
+12.20.12_Ujung Batu_22746
+.2003_Gunung Manaon Ujung Batu_22746
+.2001_Huta Raja_22746
+.2011_Jambu Tonang_22746
+.2004_Labuhan Jurung_22746
+.2010_Mananti_22746
+.2012_Manare Tua_22746
+.2009_Marlaung_22746
+.2005_Martujuan_22746
+.2013_Pasir Lancat Ujung Batu_22746
+.2006_Paya Bahung Ujung Batu_22746
+.2007_Tobing Tinggi Ujung Batu_22746
+.2008_Ujung Batu Jae_22746
+.2002_Ujung Batu Julu_22746

@@ -1,0 +1,57 @@
+73.73.09_Bara_91914
+.1002_Balandai_91914
+.1005_Buntu Datu_91914
+.1003_Rampoang_91914
+.1001_Temmalebba_91914
+.1004_Tobulung_91914
+73.73.08_Mungkajang_91924|91925
+.1004_Kambo_91925
+.1003_Latuppa_91921
+.1001_Mungkajang_91921
+.1002_Murante_91924
+73.73.07_Sendana_91925|91959
+.1001_Mawa_91925
+.1003_Peta_91959
+.1002_Purangi_91959
+.1004_Sendana_91959
+73.73.04_Telluwanua_91958
+.1007_Batu Walenreng_91958
+.1006_Jaya_91958
+.1003_Mancani (Maccani)_91958
+.1002_Maroangin_91958
+.1008_Petonjangan_91958
+.1005_Salubattang_91958
+.1004_Sumarambu_91958
+73.73.01_Wara_91921|91923
+.1003_Amasangan (Amassangan)_91922
+.1002_Boting_91923
+.1011_Dangerekko_91921
+.1005_Lagaligo_91921
+.1012_Pajalesang (Panjelesang)_91921
+.1001_Tompotikka_91921
+73.73.06_Wara Barat_91921|91958
+.1002_Battang_91958
+.1004_Battang Barat_91921
+.1003_Lebang_91921
+.1005_Padang Lambe_91921
+.1001_Tomarundung_91921
+73.73.03_Wara Selatan_91926|91959
+.1007_Binturu_91959
+.1006_Sampoddo_91959
+.1002_Songka_91959
+.1001_Takkalala_91926
+73.73.05_Wara Timur_91921
+.1002_Benteng_91921
+.1004_Malatuntung (Malatunrung)_91921
+.1007_Ponjalae_91921
+.1003_Pontap_91921
+.1005_Salekoe_91921
+.1006_Salotellue_91921
+.1001_Surutanga (Sarutanga)_91921
+73.73.02_Wara Utara_91911|91914
+.1002_Batupasi_91911
+.1008_Luminda_91912
+.1009_Pattene (Patte'ne)_91912
+.1007_Penggoli_91914
+.1003_Sabbang Paru (Sabbamparu / Saabbang Baru)_91913
+.1005_Salobulo_91911

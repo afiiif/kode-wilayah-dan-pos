@@ -1,0 +1,260 @@
+12.12.08_Ajibata_22386
+.2005_Horsik_22386
+.2004_Motung_22386
+.2003_Pardamean Ajibata_22386
+.2008_Pardamean Sibisa_22386
+.2002_Pardomuan Ajibata_22386
+.2010_Pardomuan Motung_22386
+.1009_Parsaoran Ajibata_22386
+.2007_Parsaoran Sibisa_22386
+.2001_Sigapiton_22386
+.2006_Sirungkungon_22386
+12.12.01_Balige_22312|22316
+.2024_Aek Bolon Jae_22312
+.2013_Aek Bolon Julu_22312
+.1034_Balige I_22316
+.2023_Balige II_22316
+.1035_Balige III_22315
+.2012_Baruara (Baru Ara)_22312
+.2029_Bonan Dolok I_22312
+.2030_Bonan Dolok II_22312
+.2031_Bonan Dolok III_22312
+.2005_Hinalang Bagasan_22312
+.2032_Huta Dame_22312
+.2008_Hutabulu Mejan (Huta Bulu Mejan)_22312
+.2004_Hutagaol Peatalun (Peatalum)_22312
+.2003_Hutanamora (Huta Namora)_22312
+.2022_Longat_22312
+.2015_Lumban Bulbul (Lumban Bul Bul)_22312
+.1038_Lumban Dolok Hauma Bange (Haume Bange)_22314
+.2010_Lumban Gaol_22312
+.2025_Lumban Gorat_22312
+.2007_Lumban Pea_22312
+.2040_Lumban Pea Timur_22312
+.2018_Lumban Silintong_22312
+.2006_Matio_22312
+.1039_Napitupulu Bagasan_22311
+.2028_Paindoan_22312
+.1036_Pardede Onan_22313
+.2011_Parsuratan_22312
+.1037_Sangkar Nihuta_22312
+.2019_Saribu Raja Janji Maria (Sariburaja Janji Maria)_22312
+.2016_Sianipar Sihailhail (Sianipar Sihail Hail)_22312
+.2014_Sibolahotang SAS (Sibola Hotangsas)_22312
+.2027_Siboruon_22312
+.2026_Sibuntuon_22312
+.2017_Silalahi Pagar Batu_22312
+.2041_Tambunan Sunge_22312
+12.12.23_Bonatua Lunasi_22387
+.2004_Harungguan_22387
+.2003_Lumban Lobu_22387
+.2014_Lumban Sangkalan_22387
+.2005_Naga Timbul_22387
+.2015_Nagatimbul Timur_22387
+.2012_Pardolok Lumban Lobu_22387
+.2011_Partoruan Lumban Lobu_22387
+.2006_Sibadihon_22387
+.2001_Sihiong_22387
+.2007_Silamosik II_22387
+.2013_Silombu_22387
+.2002_Sinar Sabungan_22387
+12.12.06_Borbor_22383
+.2006_Aek Unsim_22383
+.2011_Hutagurgur_22383
+.2008_Janji Maria_22383
+.2004_Lintong_22383
+.2013_Lumban Sewa_22383
+.2001_Natumingka (Natu Mingka)_22383
+.2002_Pangururan_22383
+.2009_Pangururan II_22383
+.2010_Pangururan III_22383
+.2003_Pardomuan Nauli_22383
+.2015_Pasar Borbor_22383
+.2007_Purba Tua_22383
+.2005_Rianiate_22383
+.2014_Riganjang_22383
+.2012_Simare_22383
+12.12.04_Habinsaran_22383
+.2028_Aek Ulok_22383
+.2018_Batu Nabolon_22383
+.2014_Hitetano (Tite Tano)_22383
+.2017_Lobu Hole_22383
+.2006_Lumban Balik (Lumban Rau Balik)_22383
+.2019_Lumban Gaol_22383
+.2025_Lumban Lintong_22383
+.2012_Lumban Pea_22383
+.2008_Lumban Pinasa_22383
+.2027_Lumban Pinasa Saroba_22383
+.2004_Lumban Rau Barat_22383
+.2002_Lumban Rau Selatan_22383
+.2011_Lumban Ruhap/Ruhaya_22383
+.2022_Pagar Batu_22383
+.2007_Panamparan_22383
+.2026_Pangunjungan_22383
+.2024_Pararungan_22383
+.2010_Parsoburan Barat_22383
+.1009_Parsoburan Tengah_22383
+.2023_Sibuntuon_22383
+.2021_Taon Marisi_22383
+.2020_Tornagodang_22383
+12.12.02_Laguboti_22381
+.2005_Aruan_22381
+.2017_Gasaribu (Gasa Ribu)_22381
+.2012_Haunatas I_22381
+.2008_Haunatas II_22381
+.2020_Lumban Bagasan_22381
+.2015_Lumban Binanga_22381
+.2023_Ompu Raja Hatulian_22381
+.2016_Ompu Raja Hutapea_22381
+.2022_Ompu Raja Hutapea Timur_22381
+.2018_Pardinggaran_22381
+.2009_Pardomuan Nauli_22381
+.1001_Pasar Laguboti (Pasar Lagu Boti)_22381
+.2013_Pintu Bosi_22381
+.2004_Sibarani Nasampulu/Namungk_22381
+.2002_Sibuea_22381
+.2006_Sidulang_22381
+.2014_Simatibung_22381
+.2003_Sintong Marnipi_22381
+.2021_Siraja Gorat_22381
+.2010_Sitangkola_22381
+.2019_Sitoluama_22381
+.2011_Tinggir Nipasir_22381
+.2007_Ujung Tanduk_22381
+12.12.09_Lumban Julu_22388
+.2018_Aek Natolu Jaya_22388
+.2003_Hatinggian_22388
+.2016_Hutanamora_22388
+.2015_Jangga Dolok_22388
+.2005_Jangga Toruan_22388
+.2017_Jonggi Nihuta_22388
+.2002_Lintong Julu_22388
+.2007_Pasar Lumban Julu_22388
+.2004_Sibaruang_22388
+.2006_Sionggang Selatan_22388
+.2014_Sionggang Tengah_22388
+.2008_Sionggang Utara_22388
+12.12.21_Nassau_22383
+.2007_Batu Manumpak_22383
+.2009_Cinta Damai_22383
+.2006_Liat Tondung_22383
+.2001_Lumban Rau Tengah_22383
+.2008_Lumban Rau Tenggara_22383
+.2002_Lumban Rau Timur_22383
+.2003_Lumban Rau Utara_22383
+.2005_Napajoring (Napajoriho)_22383
+.2010_Siantarasa_22383
+.2004_Sipagabu_22383
+12.12.24_Parmaksian_22384
+.2003_Banjar Ganjang_22384
+.2010_Bius Gu Barat_22384
+.2009_Dolok Nauli_22384
+.2007_Jonggi Manulus_22384
+.2008_Lumban Huala_22384
+.2011_Lumban Manurung_22384
+.2002_Lumban Sitorus_22384
+.2006_Pangombusan_22384
+.2001_Siantar Utara_22384
+.2004_Tangga Batu I_22384
+.2005_Tangga Batu II_22384
+12.12.05_Pintu Pohan Meranti_22384
+.2008_Ambar Halim_22384
+.2010_Halado_22384
+.2003_Meranti Tengah_22384
+.2002_Meranti Timur_22384
+.2001_Meranti Utara_22384
+.2007_Pintu Pohan_22384
+.2009_Pintu Pohan Dolok_22384
+12.12.07_Porsea_22384
+.2004_Amborgang_22384
+.2022_Gala Gala Pangkailan_22384
+.2003_Lumban Gurning_22384
+.2005_Nalela_22384
+.2031_Parparean I_22384
+.2033_Parparean II_22384
+.1039_Parparean III_22384
+.2030_Parparean IV_22384
+.1037_Pasar Porsea_22384
+.2036_Patane I_22384
+.2007_Patane II_22384
+.1038_Patane III_22384
+.2001_Patane IV_22384
+.2040_Patane V_22384
+.2042_Raut Bosi_22384
+.2023_Silamosik I_22384
+.2041_Simpang Sigura-Gura_22384
+12.12.20_Siantar Narumonda_22384
+.2001_Narumonda I_22384
+.2002_Narumonda II_22384
+.2003_Narumonda III_22384
+.2004_Narumonda IV_22384
+.2005_Narumonda V_22384
+.2006_Narumonda VI_22384
+.2007_Narumonda VII_22384
+.2008_Narumonda VIII_22384
+.2010_Siantar Dangsina_22384
+.2013_Siantar Sigordang_22384
+.2009_Siantar Sitio Tio (Siantar Sitiotio)_22384
+.2011_Siantar Tonga Tonga I_22384
+.2012_Siantar Tonga Tonga II_22384
+.2014_Siantar Tonga-Tonga III_22384
+12.12.19_Sigumpar_22380
+.2010_Banua Huta_22380
+.2006_Dolok Jior_22380
+.2005_Maju_22380
+.2001_Marsangap_22380
+.2002_Nauli_22380
+.2004_Sigumpar_22380
+.2009_Sigumpar Barat_22380
+.1007_Sigumpar Dangsina_22380
+.2008_Sigumpar Julu_22380
+.2003_Situa-Tua_22380
+12.12.03_Silaen_22382
+.2009_Dalihan Natolu_22382
+.2004_Huta Gur- Gur II (Huta Gurgur II)_22382
+.2018_Huta Gur-Gur I (Huta Gurgur I)_22382
+.2024_Hutagaol Sihujur_22382
+.2015_Hutanamora (Huta Namora)_22382
+.2022_Lumban Dolok_22382
+.2031_Marbulang_22382
+.2025_Meranti Barat_22382
+.2023_Napitupulu_22382
+.2008_Natolutali_22382
+.2006_Ombur_22382
+.2029_Panindi_22382
+.2017_Pardomuan_22382
+.2003_Parsambilan_22382
+.2001_Pintu Batu_22382
+.2027_Sibide_22382
+.2026_Sibide Barat_22382
+.2010_Sigodang Tua_22382
+.2005_Silaen_22382
+.2028_Simanobak_22382
+.2014_Sinta Dame (Cinta Damai)_22382
+.2030_Siringkiron_22382
+.2002_Sitorang (Sitorang I)_22382
+12.12.22_Tampahan_22312
+.2004_Gukguk/Gurgur Aek Raja_22312
+.2001_Lintong Nihuta_22312
+.2003_Meat_22312
+.2005_Tangga Batu Barat_22312
+.2006_Tangga Batu Timur_22312
+.2002_Tarabunga (Tara Bunga)_22312
+12.12.10_Uluan_22385
+.2002_Dolok Nagodang_22385
+.2001_Dolok Saribu Janji Matogu_22385
+.2019_Dolok Saribu Lumban Nabolon_22385
+.2003_Lumban Binanga_22385
+.2014_Lumban Holbung_22385
+.2017_Lumban Nabolon_22385
+.2009_Marom_22385
+.2015_Parbagasan Janji Matogu_22385
+.2005_Parhabinsaran Janji Matogu_22385
+.2006_Parik_22385
+.2004_Partor Janji Matogu_22385
+.2016_Partoruan Janji Matogu_22385
+.2018_Sampuara_22385
+.2007_Sibuntuon_22385
+.2008_Sigaol Barat_22385
+.2010_Sigaol Timur_22385
+.2012_Siregar Aek Nalas_22385

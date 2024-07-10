@@ -1,0 +1,25 @@
+63.72.05_Banjarbaru Selatan (Banjar Baru Selatan)_70713|70714
+.1004_Guntung Paikat_70713
+.1003_Kemuning_70714
+.1002_Laktabat Selatan (Loktabat Selatan)_70714
+.1001_Sei/Sungai Besar_70714
+63.72.04_Banjarbaru Utara (Banjar Baru Utara)_70714
+.1003_Komet_70714
+.1001_Loktabat Utara_70714
+.1002_Mentaos_70714
+.1004_Sei/Sungai Ulin_70714
+63.72.03_Cempaka_70731|70734
+.1002_Bangkal_70732
+.1004_Cempaka_70733
+.1001_Palam_70731
+.1003_Sei/Sungai Tiung_70734
+63.72.02_Landasan Ulin_70721|70724
+.1005_Guntung Manggis_70724
+.1004_Guntung Payung_70721
+.1003_Landasan Ulin Timur_70724
+.1006_Syamsudin Noor_70724
+63.72.06_Liang Anggang_70722|70724
+.1001_Landasan Ulin Barat_70722
+.1004_Landasan Ulin Selatan_70724
+.1002_Landasan Ulin Tengah_70723
+.1003_Landasan Ulin Utara_70724

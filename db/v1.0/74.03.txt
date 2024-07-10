@@ -1,0 +1,172 @@
+74.03.15_Batalaiworu (Batalaiwaru)_93614
+.1004_Laiworu_93614
+.1003_Sidodadi_93614
+.2002_Wakorambu_93614
+.2001_Wawesa_93614
+74.03.34_Batukara_93682
+.2004_Baluara_93682
+.2001_Bone Bone_93682
+.2002_Lanobake (Laano Bake)_93682
+.2003_Moolo_93682
+74.03.26_Bone (Bone Tondo)_93663
+.2007_Bhone Kainsetala (Bone Kancitala)_93663
+.2008_Bone Lolibu_93663
+.2006_Bone Tondo_93663
+.2010_Matombura_93663
+.2009_Oelongko_93663
+74.03.17_Duruka_93618
+.2007_Banggai_93618
+.2004_Ghone Bhalano_93618
+.2001_Ghonsuma (Ghonsume)_93618
+.2003_Lagasa_93618
+.2006_Lasunapa_93618
+.1002_Palangga_93618
+.1005_Wapunto_93618
+74.03.23_Kabangka_93664
+.2002_Kabangka_93664
+.2001_Komba-Komba_93664
+.2011_Lakandito_93664
+.2004_Lupia_93664
+.2008_Oensuli_93664
+.2007_Sarimulyo_93664
+.2003_Wakobulu Agung (Wakobalu Agung)_93664
+.2009_Wansugi_93664
+.2010_Wataliku_93664
+74.03.24_Kabawo_93661
+.2004_Bea_93661
+.2003_Bente_93661
+.2010_Kambawuna_93661
+.2014_Kasaka_93661
+.2002_Kawite Wite_93661
+.2011_Kontumere_93661
+.1009_Laimpi_93661
+.2012_Lamaeo_93661
+.2001_Lamunu_93661
+.2006_Rangka_93661
+.2013_Wantiworo_93661
+74.03.16_Katobu_93611|93616
+.1004_Butung-Butung_93611
+.1006_Foo Kuni (Mangga Kuning)_93616
+.1007_Laende_93611
+.1008_Raha I_93611
+.1005_Raha II_93612
+.1002_Raha III_93613
+.1003_Wamponiki_93611
+.1001_Watonea_93615
+74.03.30_Kontu Kowuna_93660
+.2004_Bahutara_93660
+.2001_Kafo Foo_93660
+.2002_Karoo_93660
+.2003_Kilambibito_93660
+.2005_Kontu Kowuna_93660
+.2006_Laghorio (Lahorio)_93660
+74.03.20_Kontunaga_93625
+.2003_Bungi_93625
+.2004_Kontunaga_93625
+.2002_Lapodidi_93625
+.2001_Liabalano (Labalano)_93625
+.2005_Maabhodo (Mabodo)_93625
+.2006_Masalili_93625
+74.03.14_Lasalepa_93621
+.2001_Bangun Sari_93621
+.2003_Bonea_93621
+.2004_Kombungo_93621
+.2002_Labone_93621
+.2005_Labunti_93621
+.2007_Lasalepa_93621
+.2006_Parida_93621
+74.03.18_Lohia_93626
+.2003_Kondongia_93626
+.2008_Korihi_93626
+.2009_Lakarinta_93626
+.2001_Liangkobori_93626
+.2006_Loghiya_93626
+.2007_Lohia_93626
+.2002_Maabholu_93626
+.2005_Mantobua_93626
+.2004_Waara (Waarah)_93626
+74.03.07_Maligano_93683
+.2001_Langkoroni_93683
+.2005_Lapole_93683
+.2002_Latompa_93683
+.2004_Maligano_93683
+.2007_Poharua (Pohorua)_93683
+.2003_Raimuna_93683
+74.03.31_Marobo_93666
+.2001_Marobo_93666
+.2003_Pasikuta_93666
+.2005_Poaroha_93666
+.2004_Tapitapi_93666
+.2002_Wadolao / Wadolau_93666
+74.03.06_Napabalano_93622
+.2009_Lambiku_93622
+.2007_Langkumapo_93622
+.1004_Napabalano_93622
+.2003_Napalakura_93622
+.2006_Pentiro_93622
+.1005_Tampo_93622
+74.03.25_Parigi_93667
+.1007_Kolasa_93667
+.2012_Kosundano_93667
+.2001_Labulu-Bulu_93667
+.2003_Laiba_93667
+.2002_Latumpu (Latampu / Tampu)_93667
+.2008_Parigi_93667
+.1005_Wakumoro_93667
+.1006_Walambeno Wite_93667
+.2010_Wapuale_93667
+.2004_Warambe_93667
+.1009_Wasolangka_93667
+74.03.33_Pasi Kolaga_93684
+.2001_Kolese_93684
+.2004_Lambelu_93684
+.2003_Mata Indaha / Indah_93684
+.2002_Tampunabale_93684
+74.03.28_Pasir Putih_93685
+.2010_Bumbu_93685
+.2007_Kamosope_93685
+.2001_Kogholifano (Koholifano)_93685
+.2009_Labulawa_93685
+.2008_Liwumetingki_93685
+.2002_Pola_93685
+74.03.27_Tongkuno_93662
+.1005_Danagoa_93662
+.2016_Fongkaniwa_93662
+.1007_Kontumolepe_93662
+.2019_Kotano Wuna_93662
+.2009_Laano Sandana_93662
+.2004_Laghontoghe / Lahontohe_93662
+.2006_Lakologou_93662
+.2003_Lamorende_93662
+.2017_Matanooe (Matano Oe)_93662
+.2014_Oeno Kandoli_93662
+.1008_Tombula_93662
+.2015_Walengkabhola_93662
+74.03.32_Tongkuno Selatan_93665
+.1001_Katumpu_93665
+.2003_Kulidawa (Kalidawa)_93665
+.2004_Labasa_93665
+.2006_Lianosa_93665
+.2005_Owe Waungka_93665
+.2002_Waale-ale (Waleale)_93665
+74.03.37_Towea_93623
+.2005_Bhontu-Bhontu_93623
+.2002_Lakarama_93623
+.2003_Moasi_93623
+.2004_Renda_93623
+.2001_Wangkolabu_93623
+74.03.13_Wakorumba Selatan_93681
+.2004_Bhakealu (Bakealu)_93681
+.1003_Labunia_93681
+.2005_Pure_93681
+.2006_Wakorumba_93681
+.2001_Wambona_93681
+74.03.19_Watopute_93624
+.2006_Bangkali_93624
+.2005_Bhangkali Barat_93624
+.1004_Dana_93624
+.2008_Labaha_93624
+.2001_Lakapodo_93624
+.2003_Matarawa_93624
+.2002_Wakadia_93624
+.1007_Wali_93624

@@ -1,0 +1,85 @@
+21.02.12_Belat_29660
+.2006_Degong_29660
+.2002_Lebuh_29660
+.2003_Penarah_29660
+.2001_Sebele_29660
+.2004_Sungai Asam_29660
+.2005_Tebias_29660
+21.02.06_Buru_29664
+.1001_Buru_29664
+.1002_Lubuk Puding_29664
+.2004_Tanjung Batu Kecil_29664
+.2003_Tanjung Hutan_29664
+21.02.09_Durai_29665
+.2002_Sanglar_29665
+.2004_Semembang (Simembang)_29665
+.2003_Tanjung Kilang_29665
+.2005_Telaga Tujuh_29665
+21.02.03_Karimun_29661
+.1006_Lubuk Semut_29661
+.1008_Sungai Lakam Barat (Sungailakam Barat)_29661
+.1003_Sungai Lakam Timur (Sungailakam Timur)_29661
+.1001_Tanjung Balai_29661
+.1007_Tanjung Balai Kota_29661
+.1002_Teluk Air (Telukair)_29661
+21.02.02_Kundur_29662
+.1009_Gading Sari_29662
+.2006_Lubuk_29662
+.2004_Sungai Sebesi_29662
+.2005_Sungai Ungar_29662
+.1001_Tanjung Batu Barat_29662
+.1002_Tanjung Batu Kota_29662
+21.02.08_Kundur Barat_29662
+.2005_Gemuruh_29662
+.2004_Kundur_29662
+.1001_Sawang_29662
+.2003_Sawang Laut_29662
+.2002_Sawang Selatan_29662
+21.02.07_Kundur Utara_29662
+.2010_Perayun_29662
+.2003_Sungai Ungar Utara_29662
+.2013_Tanjung Berlian Barat_29662
+.1012_Tanjung Berlian Kota_29662
+.2004_Teluk Radang_29662
+21.02.04_Meral_29666
+.1002_Baran Barat_29666
+.1006_Baran Timur_29666
+.1001_Meral Kota_29666
+.1008_Parit Benut (Pasir Benut)_29666
+.1007_Sungai Pasir_29666
+.1003_Sungai Raya_29666
+21.02.10_Meral Barat_29667
+.1002_Darussalam_29667
+.2003_Pangke_29667
+.2004_Pangke Barat_29667
+.1001_Pasir Panjang_29667
+21.02.01_Moro_29663
+.2009_Jang (Pulau Jang)_29663
+.1003_Moro_29663
+.1010_Moro Timur_29663
+.2004_Pauh_29663
+.2014_Pulau Moro (Pulaumoro)_29663
+21.02.13_Selat Gelam_29661
+.2001_Parit_29661
+.2003_Selat Mendaun (Selatmendaun)_29661
+.2002_Tulang_29661
+21.02.14_Sugie Besar_29663
+.2006_Buluh Patah_29663
+.2003_Keban_29663
+.2002_Niur Permai_29663
+.2004_Rawa Jaya (Rawajaya)_29663
+.2007_Selat Mie_29663
+.2001_Sugie_29663
+.2005_Tanjung Pelanduk_29663
+21.02.05_Tebing_29668
+.1008_Harjosari_29668
+.1003_Kapling_29668
+.1004_Pamak_29668
+.2007_Pongkar_29668
+.1001_Tebing_29668
+.1002_Teluk Uma_29668
+21.02.11_Ungar_29669
+.1001_Alai_29669
+.2002_Batu Limau_29669
+.2003_Ngal_29669
+.2004_Sungai Buluh (Sungaibuluh)_29669

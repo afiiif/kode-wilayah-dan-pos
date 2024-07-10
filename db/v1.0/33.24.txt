@@ -1,0 +1,306 @@
+33.24.07_Boja_51381
+.2003_Banjarejo_51381
+.2016_Bebengan_51381
+.2011_Blimbing_51381
+.2015_Boja_51381
+.2014_Campurejo_51381
+.2009_Kaligading_51381
+.2008_Karangmanggis_51381
+.2005_Kliris_51381
+.2004_Leban_51381
+.2001_Medono_51381
+.2017_Meteseh (Metesih)_51381
+.2007_Ngabean_51381
+.2002_Pasigitan_51381
+.2006_Puguh_51381
+.2010_Purwogondo_51381
+.2012_Salamsari_51381
+.2013_Tampingan_51381
+.2018_Trisobo_51381
+33.24.09_Brangsong_51371
+.2003_Blorok_51371
+.2011_Brangsong_51371
+.2012_Kebonadem (Kebon Adem)_51371
+.2005_Kertomulyo_51371
+.2004_Penjalin_51371
+.2010_Purwokerto_51371
+.2008_Rejosari_51371
+.2006_Sidorejo_51371
+.2002_Sumur_51371
+.2007_Tosari_51371
+.2001_Tunggulsari_51371
+.2009_Turunrejo_51371
+33.24.13_Cepiring_51352
+.2003_Botomulyo_51352
+.2004_Cepiring_51352
+.2005_Damarsari_51352
+.2008_Gondang_51352
+.2010_Juwiring_51352
+.2011_Kaliayu_51352
+.2012_Kalirandugede (Kalirandu Gede)_51352
+.2006_Karangayu_51352
+.2007_Karangsuno_51352
+.2014_Korowelanganyar (Korowelang Anyar)_51352
+.2013_Korowelangkulon (Korowelang Kulon)_51352
+.2015_Margorejo_51352
+.2001_Pandes_51352
+.2002_Podosari_51352
+.2009_Sidomulyo_51352
+33.24.11_Gemuh_51356
+.2015_Cepokomulyo_51356
+.2016_Galih_51356
+.2005_Gebang_51356
+.2007_Gemuhblanten_51356
+.2003_Jenarsari_51356
+.2010_Johorejo_51356
+.2006_Krompaan_51356
+.2009_Lumansari_51356
+.2002_Pamriyan_51356
+.2004_Poncorejo_51356
+.2012_Pucangrejo_51356
+.2001_Sedayu_51356
+.2013_Sojomerto_51356
+.2008_Tamangede_51356
+.2011_Tlahab_51356
+.2014_Triharjo_51356
+33.24.08_Kaliwungu_51372
+.2010_Karangtengah_51372
+.2012_Krajankulon_51372
+.2009_Kumpulrejo_51372
+.2013_Kutoharjo_51372
+.2015_Mororejo_51372
+.2004_Nolokerto_51372
+.2011_Sarirejo_51372
+.2003_Sumberejo_51372
+.2014_Wonorejo_51372
+33.24.20_Kaliwungu Selatan_51372|51382
+.2003_Darupono (Derupono)_51372
+.2001_Jeruk Giling (Jerukgiling)_51382
+.2002_Kedungsuren_51372
+.2005_Magelung_51372
+.2006_Plantaran_51372
+.2004_Protomulyo_51372
+.2008_Sidomakmur_51372
+.2007_Sukomulyo_51372
+33.24.17_Kangkung_51353
+.2004_Gembonganomwetan (Gebanganom Wetan)_51353
+.2011_Jungsemi_51353
+.2003_Kadilangu_51353
+.2015_Kalirejo_51353
+.2005_Kaliyoso_51353
+.2012_Kangkung_51353
+.2010_Karangmalangwetan (Karangmalang Wetan)_51353
+.2009_Laban_51353
+.2002_Lebosari_51353
+.2014_Rejosari_51353
+.2008_Sendangdawung_51353
+.2007_Sendangkulon_51353
+.2006_Sukodadi_51353
+.2013_Tanjungmojo_51353
+.2001_Truko_51353
+33.24.15_Kendal_51311|51319
+.1020_Balok_51312
+.1019_Bandengan_51312
+.1016_Banyutowo_51319
+.1011_Bugangin_51314
+.1001_Candiroto_51317
+.1010_Jetis_51315
+.1003_Jotang_51316
+.1007_Kalibutuwetan (Kalibuntu Wetan)_51318
+.1017_Karangsari (Karang Sari)_51319
+.1006_Kebondalem_51318
+.1005_Ketapang_51319
+.1012_Langenharjo_51314
+.1018_Ngilir_51311
+.1014_Patukangan_51311
+.1015_Pegulon_51313
+.1013_Pekauman (Pakauman)_51319
+.1008_Sijeruk_51315
+.1002_Sukodono_51317
+.1004_Trompo_51317
+.1009_Tunggulrejo_51316
+33.24.06_Limbangan_51383
+.2003_Gondang_51383
+.2012_Gonoharjo_51383
+.2013_Jawisari_51383
+.2001_Kedungboto_51383
+.2007_Limbangan_51383
+.2014_Margosari_51383
+.2011_Ngesrepbalong_51383
+.2008_Pagertoyo_51383
+.2016_Pagerwojo_51383
+.2004_Pakis_51383
+.2002_Peron_51383
+.2009_Sriwulan_51383
+.2005_Sumberahayu (Sumber Rahayu)_51383
+.2010_Tabet_51383
+.2015_Tamanrejo_51383
+.2006_Tambahsari_51383
+33.24.19_Ngampel_51357
+.2012_Banyuurip_51357
+.2007_Bojonggede_51357
+.2001_Dempelrejo_51357
+.2003_Jatirejo_51357
+.2008_Kebonagung_51357
+.2009_Ngampel Kulon_51357
+.2010_Ngampel Wetan_51357
+.2002_Putatgede_51357
+.2005_Rejosari_51357
+.2011_Sudipayung_51357
+.2006_Sumbersari_51357
+.2004_Winong_51357
+33.24.02_Pageruyung (Pagerruyung)_51361
+.2011_Bangunsari_51361
+.2009_Gebangan_51361
+.2002_Getasblawong (Getas Blawong)_51361
+.2015_Gondoharum_51361
+.2012_Kebongembong_51361
+.2005_Krikil_51361
+.2014_Pagergunung_51361
+.2007_Pageruyung_51361
+.2003_Parakan Sebaran_51361
+.2004_Petung_51361
+.2006_Pucakwangi_51361
+.2013_Surokonto Kulon_51361
+.2010_Surokonto Wetan_51361
+.2008_Tambahrejo_51361
+33.24.04_Patean_51364
+.2007_Curugsewu_51364
+.2008_Gedong_51364
+.2010_Kalibareng_51364
+.2012_Kalices_51364
+.2011_Kalilumpang_51364
+.2003_Mlatiharjo_51364
+.2005_Pagersari_51364
+.2001_Pakisan_51364
+.2002_Plososari_51364
+.2006_Selo_51364
+.2014_Sidodadi_51364
+.2013_Sidokumpul_51364
+.2009_Sukomangli_51364
+.2004_Wirosari_51364
+33.24.14_Patebon_51351
+.2011_Bangunrejo_51351
+.2017_Bangunsari_51351
+.2001_Bulugede_51351
+.2003_Donosari_51351
+.2008_Jambearum_51351
+.2018_Kartikajaya_51351
+.2006_Kebonharjo_51351
+.2012_Kumpulrejo_51351
+.2004_Lanji_51351
+.2013_Magersari_51351
+.2002_Margosari_51351
+.2016_Pidodokulon (Pidodo Kulon / Widodo Kulon)_51351
+.2015_Pidodowetan (Pidodo Wetan / Widodo Wetan)_51351
+.2007_Purwokerto_51351
+.2009_Purwosari_51351
+.2010_Sukolilan_51351
+.2005_Tambakrejo_51351
+.2014_Wonosari_51351
+33.24.10_Pegandon_51358
+.2006_Dawungsari_51358
+.2008_Gubugsari_51358
+.2012_Karangmulyo_51358
+.2001_Margomulyo_51358
+.2009_Pegandon_51358
+.2004_Pekuncen_51358
+.2010_Penanggulan_51358
+.2003_Pesawahan_51358
+.2007_Pucangrejo (Pucang Rejo)_51358
+.2005_Puguh_51358
+.2002_Tegorejo_51358
+.2011_Wonosari_51358
+33.24.01_Plantungan_51362
+.2011_Bendosari_51362
+.2001_Blumah_51362
+.2009_Jati_51362
+.2008_Jurangagung_51362
+.2007_Karanganyar_51362
+.2002_Kediten_51362
+.2005_Manggungmangu_51362
+.2012_Mojoagung_51362
+.2006_Tirtomulyo_51362
+.2003_Tlogopayung_51362
+.2010_Wadas_51362
+.2004_Wonodadi_51362
+33.24.18_Ringinarum_51359
+.2009_Caruban_51359
+.2003_Kedunggading_51359
+.2002_Kedungsari (Kedungasri)_51359
+.2010_Mojo_51359
+.2005_Ngawensari_51359
+.2001_Ngerjo_51359
+.2012_Pegerdawung (Pagerdawung)_51359
+.2011_Purworejo_51359
+.2004_Ringinarum_51359
+.2008_Rowobranten_51359
+.2006_Tejorejo_51359
+.2007_Wungurejo_51359
+33.24.16_Rowosari_51319|51354
+.2013_Bulak_51354
+.2014_Gebanganom_51354
+.2015_Gempolsewu_51354
+.2007_Jatipurwo_51354
+.2004_Karangsari_51319
+.2012_Kebonsari_51354
+.2005_Parakan_51354
+.2002_Pojoksari_51354
+.2003_Randusari_51354
+.2008_Rowosari_51354
+.2011_Sendangdawuhan_51354
+.2016_Sendangsikucing (Sendang Sikucing)_51354
+.2006_Tambaksari_51354
+.2010_Tanjunganom_51354
+.2009_Tanjungsari_51354
+.2001_Wonotenggang_51354
+33.24.05_Singorojo_51382
+.2005_Banyuringin_51382
+.2009_Cacaban_51382
+.2001_Cening_51382
+.2004_Getas_51382
+.2003_Kaliputih_51382
+.2010_Kalirejo_51382
+.2006_Kedungsari_51382
+.2013_Kertosari_51382
+.2011_Merbuh_51382
+.2007_Ngareanak_51382
+.2008_Singorojo_51382
+.2002_Sukodadi_51382
+.2012_Trayu_51382
+33.24.03_Sukorejo_51363
+.2002_Bringinsari_51363
+.2009_Damarjati_51363
+.2001_Gentinggunung (Genting Gunung)_51363
+.2007_Harjodowo_51363
+.2018_Kalibogor_51363
+.2011_Kalipakis_51363
+.2016_Kebumen_51363
+.2010_Mulyosari_51363
+.2014_Ngadiwarno_51363
+.2004_Ngargosari_51363
+.2008_Peron_51363
+.2005_Pesaren_51363
+.2003_Purwosari (Purwo Sari)_51363
+.2013_Selokaton_51363
+.2017_Sukorejo_51363
+.2006_Tamanrejo (Taman Rejo)_51363
+.2015_Tampingwinarno (Tamping Winarno)_51363
+.2012_Trimulyo_51363
+33.24.12_Weleri_51355
+.2003_Bumiayu_51355
+.2012_Karanganom_51355
+.2009_Karangdowo_51355
+.2004_Manggungsari_51355
+.2016_Montongsari_51355
+.2008_Nawangsari_51355
+.2006_Ngasinan_51355
+.2013_Payung_51355
+.2010_Penaruban_51355
+.2002_Penyangkringan_51355
+.2014_Pucuksari_51355
+.2011_Sambongsari_51355
+.2001_Sidomukti_51355
+.2005_Sumberagung_51355
+.2015_Tratemulyo_51355
+.2007_Weleri_51355

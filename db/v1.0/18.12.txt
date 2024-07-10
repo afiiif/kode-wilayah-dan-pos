@@ -1,0 +1,112 @@
+18.12.09_Batu Putih_34785
+.2006_Marga Sari_34785
+.2005_Margo Dadi_34785
+.2004_Margo Mulya_34785
+.2007_Mulyo Sari_34785
+.2001_Panca Marga_34785
+.2003_Sakti Jaya_34785
+.2002_Sido Makmur_34785
+.2008_Toto Katon_34785
+.2009_Toto Makmur_34785
+.2010_Toto Wonodadi_34785
+18.12.05_Gunung Agung_34783
+.2007_Bangun Jaya_34783
+.2012_Dwikora Jaya_34783
+.2004_Jaya Murni_34783
+.2003_Marga Jaya_34783
+.2002_Mekar Jaya_34783
+.2006_Mulya Jaya_34783
+.2011_Mulya Sari_34783
+.2005_Suka Jaya_34783
+.2008_Sumber Jaya_34783
+.2013_Sumber Rejeki_34783
+.2010_Tri Tunggal Jaya_34783
+.2001_Tunas Jaya_34783
+.2009_Wono Rejo_34783
+18.12.04_Gunung Terang_34784
+.2008_Gunung Agung_34784
+.2007_Gunung Terang_34784
+.2011_Kagungan Jaya_34784
+.2017_Mulyo Jadi_34784
+.2015_Setia Agung_34784
+.2006_Setia Bumi_34784
+.2013_Terang Bumi Agung_34784
+.2020_Terang Makmur_34784
+.2012_Terang Mulya_34784
+.2002_Toto Mulyo_34784
+18.12.07_Lambu Kibang_34787
+.2009_Gilang Tunggal Makarta_34787
+.2005_Gunung Sari_34787
+.2001_Kibang Budi Jaya_34787
+.2010_Kibang Mulya Jaya_34787
+.2008_Kibang Tri Jaya_34787
+.2007_Kibang Yekti Jaya_34787
+.2002_Lesung Bhakti Jaya_34787
+.2003_Mekar Sari Jaya_34787
+.2004_Pagar Jaya_34787
+.2006_Sumber Rejo_34787
+18.12.08_Pagar Dewa_34792
+.2004_Bujung Dewa_34792
+.2005_Bujung Sari Marga_34792
+.2003_Cahyou/Cahyow Randu_34792
+.2006_Marga Jaya Indah_34792
+.2001_Pagar Dewa_34792
+.2002_Pagar Dewa Suka Mulya_34792
+18.12.01_Tulang Bawang Tengah_34793
+.2003_Bandar Dewa_34793
+.2019_Candra Jaya_34793
+.2011_Candra Kencana_34793
+.2018_Candra Mukti_34793
+.2020_Marga Asri_34793
+.2021_Mekar Asri_34793
+.2004_Menggala Mas_34793
+.2016_Mulya Jaya_34793
+.2010_Mulya Kencana_34793
+.1001_Mulyo Asri_34793
+.2002_Panaragan_34793
+.1007_Panaragan Jaya_34793
+.2015_Panaragan Jaya Indah_34793
+.2014_Panaragan Jaya Utama_34793
+.2005_Penumangan_34793
+.2006_Penumangan Baru_34793
+.2009_Pulung Kencana_34793
+.2008_Tirta Kencana_34793
+.2017_Tirta Makmur_34793
+.2012_Tunas Asri_34793
+.2013_Wono Kerto_34793
+18.12.03_Tulang Bawang Udik_34791
+.2011_Gading Kencana_34791
+.2006_Gedung Ratu_34791
+.2005_Gunung Katun Malai_34791
+.2004_Gunung Katun Tanjungan_34791
+.2007_Kagungan Ratu_34791
+.2010_Kagungan Ratu Agung_34791
+.2001_Karta_34791
+.2003_Karta Raharja_34791
+.2012_Karta Raya_34791
+.2002_Karta Sari_34791
+.2013_Karta Tanjung Selamat_34791
+.2008_Marga Kencana_34791
+.2009_Wai Sido_34791
+18.12.02_Tumijajar_34794
+.2006_Daya Asri_34794
+.1001_Daya Murni_34794
+.2002_Daya Sakti_34794
+.2005_Gunung Menanti_34794
+.2010_Gunung Timbul_34794
+.2004_Makarti_34794
+.2009_Margo Dadi_34794
+.2003_Margo Mulyo_34794
+.2007_Murni Jaya_34794
+.2008_Sumber Rejo_34794
+18.12.06_Way Kenanga_34788
+.2001_Agung Jaya_34788
+.2007_Balam Asri_34788
+.2003_Balam Jaya_34788
+.2005_Indraloka I_34788
+.2006_Indraloka II_34788
+.2008_Indraloka Jaya_34788
+.2009_Indraloka Mukti_34788
+.2002_Mercu Buana_34788
+.2004_Pagar Buana_34788
+.2010_Sido Agung_34788

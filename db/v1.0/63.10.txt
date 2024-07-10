@@ -1,0 +1,169 @@
+63.10.09_Angsana_72275
+.2005_Angsana_72275
+.2006_Banjar Sari_72275
+.2007_Bayan Sari_72275
+.2001_Bunati_72275
+.2004_Karang Indah_72275
+.2008_Makmur_72275
+.2009_Mekar Jaya_72275
+.2002_Purwodadi_72275
+.2003_Sumber Baru_72275
+63.10.01_Batu Licin (Batulicin)_72211|72273
+.1007_Batulicin (Batu Licin)_72271
+.2033_Danauindah (Danau Indah)_72273
+.1028_Gunungtinggi_72214
+.2006_Kersik Putih_72215
+.2030_Maju Bersama_72216
+.2029_Maju Makmur_72211
+.2032_Polewali Marajae_72218
+.2005_Segumbang_72211
+.2031_Sukamaju_72217
+63.10.07_Karang Bintang_72210
+.2006_Batu Licin Irigasi (Batulicin Irigasi)_72211
+.2001_Karang Bintang_72211
+.2013_Karang Nunggal_72211
+.2012_Karang Rejo_72211
+.2010_Madu Retno_72211
+.2011_Maju Sejahtera_72211
+.2007_Manunggal_72211
+.2002_Pandan Sari_72211
+.2005_Pematang Ulin_72211
+.2003_Rejo Winangun_72211
+.2004_Selaselilau (Sela Selilau)_72211
+.2009_Sumber Wangi_72211
+63.10.10_Kuranji_72272|72274
+.2001_Giri Mulya_72272
+.2005_Indra Lokajaya (Indra Loka Jaya)_72274
+.2006_Karang Intan_72274
+.2002_Kuranji_72272
+.2004_Mustika_72272
+.2007_Ringkit_72272
+.2003_Waringin Tunggal_72272
+63.10.02_Kusan Hilir_72273
+.2011_Baru Gelang_72273
+.2010_Batuah_72273
+.2032_Beringin_72273
+.2002_Betung_72273
+.2029_Gusunge_72273
+.2027_Juku Eja_72273
+.2008_Kampung Baru_72273
+.1001_Kota Pagatan_72273
+.2007_Muara Pagatan_72273
+.2021_Muara Pagatan Tengah_72273
+.2019_Mudalang_72273
+.2006_Pagaruyung (Pagar Ruyung)_72273
+.2009_Pasar Baru_72273
+.2005_Pejala_72273
+.2031_Penyolongan_72273
+.2012_Pulau Salak_72273
+.2022_Pulau Satu_72273
+.2034_Rantau Panjang Hilir_72273
+.2030_Rantau Panjang Hulu_72273
+.2003_Sungai Lembu_72273
+.2020_Tanette_72273
+.2004_Wiritasi_72273
+63.10.05_Kusan Hulu_72270
+.2003_Anjir Baru_72270
+.2015_Bakarangan_72270
+.2004_Binawara_72270
+.2020_Harapan Jaya_72270
+.2019_Karang Mulya_72270
+.2022_Karang Sari (Karang Sari Indah)_72270
+.2001_Lasung_72270
+.2002_Manuntung_72270
+.2005_Pacakan_72270
+.2012_Sungai Rukam_72270
+.2021_Wonorejo_72270
+63.10.11_Kusan Tengah_72273
+.2006_Api-Api_72273
+.2009_Batarang_72273
+.2008_Manurung_72273
+.2010_Mekar Jaya_72273
+.2007_Pakatellu_72273
+.2011_Pulau Tanjung_72273
+.2013_Salimuran_72273
+.2002_Saring Sungai Binjai_72273
+.2001_Saring Sungai Bubu_72273
+.2005_Satiung_72273
+.2003_Sepunggur_72273
+.2004_Serdangan_72273
+.2012_UPT Karya Bakti (Karya Bhakti)_72273
+63.10.08_Mantewe_72211
+.2005_Bulu Rejo_72211
+.2002_Dukuh Rejo_72211
+.2010_Emil Baru_72211
+.2014_Gunungraya (Gunung Raya)_72211
+.2012_Maju Mulyo_72211
+.2001_Mantewe_72211
+.2011_Mentawakan Mulia_72211
+.2003_Rejosari_72211
+.2009_Sari Mulya (Sati Mulia)_72211
+.2008_Sepakat_72211
+.2006_Sido Mulyo_72211
+.2004_Suka Damai (Sukadamai)_72211
+63.10.04_Satui_72276
+.2023_Al Kautsar_72276
+.2029_Berakat Mufakat_72276
+.2028_Beruntung Raya_72276
+.2006_Jombang_72276
+.2030_Makmur Jaya_72276
+.2024_Makmur Mulia (Mulya Makmur)_72276
+.2026_Pandamaran Jaya_72276
+.2008_Satui Barat_72276
+.2004_Satui Timur_72276
+.2022_Sejahtera Mulia_72276
+.2009_Sekapuk_72276
+.2003_Setarap_72276
+.2027_Sido Rejo_72276
+.2025_Sinar Bulan_72276
+.2019_Sumber Arum_72276
+.2012_Sumber Makmur_72276
+.2005_Sungaicuka (Sungai Cuka)_72276
+.2010_Sungaidanau (Sungai Danau)_72276
+.2013_Tegal Sari_72276
+.2011_Wonorejo_72276
+63.10.06_Simpang Empat_72211|72213
+.2009_Baroqah_72213
+.2006_Batu Ampar_72213
+.2010_Bersujud_72213
+.2012_Gunungantasari (Gunung Antasari)_72213
+.2007_Gunungbesar (Gunung Besar)_72213
+.2013_Hidayah Makmur_72213
+.1001_Kampung Baru_72212
+.2015_Kupang Berkah Jaya_72211
+.2004_Mekar Sari_72211
+.2014_Plajau Mulia_72213
+.2008_Pulau Burung_72213
+.2003_Sari Gadung_72211
+.2011_Sejahtera_72213
+.2005_Sungaidua (Sungai Dua)_72211
+.1002_Tungkaran Pangeran_72213
+63.10.03_Sungai Loban_72274
+.2012_Batu Meranti_72274
+.2016_Biduri Bersujud_72274
+.2019_Damar Indah_72274
+.2010_Dwi Marga Utama_72274
+.2011_Kerta Buana_72274
+.2006_Marga Mulya_72274
+.2001_Sari Mulya_72274
+.2007_Sari Utama_72274
+.2004_Sebamban Baru_72274
+.2003_Sebamban Lama_72274
+.2015_Sumber Makmur_72274
+.2017_Sumber Sari_72274
+.2005_Sungaidua Laut (Sungai Dua Laut)_72274
+.2002_Sungailoban (Sungai Loban)_72274
+.2014_Tri Martani_72274
+.2008_Tri Mulya_72274
+.2018_Wanasari_72274
+63.10.12_Teluk Kepayang_72270
+.2008_Batu Bulan_72270
+.2010_Dadap Kusan Raya_72270
+.2005_Darasan Binjai_72270
+.2002_Guntung_72270
+.2007_Hati'if (Hati If)_72270
+.2003_Mangkalapi_72270
+.2009_Tamunih_72270
+.2006_Tapus_72270
+.2001_Teluk Kepayang_72270
+.2004_Tibarau Panjang (Timbarau Panjang)_72270

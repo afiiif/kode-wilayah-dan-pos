@@ -1,0 +1,197 @@
+13.01.13_Airpura_25673
+.2003_Damar Lapan Batang Inderapura_25673
+.2009_Indrapura/Inderapura Timur_25673
+.2001_Indrapura/Inderapura Utara_25673
+.2004_Lalang Panjang Inderapura_25673
+.2006_Lubuk Betung Inderapura_25673
+.2002_Muara Inderapura_25673
+.2005_Palokan Inderapura_25673
+.2010_Pulau Rajo Inderapura (Pulaurajo Inderapura)_25673
+.2008_Tanah Bakali Inderapura_25673
+.2007_Tluk Kualo Inderapura_25673
+13.01.11_Basa Ampek Balai Tapan_25672
+.2008_Ampang Tulak Tapan_25672
+.2007_Batang Arah Tapan_25672
+.2010_Batang Betung Tapan_25672
+.2016_Bukit Buai Tapan (Bukitbuai Tapan)_25672
+.2019_Dusun Baru Tapan_25672
+.2018_Koto Anau Tapan_25672
+.2002_Pasar Tapan_25672
+.2017_Riak Danau Tapan (Riakdanau Tapan)_25672
+.2009_Tanjung Pondok Tapan (Tanjungpondok Tapan)_25672
+.2001_Tapan_25672
+13.01.04_Batang Kapas_25661
+.2001_IV Koto Hilie_25661
+.2002_IV Koto Mudiek_25661
+.2004_Koto Nan Duo IV Koto Hilie_25661
+.2005_Koto Nan Tigo IV Koto Hilie_25661
+.2008_Sungai Nyalo IV Koto Mudiek (Sungainyalo)_25661
+.2003_Taluak_25661
+.2009_Taluk Tigo Sakato_25661
+.2006_Teratak Tempatih IV Koto Mudiek_25661
+.2007_Tuik IV Koto Mudiek_25661
+13.01.06_Bayang_25652
+.2009_Api-api Pasar Baru_25652
+.2011_Asam Kamba Pasar Baru (Asamkamba Pasar Baru)_25652
+.2014_Aur Begalung Talaok_25652
+.2008_Gurun Panjang_25652
+.2020_Gurun Panjang Barat_25652
+.2021_Gurun Panjang Selatan_25652
+.2019_Gurun Panjang Utara_25652
+.2013_Kapeh Panji Jaya Talaok_25652
+.2015_Kapelgam Koto Berapak_25652
+.2018_Kapujan Koto Berapak_25652
+.2016_Koto Baru Koto Berapak_25652
+.2005_Koto Berapak_25652
+.2017_Kubang Koto Berapak_25652
+.2007_Pasar Baru_25652
+.2012_Sawah Laweh Pasar Baru (Sawahlaweh Pasar Baru)_25652
+.2006_Talaok_25652
+.2010_Tanjung Durian Pasar Baru (Tanjungdurian)_25652
+13.01.05_IV Jurai_25651
+.2013_Ampang Tareh Lumpo_25651
+.2012_Ampuan Lumpo_25651
+.2014_Balai Sinayan Lumpo_25651
+.2010_Batu Kunik Lumpo_25651
+.2017_Bukik Kaciak Lumpo (Sungaibukik Kaciak Lumpo)_25651
+.2005_Bunga Pasang Salido_25651
+.2018_Gunung Bungkuak Lumpo (Gunungbungkuak Lumpo)_25651
+.2008_Koto Rawang_25651
+.2009_Limau Gadang Lumpo_25651
+.2004_Lumpo_25651
+.2001_Painan_25651
+.2019_Painan Selatan Painan_25651
+.2020_Painan Timur Painan_25651
+.2006_Sago Salido_25651
+.2003_Salido_25651
+.2007_Salido Sari Bulan_25651
+.2015_Sungai Gayo Lumpo (Sungaigayo Lumpo)_25651
+.2016_Sungai Sariak Lumpo (Sungaisariak Lumpo)_25651
+.2002_Tambang_25651
+.2011_Taratak Tangah Lumpo_25651
+13.01.12_IV Nagari Bayang Utara_25653
+.2002_Koto Ranah_25653
+.2006_Limau Gadang Pancung Taba_25653
+.2003_Muaro Aie_25653
+.2004_Pancuang Taba (Pancung Taba)_25653
+.2001_Puluik Puluik_25653
+.2005_Puluik-Puluik Selatan_25653
+13.01.07_Koto XI Tarusan_25654
+.2006_Ampang Pulai_25654
+.2009_Barung Barung Balantai Selatan_25654
+.2008_Barung-Barung Balantai_25654
+.2022_Barung-Barung Balantai Tengah_25654
+.2021_Barung-Barung Balantai Timur_25654
+.2004_Batu Hampa_25654
+.2020_Batu Hampar Selatan (Batuhampar Selatan)_25654
+.2018_Cerocok Anau Ampang Pulai_25654
+.2003_Duku_25654
+.2015_Duku Utara_25654
+.2017_Jinang Kampung Pansur Ampang Pulai_25654
+.2014_Kampung Baru Korong Nan Ampek_25654
+.2011_Kapuah Utara (Kapuh Utara)_25654
+.2007_Kapuh_25654
+.2010_Mandeh_25654
+.2005_Nanggalo_25654
+.2016_Pulau Karam Ampang Pulai (Pulaukaram)_25654
+.2023_Setara Nanggalo_25654
+.2001_Siguntur_25654
+.2013_Siguntur Tua_25654
+.2019_Sungai Nyalo Mudiak Aia (Sungainyalo Mudiak Aia)_25654
+.2002_Sungai Pinang_25654
+.2012_Taratak Sungai Lundang (Taratak Sei Lundang)_25654
+13.01.03_Lengayang_25663
+.2001_Kambang_25663
+.2005_Kambang Barat_25663
+.2004_Kambang Timur_25663
+.2003_Kambang Utara_25663
+.2002_Lakitan_25663
+.2007_Lakitan Selatan_25663
+.2009_Lakitan Tengah_25663
+.2008_Lakitan Timur_25663
+.2006_Lakitan Utara_25663
+13.01.09_Linggo Sari Baganti_25668
+.2002_Air Haji_25668
+.2011_Air Haji Barat_25668
+.2012_Air Haji Tengah_25668
+.2008_Air Haji Tenggara_25668
+.2007_Lagan Hilir Punggasan_25668
+.2006_Lagan Mudik Punggasan_25668
+.2014_Muara Gadang Air Haji (Muaragadang Air Haji)_25668
+.2016_Muara Kandis Punggasan (Muarakandis Punggasan)_25668
+.2005_Padang XI Punggasan_25668
+.2010_Pasar Bukit Air Haji_25668
+.2009_Pasar Lama Muara Air Haji_25668
+.2001_Punggasan_25668
+.2004_Punggasan Timur_25668
+.2003_Punggasan Utara_25668
+.2013_Rantau Simalenang Air Haji_25668
+.2015_Sungai Sirah Air Haji (Sungaisirah Air Haji)_25668
+13.01.10_Lunang_25674
+.2001_Lunang_25674
+.2005_Lunang Barat_25674
+.2019_Lunang Dua_25674
+.2018_Lunang Satu_25674
+.2004_Lunang Selatan_25674
+.2017_Lunang Tengah_25674
+.2020_Lunang Tiga_25674
+.2003_Lunang Utara_25674
+.2016_Pondok Parian Lunang_25674
+.2015_Sindang Lunang_25674
+13.01.01_Pancung Soal_25671
+.2001_Inderapura_25671
+.2004_Indrapura/Inderapura Barat_25671
+.2006_Indrapura/Inderapura Selatan_25671
+.2012_Indrapura/Inderapura Tengah_25671
+.2005_Kudo-Kudo Inderapura_25671
+.2002_Muaro Sakai Inderapura_25671
+.2009_Simpang Lama Inderapura_25671
+.2003_Tiga Sepakat Inderapura_25671
+.2010_Tigo Sungai Inderapura (Tigosungai Inderapura)_25671
+.2011_Tluk Amplu Inderapura_25671
+13.01.14_Ranah Ampek Hulu Tapan_25670
+.2005_Binjai Tapan_25670
+.2008_Kampung Tengah Tapan_25670
+.2009_Kubu Tapan (Kobu Tapan)_25670
+.2002_Limau Purut Tapan_25670
+.2010_Simpang Gunung Tapan (Simpanggunung Tapan)_25670
+.2001_Sungai Gambir Sako Tapan (Sungaigambir)_25670
+.2006_Sungai Pinang Tapan (Sungaipinang Tapan)_25670
+.2003_Talang Balarik Tapan_25670
+.2007_Talang Koto Pulai Tapan_25670
+.2004_Tebing Tinggi Tapan_25670
+13.01.02_Ranah Pesisir_25666
+.2007_Koto VIII Pelangai_25666
+.2005_Nyiur Melambai Pelangai (Nyiur Malambai Pelangai)_25666
+.2010_Pasia Pelangai (Pasia Palangai)_25666
+.2001_Pelangai_25666
+.2008_Pelangai Gadang (Palangai Gadang)_25666
+.2009_Pelangai Kaciak_25666
+.2006_Sungai Liku Pelangai (Sungailiku Pelangai)_25666
+.2002_Sungai Tunu_25666
+.2004_Sungai Tunu Barat (Sungaitunu Barat)_25666
+.2003_Sungai Tunu Utara (Sungaitunu Utara)_25666
+13.01.15_Silaut_25675
+.2009_Air Hitam_25675
+.2007_Durian Seribu_25675
+.2008_Lubuk Bunta_25675
+.2005_Pasir Binjai_25675
+.2010_Sambungo_25675
+.2001_Silaut_25675
+.2004_Sungai Pulai (Sungaipulai)_25675
+.2003_Sungai Sarik (Sungaisarik)_25675
+.2002_Sungai Sirah (Sungaisirah)_25675
+.2006_Talang Binjai_25675
+13.01.08_Sutera_25662
+.2003_Amping Parak_25662
+.2004_Amping Parak Timur_25662
+.2007_Aur Duri Surantih_25662
+.2011_Ganting Mudiak Selatan Surantih_25662
+.2012_Ganting Mudiak Utara Surantih_25662
+.2009_Koto Nan Tigo Selatan Surantih_25662
+.2010_Koto Nan Tigo Utara Surantih_25662
+.2005_Koto Taratak_25662
+.2006_Lansano Taratak_25662
+.2008_Rawang Gunung Malelo Surantih_25662
+.2002_Surantih_25662
+.2001_Taratak_25662

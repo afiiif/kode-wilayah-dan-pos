@@ -1,0 +1,130 @@
+14.05.12_Bandar Petalangan_28384
+.2010_Airterjun (Air Terjun)_28384
+.2006_Angkasa_28384
+.2001_Kuala Semundam_28384
+.2009_Lubuk Keranji Timur_28384
+.2008_Lubuk Raja_28384
+.2005_Lubuk Terap_28384
+.1002_Rawang Empat_28384
+.2011_Sialang Bungkuk_28384
+.2007_Sialang Godang_28384
+.2003_Tambun_28384
+.2004_Terbangiang_28384
+14.05.11_Bandar Sei Kijang_28383
+.2005_Kiab Jaya_28383
+.2002_Lubuk Ogung_28383
+.2004_Muda Setia_28383
+.1001_Sei Kijang_28383
+.2003_Simpang Beringin_28383
+14.05.08_Bunut_28386
+.2010_Bagan Labah (Bagan Laguh)_28386
+.2009_Balam Merah_28386
+.2017_Keriung_28386
+.2013_Lubuk Mandian Gajah_28386
+.2008_Lubuk Mas_28386
+.2002_Merbau_28386
+.1011_Pangkalan Bunut Terap (Pangkalan Bunut)_28386
+.2001_Petani_28386
+.2018_Sialang Kayu Batu_28386
+.2003_Sungai Buluh_28386
+14.05.07_Kerumutan_28352
+.2005_Banjar Panjang_28352
+.2006_Beringin Makmur_28352
+.2004_Bukit Lembah Subur_28352
+.1001_Kerumutan_28352
+.2010_Lipai Bulan_28352
+.2009_Mak Teduh_28352
+.2002_Pangkalan Panduk_28352
+.2003_Pangkalan Tampoi/Tampui_28352
+.2007_Pematang Tinggi_28352
+.2008_Tanjung Air Hitam_28352
+14.05.10_Kuala Kampar_28385
+.2006_Serapung_28385
+.2008_Sokoi_28385
+.2009_Sungai Mas_28385
+.2003_Sungai Solok_28385
+.2004_Sungai Upih_28385
+.2002_Tanjung Sum_28385
+.2005_Teluk_28385
+.2010_Teluk Bakau_28385
+.2007_Teluk Beringin_28385
+.1001_Teluk Dalam_28385
+14.05.05_Langgam_28380
+.1001_Langgam_28380
+.2007_Langkan_28380
+.2008_Padang Luas_28380
+.2006_Pangkalan Gondai_28380
+.2003_Penarikan_28380
+.2004_Segati_28380
+.2005_Sotol_28380
+.2002_Tambak_28380
+14.05.02_Pangkalan Kerinci_28381
+.2002_Kuala Terusan_28381
+.2003_Makmur_28381
+.2001_Mekar Jaya_28381
+.1007_Pangkalan Kerinci Barat_28381
+.1008_Pangkalan Kerinci Kota_28381
+.1009_Pangkalan Kerinci Timur Agung_28381
+.2005_Rantau Baru_28381
+14.05.03_Pangkalan Kuras_28382
+.2016_Batang Kulim_28382
+.2013_Beringin Indah_28382
+.2009_Betung_28382
+.2003_Dundangan_28382
+.2015_Harapan Jaya_28382
+.2006_Kemang_28382
+.2010_Kesuma_28382
+.2014_Meranti_28382
+.2004_Palas_28382
+.2012_Sialang Indah_28382
+.2017_Sidomukti_28382
+.1001_Sorek I (Sorek Satu)_28382
+.2002_Sorek II (Sorek Dua)_28382
+.2011_Surya Indah_28382
+.2007_Talau_28382
+.2008_Tanjung Beringin_28382
+.2005_Terantang Manuk_28382
+14.05.04_Pangkalan Lesung_28387
+.2002_Dusun Tua_28387
+.2003_Genduang_28387
+.2004_Mayang Sari_28387
+.2006_Mulya Subur (Mulia Subur / Mulyasubur)_28387
+.1001_Pangkalan Lesung_28387
+.2010_Pesaguan_28387
+.2005_Rawang Sari_28387
+.2008_Sari Makmur_28387
+.2007_Sari Mulya (Sari Mulia / Sarimulya)_28387
+.2009_Tanjung Kuyo_28387
+14.05.06_Pelalawan_28353
+.2007_Batang Nilo Kecil_28353
+.2008_Delik_28353
+.2004_Kuala Tolam_28353
+.2010_Lalang Kabung_28353
+.1001_Pelalawan_28353
+.2003_Ransang_28353
+.2005_Sering_28353
+.2002_Sungai Ara_28353
+.2006_Telayap_28353
+14.05.09_Teluk Meranti_28354
+.2006_Gambut Mutiara_28354
+.2002_Kuala Panduk_28354
+.2007_Labuhan Bilik_28354
+.2008_Pangkalan Terap_28354
+.2003_Petodaan_28354
+.2005_Pulau Muda_28354
+.2009_Segamai_28354
+.2004_Teluk Binjai_28354
+.1001_Teluk Meranti_28354
+14.05.01_Ukui_28388
+.2002_Air Emas_28388
+.2001_Air Hitam_28388
+.2012_Bagan Limau_28388
+.2003_Bukit Gajah_28388
+.2004_Bukit Jaya_28388
+.2005_Kampung Baru_28388
+.2006_Lubuk Kembang Bunga_28388
+.2007_Lubuk Kembang Sari_28388
+.2008_Silikuan Hulu_28388
+.2009_Tri Mulya Jaya_28388
+.1010_Ukui I (Satu)_28388
+.2011_Ukui II (Dua)_28388

@@ -1,0 +1,164 @@
+12.16.03_Baktiraja (Bakti Raja)_22457
+.2007_Marbun Tonga Marbun Dolok_22457
+.2001_Marbun Toruan (Marbun)_22457
+.2002_Simamora_22457
+.2005_Simangulampe_22457
+.2004_Sinambela_22457
+.2006_Siunong-Unong Julu_22457
+.2003_Tipang_22457
+12.16.06_Dolok Sanggul_22457
+.2026_Aek Lung_22457
+.2018_Bonanionan (Bonani Onan)_22457
+.1001_Dolok Sanggul (Pasar Dolok Sanggul)_22457
+.2013_Hutabagasan_22457
+.2024_Hutagurgur (Huta Gurgur)_22457
+.2016_Hutaraja_22457
+.2021_Janji_22457
+.2017_Lumban Purba_22457
+.2012_Lumban Tobing_22457
+.2025_Matiti (Matiti I)_22457
+.2014_Matiti II_22457
+.2022_Pakkat_22457
+.2019_Parik Sinomba_22457
+.2004_Pasaribu_22457
+.2010_Purba Dolok_22457
+.2003_Purba Manalu_22457
+.2015_Saitnihuta_22457
+.2006_Sampean_22457
+.2007_Sigala Gala (Silaga Laga)_22457
+.2011_Sihite I_22457
+.2020_Sihite II_22457
+.2002_Sileang_22457
+.2027_Simangaronsang_22457
+.2005_Simarigung_22457
+.2023_Sirisirisi_22457
+.2008_Sosor Gonting_22457
+.2009_Sosor Tambok_22457
+.2028_Sosortolong Sihite III_22457
+12.16.05_Lintong Nihuta_22475
+.2015_Bonan Dolok_22475
+.2007_Dolok Margu (Dolok Marduga)_22475
+.2013_Habeahan_22475
+.2008_Hutasoit I (Hutasoit)_22475
+.2019_Hutasoit II_22475
+.2006_Lobutua (Lobu Tua)_22475
+.2009_Nagasaribu I (Naga Saribu I)_22475
+.2010_Nagasaribu II (Naga Saribu II)_22475
+.2020_Nagasaribu III_22475
+.2021_Nagasaribu IV_22475
+.2022_Nagasaribu V_22475
+.2005_Pargaulan_22475
+.2017_Parulohan_22475
+.2011_Sibuntoan Parpea / Parpean_22475
+.2001_Sibuntuon Partur (Sibuntuon)_22475
+.2014_Sigompul_22475
+.2016_Sigumpar_22475
+.2002_Siharjulu_22475
+.2012_Siponjot_22475
+.2018_Sitio II_22475
+.2003_Sitolu Bahal_22475
+.2004_Tapian Nauli_22475
+12.16.08_Onan Ganjang_22454
+.2011_Aek Godang Arbaan (Aek Godang)_22454
+.2001_Batu Nagodang Siatas_22454
+.2008_Hutajulu_22454
+.2006_Janji Nagodang_22454
+.2002_Onan Ganjang_22454
+.2003_Parbotihan_22454
+.2005_Parnapa_22454
+.2007_Sampe Tua (Sampetua)_22454
+.2012_Sanggaran II_22454
+.2009_Sibuluan_22454
+.2010_Sigalogo_22454
+.2004_Sihikit (Sihikkit)_22454
+12.16.09_Pakkat_22455
+.2018_Ambobi Paranginan_22455
+.2010_Banuarea_22455
+.2022_Hauagong_22455
+.2003_Karya_22455
+.2013_Lumban Tonga-Tonga_22455
+.2004_Manalu_22455
+.2015_Pakkat Hauagong_22455
+.2021_Panggugunan_22455
+.2008_Parmonangan_22455
+.2016_Peadungdung_22455
+.2014_Pulo Godang_22455
+.2002_Purba Baringin_22455
+.2001_Purba Bersatu_22455
+.2019_Purba Sianjur_22455
+.2012_Rura Aek Sopang_22455
+.2011_Rura Tanjung_22455
+.2007_Siambaton_22455
+.2020_Siambaton Pahae_22455
+.2005_Sijarango_22455
+.2017_Sijarango I_22455
+.2009_Sipagabu_22455
+.2006_Tukka Dolok_22455
+12.16.04_Paranginan_22477
+.2006_Lobutolong (Lobu Tolong)_22477
+.2011_Lobutolong Habinsaran_22477
+.2007_Lumban Barat_22477
+.2004_Lumban Sialaman_22477
+.2010_Lumban Sianturi_22477
+.2002_Paranginan Selatan_22477
+.2003_Paranginan Utara_22477
+.2005_Pearung_22477
+.2009_Pearung Silali_22477
+.2008_Siboru Torop_22477
+.2001_Sihonongan_22477
+12.16.01_Parlilitan_22456
+.2004_Baringin_22456
+.2020_Baringin Natam_22456
+.2019_Janji Hutanapa_22456
+.2011_Pusuk I_22456
+.2002_Pusuk II Simaninggir_22456
+.2021_Sihotang Hasugian Dolok I_22456
+.2015_Sihotang Hasugian Dolok II_22456
+.2016_Sihotang Hasugian Habinsaran_22456
+.2010_Sihotang Hasugian Tonga_22456
+.2013_Simataniari_22456
+.2005_Sionom Hudon Julu_22456
+.2018_Sionom Hudon Runggu_22456
+.2008_Sionom Hudon Selatan_22456
+.2017_Sionom Hudon Sibulbulon_22456
+.2009_Sionom Hudon Timur_22456
+.2014_Sionom Hudon Timur II_22456
+.2006_Sionom Hudon Tonga_22456
+.2012_Sionom Hudon Toruan_22456
+.2007_Sionom Hudon Utara_22456
+.2003_Sionom Hudon VII_22456
+12.16.02_Pollung_22457
+.2008_Aek Nauli I_22457
+.2009_Aek Nauli II_22457
+.2004_Hutajulu (Huta Julu)_22457
+.2002_Hutapaung (Huta Paung)_22457
+.2013_Hutapaung Utara (Huta Paung Utara)_22457
+.2010_Pandumaan_22457
+.2007_Pansurbatu (Pansur Batu)_22457
+.2012_Pardomuan_22457
+.2001_Parsingguran I_22457
+.2006_Parsingguran II_22457
+.2003_Pollung_22457
+.2005_Ria-Ria_22457
+.2011_Sipituhuta (Sipitu Huta)_22457
+12.16.07_Sijamapolang (Sijama Polang)_22459
+.2001_Batunajagar (Batu Nagajar)_22459
+.2007_Bonan Dolok I_22459
+.2008_Bonan Dolok II_22459
+.2005_Hutaginjang_22459
+.2010_Nagurguran_22459
+.2002_Sanggaran I_22459
+.2006_Siborboron_22459
+.2009_Sibuntuon_22459
+.2004_Sigulok_22459
+.2003_Sitapongan_22459
+12.16.10_Tarabintang (Tara Bintang)_22451
+.2007_Marpadan_22451
+.2008_Mungkur_22451
+.2003_Sibongkare_22451
+.2009_Sibongkare Sianju_22451
+.2005_Sihombu_22451
+.2002_Sihotang Hasugian Toruan_22451
+.2006_Simbara_22451
+.2004_Sitanduk_22451
+.2001_Tarabintang (Tara Bintang)_22451

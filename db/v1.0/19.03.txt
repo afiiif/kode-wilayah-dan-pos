@@ -1,0 +1,61 @@
+19.03.03_Airgegas (Air Gegas)_33782
+.2008_Airbara (Air Bara)_33782
+.2001_Airgegas (Air Gegas)_33782
+.2004_Bencah_33782
+.2002_Delas_33782
+.2006_Nangka_33782
+.2005_Nyelanding_33782
+.2003_Pergam_33782
+.2007_Ranggas_33782
+.2009_Sidoharjo_33782
+.2010_Tepus_33782
+19.03.08_Kepulauan Pongok_33791
+.2002_Celagen_33791
+.2001_Pongok_33791
+19.03.02_Lepar (Lepar Pongok)_33792
+.2004_Kumbung_33792
+.2005_Penutuk_33792
+.2001_Tanjunglabu (Tanjung Labu)_33792
+.2002_Tanjungsangkar (Tanjung Sangkar)_33792
+19.03.05_Payung_33778
+.2006_Bedengung_33778
+.2005_Irat_33778
+.2002_Malik_33778
+.2008_Nadung_33778
+.2012_Paku_33778
+.2004_Pangkal Buluh (Pangkalbuluh)_33778
+.2001_Payung_33778
+.2009_Ranggung_33778
+.2003_Sengir_33778
+19.03.07_Pulau Besar (Pulaubesar)_33779
+.2001_Batu Betumpang_33779
+.2005_Fajar Indah (Trans 1)_33779
+.2003_Panca Tunggal (Trans 3)_33779
+.2002_Sukajaya_33779
+.2004_Sumber Jaya Permai (Trans 4)_33779
+19.03.04_Simpang Rimba_33777
+.2003_Bangka Kota_33777
+.2002_Gudang_33777
+.2001_Jelutung II_33777
+.2007_Permis_33777
+.2004_Rajik_33777
+.2005_Sebagin_33777
+.2006_Simpang Rimba_33777
+19.03.01_Toboali_33783
+.2006_Bikang_33783
+.2007_Gadung_33783
+.2005_Jeriji_33783
+.2012_Kaposang/Keposang_33783
+.2010_Kepoh_33783
+.2008_Rias_33783
+.2013_Rindik_33783
+.2004_Serdang_33783
+.1003_Tanjungketapang (Tanjung Ketapang)_33783
+.1002_Teladan_33783
+.1001_Toboali_33783
+19.03.06_Tukak Sadai_33784
+.2005_Bukit Terap_33784
+.2003_Pasir Putih_33784
+.2001_Sadai_33784
+.2004_Tiram_33784
+.2002_Tukak_33784

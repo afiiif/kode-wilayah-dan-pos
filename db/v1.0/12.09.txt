@@ -1,0 +1,229 @@
+12.09.18_Aek Kuasan_21273
+.2013_Aek Loba_21273
+.2002_Aek Loba Afdeling I_21273
+.1001_Aek Loba Pekan_21273
+.2003_Alang Bombon (Bonbon)_21273
+.2010_Lobbu Jior (Lobu Jiur)_21273
+.2011_Rawa Sari_21273
+.2009_Sengon Sari_21273
+12.09.32_Aek Ledong_21277
+.2001_Aek Bange_21277
+.2002_Aek Korsik_21277
+.2003_Aek Ledong_21277
+.2005_Aek Nabuntu_21277
+.2004_Ledong Barat_21277
+.2006_Ledong Timur_21277
+.2007_Padang Sipirok_21277
+12.09.21_Aek Songsongan_21274
+.2004_Aek Bamban_21274
+.2001_Aek Songsongan_21274
+.2006_Lobu Rappa_21274
+.2005_Marjanji Aceh_21274
+.2009_Mekar Marjanji_21274
+.2003_Perkebunan Bandar Pulau_21274
+.2002_Perkebunan Bandar Selamat_21274
+.2008_Situnjak_21274
+.2007_Tangga_21274
+12.09.13_Air Batu_21272
+.2013_Air Genting_21272
+.2012_Air Teluk Hessa_21272
+.2010_Danau Sijabut_21272
+.2014_Hessa Air Genting_21272
+.2007_Hessa Perlompongan_21272
+.2008_Perkebunan Air Batu I/II_21272
+.2009_Perkebunan Air Batu III/IX_21272
+.2006_Perkebunan Pulahan_21272
+.2003_Pinanggiripan_21272
+.2019_Pulau Pule_21272
+.2001_Sei/Sungai Alim Ulu_21272
+.2018_Sijabut Teratai_21272
+12.09.09_Air Joman_21263
+.2002_Air Joman_21263
+.2003_Air Joman Baru_21263
+.2005_Banjar_21263
+.1001_Binjai Serbangan_21263
+.2007_Pasar Lembu_21263
+.2008_Punggulan_21263
+.2012_Subur_21263
+12.09.17_Bandar Pasir Mandoge_21262
+.2001_Bandar Pasir Mandoge_21262
+.2009_Gotting Sidodadi_21262
+.2002_Huta Bagasan_21262
+.2007_Huta Padang_21262
+.2006_Sei Kopas_21262
+.2003_Sei Nadoras_21262
+.2004_Silau Jawa_21262
+.2005_Suka Makmur_21262
+.2008_Tomuan Holbung_21262
+12.09.15_Bandar Pulau_21275
+.2020_Aek Nagali_21275
+.2003_Bandar Pulau Pekan_21275
+.2005_Buntu Maraja_21275
+.2021_Gajah Sakti_21275
+.2006_Gonting Malaha_21275
+.2022_Gunung Berkat_21275
+.2019_Huta Rao_21275
+.2010_Padang Pulau_21275
+.2012_Perkebunan Aek Tarum_21275
+.2016_Perkebunan Padang Pulau_21275
+12.09.16_Buntu Pane_21261
+.2001_Ambalutu_21261
+.2002_Buntu Pane_21261
+.2019_Karya Ambalutu_21261
+.2003_Lestari_21261
+.2017_Mekar Sari_21261
+.2018_Perkebunan Sei Silau_21261
+.2005_Prapat Janji_21261
+.2007_Sei Silau Timur_21261
+.2016_Sionggang_21261
+12.09.19_Kota Kisaran Barat_21211|21218
+.1001_Bunut_21211
+.1002_Bunut Barat_21211
+.1003_Dadimulyo (Dadi Mulyo)_21212
+.1004_Kisaran Barat_21214
+.1005_Kisaran Baru_21216
+.1006_Kisaran Kota_21215
+.1007_Mekar Baru_21216
+.1008_Sei Renggas_21213
+.1009_Sendang Sari_21218
+.1010_Sidodadi_21212
+.1011_Sidomukti_21217
+.1012_Tebing Kisaran_21215
+.1013_Tegal Sari_21218
+12.09.20_Kota Kisaran Timur_21219|21229
+.1012_Gambir Baru_21221
+.1011_Karang Anyer_21229
+.1010_Kedai Ledang_21227
+.1009_Kisaran Naga_21219
+.1008_Kisaran Timur_21222
+.1007_Lestari_21221
+.1006_Mutiara_21223
+.1005_Selawan_21228
+.1004_Sentang_21224
+.1003_Siumbut Baru_21226
+.1002_Siumbut-Umbut_21225
+.1001_Teladan_21222
+12.09.08_Meranti_21264
+.2021_Air Putih_21264
+.2019_Gajah_21264
+.2002_Meranti_21264
+.2004_Perkebunan Sei Balai (Baleh)_21264
+.2011_Sei Beluru_21264
+.2012_Serdang_21264
+.2022_Sukajadi_21264
+12.09.14_Pulau Rakyat_21278
+.2007_Bangun_21278
+.2011_Baru_21278
+.2005_Manis_21278
+.2012_Mekar Sari_21278
+.2010_Ofa Padang Mahondang_21278
+.2004_Orika_21278
+.2009_Padang Mahondang_21278
+.2008_Persatuan_21278
+.2003_Pulau Rakyat Pekan_21278
+.2002_Pulau Rakyat Tua_21278
+.2001_Sei Piring_21278
+.2006_Tunggul (Tunggul 45)_21278
+12.09.30_Pulo Bandring_21265
+.2010_Bunut Seberang_21265
+.2005_Gedangan_21265
+.2002_Perhutaan Silau_21265
+.2007_Pulo Bandring_21265
+.2008_Sidomulyo_21265
+.2001_Suka Damai_21265
+.2009_Suka Damai Barat_21265
+.2006_Suka Makmur_21265
+.2004_Taman Sari_21265
+.2003_Tanah Rakyat_21265
+12.09.22_Rahuning (Rahunig)_21276
+.2004_Batu Anam_21276
+.2003_Gunung Melayu_21276
+.2005_Perkebunan Aek Nagaga_21276
+.2002_Perkebunan Gunung Melayu_21276
+.2001_Rahuning_21276
+.2006_Rahuning I_21276
+.2007_Rahuning II_21276
+12.09.29_Rawang Panca Arga_21266
+.2006_Panca Arga_21266
+.2005_Pondok Bungur_21266
+.2002_Rawang Baru_21266
+.2001_Rawang Lama_21266
+.2003_Rawang Pasar IV_21266
+.2004_Rawang Pasar V_21266
+.2007_Rawang Pasar VI_21266
+12.09.23_Sei Dadap_21279
+.2006_Bahung Sibatu-Batu_21279
+.2010_Pasiran_21279
+.2002_Perkebunan Sei Dadap I/II_21279
+.2003_Perkebunan Sei Dadap III/IV_21279
+.2007_Sei Alim Hasak_21279
+.2009_Sei Kamah Baru_21279
+.2004_Sei Kamah I_21279
+.2005_Sei Kamah II_21279
+.2001_Tanjung Alam_21279
+.2008_Tanjung Asri_21279
+12.09.11_Sei Kepayang_21381
+.2016_Bangun Baru_21381
+.2015_Perbangunan_21381
+.2014_Pertahanan_21381
+.2010_Sei Kepayang Kanan_21381
+.2008_Sei Kepayang Tengah_21381
+.2011_Sei Paham_21381
+12.09.24_Sei Kepayang Barat_21382
+.2002_Sei Jawi-Jawi_21382
+.2006_Sei Kepayang Kiri_21382
+.2005_Sei Lendir_21382
+.2001_Sei Nangka_21382
+.2003_Sei Serindan_21382
+.2004_Sei Tualang Pandau_21382
+12.09.25_Sei Kepayang Timur_21383
+.2004_Sarang Helang_21383
+.2001_Sei Lunang_21383
+.2002_Sei Pasir_21383
+.2005_Sei Sembilang_21383
+.2003_Sei Tempurung_21383
+12.09.27_Setia Janji_21260
+.2005_Bangun Sari_21260
+.2003_Sei Silau Barat_21260
+.2002_Sei Silau Tua_21260
+.2004_Silau Maraja_21260
+.2001_Urung Pane_21260
+12.09.28_Silau Laut_21267
+.2005_Bangun Sari_21267
+.2004_Lubuk Palas_21267
+.2001_Silo Baru_21267
+.2003_Silo Bonto_21267
+.2002_Silo Lama_21267
+12.09.12_Simpang Empat_21271
+.2013_Anjung Ganjang (Anjung Gadang)_21271
+.2004_Perkebunan Hessa_21271
+.2002_Perkebunan Suka Raja_21271
+.2006_Sei Dua Hulu_21271
+.2007_Sei/Sungai Lama_21271
+.2008_Silomlom_21271
+.2009_Simpang Empat_21271
+.2012_Sipaku Area_21271
+12.09.10_Tanjung Balai_21352
+.2001_Asahan Mati_21352
+.2002_Bagan Asahan_21352
+.2003_Bagan Asahan Baru_21352
+.2004_Bagan Asahan Pekan_21352
+.2005_Kapias Batu VIII_21352
+.2006_Pematang Sungai/Sei Baru_21352
+.2007_Sei/Sungai Apung_21352
+.2008_Sei/Sungai Apung Jaya_21352
+12.09.31_Teluk Dalam_21270
+.2001_Air Teluk Kiri_21270
+.2006_Mekar Tanjung_21270
+.2003_Perkebunan Teluk Dalam_21270
+.2004_Pulau Maria_21270
+.2005_Pulau Tanjung_21270
+.2002_Teluk Dalam_21270
+12.09.26_Tinggi Raja_21261
+.2007_Padang Sari_21261
+.2004_Piasa Ulu_21261
+.2005_Sidomulyo_21261
+.2002_Sumber Harapan_21261
+.2006_Teladan_21261
+.2003_Terusan Tengah_21261
+.2001_Tinggi Raja_21261

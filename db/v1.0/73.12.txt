@@ -1,0 +1,78 @@
+73.12.08_Citta_90861
+.2001_Citta_90861
+.2002_Kampiri_90861
+.2003_Labae_90861
+.2004_Tinco_90861
+73.12.06_Donri Donri_90853
+.2002_Donri-Donri_90853
+.2009_Kessing_90853
+.2005_Labokong_90853
+.2003_Lalabatariaja (Lalabata Riaja)_90853
+.2004_Leworeng_90853
+.2007_Pesse_90853
+.2010_Pising (Solie)_90853
+.2006_Sering_90853
+.2008_Tottong_90853
+73.12.07_Ganra_90860
+.2001_Belo_90860
+.2004_Enrekang (Enrekeng)_90860
+.2002_Ganra_90860
+.2003_Lompulle_90860
+73.12.04_Lalabata_90811|90814
+.1005_Bila_90814
+.1003_Botto_90811
+.1001_Lalabata Rilau_90812
+.1006_Lapajung_90811
+.1004_Lemba_90811
+.2008_Maccile_90814
+.2010_Mattabulu_90811
+.1002_Ompo_90813
+.1007_Salokaraja (Salo Karaja)_90814
+.2009_Umpungenga (Umpungeng)_90811
+73.12.02_Liliraja (Lili Riaja)_90863
+.1001_Appanang_90863
+.2011_Barang_90863
+.1003_Galung_90863
+.2005_Jampu_90863
+.1002_Jennae_90863
+.2006_Pattojo_90863
+.2010_Rompegading_90863
+.2009_Timusu_90863
+73.12.03_Lilirilau (Lili Rilau)_90871
+.2005_Abbanuange_90871
+.2007_Baringeng_90871
+.1002_Cabenge_90871
+.2010_Kebo_90871
+.1004_Macanre_90871
+.2009_Masing_90871
+.1003_Pajalesang_90871
+.2013_Palangiseng_90871
+.2011_Parenring_90871
+.2012_Paroto_90871
+.2006_Tetewatu_90871
+.1001_Ujung_90871
+73.12.05_Marioriawa (Mario Riawa)_90852
+.1003_Attang Salo_90852
+.1001_Batu-Batu_90852
+.2006_Bulue_90852
+.1002_Kaca_90852
+.2010_Laringgi_90852
+.1005_Limpomajang_90852
+.1004_Manorang Salo_90852
+.2007_Panincong_90852
+.2008_Patampanua_90852
+.2009_Tellulimpoe_90852
+73.12.01_Marioriwawo (Mario Riwawo)_90862
+.2006_Barae_90862
+.2011_Congko_90862
+.2003_Gattareng_90862
+.2012_Gattareng Toa_90862
+.2005_Goarie_90862
+.1001_Labessi_90862
+.2007_Marioriaja (Mario Riaja)_90862
+.2009_Mariorilau (Mario Rilau)_90862
+.2008_Marioritengnga (Mario Rittengnga)_90862
+.2013_Soga_90862
+.1002_Tettikenrarae (Tettikengrarae)_90862
+.2004_Watu_90862
+.2010_Watu Toa (Watutoa)_90862

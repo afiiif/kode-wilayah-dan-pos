@@ -1,0 +1,74 @@
+32.76.06_Beji_16421|16426
+.1001_Beji_16421
+.1006_Beji Timur_16422
+.1004_Kemiri Muka_16423
+.1002_Kukusan_16425
+.1005_Pondok Cina_16424
+.1003_Tanah Baru_16426
+32.76.11_Bojongsari_16516|16518
+.1001_Bojongsari (Bojong Sari / Lama)_16516
+.1002_Bojongsari Baru (Bojong Sari Baru)_16516
+.1005_Curug_16517
+.1006_Duren Mekar_16518
+.1007_Duren Seribu_16518
+.1004_Pondok Petir_16517
+.1003_Serua_16517
+32.76.08_Cilodong_16413|16415
+.1002_Cilodong_16414
+.1005_Jatimulya_16413
+.1003_Kalibaru_16414
+.1004_Kalimulya_16413
+.1001_Sukamaju_16415
+32.76.02_Cimanggis_16451|16454
+.1012_Cisalak Pasar_16452
+.1008_Curug_16453
+.1007_Harjamukti_16454
+.1010_Mekarsari_16452
+.1011_Pasir Gunung Selatan_16451
+.1009_Tugu_16451
+32.76.09_Cinere_16512|16514
+.1001_Cinere_16514
+.1002_Gandul_16512
+.1003_Pangkalan Jati_16513
+.1004_Pangkalan Jati Baru_16513
+32.76.07_Cipayung_16436|16439
+.1004_Bojong Pondok Terong_16436
+.1001_Cipayung_16437
+.1002_Cipayung Jaya_16437
+.1005_Pondok Jaya (Pondokjaya)_16438
+.1003_Ratu Jaya_16439
+32.76.04_Limo_16512|16515
+.1002_Grogol_16512
+.1003_Krukut_16512
+.1004_Limo_16515
+.1001_Maruyung (Meruyung)_16515
+32.76.01_Pancoran Mas_16431|16436
+.1006_Depok_16431
+.1007_Depok Jaya_16432
+.1009_Mampang_16433
+.1008_Pancoran Mas_16436
+.1011_Rangkapan Jaya (Rangkapanjaya)_16435
+.1010_Rangkapan Jaya Baru (Rangkapanjaya Baru)_16434
+32.76.03_Sawangan_16511|16519
+.1002_Bedahan_16519
+.1009_Cinangka_16516
+.1012_Kedaung_16516
+.1001_Pasir Putih_16519
+.1003_Pengasinan (Pengasihan)_16518
+.1010_Sawangan (Lama)_16511
+.1011_Sawangan Baru_16511
+32.76.05_Sukmajaya_16411|16418
+.1003_Abadi Jaya (Abadijaya)_16417
+.1005_Baktijaya_16418
+.1008_Cisalak_16416
+.1004_Mekar Jaya (Mekarjaya)_16411
+.1001_Sukmajaya_16412
+.1010_Tirtajaya_16412
+32.76.10_Tapos_16451|16459
+.1006_Cilangkap_16458
+.1007_Cimpaeun_16459
+.1005_Jatijajar_16451
+.1002_Leuwinanggung_16456
+.1004_Sukamaju Baru_16455
+.1003_Sukatani_16454
+.1001_Tapos_16457

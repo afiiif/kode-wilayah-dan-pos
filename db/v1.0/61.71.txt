@@ -1,0 +1,35 @@
+61.71.03_Pontianak Barat_78113|78117
+.1001_Pallima (Pal Lima)_78114
+.1004_Sungaibeliung (Sei / Sungai Beliung)_78117
+.1002_Sungaijawi Dalam (Sei / Sungai Jawi Dalam)_78115
+.1003_Sungaijawi Luar (Sei / Sungai Jawi Luar)_78113
+61.71.05_Pontianak Kota_78111|78117
+.1002_Daratsekip (Darat Sekip)_78117
+.1004_Mariana_78112
+.1001_Sungaibangkong (Sei / Sungai Bangkong)_78116
+.1005_Sungaijawi (Sei / Sungai Jawi)_78113
+.1003_Tengah_78111
+61.71.01_Pontianak Selatan_78123|78124
+.1006_Akcaya_78121
+.1003_Benuamelayu Darat (Benua Melayu Darat)_78122
+.1002_Benuamelayu Laut (Benua Melayu Laut)_78123
+.1005_Kotabaru (Kota Baru)_78121
+.1004_Parittokaya (Parit Tokaya)_78121
+61.71.06_Pontianak Tenggara_78124
+.1004_Bangka Belitung Darat_78124
+.1003_Bangka Belitung Laut_78124
+.1002_Bansir Darat_78124
+.1001_Bansir Laut_78124
+61.71.02_Pontianak Timur_78132|78236
+.1002_Banjar Serasan_78233
+.1006_Dalambugis (Dalam Bugis)_78235
+.1001_Paritmayor (Parit Mayor)_78231
+.1003_Saigon_78132
+.1007_Tambelansampit (Tambelan Sampit)_78234
+.1005_Tanjunghilir (Tanjung Hilir)_78236
+.1004_Tanjunghulu (Tanjung Hulu)_78137
+61.71.04_Pontianak Utara_78241|78244
+.1004_Batulayang (Batu Layang)_78244
+.1003_Siantan Hilir_78243
+.1001_Siantan Hulu_78241
+.1002_Siantan Tengah_78242

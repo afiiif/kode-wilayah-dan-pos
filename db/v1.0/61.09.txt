@@ -1,0 +1,101 @@
+61.09.07_Belitang_79588
+.2005_Belitang Dua_79588
+.2004_Belitang Satu_79588
+.2007_Maboh Permai_79588
+.2006_Menua Prama_79588
+.2001_Nanga Ansar_79588
+.2002_Padak_79588
+.2003_Setuntung_79588
+61.09.05_Belitang Hilir_79586
+.2009_Empajak_79586
+.2003_Entabuk_79586
+.2005_Kumpang Bis_79586
+.2011_Melanjan Raya_79586
+.2006_Menawai Tekam_79586
+.2008_Merbang_79586
+.2007_Semadu_79586
+.2010_Sepantak_79586
+.2002_Sungai Ayak Dua_79586
+.2001_Sungai Ayak Satu_79586
+.2004_Tapang Pulau_79586
+61.09.06_Belitang Hulu_79587
+.2012_Balai Sepuak_79587
+.2011_Batuk Mulau_79587
+.2013_Bukitrambat (Bukit Rambat)_79587
+.2004_Ijuk (Ijok)_79587
+.2006_Kumpang Ilong_79587
+.2005_Mengaret_79587
+.2009_Pakit Mulau_79587
+.2001_Sebetung_79587
+.2002_Seburuk Satu (Seburuk)_79587
+.2007_Sungai Antu Hulu_79587
+.2003_Sungai Tapah_79587
+.2010_Tabuk Hulu_79587
+.2008_Terduk Dampak_79587
+61.09.04_Nanga Mahap_79585
+.2002_Batu Pahat_79585
+.2007_Cenayan_79585
+.2011_Karang Betung_79585
+.2005_Landau Apin_79585
+.2008_Landau Kumpai_79585
+.2003_Lembah Beringin_79585
+.2001_Nanga Mahap_79585
+.2009_Nanga Suri_79585
+.2010_Sebabas (Se Babas)_79585
+.2012_Tamang_79585
+.2004_Telukkebau (Teluk Kebau)_79585
+.2006_Tembaga_79585
+.2013_Tembesuk_79585
+61.09.03_Nanga Taman_79584
+.2015_Engkulun Hulu_79584
+.2010_Lubuk Tajau_79584
+.2012_Meragun_79584
+.2008_Nanga Engkulun_79584
+.2004_Nanga Kiungkang_79584
+.2009_Nanga Koman_79584
+.2013_Nanga Mentukak_79584
+.2007_Nanga Mongko_79584
+.2001_Nanga Taman_79584
+.2011_Pantok_79584
+.2002_Rirang Jati_79584
+.2014_Semerawai_79584
+.2003_Senangak_79584
+.2005_Sungai Lawak_79584
+.2006_Tapang Tingang_79584
+61.09.01_Sekadau Hilir_79511|79582
+.2020_Beringkai Raya_79514
+.2016_Bokak Sebumbun_79582
+.2014_Engkersik_79513
+.2015_Ensalang_79516
+.2012_Gonis Tekam_79582
+.2008_Landau Kodah_79514
+.2004_Merapi_79512
+.2002_Mungguk_79511
+.2011_Peniti_79516
+.2007_Seberang Kapuas_79515
+.2017_Selalong_79582
+.2006_Semabi_79515
+.2018_Sempulau Indah_79514
+.2005_Seraras_79512
+.2010_Sungai Kunyit_79516
+.2001_Sungai Ringin_79582
+.2003_Tanjung_79511
+.2013_Tapang Semadak_79513
+.2019_Tigur Jaya_79514
+.2009_Timpuk_79514
+61.09.02_Sekadau Hulu_79583
+.2004_Boti_79583
+.2013_Cupang Gading_79583
+.2012_Mondi_79583
+.2014_Nanga Biaban_79583
+.2003_Nanga Menterap (Nanga Manterap)_79583
+.2009_Nanga Pembubuh (Nanga Pemubuh)_79583
+.2005_Perongkan_79583
+.2001_Rawak Hilir_79583
+.2002_Rawak Hulu_79583
+.2007_Sekonau_79583
+.2008_Setawar_79583
+.2011_Sungai Sambang_79583
+.2015_Sunsong_79583
+.2010_Tapang Perodah_79583
+.2006_Tinting Boyok_79583

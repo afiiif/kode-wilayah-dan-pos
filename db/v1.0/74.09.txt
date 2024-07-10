@@ -1,0 +1,183 @@
+74.09.09_Andowia_93356
+.2014_Ambake_93356
+.2011_Amolame_93356
+.1001_Andowia_93356
+.2012_Anggolohipo_93356
+.2010_Banggarema_93356
+.2006_Labungga_93356
+.2002_Lahimbua_93356
+.2004_Lambudoni_93356
+.2005_Lamondowo_93356
+.2008_Larobende_93356
+.2003_Laronanga_93356
+.2007_Mataiwoi_93356
+.2009_Puusuli_93356
+.2013_Puuwonua_93356
+.2015_Waworate_93356
+74.09.01_Asera_93355
+.2036_Alaa Wanggudu_93355
+.2010_Amorome_93355
+.2034_Amorome Utama_93355
+.2035_Andedao_93355
+.2027_Aseminunulai (Aseminulai)_93355
+.1009_Asera_93355
+.2033_Kota Mulya_93355
+.2032_Longeo Utama_93355
+.2037_Oheo Trans_93355
+.2030_Puunggomosi_93355
+.2031_Puuwanggudu_93355
+.2008_Tangguluri (Tanggaluri)_93355
+.2024_Tapuwatu_93355
+.2007_Walalindu_93355
+.2017_Walasolo_93355
+.1005_Wanggudu_93355
+.2006_Wanggudu Raya_93355
+.2016_Wawolimbue_93355
+.2020_Wunduhaka_93355
+74.09.13_Landawe_93353
+.2011_Hialu_93353
+.2005_Hialu Utama_93353
+.2003_Kolosua_93353
+.2001_Kuratao_93353
+.2009_Landawe Utama_93353
+.2002_Landiwo_93353
+.2004_Laumoso_93353
+.2010_Mata Benua_93353
+.2008_Matabaho_93353
+.2006_Polo polora_93353
+.2007_Tambakua_93353
+74.09.03_Langgikima_93351
+.2009_Alenggo_93351
+.2002_Lameruru_93351
+.1003_Langgikima_93351
+.2010_Mekar Jaya_93351
+.2001_Molore_93351
+.2011_Molore Pantai_93351
+.2005_Morombo Pantai_93351
+.2012_Ngapa Inia_93351
+.2007_Pariama_93351
+.2006_Polora Indah_93351
+.2004_Sarimukti_93351
+.2008_Tobimeita_93351
+74.09.05_Lasolo_93352
+.2006_Abola_93352
+.2008_Andeo_93352
+.2010_Andumowu_93352
+.2011_Basule_93352
+.2007_Belalo_93352
+.2025_Lalowaru_93352
+.2017_Lametono_93352
+.2020_Larodangge_93352
+.2030_Marombo Pantai (Morombo Pantai)_93352
+.2009_Matapila_93352
+.2026_Muara Tinobu_93352
+.2013_Otole_93352
+.2024_Tetelupai_93352
+.1001_Tinobu_93352
+.2031_Tokowuta_93352
+.2016_Watukila_93352
+.2012_Waworaha_93352
+74.09.12_Lasolo Kepulauan_93341
+.2006_Boedingi_93341
+.2001_Boenaga_93341
+.2003_Labengki_93341
+.2004_Morombo_93341
+.2005_Tapunopaka_93341
+.2002_Waturambaha_93341
+74.09.06_Lembo_93350
+.2001_Alo-Alo_93350
+.2005_Bungguosu_93350
+.2011_Lapulu_93350
+.2010_Laramo_93350
+.1004_Lembo_93350
+.2003_Padaleu_93350
+.2009_Pasir Putih_93350
+.2002_Puulemo_93350
+.2006_Puusiambu_93350
+.2007_Taipa_93350
+.2008_Tongalino (Tonggalino)_93350
+.2012_Watuwula_93350
+74.09.04_Molawe_93359
+.2003_Awila_93359
+.2008_Awila Puncak_93359
+.2001_Bandaeha_93359
+.2005_Mandiopo (Mandiodo)_93359
+.2007_Mataiwoi_93359
+.1002_Molawe_93359
+.2004_Mowundo_93359
+.2009_Tapuemea_93359
+.2006_Tapunggaya (Tapunggaea)_93359
+74.09.10_Motui_93358
+.2004_Banggina_93358
+.1002_Bende_93358
+.2014_Kapolano_93358
+.2007_Lambuluo_93358
+.2003_Matandahi_93358
+.2005_Motui_93358
+.2008_Poni Poniki_93358
+.2010_Punggulahi_93358
+.2009_Puuwonggia_93358
+.2012_Ranombupulu_93358
+.2011_Sama Subur_93358
+.2015_Sambasule_93358
+.2013_Tobimeita_93358
+.2001_Tondowatu_93358
+.2006_Wawoluri_93358
+74.09.08_Oheo_93354
+.2002_Bandaeha_93354
+.2015_Bendewuta_93354
+.2018_Horoe_93354
+.2003_Kota Maju_93354
+.2013_Lameoru_93354
+.2004_Landawe_93354
+.2001_Laronaha_93354
+.1009_Linomoiyo_93354
+.2006_Mopute_93354
+.2011_Paka Indah_93354
+.2008_Puuhialu_93354
+.2010_Sambandete_93354
+.2007_Tadoloiyo_93354
+.2019_Tadoloiyo Trans_93354
+.2016_Tinondo_93354
+.2014_Walandawe_93354
+.2005_Wiwirano_93354
+74.09.07_Sawa_93357
+.2008_Kokapi_93357
+.2004_Laimeo_93357
+.2003_Lalembo_93357
+.2007_Matanggonawe_93357
+.2023_Panggulawu_93357
+.2024_Pekaroa_93357
+.2005_Pudonggala_93357
+.2016_Pudonggala Utama_93357
+.2013_Puupi_93357
+.1002_Sawa_93357
+.2022_Tanjung Laimeo_93357
+.2012_Tongauna (Tangauna)_93357
+.2021_Tudungano_93357
+.2017_Ulu Sawa_93357
+74.09.11_Wawolesea_93342
+.2004_Barasanga_93342
+.2002_Kampoh Bunga_93342
+.2009_Kampoh Cina_93342
+.2003_Lemo Bajo_93342
+.2007_Otipulu_93342
+.2001_Tanjung Bunga_93342
+.2006_Toreo_93342
+.2005_Wawolesea_93342
+74.09.02_Wiwirano_93343
+.2006_Culumbatu_93343
+.1001_Lamonae_93343
+.2010_Lamonae Utama_93343
+.2009_Lamparinga_93343
+.2022_Larompana_93343
+.2013_Mata Osole_93343
+.2002_Padalere_93343
+.2024_Padalere Utama_93343
+.2014_Pondoa_93343
+.2004_Tetewatu_93343
+.2023_Wacu Pinodo_93343
+.2012_Wacumelewe (Macumelewe)_93343
+.2007_Wawoheo_93343
+.2020_Wawonsangi_93343
+.2021_Wawontoaho_93343

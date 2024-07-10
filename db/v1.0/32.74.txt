@@ -1,0 +1,27 @@
+32.74.03_Harjamukti_45141|45145
+.1005_Argasunya_45145
+.1002_Harjamukti_45143
+.1001_Kalijaga_45144
+.1003_Kecapi_45142
+.1004_Larangan_45141
+32.74.01_Kejaksan_45121|45123
+.1004_Kebonbaru_45121
+.1001_Kejaksan_45123
+.1003_Kesenden_45121
+.1002_Sukapura_45122
+32.74.05_Kesambi_45131|45134
+.1004_Drajat_45133
+.1005_Karyamulya_45131
+.1003_Kesambi_45134
+.1001_Pekiringan_45131
+.1002_Sunyaragi_45132
+32.74.02_Lemahwungkuk (Lemah Wungkuk)_45111|45114
+.1003_Kesepuhan_45114
+.1002_Lemahwungkuk_45111
+.1004_Panjunan_45112
+.1001_Pegambiran_45113
+32.74.04_Pekalipan_45115|45118
+.1001_Jagasatru_45115
+.1004_Pekalangan_45118
+.1002_Pekalipan_45117
+.1003_Pulasaren_45116

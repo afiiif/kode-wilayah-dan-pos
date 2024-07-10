@@ -1,0 +1,97 @@
+82.72.03_Oba_97824
+.2008_Bale_97824
+.2002_Gita_97824
+.2009_Koli_97824
+.2010_Kosa_97824
+.2005_Kususinopa_97824
+.1004_Payahe_97824
+.2014_Sigela Yef_97824
+.2015_Talagamori_97824
+.2013_Talasi_97824
+.2012_Todopa_97824
+.2003_Toseho_97824
+.2011_Tului_97824
+.2001_Woda_97824
+82.72.07_Oba Selatan_97825
+.2003_Hager_97825
+.2002_Lifofa_97825
+.2001_Maidi_97825
+.2007_Nuku_97825
+.2005_Selamalofo_97825
+.2006_Tagalaya_97825
+.2004_Wama_97825
+82.72.06_Oba Tengah_97826
+.2005_Akedotilou_97826
+.2006_Akeguraci_97826
+.1001_Akelamo_97826
+.2007_Akesai_97826
+.2004_Aketobatu_97826
+.2003_Aketobololo_97826
+.2010_Baringin Jaya_97826
+.2012_Fanaha_97826
+.2002_Lola_97826
+.2014_Siokona_97826
+.2009_Tadupi_97826
+.2011_Tauno_97826
+.2008_Togeme_97826
+.2013_Yehu_97826
+82.72.02_Oba Utara_97827
+.2007_Ake Kolano_97827
+.2012_Ampera_97827
+.2009_Balbar_97827
+.2010_Bukit Durian_97827
+.2011_Galala_97827
+.2014_Garojou_97827
+.2015_Gosale_97827
+.1002_Guraping_97827
+.2001_Kaiyasa_97827
+.2013_Kusu_97827
+.2005_Oba_97827
+.1003_Sofifi_97827
+.2006_Somahode_97827
+82.72.01_Tidore_97811|97813
+.1014_Folarora_97813
+.1002_Gamtufkange_97812
+.1012_Goto_97813
+.1008_Gurabunga_97813
+.1003_Indonesiana_97813
+.1005_Seli_97813
+.1006_Soadara_97813
+.1001_Soasio_97811
+.1016_Tambula_97813
+.1013_Tomagoba_97813
+.1007_Topo_97813
+.1015_Topo Tiga_97813
+.1017_Tuguwaji_97813
+82.72.04_Tidore Selatan_97821
+.1002_Dokiri_97821
+.1005_Gurabati_97821
+.2008_Mare Gam (Maregam)_97821
+.2007_Mare Kofo (Marekofo)_97821
+.1001_Toloa_97821
+.1004_Tomalou_97821
+.1006_Tongowai_97821
+.1003_Tuguiha_97821
+82.72.08_Tidore Timur_97822
+.1005_Cobodoe_97822
+.1003_Dowora_97822
+.1006_Doyado_97822
+.1007_Jiko Cobo_97822
+.1004_Kalaodi_97822
+.1001_Mafututu_97822
+.1002_Tosa_97822
+82.72.05_Tidore Utara_97823
+.1006_Afa Afa_97823
+.1008_Bobo (Bobo Menjadi)_97823
+.1002_Fobaharu_97823
+.1009_Gubu Kusuma_97823
+.1003_Jaya_97823
+.2007_Maitara_97823
+.2012_Maitara Selatan_97823
+.2014_Maitara Tengah_97823
+.2013_Maitara Utara_97823
+.1005_Mareku_97823
+.1004_Ome_97823
+.1001_Rum_97823
+.1011_Rum Balibunga_97823
+.1010_Sirongo Folaraha_97823

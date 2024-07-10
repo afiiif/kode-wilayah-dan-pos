@@ -1,0 +1,345 @@
+16.02.14_Air Sugihan_30656
+.2005_Bandar Jaya_30656
+.2011_Banyu Biru_30656
+.2018_Bukit Batu_30656
+.2003_Jadi Mulya_30656
+.2009_Kerta Mukti_30656
+.2004_Marga Tani_30656
+.2006_Mukti Jaya_30656
+.2013_Negeri Sakti_30656
+.2010_Nusakerta_30656
+.2008_Nusantara_30656
+.2012_Pangkalan Damai_30656
+.2015_Pangkalan Sakti_30656
+.2014_Rantau Karya_30656
+.2017_Rengas Abang_30656
+.2016_Simpang Heran_30656
+.2007_Srijaya Baru (Serijaya Baru)_30656
+.2002_Suka Mulya_30656
+.2019_Sungai Batang_30656
+.2001_Tirta Mulya_30656
+16.02.18_Cengal_30658
+.2013_Adil Makmur_30658
+.2014_Balam Jeruju_30658
+.2007_Cengal_30658
+.2015_Kebun Cabe_30658
+.2010_Kuala Sungai Jeruju_30658
+.2011_Kuala Sungai Pasir_30658
+.2016_Lebak Beriang_30658
+.2012_Pantai Harapan_30658
+.2017_Parit Raya_30658
+.2006_Pelimbangan_30658
+.2003_Sungai Jeruju_30658
+.2004_Sungai Ketupak_30658
+.2002_Sungai Lumpur_30658
+.2009_Sungai Pasir_30658
+.2001_Sungai Somor_30658
+.2008_Talang Rimba_30658
+.2005_Ulak Kedondong_30658
+16.02.17_Jejawi_30652
+.2005_Air Itam_30652
+.2018_Batun Baru_30652
+.2004_Bubusan_30652
+.2019_Danau Ceper_30652
+.2006_Jejawi_30652
+.2007_Karang Agung_30652
+.2009_Lingkis_30652
+.2002_Lubuk Ketepeng_30652
+.2008_Muara Batun_30652
+.2017_Padang Bulan_30652
+.2014_Pedu_30652
+.2015_Pematang kijang_30652
+.2016_Simpang Empat_30652
+.2012_Sukadarma_30652
+.2003_Talang Cempedak_30652
+.2011_Tanjung Ali_30652
+.2001_Tanjung Aur_30652
+.2010_Terusan Jawa_30652
+.2013_Ulak Tembaga_30652
+16.02.05_Kayu Agung_30617|30618
+.2019_Anyar_30618
+.2014_Arisan Buntal_30618
+.2016_Banding Anyar_30618
+.2017_Buluh Cawang_30618
+.2015_Celikah_30611
+.1004_Cintaraja (Cinta Raja / Raya)_30614
+.1001_Jua Jua_30616
+.1002_Kayuagung (Kayu Agung)_30618
+.1007_Kedaton_30617
+.2011_Kijang Ulu_30618
+.1010_Kutaraja (Kota Raya)_30617
+.2018_Lubuk Dalam_30618
+.1005_Mangun Jaya_30613
+.2012_Muarabaru (Muara Baru)_30618
+.1006_Paku_30612
+.1009_Perigi_30618
+.2024_Serigeni (Serigeni Lama)_30618
+.2023_Serigeni Baru_30618
+.1003_Sidakersa (Sidareksa)_30615
+.1008_Sukadana_30611
+.2013_Tanjung Lubuk_30617
+.2020_Tanjung Menang_30618
+.1025_Tanjung Rancing_30618
+.2022_Tanjung Serang_30618
+.2021_Teloko_30618
+16.02.13_Lempuing_30657
+.2015_Bumi Arjo (Bumiarjo)_30657
+.2009_Bumiagung_30657
+.2034_Bumiarjo Makmur_30657
+.2008_Cahaya Maju_30657
+.2035_Cahaya Makmur_30657
+.2006_Cahya Bumi (Cahaya Bumi)_30657
+.2013_Dabuk Rejo_30657
+.2017_Kepayang (Kepahyang)_30657
+.2007_Kutapandan_30657
+.2028_Mekar Jaya_30657
+.2027_Sindang Sari_30657
+.2014_Suka Mulya_30657
+.2036_Sumber Makmur_30657
+.2010_Sumberagung_30657
+.2005_Tebing Suluh_30657
+.2026_Tugu Agung_30657
+.2025_Tugu Jaya_30657
+.2011_Tugumulyo_30657
+.2016_Tulung Harapan_30657
+16.02.22_Lempuing Jaya_30657
+.2005_Lempuing Indah_30657
+.2015_Lubuk Makmur_30657
+.2002_Lubuk Seberuk_30657
+.2014_Muara Burnai I_30657
+.2009_Muara Burnai II_30657
+.2006_Muktisari (Mukti Sari)_30657
+.2013_Purwo Asri_30657
+.2016_Rantau Durian Asli_30657
+.2003_Rantau Durian I_30657
+.2011_Rantau Durian II_30657
+.2010_Suka Jaya_30657
+.2008_Sukamaju (Suka Maju)_30657
+.2004_Sungai Belida_30657
+.2007_Tania Makmur_30657
+.2001_Tanjung Sari I_30657
+.2012_Tanjung Sari II_30657
+16.02.04_Mesuji_30681
+.2009_Jaya Bakti (Jaya Bhakti)_30681
+.2037_Kalideras (Kali Deras)_30681
+.2035_Karya Mukti_30681
+.2047_Kembang Jajar_30681
+.2050_Kota Baru_30681
+.2053_Labuhan Jaya_30681
+.2007_Makarti Mulya_30681
+.2008_Marga Bakti (Margo Bhakti)_30681
+.2026_Mekar Wangi_30681
+.2005_Pagar Dewa_30681
+.2052_Pematang Kasih_30681
+.2001_Pematang Panggang_30681
+.2051_Sido Basuki_30681
+.2025_Sukamukti (Suka Mukti)_30681
+.2038_Sumber Deras_30681
+.2002_Sungai Sodong_30681
+.2006_Surya Adi_30681
+16.02.20_Mesuji Makmur_30682
+.2020_Beringin Jaya_30682
+.2011_Bina Karsa (Binakarsa / Bhina Karsa)_30682
+.2008_Cahaya Mas_30682
+.2014_Cahaya Mulya_30682
+.2001_Catur Tunggal_30682
+.2015_Gading Sari_30682
+.2007_Kampung Baru_30682
+.2017_Karya Jaya_30682
+.2009_Karya Usaha_30682
+.2018_Mesuji Jaya_30682
+.2004_Mukti Karya_30682
+.2010_Pematang Binatani (Pematang Bina Tani)_30682
+.2005_Pematang Jaya_30682
+.2012_Pematang Sari_30682
+.2013_Pematang Sukaramah_30682
+.2006_Pematang Sukatani_30682
+.2019_Sumber Mulya_30682
+.2002_Surya Karta_30682
+.2003_Tegal Sari_30682
+16.02.21_Mesuji Raya_30683
+.2002_Balian_30683
+.2015_Balian Makmur_30683
+.2007_Bumi Makmur_30683
+.2005_Ciptasari (Cipta Sari)_30683
+.2017_Dabuk Makmur_30683
+.2001_Embacang_30683
+.2011_Embacang Permai_30683
+.2012_Gedung Rejo_30683
+.2014_Kemang Indah_30683
+.2013_Kertamukti (Kerta Mukti)_30683
+.2006_Mataram Jaya_30683
+.2009_Mulya Jaya_30683
+.2010_Rotan Mulya_30683
+.2016_Sedyomulyo (Sedyo Mulyo)_30683
+.2004_Suka Sari_30683
+.2008_Sumber Baru_30683
+.2003_Sumbu Sari_30683
+16.02.12_Pampangan_30654
+.2009_Bangsal_30654
+.2015_Jermun_30654
+.2017_Jungkal_30654
+.2004_Kandis_30654
+.2003_Keman_30654
+.2038_Keman Baru_30654
+.2010_Kuro_30654
+.2011_Manggaris (Menggeris)_30654
+.2012_Pampangan_30654
+.2008_Pulau Betung_30654
+.2006_Pulau Layang_30654
+.2014_Secondong_30654
+.2002_Sepang_30654
+.2016_Serdang_30654
+.2013_Serimenang_30654
+.2039_Sri Mulya_30654
+.2035_Tanjung Kemang_30654
+.2007_Tapus_30654
+.2005_Ulak Depati_30654
+.2001_Ulak Kemang_30654
+.2037_Ulak Kemang Baru_30654
+.2036_Ulak Pianggu_30654
+16.02.19_Pangkalan Lampam_30659
+.2012_Air Pedara_30659
+.2015_Air Rumbai_30659
+.2018_Bukit Batu_30659
+.2007_Darat_30659
+.2001_Deling_30659
+.2004_Lebung Batang_30659
+.2003_Lirik_30659
+.2002_Pangkalan Lampan (Pangkalan Lampam)_30659
+.2017_Perigi_30659
+.2008_Pulauan (Pulawan)_30659
+.2016_Rambai_30659
+.2019_Rawa Tenam_30659
+.2009_Riding_30659
+.2013_Rimba Samak_30659
+.2011_Suka Damai (Sukadamai)_30659
+.2006_Sukaraja (Suka Raja)_30659
+.2005_Sungai Bungin_30659
+.2010_Sunggutan_30659
+.2014_Talang Daya_30659
+16.02.03_Pedamaran_30672
+.2017_Burnai Timur_30672
+.2008_Cinta Jaya_30672
+.2021_Lebuh Rarak_30672
+.2019_Menang Raya_30672
+.2007_Pedamaran I_30672
+.2006_Pedamaran II_30672
+.2005_Pedamaran III_30672
+.2004_Pedamaran IV_30672
+.2003_Pedamaran V_30672
+.2002_Pedamaran VI_30672
+.2010_Serinanti_30672
+.2018_Suka Pulih_30672
+.2009_Sukadamai_30672
+.2011_Sukaraja_30672
+16.02.24_Pedamaran Timur_30670
+.2003_Gading Raja (Gading Rejo)_30670
+.2007_Kayu Labu_30670
+.2004_Maribaya (Mari Baya)_30670
+.2005_Pancawarna_30670
+.2001_Pulau Geronggang_30670
+.2002_Sumber Hidup_30670
+.2006_Tanjung Makmur_30670
+16.02.08_Sirah Pulau Padang_30651
+.2003_Awal Terusan_30651
+.2002_Batu Ampar_30651
+.2019_Batu Ampar Baru_30651
+.2007_Belanti_30651
+.2015_Berkat_30651
+.2013_Bungin Tinggi_30651
+.2005_Mangun Jaya_30651
+.2010_Pantai_30651
+.2017_Pematang Buluran_30651
+.2014_Penyandingan_30651
+.2018_Rawang Besar_30651
+.2009_Rengas Pitu_30651
+.2012_Serdang Menang_30651
+.2011_Sirah Pulau Padang_30651
+.2016_Sukaraja_30651
+.2001_Tanjung Alai_30651
+.2008_Terate_30651
+.2020_Terusan Laut_30651
+.2006_Terusan Menang_30651
+.2004_Ulak Jermun_30651
+16.02.15_Sungai Menang_30684
+.2011_Bumi Pratama Mandira_30684
+.2014_Gading Jaya_30684
+.2018_Gading Mas_30684
+.2013_Gajah Makmur_30684
+.2004_Gajah Mati_30684
+.2015_Gajah Mukti_30684
+.2016_Gajah Mulya_30684
+.2008_Harapan Jaya_30684
+.2002_Karangsia_30684
+.2012_Pinang Indah_30684
+.2010_Sidomulyo_30684
+.2017_Sri Gading_30684
+.2003_Sungai Ceper_30684
+.2001_Sungai Menang_30684
+.2006_Sungai Sibur_30684
+.2005_Sungai Tepuk_30684
+.2009_Talang Jaya_30684
+.2007_Talang Makmur_30684
+16.02.02_Tanjung Lubuk_30671
+.2032_Atar Balam_30671
+.2012_Bumiagung_30671
+.2018_Jambu Ilir_30671
+.2031_Jukdadak_30671
+.2013_Kotabumi_30671
+.2005_Pengaraian_30671
+.2010_Pulau Gemantung_30671
+.2036_Pulau Gemantung Darat_30671
+.2034_Pulau Gemantung Ilir_30671
+.2035_Pulau Gemantung Ulu_30671
+.2004_Seritanjung_30671
+.2008_Sukamulya_30671
+.2006_Sukarami_30671
+.2003_Tanjung Baru_30671
+.2014_Tanjung Beringin_30671
+.2033_Tanjung Harapan_30671
+.2015_Tanjung Laga_30671
+.2016_Tanjung Laut_30671
+.1011_Tanjung Lubuk (Tanjung Lubuk PMD)_30671
+.2002_Tanjung Merindu_30671
+.2017_Ulak Balam_30671
+.2001_Ulak Kapal_30671
+16.02.23_Teluk Gelam_30673
+.2001_Benawa_30673
+.2012_Bumi Harapan_30673
+.2006_Cinta Marga (Cintamarga)_30673
+.2005_Kuripan_30673
+.2004_Muara Telang_30673
+.2010_Mulyaguna (Mulya Guna)_30673
+.2011_Panca Tunggal Benawa_30673
+.2007_Penyandingan_30673
+.2002_Serapek_30673
+.2014_Seriguna_30673
+.2013_Sinar Harapan Mulya_30673
+.2003_Sugih Waras_30673
+.2008_Talang Pengeran (Talang Pangeran)_30673
+.2009_Ulak Ketapang_30673
+16.02.11_Tulung Selapan_30655
+.2006_Cambai_30655
+.2014_Jerambah Rengas_30655
+.2007_Kayuara (Kayu Ara)_30655
+.2021_Kuala Dua Belas_30655
+.2011_Lebung Gajah_30655
+.2012_Lebung Itam_30655
+.2013_Penanggoan Duren_30655
+.2003_Penyandingan_30655
+.2008_Petaling_30655
+.2002_Pulau Beruang_30655
+.2020_Rantau Lurus_30655
+.2001_Simpang Tiga_30655
+.2022_Simpang Tiga Abadi_30655
+.2017_Simpang Tiga Jaya_30655
+.2015_Simpang Tiga Makmur_30655
+.2018_Simpang Tiga Sakti_30655
+.2004_Tanjung Batu_30655
+.2005_Toman_30655
+.2009_Tulung Selapan Ilir_30655
+.2023_Tulung Selapan Timur_30655
+.1016_Tulung Selapan Ulu_30655
+.2019_Tulung Seluang_30655
+.2010_Ujung Tanjung_30655

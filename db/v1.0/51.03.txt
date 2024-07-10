@@ -1,0 +1,68 @@
+51.03.03_Abiansemal_80352
+.2008_Abiansemal_80352
+.2005_Angantaka_80352
+.2012_Ayunan_80352
+.2011_Blahkiuh_80352
+.2009_Bongkasa_80352
+.2018_Bongkasa Pertiwi_80352
+.2001_Darmasaba_80352
+.2016_Dauh Yeh Cani_80352
+.2004_Jagapati_80352
+.2007_Mambal_80352
+.2015_Mekar Bhuwana_80352
+.2014_Punggul_80352
+.2013_Sangeh_80352
+.2006_Sedang_80352
+.2017_Selat_80352
+.2003_Sibang Gede_80352
+.2002_Sibang Kaja_80352
+.2010_Taman_80352
+51.03.01_Kuta_80361
+.1003_Kedonganan_80361
+.1002_Kuta_80361
+.1004_Legian_80361
+.1005_Seminyak_80361
+.1001_Tuban_80361
+51.03.05_Kuta Selatan_80362
+.1004_Benoa_80362
+.1006_Jimbaran_80362
+.2003_Kutuh_80362
+.2001_Pecatu_80362
+.1005_Tanjung Benoa_80362
+.2002_Ungasan_80362
+51.03.06_Kuta Utara_80363
+.2005_Canggu_80363
+.2006_Dalung_80363
+.1002_Kerobokan_80363
+.1003_Kerobokan Kaja_80363
+.1001_Kerobokan Kelod_80363
+.2004_Tibubeneng_80363
+51.03.02_Mengwi_80351
+.1014_Abianbase_80351
+.2008_Baha_80351
+.2002_Buduk_80351
+.2017_Cemagi_80351
+.2012_Gulingan_80351
+.1004_Kapal_80351
+.2010_Kekeran_80351
+.2020_Kuwun (Kuwum)_80351
+.1016_Lukluk_80351
+.2009_Mengwi_80351
+.2003_Mengwitani_80351
+.2001_Munggu_80351
+.2006_Penarungan_80351
+.2018_Pererenan_80351
+.1015_Sading_80351
+.2007_Sembung_80351
+.1005_Sempidi_80351
+.2011_Sobangan_80351
+.2019_Tumbakbayuh (Tumbak Bayuh)_80351
+.2013_Werdi Bhuwana_80351
+51.03.04_Petang_80353
+.2003_Belok/Sidan_80353
+.2001_Carangsari_80353
+.2005_Getasan_80353
+.2006_Pangsan_80353
+.2004_Pelaga_80353
+.2002_Petang_80353
+.2007_Sulangai_80353

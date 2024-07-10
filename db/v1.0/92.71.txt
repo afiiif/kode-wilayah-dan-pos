@@ -1,0 +1,51 @@
+92.71.08_Klaurung_98417
+.1004_Giwu_98417
+.1002_Klablim_98417
+.1003_Klasaman_98417
+.1001_Klasuat_98417
+92.71.10_Maladum Mes_98411
+.1003_Saoka_98411
+.1001_Suprau_98411
+.1002_Tampa Garam_98411
+.1004_Tanjung Kasuari_98411
+92.71.09_Malaimsimsa_98419
+.1006_Klabulu_98419
+.1001_Klagete_98419
+.1004_Malaingkedi_98419
+.1005_Malamso_98419
+92.71.01_Sorong_98416
+.1002_Klademak_98416
+.1007_Kofkerbu_98416
+.1008_Remu_98416
+.1001_Remu Utara_98416
+92.71.03_Sorong Barat_98412
+.1005_Klawasi_98412
+.1007_Pal Putih_98412
+.1006_Puncak Cendrawasih_98412
+.1002_Rufei_98412
+92.71.04_Sorong Kepulauan_98413
+.1001_Dum Barat_98413
+.1002_Dum Timur_98413
+.1004_Raam_98413
+.1003_Soop_98413
+92.71.07_Sorong Kota_98414
+.1001_Kampung Baru_98414
+.1002_Klabala_98414
+.1004_Klakublik_98414
+.1003_Klasuur_98414
+92.71.06_Sorong Manoi_98415
+.1001_Klaligi_98415
+.1005_Klasabi_98415
+.1003_Malabutor_98415
+.1002_Malawei_98415
+.1004_Remu Selatan_98415
+92.71.02_Sorong Timur_98418
+.1013_Kladufu_98418
+.1010_Klamana_98418
+.1008_Klawalu_98418
+.1011_Klawuyuk_98418
+92.71.05_Sorong Utara_98410
+.1002_Malanu_98410
+.1007_Malasilen_98410
+.1010_Matalamagi_98410
+.1011_Sawagumu_98410

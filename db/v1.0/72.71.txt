@@ -1,0 +1,54 @@
+72.71.08_Mantikulore_94111|94234
+.1007_Kawatuna_94233
+.1005_Lasoani_94116
+.1001_Layana Indah_94111
+.1006_Poboya_94115
+.1003_Talise_94118
+.1008_Talise Valangguni_94118
+.1004_Tanamodindi_94234
+.1002_Tondo_94119
+72.71.02_Palu Barat_94221|94226
+.1005_Balaroa_94226
+.1008_Baru_94221
+.1007_Kamonji_94223
+.1009_Lere_94221
+.1015_Siranindi_94221
+.1002_Ujuna_94222
+72.71.03_Palu Selatan_94231|94236
+.1011_Birobuli Selatan_94231
+.1002_Birobuli Utara_94231
+.1003_Petobo_94232
+.1012_Tatura Selatan_94236
+.1001_Tatura Utara_94236
+72.71.01_Palu Timur_94111|94235
+.1004_Besusu Barat_94111
+.1006_Besusu Tengah_94111
+.1007_Besusu Timur_94111
+.1009_Lolu Selatan_94235
+.1010_Lolu Utara_94235
+72.71.04_Palu Utara_94145|94148
+.1003_Kayumalue Ngapa_94146
+.1004_Kayumalue Pajeko_94145
+.1001_Mamboro_94148
+.1010_Mamboro Barat_94148
+.1002_Taipa_94147
+72.71.06_Tatanga_94221|94239
+.1006_Boyaoge_94221
+.1005_Duyu_94225
+.1001_Nunu_94222
+.1002_Palupi_94238
+.1004_Pengawu_94239
+.1003_Tawanjuka_94237
+72.71.07_Tawaeli_94141|94143
+.1003_Baiya_94142
+.1004_Lambara_94141
+.1005_Panawu (Panau)_94141
+.1001_Pantoloan_94143
+.1002_Pantoloan Boya_94143
+72.71.05_Ulujadi_94226|94229
+.1001_Buluri_94228
+.1002_Donggala Kodi_94226
+.1003_Kabonena_94227
+.1004_Silae_94227
+.1006_Tipo_94228
+.1005_Watusampu_94229

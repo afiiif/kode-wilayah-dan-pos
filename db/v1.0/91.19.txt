@@ -1,0 +1,43 @@
+91.19.04_Kepulauan Aruri_98571
+.2006_Aruri_98571
+.2007_Imbrisbari (Imbirsbari)_98571
+.2008_Ineki_98571
+.2009_Insumbrei_98571
+.2003_Manggonswan (Mangoswan)_98571
+.2002_Mbrurwandi (Mbruwandi / Bruwandi)_98571
+.2001_Rayori_98571
+.2004_Wonggeina (Wongkeina)_98571
+.2005_Yamnaisu_98571
+91.19.05_Supiori Barat_98581
+.2004_Amyas_98581
+.2002_Koryakam (Koiryakam)_98581
+.2007_Mapia_98581
+.2006_Masyai_98581
+.2005_Napisndi (Napisandi)_98581
+.2001_Waryei (Wariyei)_98581
+.2003_Wayori (Mayori)_98581
+91.19.01_Supiori Selatan_98572
+.2016_Awaki_98572
+.2010_Biniki_98572
+.2011_Didiabolo_98572
+.2003_Fanindi_98572
+.2019_Maryaidori_98572
+.2004_Odori_98572
+.2015_Warbefondi (Waberfondi / Warbepondi)_98572
+91.19.03_Supiori Timur_98573
+.2010_Douwbo (Doubo)_98573
+.2004_Duber_98573
+.2003_Marsram_98573
+.2005_Sauyas_98573
+.2007_Sorendidori (Sorendiweri)_98573
+.2009_Syurdori_98573
+.2006_Wafor_98573
+.2008_Waryesi_98573
+.2002_Wombonda_98573
+.2001_Yawerma_98573
+91.19.02_Supiori Utara_98582
+.2010_Fanjur_98582
+.2009_Kobari Jaya_98582
+.2015_Puweri_98582
+.2008_Warbor_98582
+.2003_Warsa_98582

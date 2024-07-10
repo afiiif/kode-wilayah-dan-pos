@@ -1,0 +1,109 @@
+74.07.04_Binongko_93794
+.2013_Jaya Makmur_93794
+.2008_Kampo-Kampo (Kompo-Kompo)_93794
+.2009_Lagongga (Longongga)_93794
+.2006_Makoro_93794
+.1007_Palahidu_93794
+.2011_Palahidu Barat_93794
+.1012_Rukuwa_93794
+.1005_Taipabu_93794
+.1010_Wali_93794
+74.07.02_Kaledupa_93792
+.1004_Ambeua_93792
+.2023_Ambeua Raya_93792
+.2016_Balasuna_93792
+.2019_Balasuna Selatan_93792
+.1015_Buranga_93792
+.2007_Horuo (Haruo)_93792
+.2024_Kalimas_93792
+.1005_Lagiwae_93792
+.1002_Laulua (Laolua)_93792
+.2022_Lefuto (Lewuto)_93792
+.2018_Mantigola Makmur (Mantigola / Mantingola)_93792
+.2006_Ollo_93792
+.2020_Ollo Selatan_93792
+.2003_Samabahari_93792
+.2001_Sombano_93792
+.2021_Waduri_93792
+74.07.06_Kaledupa Selatan_93790
+.2007_Darawa_93790
+.2002_Kasuwari (Kasuari/Kaswari)_93790
+.2004_Langge_93790
+.2006_Lentea_93790
+.2003_Pajam_93790
+.2009_Peropa_93790
+.2008_Sandi_93790
+.2001_Tampara_93790
+.2010_Tanjung_93790
+.2005_Tanomeha_93790
+74.07.08_Togo Binongko_93796
+.2005_Haka_93796
+.2002_Oihu_93796
+.1004_Popalia_93796
+.1003_Sowa_93796
+.2001_Waloindi_93796
+74.07.03_Tomia_93793
+.2018_Kollo Soha_93793
+.2003_Lamanggau_93793
+.1016_Onemay_93793
+.2015_Patua_93793
+.2019_Patua Dua (II)_93793
+.2012_Runduma_93793
+.2017_Teemoane_93793
+.1001_Waha_93793
+.2004_Waiti (Waitii)_93793
+.2002_Waitii Barat_93793
+74.07.07_Tomia Timur_93797
+.1003_Bahari_93797
+.2006_Dete_93797
+.2009_Kahiyanga (Kahianga)_93797
+.2007_Kulati (Kulate)_93797
+.1001_Patipelong_93797
+.1011_Rukuwa_93797
+.2005_Timu_93797
+.1002_Tongano Barat_93797
+.1004_Tongano Timur_93797
+.2008_Wawaotimu (Wawotimu)_93797
+74.07.01_Wangi Wangi_93791
+.2030_Koroe Onawa (Koroe Onawe)_93791
+.2013_Longa_93791
+.2009_Maleko_93791
+.2022_Pada Raya Makmur_93791
+.2024_Patuno_93791
+.1002_Pongo_93791
+.2032_Pookambua_93791
+.2029_Posalu_93791
+.2005_Sombu_93791
+.2008_Tindoi_93791
+.2028_Tindoi Timur_93791
+.2023_Waelumu_93791
+.1007_Waetuno_93791
+.2027_Waginopo_93791
+.2006_Waha_93791
+.1003_Wanci_93791
+.1004_Wandoka_93791
+.1026_Wandoka Selatan_93791
+.1025_Wandoka Utara_93791
+.2031_Wapia-pia_93791
+74.07.05_Wangi Wangi Selatan_93795
+.2015_Kabita_93795
+.2024_Kabita Togo_93795
+.2011_Kapota_93795
+.2023_Kapota Utara_93795
+.2012_Komala_93795
+.2031_Liya Bahari Indah_93795
+.2021_Liya Mawi (Liyamawi)_93795
+.2026_Liya Onemaelangka_93795
+.2022_Liya Togo_93795
+.1017_Mandati I_93795
+.1016_Mandati II_93795
+.1025_Mandati III_93795
+.2014_Matahora (Metohora)_93795
+.2029_Mola Bahari_93795
+.2030_Mola Nelayan Bhakti_93795
+.2028_Mola Samaturu_93795
+.2019_Mola Selatan_93795
+.2018_Mola Utara_93795
+.2020_Numana_93795
+.2027_Wisata Kolo (Wisata Koto)_93795
+.2013_Wungka_93795

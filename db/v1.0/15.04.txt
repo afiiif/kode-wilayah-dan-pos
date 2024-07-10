@@ -1,0 +1,132 @@
+15.04.07_Bajubang_36615
+.1004_Bajubang_36615
+.2007_Batin_36615
+.2001_Bungku_36615
+.2003_Ladang Peris_36615
+.2008_Mekar Jaya_36615
+.2010_Mekar Sari Nes_36615
+.2005_Penerokan_36615
+.2006_Petajen_36615
+.2002_Pompa Air_36615
+.2009_Sungkai_36615
+15.04.04_Batin XXIV_36656
+.2004_Aur Gading_36656
+.2015_Bulian Baru_36656
+.1003_Durian Luncuk_36656
+.2006_Hajran_36656
+.2008_Jangga_36656
+.2013_Jangga Baru_36656
+.2001_Jelutih_36656
+.2011_Karmeo_36656
+.2009_Koto Boyo_36656
+.2007_Mata Gual_36656
+.1012_Muara Jangga_36656
+.2002_Olak Besar_36656
+.2005_Paku Aji_36656
+.2017_Simpang Aur Gading_36656
+.2016_Simpang Jelutih_36656
+.2010_Simpang Karmeo_36656
+.2014_Terentang Baru_36656
+15.04.08_Maro Sebo Ilir_36655
+.2004_Bukit Sari_36655
+.2001_Bulian Jaya_36655
+.2007_Danau Embat_36655
+.2005_Karya Mukti_36655
+.2003_Kehidupan Baru_36655
+.2006_Terusan_36655
+.1008_Terusan (Kelurahan Terusan)_36655
+.2002_Tidar Kuranji_36655
+15.04.06_Maro Sebo Ulu_36652
+.2001_Batu Sawar_36652
+.2007_Buluh Kasab_36652
+.2004_Kampung Baru_36652
+.2006_Kembang Seri_36652
+.2017_Kembang Seri Baru_36652
+.2016_Mekar Sari_36652
+.2009_Olak Kemang_36652
+.2010_Padang Kelapo_36652
+.2002_Peninjauan_36652
+.2015_Rawa Mekar_36652
+.2005_Rengas IX_36652
+.1014_Simpang Sungai Rengas_36652
+.2011_Sungai Lingkar_36652
+.2013_Sungai Ruan Ilir_36652
+.2012_Sungai Ruan Ulu_36652
+.2008_Tebing Tinggi_36652
+.2003_Teluk Leban_36652
+15.04.01_Mersam_36654
+.2013_Belanti Jaya_36654
+.2007_Benteng Rendah_36654
+.2012_Bukit Harapan_36654
+.2015_Bukit Kemuning_36654
+.1001_Kembang Paseban_36654
+.2005_Kembang Tanjung_36654
+.2006_Mersam_36654
+.2010_Pematang Gadung_36654
+.2009_Rantau Gedang_36654
+.2004_Sengkati Baru_36654
+.2003_Sengkati Gedang_36654
+.2002_Sengkati Kecil_36654
+.2018_Sengkati Mudo_36654
+.2016_Simpang Rantau Gedang_36654
+.2008_Sungai Puar_36654
+.2017_Tanjung Putra_36654
+.2014_Tapah Sari_36654
+.2011_Teluk Melintang_36654
+15.04.03_Muara Bulian_36611|36614
+.2013_Aro_36611
+.2016_Bajubang Laut_36611
+.2020_Kilangan_36611
+.2008_Malapari_36611
+.1001_Muara Bulian_36613
+.2012_Muaro Singoan (Muara Singoan)_36611
+.2009_Napal Sisik_36611
+.2011_Olak_36611
+.1004_Pasar Baru_36611
+.2006_Pasar Terusan_36611
+.2021_Pelayangan_36611
+.2010_Rambahan_36612
+.2014_Rantau Puri_36611
+.1005_Rengas Condong_36611
+.2007_Simpang Terusan_36611
+.2017_Singkawang_36611
+.1003_Sridadi_36614
+.2015_Sungai Baung_36611
+.2019_Sungai Buluh_36611
+.2018_Tenam_36611
+.1002_Teratai_36612
+15.04.02_Muara Tembesi_36653
+.2004_Ampelu_36653
+.2012_Ampelu Mudo_36653
+.2003_Jebak_36653
+.1001_Kampung Baru_36653
+.1002_Pasar Muara Tembesi_36653
+.2013_Pelayangan_36653
+.2015_Pematang Lima Suku_36653
+.2009_Pulau_36653
+.2005_Rambutan Masam_36653
+.2006_Rantau Kapas Mudo_36653
+.2007_Rantau Kapas Tuo_36653
+.2011_Suka Ramai (Sukaramai)_36653
+.2008_Sungai Pulai_36653
+.2010_Tanjung Marwo_36653
+15.04.05_Pemayung_36657
+.2016_Awin_36657
+.1002_Jembatan Mas_36657
+.2020_Kampung Pulau_36657
+.2014_Kaos_36657
+.2005_Kuap_36657
+.2007_Kubu Kandang_36657
+.2010_Lopak Aur_36657
+.2004_Lubuk Ruso_36657
+.2017_Olak Rambahan_36657
+.2009_Pulau Betung_36657
+.2013_Pulau Raman_36657
+.2011_Selat_36657
+.2006_Senaning_36657
+.2003_Serasah_36657
+.2015_Simpang Kubu Kandang_36657
+.2001_Tebing Tinggi_36657
+.2012_Teluk_36657
+.2019_Teluk Ketapang_36657
+.2008_Ture_36657

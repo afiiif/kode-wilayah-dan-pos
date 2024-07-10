@@ -1,0 +1,72 @@
+19.05.03_Jebus_33362
+.2021_Air Kuang_33362
+.2001_Jebus_33362
+.2009_Ketap_33362
+.2004_Limbung_33362
+.2018_Mislak_33362
+.2019_Pebuar_33362
+.2008_Ranggi Asam_33362
+.2005_Rukam_33362
+.2020_Sinar Manik_33362
+.2002_Sungai Buluh_33362
+.2003_Tumbak Petar_33362
+19.05.04_Kelapa_33364
+.2013_Air Bulin_33364
+.2008_Beruas_33364
+.2005_Dendang_33364
+.2006_Kacung_33364
+.2003_Kayu Arang (Kayuarang)_33364
+.1001_Kelapa_33364
+.2002_Mancung_33364
+.2014_Pangkal Beras_33364
+.2004_Pusuk_33364
+.2007_Sinar Sari_33364
+.2009_Tebing_33364
+.2010_Terentang_33364
+.2012_Tugang_33364
+.2011_Tuik_33364
+19.05.01_Mentok (Muntok)_33311|33351
+.2005_Air Belo_33351
+.2007_Air Limau_33351
+.2004_Air Putih_33351
+.2006_Belo Laut (Belolaut)_33351
+.1008_Keranggan_33311
+.1009_Menjelang_33311
+.1003_Sungai Baru_33312
+.1002_Sungai Daeng_33313
+.1001_Tanjung_33311
+19.05.06_Parittiga_33363
+.2006_Air Gantang_33363
+.2004_Bakit_33363
+.2003_Cupat_33363
+.2008_Kapit_33363
+.2007_Kelabat_33363
+.2005_Puput_33363
+.2001_Sekar Biru_33363
+.2009_Semulut_33363
+.2002_Telak_33363
+.2010_Teluk Limau_33363
+19.05.02_Simpang Teritip_33366
+.2013_Air Menduyung_33366
+.2005_Air Nyatoh_33366
+.2006_Berang_33366
+.2012_Bukit Terak_33366
+.2010_Ibul_33366
+.2002_Kundi_33366
+.2003_Mayang_33366
+.2011_Pangek_33366
+.2001_Pelangas_33366
+.2004_Peradong_33366
+.2007_Rambat_33366
+.2008_Simpang Gong (Simpang Gung)_33366
+.2009_Simpang Tiga_33366
+19.05.05_Tempilang_33365
+.2007_Air Lintang_33365
+.2006_Benteng Kota_33365
+.2004_Buyan Kelumbi_33365
+.2005_Penyampak_33365
+.2003_Sangku_33365
+.2009_Simpang Yul_33365
+.2008_Sinar Surya_33365
+.2002_Tanjung Niur (Tanjungniur)_33365
+.2001_Tempilang_33365

@@ -1,0 +1,119 @@
+72.04.07_Baolan_94511|94517
+.1005_Baru_94514
+.2008_Buntuna_94517
+.2002_Dadakitan_94517
+.2009_Lelean Nono_94515
+.1004_Nalu_94513
+.1006_Panasakan_94511
+.2010_Pangi_94517
+.1007_Sidoarjo_94512
+.1001_Tambun_94516
+.1003_Tuweley_94515
+72.04.04_Basidondo_94552
+.2010_Basi_94552
+.2008_Galandau_94552
+.2002_Kayu Lompa_94552
+.2005_Kinapasan_94552
+.2006_Kongkomos_94552
+.2003_Labonu_94552
+.2009_Marisa_94552
+.2007_Ogosipat_94552
+.2001_Sibaluton_94552
+.2004_Silondou_94552
+72.04.10_Dako Pemean (Dako Pamean)_94562
+.2002_Dungingis_94562
+.2001_Galumpang_94562
+.2003_Kapas_94562
+.2004_Lingadan_94562
+72.04.01_Dampal Selatan_94554
+.2009_Abbajareng_94554
+.2004_Bangkir_94554
+.2005_Dongko_94554
+.2001_Kombo_94554
+.2013_Lemba Harapan_94554
+.2007_Lempe_94554
+.2006_Mimbala_94554
+.2008_Paddumpu_94554
+.2011_Pallakawe_94554
+.2010_Puse_94554
+.2012_Simuntu_94554
+.2003_Soni_94554
+.2002_Tampiala_94554
+72.04.02_Dampal Utara_94553
+.2011_Balaroa_94553
+.2005_Bambapula_94553
+.2001_Banagan_94553
+.2002_Kabinuang_94553
+.2006_Malambigu_94553
+.2010_Ogolali_94553
+.2003_Ogotua_94553
+.2009_Sese_94553
+.2007_Simatang Tanjung_94553
+.2008_Simatang Utara_94553
+.2012_Stadong_94553
+.2004_Tompoh_94553
+72.04.03_Dondo_94551
+.2012_Anggasan_94551
+.2003_Bambapun_94551
+.2013_Betengon_94551
+.2005_Lais_94551
+.2016_Lobuo_94551
+.2001_Luok Manipi_94551
+.2011_Malala_94551
+.2007_Malomba_94551
+.2010_Malulu_94551
+.2006_Ogogasang_94551
+.2008_Ogogili_94551
+.2004_Ogowele_94551
+.2015_Ogowele Buga_94551
+.2014_Pangkung_94551
+.2002_Salumbia_94551
+.2009_Tinabogan_94551
+72.04.08_Galang_94561
+.2012_Aung_94561
+.2011_Bajugan_94561
+.2007_Ginunggung_94561
+.2003_Kalangkangan_94561
+.2014_Kinopasan_94561
+.2005_Lakatan_94561
+.2008_Lalos_94561
+.2004_Lantapan_94561
+.2013_Malangga_94561
+.2001_Ogomoli_94561
+.2010_Sabang_94561
+.2002_Sandana_94561
+.2009_Tende_94561
+.2006_Tinigi_94561
+72.04.06_Lampasio_94517|94518
+.2001_Janja_94518
+.2004_Lampasio_94517
+.2007_Maibua_94518
+.2008_Mulya Sari (Mulyasari / Mulia Sari)_94518
+.2009_Ogomatanang_94517
+.2002_Oyom_94518
+.2003_Salugan_94518
+.2006_Sibea_94518
+.2005_Tinading_94517
+72.04.05_Ogodeide_94516
+.2011_Bambalaga_94516
+.2002_Batuilo_94516
+.2005_Bilo_94516
+.2001_Buga_94516
+.2009_Kabetan_94516
+.2003_Kamalu_94516
+.2006_Labuan Lobo_94516
+.2004_Muara Besar_94516
+.2010_Pagaitan_94516
+.2008_Pulias_94516
+.2007_Sambujan_94516
+72.04.09_Toli-Toli Utara (Tolitoli Utara)_94560
+.2010_Binontoan_94560
+.2008_Diule_94560
+.2014_Gio_94560
+.2011_Lakuan Tolitoli (Lakuan Toli Toli)_94560
+.2006_Laulalang_94560
+.2009_Pinjan_94560
+.2007_Salumpaga_94560
+.2005_Santigi_94560
+.2013_Teluk Jaya_94560
+.2012_Timbolo_94560

@@ -1,0 +1,84 @@
+74.14.06_Gu_93761
+.2001_Bantea_93761
+.1005_Bombonawulu_93761
+.2011_Kamama Mekar_93761
+.2010_Kolowa_93761
+.2002_Lakapera_93761
+.2012_Lowu Lowu_93761
+.2008_Rahia_93761
+.2009_Wadiabero_93761
+.2007_Wakea Kea_93761
+.2003_Walando_93761
+.2006_Waliko_93761
+.1004_Watulea_93761
+74.14.01_Lakudo_93763
+.1010_Boneoge_93763
+.1008_Gu Timur_93763
+.1007_Lakudo_93763
+.2002_Lolibu_93763
+.2011_Madongka_93763
+.2006_Matawine_93763
+.2001_Metere_93763
+.2004_Moko_93763
+.2005_Mone_93763
+.2009_Nepa Mekar_93763
+.2014_One Waara_93763
+.2015_Teluk Lasongko_93763
+.2003_Wajogu_93763
+.2012_Waraa (Wara)_93763
+.2013_Wongko Lakudo_93763
+74.14.04_Mawasangka_93762
+.2018_Air Bajo_93762
+.2012_Balobone_93762
+.2004_Banga_93762
+.2017_Dahiango_93762
+.2016_Gumanano_93762
+.2007_Kanapa Napa_93762
+.2015_Kancebungi_93762
+.2011_Matara_93762
+.1002_Mawasangka_93762
+.2013_Napa_93762
+.2003_Oengkolaki_93762
+.2006_Polindu_93762
+.2005_Tanailandu_93762
+.2008_Terapung_93762
+.2014_Wakambangura_93762
+.2019_Wakambangura II_93762
+.2009_Wasilomata II_93762
+.2010_Wasilotama I (Wasilomata I)_93762
+.1001_Watolo_93762
+74.14.03_Mawasangka Tengah_93764
+.2009_Gundu Gundu_93764
+.2010_Katukobari_93764
+.1003_Lakorua_93764
+.2005_Lalibo_93764
+.2006_Langkomu_93764
+.2004_Lanto_93764
+.2002_Lantongau_93764
+.2001_Morikana_93764
+.2007_Watorumbe (Watorambe)_93764
+.2008_Watorumbe Bata (Watorambe Bata)_93764
+74.14.02_Mawasangka Timur_93765
+.2008_Batubanawa_93765
+.2001_Bonemarambe_93765
+.2004_Bungi_93765
+.2006_Inulu_93765
+.2003_Lagili_93765
+.2007_Lasori_93765
+.2002_Wambuloli_93765
+.2005_Wantopi_93765
+74.14.07_Sangia Wambulu_93760
+.2004_Baruta_93760
+.2006_Baruta Analalaki (Baruta Analaki)_93760
+.2001_Baruta Lestari_93760
+.2003_Doda Bahari_93760
+.1002_Tolandona_93760
+.2007_Tolandona Matanaeo_93760
+74.14.05_Talaga Raya_93766
+.2001_Kokoe_93766
+.2006_Liwulompona_93766
+.2007_Pangilia_93766
+.2002_Talaga Besar_93766
+.2003_Talaga II (Talaga Dua)_93766
+.1004_Talaga Satu_93766
+.2005_Wulu_93766

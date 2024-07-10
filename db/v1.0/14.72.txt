@@ -1,0 +1,43 @@
+14.72.03_Bukit Kapur_28882
+.1004_Bagan Besar_28882
+.1006_Bagan Besar Timur_28882
+.1007_Bukit Kapur_28882
+.1002_Bukit Kayu Kapur_28882
+.1001_Bukit Nenas_28882
+.1003_Gurun Panjang_28882
+.1005_Kampung Baru_28882
+14.72.01_Dumai Barat_28821|28824
+.1008_Bagan Keladi_28821
+.1003_Pangkalan Sesai_28824
+.1006_Purnama_28823
+.1009_Simapang Tetap Darul Ichsan (Simpang Tetap)_28824
+14.72.06_Dumai Kota_28811|28822
+.1004_Bintan_28812
+.1003_Dumai Kota_28811
+.1001_Laksamana_28821
+.1002_Rimba Sekampung_28822
+.1005_Sukajadi_28812
+14.72.07_Dumai Selatan_28813|28826
+.1004_Bukit Datuk_28825
+.1002_Bukit Timah_28826
+.1005_Bumi Ayu_28813
+.1003_Mekar Sari_28821
+.1001_Ratu Sima_28825
+14.72.02_Dumai Timur_28811|28816
+.1009_Bukit Batrem_28811
+.1006_Buluh Kasap_28814
+.1004_Jaya Mukti_28815
+.1003_Tanjung Palas_28816
+.1002_Teluk Binjai_28813
+14.72.05_Medang Kampai_28825
+.1003_Guntung_28825
+.1002_Mundam_28825
+.1004_Pelintung_28825
+.1001_Teluk Makmur_28825
+14.72.04_Sungai Sembilan_28826
+.1003_Bangsal Aceh_28826
+.1004_Basilam Baru_28826
+.1005_Batu Teritip_28826
+.1001_Lubuk Gaung_28826
+.1006_Sungai Geniot_28826
+.1002_Tanjung Penyebal (Tanjung Penyembal)_28826

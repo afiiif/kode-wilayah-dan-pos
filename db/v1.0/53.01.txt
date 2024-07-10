@@ -1,0 +1,201 @@
+53.01.25_Amabi Oefeto_85362|85363
+.2001_Fatukanutu (Fatuknutu)_85362
+.2005_Fatuteta_85362
+.2002_Kairane_85362
+.2004_Kuanheun (Kuanheum)_85362
+.2007_Niunbaun_85363
+.2006_Oeleto (Oefeto)_85363
+.2003_Raknamo_85362
+53.01.20_Amabi Oefeto Timur_85363
+.2009_Enolanan_85363
+.2004_Muke_85363
+.2003_Nunmafo_85363
+.2002_Oemofa_85363
+.2008_Oemolo_85363
+.2010_Oenaunu_85363
+.2006_Oeniko_85363
+.2007_Oenuntono (Oenunutono)_85363
+.2005_Pathau_85363
+.2001_Seki_85363
+53.01.09_Amarasi_85367
+.2007_Apren_85367
+.2004_Kotabes_85367
+.1002_Nonbes_85367
+.2006_Oenoni_85367
+.2008_Oenoni II (Oenoni dua)_85367
+.2001_Oesena_85367
+.2003_Ponain_85367
+.2005_Tesbatan_85367
+.2009_Tesbatan II_85367
+53.01.17_Amarasi Barat_85376
+.2008_Erbaun_85376
+.2007_Merbaun_85376
+.2006_Nekbaun_85376
+.2004_Niukbaun_85376
+.2002_Soba_85376
+.1001_Teunbaun_85376
+.2003_Toobaun_85376
+.2005_Tunbaun_85376
+53.01.18_Amarasi Selatan_85377
+.1001_Buraen_85377
+.2003_Nekmese_85377
+.2004_Retraen_85377
+.2005_Sahraen_85377
+.1002_Sonraen_85377
+53.01.19_Amarasi Timur_85378
+.2004_Enoraen_85378
+.2001_Oebesi_85378
+.2002_Pakubaun_85378
+.2003_Rabeka_85378
+53.01.21_Amfoang Barat Daya_85364
+.2004_Bioba Baru (Barutaen)_85364
+.2002_Letkole_85364
+.2001_Manubelon_85364
+.2003_Nefoneut_85364
+53.01.22_Amfoang Barat Laut_85372
+.2006_Faumes_85372
+.2005_Honuk_85372
+.2003_Oelfatu_85372
+.2002_Saukibe_85372
+.2001_Soliu_85372
+.2004_Timau_85372
+53.01.12_Amfoang Selatan_85373
+.2004_Fatumetan_85373
+.2001_Fatusuki_85373
+.2008_Leloboko_85373
+.1003_Lelogama_85373
+.2002_Oelbanu_85373
+.2005_Oh'aem (Ohaem)_85373
+.2011_Oh'aem II (Ohaem Dua)_85373
+53.01.30_Amfoang Tengah_85374
+.2002_Binafun_85374
+.2003_Bitobe_85374
+.2004_Bonmuti_85374
+.2001_Fatumonas_85374
+53.01.26_Amfoang Timur_85375
+.2002_Kifu_85375
+.2005_Netemnanu (Natemnanu / Natummanu)_85375
+.2003_Netemnanu Selatan_85375
+.2004_Netemnanu Utara_85375
+.2001_Nunuanah_85375
+53.01.13_Amfoang Utara_85365
+.2001_Afoan_85365
+.2005_Bakuin_85365
+.2003_Fatunaus_85365
+.2004_Kolabe_85365
+.2010_Lilmus_85365
+.1002_Naikliu_85365
+53.01.10_Fatuleu_85371
+.1001_Camplong I_85371
+.2007_Camplong II_85371
+.2011_Ekateta_85371
+.2015_Kiuoni_85371
+.2012_Kuimasi_85371
+.2008_Naunnu (Naunu)_85371
+.2009_Oebola_85371
+.2014_Oebola Dalam_85371
+.2010_Sillu_85371
+.2013_Tolnaku (Tulnaku)_85371
+53.01.27_Fatuleu Barat_85223
+.2003_Kalali_85223
+.2005_Naitae_85223
+.2002_Nuataus_85223
+.2001_Poto_85223
+.2004_Tuakau_85223
+53.01.28_Fatuleu Tengah_85220
+.2002_Nonbaun_85220
+.2003_Nunsaen_85220
+.2001_Oelbiteno_85220
+.2004_Passi_85220
+53.01.05_Kupang Barat_85351
+.1002_Batakte_85351
+.2010_Bolok_85351
+.2008_Kuanheun_85351
+.2005_Lifuleo_85351
+.2003_Manulai I_85351
+.2009_Nitneo_85351
+.2007_Oematnunu (Oematanunu)_85351
+.2012_Oenaek_85351
+.1001_Oenesu_85351
+.2004_Sumlili_85351
+.2011_Tablolong_85351
+.2006_Tesabela_85351
+53.01.08_Kupang Tengah_85361
+.2013_Mata Air_85361
+.2008_Noelbaki_85361
+.2010_Oebelo_85361
+.2006_Oelnasi_85361
+.2009_Oelpuah_85361
+.2011_Penfui Timur_85361
+.2012_Tanah Merah_85361
+.1007_Tarus_85361
+53.01.06_Kupang Timur_85362
+.1001_Babau_85362
+.2016_Manusak_85362
+.1005_Merdeka_85362
+.1003_Naibonat_85362
+.2002_Nunkurus_85362
+.2007_Oefafi_85362
+.2018_Oelatimo_85362
+.2015_Oesao_85362
+.1004_Oesao (Kelurahan Oesao)_85362
+.2011_Pukdale_85362
+.2017_Tanah Putih_85362
+.2006_Tuapukan_85362
+.1008_Tuatuka_85362
+53.01.16_Nekamese_85390
+.2011_Bismark (Bismarak)_85390
+.2008_Bone_85390
+.2010_Oben_85390
+.2001_Oelomin_85390
+.2003_Oemasi_85390
+.2005_Oenif_85390
+.2007_Oepaha_85390
+.2009_Taloitan (Taloetan)_85390
+.2002_Tasikona_85390
+.2006_Tunfeu_85390
+.2004_Usapi Sonbai (Usapisonbai)_85390
+53.01.04_Semau_85352
+.2011_Batuinan_85352
+.2003_Bokonusan_85352
+.2008_Hansisi_85352
+.2009_Huilelot_85352
+.2013_Letbaun_85352
+.2004_Otan_85352
+.2006_Uiasa_85352
+.2005_Uitao_85352
+53.01.23_Semau Selatan_85353
+.2001_Akle_85353
+.2005_Naiken (Naikean)_85353
+.2003_Onansila (Oenansila)_85353
+.2006_Uiboa_85353
+.2002_Uitiuh Ana_85353
+.2004_Uitiuh Tuan_85353
+53.01.07_Sulamu_85368
+.2005_Bipolo_85368
+.2004_Oeteta_85368
+.2006_Pantai Beringin_85368
+.2007_Pantulan_85368
+.2003_Pariti_85368
+.2002_Pitai_85368
+.1001_Sulamu_85368
+53.01.24_Taebenu_85360
+.2002_Baumata_85360
+.2008_Baumata Barat_85360
+.2007_Baumata Timur_85360
+.2006_Baumata Utara_85360
+.2005_Bokong_85360
+.2003_Kuaklalo_85360
+.2004_Oeletsala_85360
+.2001_Oeltuah (Oeltua)_85360
+53.01.11_Takari_85369
+.2002_Benu_85369
+.2009_Fatukona_85369
+.2003_Hueknutu_85369
+.2006_Kauniki_85369
+.2001_Noelmina_85369
+.2004_Oelnaineno_85369
+.2010_Oesusu_85369
+.1007_Takari_85369
+.2005_Tanini_85369
+.2008_Tuapanaf_85369

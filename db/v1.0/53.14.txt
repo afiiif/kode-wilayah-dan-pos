@@ -1,0 +1,130 @@
+53.14.10_Landu Leko_85974
+.2001_Bolatena_85974
+.2004_Daeurendale_85974
+.2005_Daiama_85974
+.2002_Lifuleo_85974
+.2006_Pukuafu_85974
+.2003_Sotimori_85974
+.2007_Tena Lai_85974
+53.14.11_Loaholu_85981
+.2007_Balaoli_85981
+.2006_Boni_85981
+.2002_Holulai_85981
+.2009_Lidor_85981
+.2010_Mundek_85981
+.2008_Oebela_85981
+.2004_Oebole_85981
+.2001_Oelua_85981
+.2005_Tasilo_85981
+.2003_Tolama_85981
+53.14.03_Lobalain_85912|85918
+.2014_Baadale_85912
+.2003_Bebalain_85918
+.2005_Helebeik_85918
+.2007_Holoama_85918
+.2004_Kolobolon_85918
+.2002_Kuli_85918
+.2017_Kuli Aisele_85918
+.2015_Lekunik_85916
+.2016_Loleoen_85918
+.1011_Metina_85918
+.1009_Mokdale_85914
+.1001_Namodale_85918
+.2018_Oeleka_85917
+.2010_Oelunggu_85917
+.2012_Oematamboli_85918
+.2006_Sanggaoen_85916
+.2013_Suelain_85918
+.2008_Tuanatuk_85913
+53.14.09_Ndao Nuse_85983
+.2002_Anarae_85983
+.2001_Mbali Lendeiki_85983
+.2003_Mbiu Lombo_85983
+.2005_Ndaonuse_85983
+.2004_Nuse_85983
+53.14.05_Pantai Baru_85973
+.2002_Batulilok_85973
+.2008_Edalode_85973
+.2014_Fatelilo_85973
+.2007_Keoen_85973
+.2012_Lekona_85973
+.2003_Lenupetu_85973
+.2001_Nusakdale_85973
+.2005_Oebau_85973
+.2006_Oeledo_85973
+.2013_Oenggae_85973
+.2015_Ofalangga_85973
+.1009_Olafulihaa_85973
+.2004_Sonimanu_85973
+.2011_Tesa Bela (Tesabela)_85973
+.2010_Tungganamo_85973
+53.14.07_Rote Barat_85981|85982
+.2004_Bo'a (Boa)_85982
+.2007_Mbueain_85981
+.2002_Nemberala_85982
+.2006_Oelolot_85981
+.2003_Oenggaut_85982
+.2005_Oenitas_85981
+.2001_Sedeoen_85982
+53.14.01_Rote Barat Daya_85982
+.2010_Batutua_85982
+.2023_Dalek Esa_85982
+.2016_Dolasi_85982
+.2022_Fuafuni_85982
+.2007_Lalukoen_85982
+.2018_Landu_85982
+.2015_Lekik_85982
+.2019_Lentera_85982
+.2014_Mbokak_85982
+.2011_Meoain_85982
+.2012_Oebafok_85982
+.2013_Oebatu_85982
+.2006_Oebou_85982
+.2008_Oehandi_85982
+.2017_Oelasin_85982
+.2005_Oeseli_85982
+.2009_Oetefu_85982
+.2021_Sakubatun_85982
+.2020_Sanggandolu_85982
+53.14.02_Rote Barat Laut_85981
+.1008_Busalangga_85981
+.2026_Busalangga Barat_85981
+.2025_Busalangga Timur_85981
+.2014_Daudolu_85981
+.2019_Hundihuk_85981
+.2012_Ingguinak_85981
+.2007_Modosinal_85981
+.2009_Netenaen_85981
+.2013_Oetutulu_85981
+.2021_Saindule_85981
+.2004_Temas_85981
+.2017_Tualima_85981
+53.14.08_Rote Selatan_85972
+.2002_Daleholu_85972
+.2003_Dodaek_85972
+.2005_Inaoe_85972
+.2001_Lenguselu_85972
+.2006_Nggelodae_85972
+.2007_Pilasue_85972
+.2004_Tebole_85972
+53.14.04_Rote Tengah_85971
+.2011_Lidabesi_85971
+.2005_Lidamanu_85971
+.2004_Limakoli_85971
+.2001_Maubesi_85971
+.2003_Nggodimeda_85971
+.1002_Onatali_85971
+.2013_Siomeda_85971
+.2010_Suebela_85971
+53.14.06_Rote Timur_85975
+.2015_Batefalu_85975
+.2002_Faifua_85975
+.2003_Hundihopo (Hundi Hopo)_85975
+.2006_Lakamola_85975
+.1004_Londalusi_85975
+.2017_Matanae_85975
+.2007_Matasio_85975
+.2001_Mukekuku_85975
+.2016_Papela_85975
+.2014_Pengodua_85975
+.2005_Serubeba_85975

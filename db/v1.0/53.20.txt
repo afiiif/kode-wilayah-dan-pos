@@ -1,0 +1,69 @@
+53.20.05_Hawu Mehara_85391
+.2003_Daieko_85391
+.2009_Gurimonearu_85391
+.2006_Ledeae_85391
+.2008_Lederaga_85391
+.2001_Lobohede_85391
+.2002_Molie (Mole)_85391
+.2004_Pedarro (Pedaro)_85391
+.2010_Raemadia (Ramedue)_85391
+.2005_Tanajawa_85391
+.2007_Wadumaddi (Wadumedi / Wadumeddi)_85391
+53.20.06_Raijua_85393
+.2005_Ballu_85393
+.2003_Bolua_85393
+.2004_Kolorae_85393
+.1001_Ledeke_85393
+.1002_Ledeunu_85393
+53.20.01_Sabu Barat_85395
+.2014_Delo_85395
+.2009_Depe_85395
+.2016_Djadu_85395
+.2008_Ledeana_85395
+.2017_Ledekepaka_85395
+.1001_Mebba_85395
+.2002_Menia_85395
+.2004_Naawawi_85395
+.2007_Raedewa_85395
+.2011_Raekore_85395
+.2003_Raeloro_85395
+.2013_Raemadia_85395
+.2010_Raemude_85395
+.2006_Raenalulu_85395
+.2012_Raenyale_85395
+.2015_Roboaba_85395
+.2005_Teriwu_85395
+.2018_Titinalede_85395
+53.20.04_Sabu Liae_85396
+.2008_Dainao_85396
+.2006_Deme_85396
+.2009_Eikare_85396
+.2005_Eilogo_85396
+.2011_Halla Paji (Halapadji)_85396
+.2007_Kotahawu_85396
+.2004_Ledeke_85396
+.2012_Ledetalo (Lede Talo)_85396
+.2010_Loborui (Loboroi)_85396
+.2002_Mehona_85396
+.2001_Raerobo_85396
+.2003_Waduwalla (Waduwala)_85396
+53.20.02_Sabu Tengah_85392
+.2001_Bebae_85392
+.2007_Eilode_85392
+.2005_Eimadake (Eimmadake)_85392
+.2008_Eimau_85392
+.2006_Jiwuwu_85392
+.2004_Loboaju_85392
+.2003_Matei_85392
+.2002_Tada_85392
+53.20.03_Sabu Timur_85394
+.2004_Bodae_85394
+.1001_Bolou_85394
+.2009_Eiada_85394
+.2008_Huwaga_85394
+.2005_Keduru_85394
+.2010_Keliha_85394
+.2006_Kuji Ratu (Kujiratu)_85394
+.1002_Limagu (Limaggu)_85394
+.2003_Lobodei_85394
+.2007_Loborai_85394

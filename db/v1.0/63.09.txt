@@ -1,0 +1,143 @@
+63.09.01_Banua Lawas_71553|72167
+.2013_Bakiling Raya (Bangkiling Raya)_71553
+.2002_Bangkiling_71553
+.2006_Banua Lawas_71553
+.2008_Banua Rantau (Benua Rantau)_71553
+.2010_Batang Banyu_71553
+.2012_Bungin_71553
+.2007_Habau_71553
+.2011_Habau Hulu_71553
+.2001_Hapalah_71553
+.2005_Hariang_71553
+.2004_Pematang_71553
+.2009_Purai_71553
+.2015_Sei/Sungai Anyar_71553
+.2003_Sei/Sungai Durian_72167
+.2014_Talan_71553
+63.09.12_Bintang Ara_71572
+.2007_Argo Mulyo_71572
+.2003_Bintang Ara_71572
+.2008_Bumi Makmur_71572
+.2004_Burum_71572
+.2006_Dambung Raya (Dambung / Raya)_71572
+.2009_Hegarmanah (Hegar Manah)_71572
+.2005_Panaan_71572
+.2002_Usih_71572
+.2001_Waling_71572
+63.09.05_Haruai_71570
+.2003_Bongkang_71570
+.2021_Catur Karya_71570
+.2005_Halong_71570
+.2007_Hayup_71570
+.2011_Kembang Kuning (Kembangkuning)_71570
+.2014_Lok Batu_71570
+.2013_Mahe Pasar_71570
+.2001_Marindi_71570
+.2004_Nawin_71570
+.2012_Seradang_71570
+.2015_Suput_71570
+.2018_Surian_71570
+.2002_Wirang_71570
+63.09.11_Jaro_71574
+.2008_Garagata_71574
+.2003_Jaro_71574
+.2006_Lano_71574
+.2005_Muang_71574
+.2009_Nalui_71574
+.2002_Namun_71574
+.2007_Purui_71574
+.2004_Solan_71574
+.2001_Teratau_71574
+63.09.02_Kelua (Klua)_71552
+.2002_Ampukung_71552
+.2012_Bahungin_71552
+.2005_Binturu_71552
+.2011_Karangan Putih_71552
+.2008_Masintan_71552
+.2010_Paliat_71552
+.2007_Pasar Panas_71552
+.2006_Pudak Setegal (Pudak Stegal)_71552
+.1001_Pulau_71552
+.2004_Sei/Sungai Buluh_71552
+.2009_Takulat_71552
+.2003_Telaga Itar (Telagaitar)_71552
+63.09.08_Muara Harus_71555
+.2007_Harus_71555
+.2001_Madang_71555
+.2005_Manduin_71555
+.2006_Mantuil_71555
+.2003_Murung Karangan_71555
+.2004_Padangin_71555
+.2002_Tanta Ringin (Tantaringin)_71555
+63.09.07_Muara Uya_71573
+.2009_Binjai_71573
+.2011_Kampung Baru_71573
+.2001_Kupang Nunding_71573
+.2006_Lumbang_71573
+.2002_Mangkupum_71573
+.2005_Muara Uya_71573
+.2010_Palapi (Pelapi)_71573
+.2003_Pasar Batu_71573
+.2013_Ribang_71573
+.2012_Salikung_71573
+.2007_Santuun_71573
+.2014_Sei/Sungai Kumap_71573
+.2008_Simpung Layung_71573
+.2004_Uwie_71573
+63.09.06_Murung Pudak_71571
+.1002_Belimbing_71571
+.1001_Belimbing Raya_71571
+.2007_Kapar_71571
+.2005_Kasiau_71571
+.2010_Kasiau Raya_71571
+.1006_Mabu'un (Mabuun)_71571
+.2004_Maburai_71571
+.2008_Masukau_71571
+.1009_Pembataan_71571
+.1003_Sulingan_71571
+63.09.09_Pugaan_71554
+.2006_Halangan_71554
+.2005_Jirak_71554
+.2002_Pampanan_71554
+.2001_Pugaan_71554
+.2004_Sei/Sungai Rukam I_71554
+.2003_Sei/Sungai Rukam II_71554
+.2007_Tamunti_71554
+63.09.04_Tanjung_71512|71515
+.1003_Agung_71514
+.2005_Banyu Tajun_71515
+.2012_Garunggung_71515
+.1004_Hikun_71515
+.1001_Jangkung_71512
+.2008_Juai_71515
+.2010_Kambitin_71515
+.2015_Kambitin Raya_71515
+.2013_Kitang_71515
+.2009_Mahe Seberang_71515
+.2006_Pamarangan Kiwa_71515
+.2007_Puain Kiwa_71515
+.2014_Sei/Sungai Pimping_71515
+.1002_Tanjung_71513
+.2011_Wayau_71515
+63.09.03_Tanta_71561
+.2005_Barimbun_71561
+.2002_Lukbayur (Luk Bayur)_71561
+.2006_Mangkusip_71561
+.2001_Murung Baru_71561
+.2010_Padang Panjang_71561
+.2012_Padangin_71561
+.2007_Pamarangan Kanan_71561
+.2011_Puain Kanan_71561
+.2008_Pulau Kuu (Pulau Ku,U / Kuu)_71561
+.2013_Tamiyang_71561
+.2009_Tanta_71561
+.2014_Tanta Hulu_71561
+.2003_Walangkir_71561
+.2004_Warukin_71561
+63.09.10_Upau_71575
+.2001_Bilas_71575
+.2002_Kaong_71575
+.2004_Kinarum_71575
+.2006_Masingai I_71575
+.2005_Masingai II_71575
+.2003_Pangelak_71575

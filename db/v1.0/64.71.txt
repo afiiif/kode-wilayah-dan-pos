@@ -1,0 +1,40 @@
+64.71.02_Balikpapan Barat_76131|76134
+.1001_Baru Ilir_76131
+.1002_Baru Tengah_76132
+.1003_Baru Ulu_76133
+.1004_Kariangau_76134
+.1006_Marga Sari_76131
+.1005_Margo Mulyo_76131
+64.71.06_Balikpapan Kota_76111|76114
+.1005_Damai_76114
+.1004_Klandasan Ilir_76113
+.1003_Klandasan Ulu_76112
+.1001_Prapatan_76111
+.1002_Telaga Sari_76111
+64.71.05_Balikpapan Selatan_76114|76115
+.1012_Damai Bahagia_76114
+.1011_Damai Baru_76114
+.1006_Gunungbahagia (Gunung Bahagia)_76114
+.1002_Sepinggan_76115
+.1008_Sepinggan Baru_76115
+.1009_Sepinggan Raya_76115
+.1010_Sungainangka (Sungai Nangka)_76114
+64.71.04_Balikpapan Tengah_76121|76124
+.1002_Gunungsari Ilir (Gunung Sari Ilir)_76121
+.1001_Gunungsari Ulu (Gunung Sari Ulu)_76122
+.1004_Karang Jati_76123
+.1003_Karang Rejo_76124
+.1005_Mekar Sari_76122
+.1006_Sumber Rejo_76124
+64.71.01_Balikpapan Timur_76116|76118
+.1002_Lamaru_76117
+.1001_Manggar_76116
+.1004_Manggar Baru_76116
+.1003_Teritip_76118
+64.71.03_Balikpapan Utara_76125|76136
+.1001_Batu Ampar_76136
+.1006_Graha Indah_76129
+.1002_Gunungsamarinda (Gunung Samarinda)_76125
+.1005_Gunungsamarinda Baru (Gunung Samarinda Baru)_76128
+.1003_Karang Joang_76127
+.1004_Muararapak (Muara Rapak)_76125

@@ -1,0 +1,49 @@
+71.73.04_Tomohon Barat_95421|95425
+.1007_Taratara_95423
+.1005_Taratara Dua_95424
+.1004_Taratara Satu_95425
+.1008_Taratara Tiga_95423
+.1002_Woloan Dua_95422
+.1001_Woloan Satu_95421
+.1006_Woloan Satu Utara_95423
+.1003_Woloan Tiga_95423
+71.73.01_Tomohon Selatan_95431|95439
+.1006_Kampung Jawa_95433
+.1002_Lahendong_95435
+.1007_Lansot_95431
+.1004_Pangolombian_95437
+.1001_Pinaras_95434
+.1003_Tondangow_95436
+.1005_Tumatangtang_95432
+.1012_Tumatangtang Satu_95439
+.1009_Uluindano_95438
+.1008_Walian_95439
+.1011_Walian Dua_95439
+.1010_Walian Satu_95439
+71.73.02_Tomohon Tengah_95441|95445
+.1011_Kamasi_95442
+.1018_Kamasi Satu_95441
+.1012_Kolongan_95442
+.1019_Kolongan Satu_95441
+.1016_Matani Dua_95444
+.1015_Matani Satu_95445
+.1017_Matani Tiga_95443
+.1010_Talete Dua_95441
+.1009_Talete Satu_95441
+71.73.05_Tomohon Timur_95446|95449
+.1005_Kumelembuai (Kumelembuay)_95449
+.1002_Paslaten Dua_95446
+.1001_Paslaten Satu_95446
+.1003_Rurukan_95447
+.1004_Rurukan Satu_95449
+71.73.03_Tomohon Utara_95411|95419
+.1010_Kakaskasen_95418
+.1005_Kakaskasen Dua_95416
+.1004_Kakaskasen Satu_95415
+.1006_Kakaskasen Tiga_95417
+.1008_Kayawu_95419
+.1003_Kinilow_95414
+.1009_Kinilow Satu_95413
+.1002_Tinoor Dua_95411
+.1001_Tinoor Satu_95412
+.1007_Wailan_95418

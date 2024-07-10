@@ -1,0 +1,135 @@
+72.12.08_Bungku Utara_94972
+.2001_Baturube_94972
+.2016_Boba_94972
+.2017_Kalombang_94972
+.2009_Lemo_94972
+.2020_Lemowalia_94972
+.2019_Matube_94972
+.2012_Opo_94972
+.2023_Pokeang_94972
+.2002_Posangke_94972
+.2010_Salubiro_94972
+.2008_Siliti_94972
+.2014_Tambarobone_94972
+.2013_Tanakuraya_94972
+.2003_Taronggo_94972
+.2007_Tirongan Atas_94972
+.2006_Tirongan Bawah_94972
+.2022_Tokala Atas_94972
+.2018_Tokonanaka_94972
+.2011_Uemasi_94972
+.2021_Uempanapa_94972
+.2004_Ueruru_94972
+.2005_Uewajo_94972
+.2015_Woomparigi (Womparigi)_94972
+72.12.04_Lembo_94966
+.2001_Beteleme_94966
+.2014_Korobonde_94966
+.2010_Korompeeli (Korompeli)_94966
+.2007_Korowalelo (Koro Walelo)_94966
+.2012_Korowou_94966
+.2009_Kumpi_94966
+.2013_Lembobaru (Lembo Baru)_94966
+.2011_Lemboroma_94966
+.2003_Mora_94966
+.2005_Tingkeao_94966
+.2008_Tinompo_94966
+.2002_Uluanso_94966
+.2004_Waraa_94966
+.2006_Wawopada_94966
+72.12.03_Lembo Raya_94967
+.2009_Bintangor Mukti_94967
+.2001_Dolupo Karya (Dalupo Karya)_94967
+.2006_Jamor Jaya (Jamur Jaya)_94967
+.2008_Lembobelala_94967
+.2010_Mandula_94967
+.2007_Pa'awaru_94967
+.2003_Petumbea_94967
+.2002_Po'ona_94967
+.2005_Pontangoa_94967
+.2004_Ronta_94967
+72.12.09_Mamosalato_94968
+.2010_Girimulya_94968
+.2003_Kolo Atas_94968
+.2002_Kolo Bawah_94968
+.2007_Lijo_94968
+.2014_Menyo'e (Manyoe)_94968
+.2004_Momo_94968
+.2001_Pandauke_94968
+.2009_Parangisi_94968
+.2013_Sea_94968
+.2012_Tambale_94968
+.2005_Tananagaya (Tanangaya)_94968
+.2008_Tanasumpu_94968
+.2006_Uepakatu (Uepaku)_94968
+.2011_Winangobino (Winangabino)_94968
+72.12.05_Mori Atas_94965
+.2004_Ensa_94965
+.2008_Gontara_94965
+.2011_Kasingoli_94965
+.2005_Kolaka_94965
+.2007_Lanumor_94965
+.2009_Lee_94965
+.2002_Londi_94965
+.2014_Pambarea_94965
+.2006_Peonea_94965
+.2010_Saemba_94965
+.2013_Saemba Walati_94965
+.2003_Taende_94965
+.2001_Tomata_94965
+.2012_Tomui Karya_94965
+72.12.06_Mori Utara_94964
+.2001_Era_94964
+.2006_Lembontonara_94964
+.2004_Mayumba_94964
+.2002_Peleru_94964
+.2007_Tabarano_94964
+.2003_Tamonjengi_94964
+.2005_Tiwa'a (Tiwaa)_94964
+.2008_Wawondula (Wawondul)_94964
+72.12.01_Petasia_94971
+.1002_Bahontula_94971
+.1003_Bahoue_94971
+.2004_Ganda Ganda_94971
+.2006_Gililana_94971
+.1001_Kolonodale_94971
+.2008_Korololaki_94971
+.2009_Korololama_94971
+.2010_Koromatantu_94971
+.2005_Koya_94971
+.2007_Tanauge_94971
+72.12.10_Petasia Barat_94970
+.2004_Maralee_94970
+.2007_Moleono_94970
+.2005_Mondowe_94970
+.2008_Onepute_94970
+.2006_Sampalowo_94970
+.2010_Tadaku Jaya_94970
+.2001_Tiu_94970
+.2003_Togo Mulyo (Togomulyo)_94970
+.2002_Tontowea_94970
+.2009_Ulu Laa_94970
+72.12.02_Petasia Timur_94963
+.2008_Bimor Jaya_94963
+.2003_Bungintimbe_94963
+.2001_Bunta_94963
+.2010_Keuno_94963
+.2006_Mohoni_94963
+.2005_Molino (Malino)_94963
+.2009_Molores_94963
+.2012_Peboa_94963
+.2002_Tompira_94963
+.2004_Towara_94963
+.2011_Towara Pantai_94963
+.2007_Ungkea_94963
+72.12.07_Soyo Jaya_94969
+.2007_Bau_94969
+.2001_Lembah Sumara (Lembasumara)_94969
+.2004_Malino_94969
+.2008_Malino Jaya_94969
+.2005_Panca Makmur_94969
+.2002_Sumara Jaya_94969
+.2006_Tamainusi_94969
+.2003_Tambayoli_94969
+.2010_Tandoyondo_94969
+.2009_Toddopoli Uebangke (Toddopuli Uebangke)_94969

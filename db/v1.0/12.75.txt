@@ -1,0 +1,42 @@
+12.75.03_Binjai Barat_20716|20719
+.1001_Bandar Senembah_20719
+.1002_Limau Mungkur_20717
+.1003_Limau Sundai_20716
+.1004_Paya Roba (Payaroba)_20718
+.1005_Suka Maju_20719
+.1006_Sukaramai_20717
+12.75.02_Binjai Kota_20711|20715
+.1001_Berngam_20715
+.1006_Binjai_20712
+.1004_Kartini_20713
+.1007_Pekan Binjai_20711
+.1002_Satria_20714
+.1003_Setia_20713
+.1005_Tangsi_20714
+12.75.05_Binjai Selatan_20721|20728
+.1003_Bhakti Karya_20728
+.1002_Binjai Estate_20724
+.1005_Pujidadi_20727
+.1007_Rambung Barat_20723
+.1004_Rambung Dalam_20722
+.1008_Rambung Timur_20721
+.1001_Tanah Merah_20725
+.1006_Tanah Seribu_20726
+12.75.04_Binjai Timur_20731|20737
+.1002_Dataran Tinggi_20736
+.1004_Mencirim_20733
+.1007_Sumber Karya_20737
+.1006_Sumber Mulyorejo (Sumber Mulyo Rejo)_20735
+.1001_Tanah Tinggi_20731
+.1003_Timbang Langkat_20732
+.1005_Tunggurono_20734
+12.75.01_Binjai Utara_20741|20749
+.1006_Cengkeh Turi_20747
+.1004_Damai_20745
+.1009_Jati Karya_20746
+.1008_Jati Makmur_20748
+.1002_Jati Negara_20741
+.1007_Jati Utomo_20749
+.1005_Kebun Lada_20744
+.1003_Nangka_20742
+.1001_Pahlawan_20743

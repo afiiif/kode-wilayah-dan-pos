@@ -1,0 +1,107 @@
+12.10.07_Bilah Barat_21411|21415
+.2008_Aek Buru Selatan (Perkebunan Aek Buru Selatan)_21411
+.2006_AFD.I Rantauprapat_21411
+.2007_AFD.II Rantauprapat_21411
+.2002_Bandar Kumbul_21411
+.2004_Janji_21411
+.2009_Kampung Baru_21415
+.2001_Sibargot_21411
+.2003_Tanjung Medan_21411
+.2005_Tebing Linggahara_21411
+.2010_Tebing Linggahara Baru_21411
+12.10.08_Bilah Hilir_21471
+.2006_Kampung Bilah_21471
+.1002_Negeri Baru_21471
+.1001_Negeri Lama_21471
+.2007_Negeri Lama Seberang_21471
+.2005_Perkebunan Bilah_21471
+.2004_Perkebunan Negeri Lama_21471
+.2003_Perkebunan Sennah_21471
+.2013_Sei Kasih_21471
+.2008_Sei Tampang_21471
+.2012_Sei Tarolat_21471
+.2009_Selat Besar_21471
+.2011_Sidomulyo_21471
+.2010_Tanjung Haloban_21471
+12.10.09_Bilah Hulu_21451
+.2007_Bandar Tinggi_21451
+.2006_Emplasemen Aek Nabara (Emplasmen Aek Nabara)_21451
+.2005_Gunung Selamat_21451
+.2008_Kampung Dalam_21451
+.2001_Lingga Tiga_21451
+.2010_Meranti_21451
+.2011_N 1/Satu Aek Nabara_21451
+.2012_N 2/Dua Aek Nabara_21451
+.2013_N 3/Tiga Aek Nabara_21451
+.2014_N 4/Empat Aek Nabara_21451
+.2015_N 5/Lima Aek Nabara_21451
+.2016_N 6/Enam Aek Nabara_21451
+.2017_N 7/Tujuh Aek Nabara_21451
+.2018_N 8/Delapan Aek Nabara_21451
+.2003_Pematang Slang (Seleng)_21451
+.2004_Perbaungan_21451
+.2009_Pondok Batu_21451
+.2019_S 1/Satu Aek Nabara_21451
+.2020_S 2/Dua Aek Nabara_21451
+.2021_S 3/Tiga Aek Nabara_21451
+.2022_S 4/Empat Aek Nabara_21451
+.2023_S 5/Lima Aek Nabara_21451
+.2024_S 6/Enam Aek Nabara_21451
+.2002_Tanjung Tiram (Siram)_21451
+12.10.19_Panai Hilir_21473
+.2007_Sei Baru_21473
+.1001_Sei Berombang_21473
+.2003_Sei Lumut_21473
+.2002_Sei Penggantungan_21473
+.2006_Sei Sakat_21473
+.2005_Sei Sanggul_21473
+.2004_Sei Tawar_21473
+.2008_Wonosari_21473
+12.10.20_Panai Hulu_21470
+.2002_Ajamu (Perkebunan IV Ajamu)_21470
+.2004_Cinta Makmur_21470
+.2006_Maranti/Meranti Paham_21470
+.2005_Sei Sentosa_21470
+.2007_Sijawijawi (Sei Jawi Jawi)_21470
+.2001_Tanjung Sarang Elang_21470
+.2003_Teluk Sentosa_21470
+12.10.18_Panai Tengah_21472
+.2008_Bagan Bilah_21472
+.1001_Labuhan Bilik_21472
+.2010_Pasar Tiga_21472
+.2005_Sei Merdeka_21472
+.2004_Sei Nahodaris_21472
+.2002_Sei Pelancang (Sei Plancang)_21472
+.2006_Sei Rakyat_21472
+.2003_Sei Siati/Siarti_21472
+.2007_Selat Beting_21472
+.2009_Telaga Suka_21472
+12.10.14_Pangkatan_21462
+.2004_Kampung Padang_21462
+.2005_Pangkatan (Kampung Pangkatan)_21462
+.2003_Perkebunan Pangkatan_21462
+.2006_Sennah (Kampung Sennah)_21462
+.2001_Sidorukun_21462
+.2007_Tanjung Harapan_21462
+.2002_Tebing Tinggi Pangkatan_21462
+12.10.02_Rantau Selatan_21421|21429
+.1001_Bakaran Batu_21421
+.1008_Danau Bale (Danobale)_21427
+.1006_Lobusona (Lobu Sona)_21423
+.1007_Pardamean (Perdamean)_21426
+.1009_Sidorejo_21424
+.1005_Sigambal_21425
+.1002_Sioldengan_21428
+.1004_Ujung Bandar_21422
+.1003_Urung Kompas_21429
+12.10.01_Rantau Utara_21411|21419
+.1010_Aek Paing_21419
+.1007_Binaraga (Bina Raga / Rinaraga)_21416
+.1006_Cendana_21417
+.1005_Kartini_21418
+.1009_Padang Bulan_21414
+.1001_Padang Matinggi (Padang Matingi)_21411
+.1008_Pulo Padang_21419
+.1004_Rantauprapat_21412
+.1003_Sirandorung_21414
+.1002_Siringo-Ringo_21413

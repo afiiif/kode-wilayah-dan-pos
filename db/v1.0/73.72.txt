@@ -1,0 +1,26 @@
+73.72.01_Bacukiki_91121|91125
+.1010_Galung Maloang_91121
+.1009_Lemoe_91121
+.1004_Lompoe_91125
+.1005_WT. Bacukiki (Wattang Bacukiki)_91121
+73.72.04_Bacukiki Barat_91125|91126
+.1006_Bumi Harapan_91121
+.1002_Cappa Galung (Cappagalung)_91122
+.1001_Kampung Baru_91121
+.1003_Lumpue_91123
+.1005_Sumpang Minangae_91121
+.1004_Tiro Sompe_91125
+73.72.03_Soreang_91131|91133
+.1007_Bukit Harapan_91131
+.1006_Bukit Indah_91131
+.1004_Kampung Pisang_91131
+.1001_Lakessi_91133
+.1002_Ujung Baru_91131
+.1005_Ujung Lare_91131
+.1003_Watang Soreang (Wattang Soreang)_91132
+73.72.02_Ujung_91111|91114
+.1001_Labukkang_91111
+.1004_Lapadde_91112
+.1005_Mallusetasi_91111
+.1003_Ujung Bulu_91113
+.1002_Ujung Sabbang_91114

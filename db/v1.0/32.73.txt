@@ -1,0 +1,181 @@
+32.73.05_Andir_40181|40184
+.1006_Campaka_40184
+.1003_Ciroyom_40182
+.1002_Dungus Cariang_40183
+.1005_Garuda_40184
+.1004_Kebon Jeruk_40181
+.1001_Maleber (Maleer)_40184
+32.73.20_Antapani (Cicadas)_40291
+.1005_Antapani Kidul_40291
+.1001_Antapani Kulon_40291
+.1004_Antapani Tengah_40291
+.1006_Antapani Wetan_40291
+32.73.24_Arcamanik_40293|40294
+.1002_Cisaranten Bina Harapan (Cisarenten Bina Harapan)_40294
+.1003_Cisaranten Kulon_40293
+.1004_Sindanglaya/Cisantre n Endah_40293
+.1001_Sukamiskin_40293
+32.73.10_Astana Anyar_40241|40243
+.1005_Cibadak_40241
+.1003_Karanganyar_40241
+.1001_Karasak_40243
+.1002_Nyengseret_40242
+.1004_Panjunan_40242
+.1006_Pelindung Hewan_40243
+32.73.03_Babakan Ciparay_40221|40227
+.1002_Babakan_40222
+.1001_Babakan Ciparay_40223
+.1006_Cirangrang_40227
+.1004_Margahayu Utara_40224
+.1005_Margasuka_40225
+.1003_Sukahaji_40221
+32.73.21_Bandung Kidul_40256|40287
+.1001_Batununggal_40266
+.1004_Kujangsari_40287
+.1003_Mengger_40267
+.1002_Wates_40256
+32.73.15_Bandung Kulon_40211|40215
+.1004_Caringin_40212
+.1002_Cibuntu_40212
+.1005_Cigondewah Kaler_40214
+.1008_Cigondewah Kidul_40214
+.1007_Cigondewah Rahayu_40215
+.1001_Cijerah_40213
+.1006_Gempolsari_40215
+.1003_Warung Muncang_40211
+32.73.09_Bandung Wetan_40114|40116
+.1001_Cihapit_40114
+.1003_Citarum_40115
+.1002_Tamansari_40116
+32.73.12_Batununggal_40271|40275
+.1008_Binong_40275
+.1003_Cibangkong_40273
+.1001_Gumuruh_40275
+.1004_Kacapiring_40271
+.1006_Kebongedang (Kebon Gedang)_40274
+.1005_Kebonwaru_40272
+.1002_Maleer_40274
+.1007_Samoja_40273
+32.73.04_Bojongloa Kaler_40231|40233
+.1004_Babakan Asih_40232
+.1002_Babakan Tarogong_40232
+.1003_Jamika_40231
+.1001_Kopo_40233
+.1005_Suka Asih_40231
+32.73.17_Bojongloa Kidul_40234|40239
+.1003_Cibaduyut_40236
+.1005_Cibaduyut Kidul_40239
+.1006_Cibaduyut Wetan_40238
+.1002_Kebon Lega_40235
+.1004_Mekarwangi_40237
+.1001_Situsaeur_40234
+32.73.22_Buahbatu_40286|40287
+.1003_Cijaura (Margasenang)_40287
+.1004_Jatisari_40286
+.1002_Margasari_40286
+.1001_Sekejati_40286
+32.73.18_Cibeunying Kaler_40122|40191
+.1004_Cigadung_40191
+.1001_Cihaur Geulis_40122
+.1003_Neglasari_40124
+.1002_Sukaluyu_40123
+32.73.14_Cibeunying Kidul_40121|40192
+.1003_Cicadas_40121
+.1002_Cikutra_40124
+.1001_Padasuka_40125
+.1006_Pasirlayung_40192
+.1004_Sukamaju_40121
+.1005_Sukapada_40125
+32.73.25_Cibiru_40614|40615
+.1002_Cipadung_40614
+.1004_Cisurupan_40614
+.1001_Palasari_40615
+.1003_Pasir Biru (Pasirbiru)_40615
+32.73.06_Cicendo_40171|40175
+.1002_Arjuna_40172
+.1001_Husen Sastranegara_40174
+.1003_Pajajaran_40173
+.1005_Pamoyanan_40173
+.1004_Pasir Kaliki_40171
+.1006_Sukaraja_40175
+32.73.08_Cidadap_40141|40143
+.1002_Ciumbuleuit_40142
+.1001_Hegarmanah_40141
+.1003_Ledeng_40143
+32.73.29_Cinambo_40296
+.1004_Babakan Penghulu_40296
+.1001_Cisaranten Wetan_40296
+.1002_Pakemitan_40296
+.1003_Sukamulya_40296
+32.73.02_Coblong_40131|40135
+.1001_Cipaganti_40131
+.1004_Dago_40135
+.1006_Lebak Siliwangi_40132
+.1002_Lebakgede (Lebak Gede)_40132
+.1003_Sadangserang (Sadang Serang)_40133
+.1005_Sekeloa_40134
+32.73.27_Gedebage_40294
+.1001_Cimenerang (Cimincrang)_40294
+.1002_Cisantren Kidul (Cisaranten Kidul)_40294
+.1003_Rancabolang (Rancabalong)_40294
+.1004_Rancanumpang_40294
+32.73.16_Kiaracondong_40281|40285
+.1003_Babakan Surabaya_40281
+.1005_Babakansari (Babakan Sari)_40283
+.1004_Cicaheum_40282
+.1006_Kebon Kangkung_40284
+.1002_Kebun Jayanti_40281
+.1001_Sukapura_40285
+32.73.13_Lengkong_40261|40265
+.1003_Burangrang_40262
+.1001_Cijagra_40265
+.1007_Cikawao_40261
+.1002_Lingkar Selatan_40263
+.1006_Malabar_40262
+.1004_Paledang_40261
+.1005_Turangga_40264
+32.73.30_Mandalajati_40195
+.1001_Jatihandap_40195
+.1002_Karang Pamulang_40195
+.1003_Pasir Impun_40195
+.1004_Sindang Jaya_40195
+32.73.28_Panyileukan_40614
+.1002_Cipadung Kidul_40614
+.1001_Cipadung Kulon_40614
+.1003_Cipadung Wetan_40614
+.1004_Mekar Mulya (Mekarmulya)_40614
+32.73.23_Rancasari_40292|40295
+.1001_Cipamokolan_40292
+.1002_Derwati (Darwati)_40292
+.1004_Mekarmulya (Mekar Mulya / Mekarjaya)_40292
+.1003_Munjahlega (Manjahlega / Cisarantenkidul)_40295
+32.73.11_Regol_40251|40255
+.1002_Ancol_40254
+.1004_Balonggede (Balong Gede)_40251
+.1006_Ciateul_40252
+.1001_Cigereleng_40253
+.1005_Ciseureuh_40255
+.1007_Pasirluyu_40254
+.1003_Pungkur_40252
+32.73.07_Sukajadi_40161|40164
+.1002_Cipedes_40162
+.1001_Pasteur_40161
+.1005_Sukabungah_40162
+.1004_Sukagalih_40163
+.1003_Sukawarna_40164
+32.73.01_Sukasari_40151|40154
+.1002_Gegerkalong (Geger Kalong)_40153
+.1003_Isola_40154
+.1004_Sarijadi_40151
+.1001_Sukarasa_40152
+32.73.19_Sumur Bandung_40111|40117
+.1004_Babakan Ciamis_40117
+.1001_Braga_40111
+.1003_Kebon Pisang_40112
+.1002_Merdeka_40113
+32.73.26_Ujungberung (Ujung Berung)_40611|40619
+.1004_Cigending_40611
+.1007_Pasanggrahan_40617
+.1003_Pasir Endah_40619
+.1006_Pasirjati_40616
+.1005_Pasirwangi_40618

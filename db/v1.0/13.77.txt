@@ -1,0 +1,75 @@
+13.77.03_Pariaman Selatan_25531|25539
+.2007_Balai Kurai Taji_25531
+.2012_Batang Tajongkek_25531
+.2016_Kampung/Kampuang Apar_25539
+.2011_Marabau_25537
+.2017_Marunggi (Marunggih)_25538
+.2019_Padang Cakur (Padang Cakua)_25537
+.2015_Palak Aneh_25539
+.2006_Pasir Sunur / Pasa Sunua (Pasia Sunua)_25538
+.2008_Pauh Kurai Taji (Pauah)_25532
+.2020_Punggung Lading (Pungguang Ladiang)_25533
+.2021_Rambai_25533
+.2013_Sikabu_25539
+.2009_Simpang (Kurai Taji)_25532
+.2014_Sungai Kasai_25537
+.2018_Taluk (Taluak)_25538
+.2010_Toboh Palabah_25536
+13.77.01_Pariaman Tengah_25511|25519
+.1009_Alai Gelombang (Alai Galombang)_25519
+.2021_Cimparuh (Cimparuah)_25511
+.1012_Jalan Baru_25515
+.1014_Jalan Kereta Api_25515
+.1016_Jati Hilir (Jalan Hilia)_25519
+.2025_Jati Mudik / Mudiak_25517
+.1010_Jawi-Jawi I_25518
+.1011_Jawi-Jawi II_25518
+.1007_Kampung Jawa I_25511
+.1008_Kampung Jawa II_25511
+.1002_Kampung Perak_25513
+.1005_Kampung Pondok_25512
+.2020_Kampung/Kampuang Baru_25514
+.1001_Karan Aur_25514
+.1003_Lohong_25513
+.1004_Pasir_25513
+.2017_Pauah/Pauh Barat_25512
+.2018_Pauah/Pauh Timur_25512
+.1006_Pondok II (Kampung Pondok II)_25512
+.2019_Rawang_25511
+.1013_Taratak_25517
+.1015_Ujung Batung (Ujuang Batuang)_25516
+13.77.04_Pariaman Timur_25516|25536
+.2008_Air Santok (Aia Santok)_25531
+.2006_Batang Kabung / Kabuang_25519
+.2007_Bato_25519
+.2012_Bungo Tanjung_25535
+.2009_Cubadak Mentawai_25516
+.2016_Kajai_25534
+.2015_Kaluat / Kaluaik (Kaluaiak)_25534
+.2003_Kampung Baru Padusunan_25524
+.2004_Kampung Gadang (Kampuang Gadang)_25523
+.2014_Kampung Kandang_25536
+.2013_Kampung Tangah_25535
+.2005_Koto Marapak_25519
+.2002_Pakasai_25524
+.2011_Sungai Pasak_25516
+.2010_Sungai Sirah_25516
+.2001_Talago Sarik (Talago Sariak)_25523
+13.77.02_Pariaman Utara_25521|25529
+.2005_Ampalu_25522
+.2006_Apar_25522
+.2016_Balai Naras/Nareh_25521
+.2008_Cubadak Air Selatan (Cubadak Aia Selatan)_25524
+.2012_Cubadak Air Utara (Cubadak Aia Utara)_25524
+.2021_Cubadak Air/Aia_25524
+.2011_Manggung (Mangguang)_25522
+.2014_Naras Hilir (Nareh Hilia)_25522
+.2015_Naras I (Nareh I)_25521
+.2017_Padang Birik-Birik (Biriak-Biriak)_25521
+.2009_Sikapak Barat_25526
+.2010_Sikapak Timur_25526
+.2018_Sintuk (Sintuak)_25521
+.2019_Sungai Rambai_25529
+.2007_Tanjung Sabar (Tanjuang Sabar)_25523
+.2013_Tungkal Selatan (Tungka Selatan)_25521
+.2020_Tungkal Utara (Tungka Utara)_25521

@@ -1,0 +1,97 @@
+21.04.13_Bakung Serumpun_29873
+.2001_Batu Belubang_29873
+.2002_Cempa_29873
+.2003_Pasir Panjang_29873
+.2006_Rejai_29873
+.2004_Tanjung Kelit_29873
+.2005_Tanjung Lipat_29873
+21.04.11_Katang Bidare_29873
+.2001_Benan_29873
+.2002_Mensanak_29873
+.2003_Pulau Bukit_29873
+.2004_Pulau Duyung_29873
+.2005_Pulau Medang_29873
+21.04.10_Kepulauan Posek_29876
+.2001_Busung Panjang_29876
+.2002_Posek_29876
+.2003_Suak Buaya_29876
+21.04.02_Lingga_29872
+.1010_Daik_29872
+.1020_Daik Sepincan_29872
+.2002_Kelombok_29872
+.2006_Kelumu_29872
+.2007_Mentuda_29872
+.2003_Mepar_29872
+.2008_Merawang_29872
+.2012_Musai_29872
+.2019_Nerekeh_29872
+.2009_Panggak Darat_29872
+.2011_Panggak Laut_29872
+.2001_Pekajang_29872
+21.04.07_Lingga Timur_29872
+.2008_Belungkur_29874
+.2001_Bukitlangkap (Bukit Langkap)_29872
+.2004_Kerandin_29872
+.2002_Keton_29872
+.2006_Kudung_29872
+.2003_Pekaka_29872
+.2005_Sungai Pinang_29872
+.2007_Teluk_29874
+21.04.05_Lingga Utara_29874
+.2001_Bukit Harapan_29874
+.2002_Duara_29874
+.2003_Limbung_29874
+.2008_Linau_29874
+.1007_Pancur_29874
+.2010_Rantau Panjang_29874
+.2004_Resun_29874
+.2012_Resun Pesisir_29874
+.2005_Sekanah_29874
+.2009_Sungaibesar (Sungai Besar)_29874
+21.04.08_Selayar_29877
+.2004_Pantai Harapan_29877
+.2002_Penuba_29877
+.2003_Penuba Timur_29877
+.2001_Selayar_29877
+21.04.03_Senayang_29873
+.2015_Baran_29873
+.2012_Laboh (Labo)_29873
+.2002_Mamut_29873
+.2013_Penaah_29873
+.1001_Senayang_29873
+21.04.01_Singkep_29871
+.2008_Batu Berdaun_29871
+.2010_Batu Kacang_29871
+.1001_Dabo_29871
+.1007_Dabo Lama_29871
+.1012_Sungailumpur_29871
+.2009_Tanjung Harapan_29871
+21.04.04_Singkep Barat_29875
+.2001_Bakong_29875
+.2015_Bukit Belah_29875
+.2009_Jagoh (Jaqoh)_29875
+.2002_Kuala Raya_29875
+.2013_Langkap_29875
+.2003_Marok Tua_29875
+.1006_Raya_29875
+.2005_Sungai Buluh_29875
+.2008_Sungai Harapan_29875
+.2007_Sungai Raya_29875
+.2014_Tanjung Irat_29875
+.2012_Tinjul_29875
+21.04.06_Singkep Pesisir_29870
+.2001_Berindat_29870
+.2004_Kote (Kota)_29870
+.2003_Lanjut_29870
+.2006_Pelakak_29870
+.2005_Persing_29870
+.2002_Sedamai_29870
+21.04.09_Singkep Selatan_29878
+.1004_Berlian_29878
+.2001_Marok Kecil_29878
+.2002_Pulau Lalang (Berhala)_29878
+.2003_Resang_29878
+21.04.12_Temiang Pesisir_29873
+.2003_Pulau Batang_29873
+.2002_Tajur Biru_29873
+.2001_Temiang_29873

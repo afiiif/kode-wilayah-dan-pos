@@ -1,0 +1,74 @@
+32.71.04_Bogor Barat_16111|16119
+.1005_Balumbang Jaya (Balungbang Jaya)_16116
+.1003_Bubulak_16115
+.1008_Cilendek Barat_16112
+.1009_Cilendek Timur_16112
+.1011_Curug_16113
+.1010_Curug Mekar_16113
+.1015_Gunung Batu (Gunungbatu)_16118
+.1016_Loji_16117
+.1004_Margajaya_16116
+.1001_Menteng_16111
+.1012_Pasir Jaya_16119
+.1013_Pasir Kuda_16119
+.1014_Pasir Mulya_16118
+.1007_Semplak_16114
+.1002_Sindang Barang (Sindangbarang)_16117
+.1006_Situ Gede_16115
+32.71.01_Bogor Selatan_16131|16139
+.1001_Batu Tulis (Batutulis)_16133
+.1009_Bojongkerta_16139
+.1002_Bondongan_16131
+.1008_Cikaret_16132
+.1016_Cipaku_16133
+.1003_Empang_16132
+.1014_Genteng_16137
+.1012_Harjasari_16138
+.1011_Kertamaya_16138
+.1004_Lawanggintung (Lawang Gintung)_16134
+.1013_Muarasari_16137
+.1007_Mulyaharja_16135
+.1015_Pakuan_16134
+.1005_Pamoyanan_16136
+.1010_Rancamaya_16139
+.1006_Ranggamekar_16136
+32.71.03_Bogor Tengah_16121|16129
+.1005_Babakan_16128
+.1008_Babakan Pasar_16126
+.1004_Cibogor_16124
+.1010_Ciwaringin_16124
+.1001_Gudang_16123
+.1011_Kebon Kalapa (Kebon Kelapa)_16125
+.1003_Pabaton_16121
+.1002_Paledang_16122
+.1009_Panaragan_16125
+.1006_Sempur_16129
+.1007_Tegallega (Tegal Panjang)_16129
+32.71.02_Bogor Timur_16141|16146
+.1002_Baranangsiang_16143
+.1003_Katulampa_16144
+.1005_Sindangrasa_16145
+.1004_Sindangsari_16146
+.1001_Sukasari_16142
+.1006_Tajur_16141
+32.71.05_Bogor Utara_16151|16158
+.1001_Bantarjati_16153
+.1005_Cibuluh_16151
+.1006_Ciluar_16156
+.1008_Cimahpar_16155
+.1004_Ciparigi_16157
+.1003_Kedung Halang (Kedunghalang)_16158
+.1007_Tanah Baru_16154
+.1002_Tegal Gundil_16152
+32.71.06_Tanah Sareal (Tanah Sereal)_16161|16169
+.1011_Cibadak_16166
+.1010_Kayu Manis (Kayumanis)_16169
+.1002_Kebon Pedes_16162
+.1003_Kedung Badak_16164
+.1006_Kedung Jaya_16164
+.1005_Kedung Waringin_16164
+.1009_Kencana_16167
+.1008_Mekar Wangi (Mekarwangi)_16168
+.1007_Sukadamai_16165
+.1004_Sukaresmi_16165
+.1001_Tanah Sareal_16161

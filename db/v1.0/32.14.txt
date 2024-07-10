@@ -1,0 +1,209 @@
+32.14.12_Babakancikao_41151
+.2004_Babakancikao_41151
+.2002_Cicadas_41151
+.2009_Cigelam_41151
+.2001_Cilangkap_41151
+.2007_Ciwareng_41151
+.2003_Hegarmanah_41151
+.2005_Kadumekar_41151
+.2006_Marancang (Maracang)_41151
+.2008_Mulyamekar_41151
+32.14.11_Bojong_41164
+.2001_Bojong Barat_41164
+.2002_Bojong Timur_41164
+.2007_Cibingbin_41164
+.2004_Cihanjawar_41164
+.2003_Cikeris_41164
+.2006_Cileunca_41164
+.2005_Cipeundeuy_41164
+.2008_Kertasari_41164
+.2009_Pangkalan_41164
+.2014_Pasanggrahan_41164
+.2010_Pawenang_41164
+.2012_Sindangpanon_41164
+.2013_Sindangsari_41164
+.2011_Sukamanah_41164
+32.14.13_Bungursari_41181
+.2003_Bungursari_41181
+.2002_Cibening_41181
+.2009_Cibodas_41181
+.2005_Cibungur_41181
+.2008_Cikopo_41181
+.2007_Cinangka_41181
+.2001_Ciwangi_41181
+.2004_Dangdeur_41181
+.2010_Karangmukti_41181
+.2006_Wanakerta_41181
+32.14.02_Campaka_41180
+.2003_Benteng_41180
+.2001_Campaka_41180
+.2002_Campakasari_41180
+.2006_Cijaya_41180
+.2009_Cijunti_41180
+.2005_Cikumpay_41180
+.2008_Cimahi_41180
+.2004_Cirende_41180
+.2010_Cisaat_41180
+.2007_Kertamukti_41180
+32.14.14_Cibatu_41182
+.2001_Cibatu_41182
+.2008_Cibukamanah_41182
+.2007_Cikadu_41182
+.2002_Cilandak_41182
+.2010_Cipancur_41182
+.2005_Ciparungsari_41182
+.2004_Cipinang_41182
+.2006_Cirangkong_41182
+.2003_Karyamekar_41182
+.2009_Wanawali_41182
+32.14.06_Darangdan_41163
+.2003_Cilingga_41163
+.2001_Darangdan_41163
+.2002_Depok_41163
+.2009_Gununghejo_41163
+.2011_Legoksari_41163
+.2008_Linggamukti_41163
+.2006_Linggarsari (Linggasari)_41163
+.2005_Mekarsari_41163
+.2015_Nagrak_41163
+.2004_Nangewer_41163
+.2014_Neglasari_41163
+.2010_Pasirangin_41163
+.2013_Sadarkarya_41163
+.2007_Sawit_41163
+.2012_Sirnamanah_41163
+32.14.03_Jatiluhur_41152|41161
+.2007_Bunder_41161
+.2006_Cibinong_41152
+.2001_Cikaobandung_41152
+.2004_Cilegong_41152
+.2009_Cisalada_41152
+.2003_Jatiluhur_41152
+.2002_Jatimekar_41152
+.2005_Kembangkuning_41152
+.2008_Mekargalih_41152
+.2010_Parakanlima_41152
+32.14.17_Kiarapedes_41175
+.2008_Cibeber_41175
+.2002_Ciracas_41175
+.2007_Gardu_41175
+.2001_Karangpedas (Kiarapedes)_41175
+.2006_Margaluyu_41175
+.2005_Mekarjaya_41175
+.2003_Parakangarokgek (Parakan Garokgek)_41175
+.2009_Pusakamulya_41175
+.2010_Sumbersari_41175
+.2004_Taringgullandeuh (Taringgul Landeuh)_41175
+32.14.07_Maniis_41166
+.2005_Cijati_41166
+.2006_Ciramahilir_41166
+.2002_Citamiang_41166
+.2001_Gunungkarung_41166
+.2008_Pasirjambu_41166
+.2003_Sinargalih_41166
+.2007_Sukamukti_41166
+.2004_Tegaldatar_41166
+32.14.10_Pasawahan_41171|41172
+.2005_Cidahu_41172
+.2004_Ciherang_41172
+.2012_Cihuni_41172
+.2007_Kertajaya_41172
+.2008_Lebakanyar (Lebak Anyar)_41172
+.2010_Margasari_41171
+.2002_Pasawahan_41172
+.2001_Pasawahananyar_41172
+.2006_Pasawahankidul (Pasawahan Kidul)_41172
+.2003_Sawahkulon (Sawah Kulon)_41172
+.2009_Selaawi_41172
+.2011_Warungkadu (Warung Kadu)_41172
+32.14.04_Plered_41162
+.2009_Anjun_41162
+.2011_Babakansari_41162
+.2016_Cibogo Girang (Cibogogirang)_41162
+.2003_Cibogohilir_41162
+.2006_Citeko_41162
+.2013_Citekokaler (Citeko Kaler)_41162
+.2012_Gandamekar_41162
+.2005_Gandasoli_41162
+.2004_Linggasari (Linggarsari)_41162
+.2007_Liunggunung_41162
+.2002_Palinggihan_41162
+.2014_Pamoyanan_41162
+.2001_Plered_41162
+.2008_Rawasari_41162
+.2015_Sempur_41162
+.2010_Sindangsari_41162
+32.14.16_Pondoksalam_41115
+.2008_Bungurjaya_41115
+.2004_Galudra_41115
+.2009_Gurudug_41115
+.2001_Parakansalam_41115
+.2002_Pondokbungur_41115
+.2007_Salamjaya_41115
+.2006_Salammulya_41115
+.2003_Salem_41115
+.2011_Situ_41115
+.2010_Sukajadi_41115
+.2005_Tanjungsari (Tanjung Sari)_41115
+32.14.01_Purwakarta_41111|41119
+.1005_Cipaisan_41113
+.1007_Ciseureuh_41118
+.2010_Citalang_41111
+.1009_Munjuljaya_41117
+.1002_Nagri Kaler (Nagrikaler)_41115
+.1001_Nagri Kidul (Nagrikidul)_41111
+.1003_Nagri Tengah (Nagritengah)_41114
+.1006_Purwamekar_41119
+.1004_Sindangkasih_41112
+.1008_Tegalmuncul (Tegalmunjul)_41116
+32.14.15_Sukasari_41116
+.2003_Ciririp_41116
+.2002_Kertamanah_41116
+.2001_Kutamanah_41116
+.2005_Parungbanteng_41116
+.2004_Sukasari_41116
+32.14.05_Sukatani_41167
+.2007_Cianting_41167
+.2006_Cianting Utara_41167
+.2010_Cibodas_41167
+.2011_Cijantung_41167
+.2003_Cilalawi_41167
+.2005_Cipicung_41167
+.2002_Malangnengah_41167
+.2013_Panyindangan_41167
+.2008_Pasirmunjul_41167
+.2014_Sindanglaya_41167
+.2012_Sukajaya_41167
+.2004_Sukamaju_41167
+.2001_Sukatani_41167
+.2009_Tajursindang_41167
+32.14.08_Tegalwaru (Tegal Waru)_41165
+.2001_Batutumpang_41165
+.2010_Cadasmekar_41165
+.2009_Cadassari_41165
+.2011_Cisarua_41165
+.2002_Citalang_41165
+.2006_Galumpit_41165
+.2008_Karoya_41165
+.2013_Pasanggrahan_41165
+.2007_Sukahaji_41165
+.2012_Sukamulya_41165
+.2004_Tegalsari_41165
+.2003_Tegalwaru_41165
+.2005_Warungjeruk_41165
+32.14.09_Wanayasa_41174
+.2007_Babakan_41174
+.2009_Ciawi_41174
+.2006_Cibuntu_41174
+.2014_Legokhuni_41174
+.2005_Nagrog_41174
+.2008_Nangerang_41174
+.2011_Raharja_41174
+.2012_Sakambang_41174
+.2004_Simpang_41174
+.2002_Sukadami_41174
+.2010_Sumurugul_41174
+.2015_Taringgul Tengah_41174
+.2013_Taringgul Tonggoh_41174
+.2003_Wanasari_41174
+.2001_Wanayasa_41174

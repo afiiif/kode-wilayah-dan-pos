@@ -1,0 +1,208 @@
+14.02.07_Batang Cenaku_29355
+.2018_Alim_29355
+.2002_Anak Talang_29355
+.2019_Aur Cina_29355
+.2022_Batu Papan_29355
+.2004_Bukit Lingkar_29355
+.2005_Bukit Lipai_29355
+.2017_Cenaku Kecil_29355
+.2021_Kepayang Sari_29355
+.2008_Kerubung Jaya_29355
+.2006_Kuala Gading_29355
+.2007_Kuala Kilan_29355
+.2020_Lahai Kemuning_29355
+.2015_Pataling/Petaling Jaya_29355
+.2009_Pejangki_29355
+.2010_Pematang Manggis_29355
+.2014_Punti Anai_29355
+.2023_Sanglap_29355
+.2011_Sipang_29355
+.2012_Talang Bersemi_29355
+.2013_Talang Mulia/Mulya_29355
+14.02.08_Batang Gangsal (Batang Gansal)_29356
+.2007_Belimbing_29356
+.2011_Danau Rambai_29356
+.2010_Penyaguan_29356
+.2002_Rantau Langsat_29356
+.2008_Ringin_29356
+.2005_Seberida_29356
+.2001_Siambul_29356
+.2003_Sungai Akar_29356
+.2006_Talang Lakat_29356
+.2004_Usul_29356
+14.02.14_Batang Peranap_29354
+.2010_Koto Tuo_29354
+.2009_Peladangan_29354
+.2003_Pematang_29354
+.2006_Pematang Benteng_29354
+.2001_Pesajian_29354
+.2002_Punti/Panti Kayu_29354
+.2004_Selunak_29354
+.2007_Sencano Jaya_29354
+.2005_Suka Maju (Sukamaju)_29354
+.2008_Sungai Aur_29354
+14.02.03_Kelayang_29352
+.2021_Bongkal Malang_29352
+.2030_Bukit Selanjut_29352
+.2022_Dusun Tua_29352
+.2031_Dusun Tua Pelang_29352
+.2008_Kota Medan_29352
+.2028_Pasir Beringin_29352
+.2018_Pelangko_29352
+.2010_Polak Pisang_29352
+.2007_Pulau Sengkilo_29352
+.2026_Sei/Sungai Pasir Putih_29352
+.1019_Simpang Kelayang_29352
+.2009_Simpang Kota Medan_29352
+.2024_Sungai Banyak Ikan_29352
+.2027_Sungai Golang_29352
+.2029_Sungai Kuning Binio (Sungai Kuning Benio)_29352
+.2025_Tanjung Beludu_29352
+.2020_Teluk Sejuah_29352
+14.02.10_Kuala Cenaku_29335
+.2002_Kuala Cenaku_29335
+.2004_Kuala Mulia_29335
+.2003_Pulau Gelang_29335
+.2010_Pulau Jum'at (Pulau Jumat)_29335
+.2007_Rawa Asri_29335
+.2006_Rawa Sekip_29335
+.2008_Suka Jadi_29335
+.2001_Tambak_29335
+.2005_Tanjung Sari_29335
+.2009_Teluk Sungkai_29335
+14.02.09_Lirik_29353
+.2013_Banjar Balam_29353
+.2004_Gudang Batu_29353
+.2001_Japura_29353
+.2010_Lambang Sari I, II, III_29353
+.2009_Lambang Sari IV_29353
+.2008_Lambang Sari V_29353
+.2006_Lirik Area_29353
+.2016_Mekar Sari_29353
+.2003_Pasir Ringgit_29353
+.2017_Pasir Sialang Jaya_29353
+.2014_Redang Seko_29353
+.2007_Rejosari_29353
+.2012_Seko Lubuk Tigo_29353
+.2002_Sidomulyo_29353
+.2015_Sukajadi_29353
+.2005_Sungai Sagu_29353
+.2011_Wonosari_29353
+14.02.12_Lubuk Batu Jaya_29350
+.2009_Air Putih_29350
+.2005_Kulim Jaya_29350
+.2003_Lubuk Batu Tinggal_29350
+.2002_Pondok Gelugur_29350
+.2008_Pontian Mekar_29350
+.2001_Rimpian_29350
+.2004_Sei Beberas Hilir (Sei Beras Hilir)_29350
+.2006_Sei Beras-Beras_29350
+.2007_Tasik Juang_29350
+14.02.04_Pasir Penyu_29358
+.1007_Air Molek (Air Molek I)_29358
+.2008_Air Molek II_29358
+.2017_Batu Gajah_29358
+.2018_Candi Rejo_29358
+.2016_Jati Rejo (Jatirejo)_29358
+.1020_Kembang Harum Beras Hilir (Kembang Harum)_29358
+.2019_Lembah Dusun Gading_29358
+.2009_Pasir Keranji_29358
+.2006_Petalongan_29358
+.1032_Sekar Mawar_29358
+.2030_Serumpun Jaya_29358
+.1033_Tanah Merah_29358
+.1031_Tanjung Gading_29358
+14.02.05_Peranap_29357
+.2019_Batu Rijal Barat_29357
+.1008_Baturijal Hilir_29357
+.2007_Baturijal Hulu_29357
+.2004_Gumanti_29357
+.2017_Katipo Pura (Ketipopura)_29357
+.2013_Pandan Wangi_29357
+.2010_Pauh Ranap (Pauh Peranap)_29357
+.1005_Peranap_29357
+.2009_Semelinang Darat (Semilinang Darat)_29357
+.2003_Semelinang Tebing_29357
+.2012_Serai Wangi_29357
+.2020_Setako Jaya (Raya)_29357
+14.02.13_Rakit Kulim_29359
+.2012_Batu Sawar_29359
+.2015_Bukit Indah_29359
+.2018_Kampung Bunga (Kampung Bungo)_29359
+.2008_Kelayang_29359
+.2006_Kota Baru_29359
+.2005_Kuantan Tenang_29359
+.2014_Lubuk Sitarak_29359
+.2013_Petonggan_29359
+.2007_Rimba Seminai_29359
+.2001_Talang 7 Buah Tangga (Talang Tujuh Buah Tangga)_29359
+.2002_Talang Durian Cacar_29359
+.2009_Talang Gedabu_29359
+.2004_Talang Perigi (Talang Parigi)_29359
+.2019_Talang Pring Jaya_29359
+.2016_Talang Sei/Sungai Elok_29359
+.2010_Talang Sei/Sungai Limau_29359
+.2017_Talang Sei/Sungai Maju_29359
+.2011_Talang Sei/Sungai Parit_29359
+.2003_Talang Selantai_29359
+14.02.01_Rengat_29311|29319
+.1007_Kampung Besar Kota_29312
+.1011_Kampung Besar Seberang_29312
+.1004_Kampung Dagang_29313
+.2005_Kampung Pulau_29314
+.2003_Kuantan Baru_29314
+.1006_Pasar Kota (Pasar Kota Rengat)_29311
+.2010_Pasir Kemilu_29316
+.2013_Pulau Gajah_29313
+.2012_Rantau Mapesai_29319
+.2023_Rawa Bangun_29319
+.2002_Sei/Sungai Guntung Hilir_29319
+.2001_Sei/Sungai Guntung Tengah_29319
+.1018_Sekip Hilir Jumat (Sekip Hilir)_29318
+.1008_Sekip Hulu_29319
+.2009_Sungai Beringin_29317
+.2014_Sungai Raya_29319
+14.02.02_Rengat Barat_29345|29351
+.2018_Air Jernih_29351
+.2002_Alang Kepayang_29351
+.2001_Barangan_29351
+.2011_Bukit Petaling_29351
+.2013_Danau Baru_29351
+.2017_Danau Tiga_29351
+.2003_Kota Lama_29351
+.2005_Pekan Heran_29351
+.2012_Pematang Jaya_29351
+.1009_Pematang Reba_29351
+.2006_Rantau Bakung_29345
+.2004_Redang_29351
+.2008_Sialang Dua Dahan_29344
+.2016_Sungai Baung_29351
+.2010_Sungai Dawu_29351
+.2007_Talang Jerinjing_29351
+.2014_Tanah Datar_29351
+.2015_Tani Makmur (Tanah Makmur)_29351
+14.02.06_Siberida (Seberida)_29371
+.2011_Bandar Padang_29371
+.2003_Beligan_29371
+.2006_Bukit Meranti_29371
+.2007_Buluh Rampai_29371
+.2002_Kelesa_29371
+.1001_Pangkalan Kasai_29371
+.2005_Paya Rumbai (Payarumbai)_29371
+.2009_Petala Bumi_29371
+.2004_Seresam (Serasam)_29371
+.2010_Sibabat_29371
+.2008_Titian Resak_29371
+14.02.11_Sungai Lala_29363
+.2008_Kelawat_29363
+.2006_Kuala Lala_29363
+.2001_Morong_29363
+.2004_Pasir Batu Mandi_29363
+.2002_Pasir Bongkal_29363
+.2005_Pasir Kelampaian_29363
+.2003_Pasir Selabu (Pasir Selabau)_29363
+.2010_Perkebunan Sei/Sungai Lala_29363
+.2009_Perkebunan Sei/Sungai Parit_29363
+.2012_Sungai Air Putih_29363
+.2007_Sungai Lala_29363
+.2011_Tanjung Danau_29363

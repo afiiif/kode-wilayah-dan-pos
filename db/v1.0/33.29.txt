@@ -1,0 +1,314 @@
+33.29.17_Banjarharjo_52265
+.2001_Bandungsari_52265
+.2003_Banjarharjo_52265
+.2002_Banjarlor (Banjar Lor)_52265
+.2004_Blandongan_52265
+.2005_Ciawi_52265
+.2006_Cibendung_52265
+.2007_Cibuniwangi_52265
+.2008_Cigadung_52265
+.2009_Cihaur_52265
+.2010_Cikakak_52265
+.2011_Cikuya_52265
+.2012_Cimunding_52265
+.2013_Cipajang_52265
+.2014_Dukuhjeruk_52265
+.2015_Karangmaja_52265
+.2016_Kertasari_52265
+.2017_Kubangjero_52265
+.2018_Malahayu_52265
+.2019_Parereja (Parireja)_52265
+.2020_Penanggapan_52265
+.2021_Pende_52265
+.2022_Sindangheula_52265
+.2023_Sukareja_52265
+.2024_Tegalreja_52265
+.2025_Tiwulandu_52265
+33.29.02_Bantarkawung_52274
+.2001_Bangbayang_52274
+.2002_Banjarsari_52274
+.2003_Bantarkawung_52274
+.2004_Bantarwaru_52274
+.2005_Cibentang_52274
+.2006_Cinanas_52274
+.2007_Ciomas_52274
+.2008_Jipang_52274
+.2009_Karangpari_52274
+.2010_Kebandungan_52274
+.2011_Legok_52274
+.2012_Pangebatan_52274
+.2013_Pengarasan_52274
+.2014_Sindangwangi_52274
+.2015_Tambakserang_52274
+.2017_Telaga_52274
+.2016_Terlaya_52274
+.2018_Waru_52274
+33.29.09_Brebes_52211|52219
+.2001_Banjaranyar_52216
+.1002_Brebes_52212
+.1003_Gandasuli_52215
+.2004_Kaligangsa Kulon_52217
+.2005_Kaligangsa Wetan_52217
+.2006_Kalimati_52219
+.2007_Kaliwlingi_52219
+.2008_Kedunguter_52219
+.2009_Krasak_52219
+.2010_Lembarawa_52219
+.1011_Limbangan Kulon_52219
+.1012_Limbangan Wetan_52218
+.2013_Padasugih_52214
+.2014_Pagejugan_52219
+.1015_Pasarbatang (Pasar Batang)_52211
+.2016_Pemaron_52219
+.2017_Pulosari_52213
+.2018_Randusanga Kulon_52219
+.2019_Randusanga Wetan_52219
+.2020_Sigambir_52219
+.2021_Tengki_52219
+.2022_Terlangu_52219
+.2023_Wangandalem_52214
+33.29.14_Bulakamba_52253
+.2001_Bangsri_52253
+.2002_Banjaratma_52253
+.2003_Bulakamba_52253
+.2004_Bulakparen_52253
+.2005_Bulusari_52253
+.2006_Cimohong_52253
+.2007_Cipelem_52253
+.2008_Dukuhlo_52253
+.2009_Grinting_52253
+.2010_Jubang_52253
+.2011_Karangsari_52253
+.2012_Kluwut_52253
+.2013_Luwungragi_52253
+.2014_Pakijangan_52253
+.2015_Petunjungan_52253
+.2016_Pulogading_52253
+.2017_Rancawuluh_52253
+.2018_Siwuluh_52253
+.2019_Tegalglagah_52253
+33.29.03_Bumiayu_52273
+.2001_Adisana_52273
+.2002_Bumiayu_52273
+.2003_Dukuhturi_52273
+.2004_Jatisawit_52273
+.2005_Kalierang_52273
+.2006_Kalilangkap_52273
+.2007_Kalinusu_52273
+.2008_Kalisumur_52273
+.2009_Kaliwadas_52273
+.2010_Langkap_52273
+.2011_Laren_52273
+.2012_Negaradaha_52273
+.2013_Pamijen_52273
+.2014_Penggarutan (Panggarutan)_52273
+.2015_Pruwatan_52273
+33.29.07_Jatibarang_52261
+.2001_Bojong_52261
+.2002_Buaran_52261
+.2003_Janegara_52261
+.2004_Jatibarang Kidul_52261
+.2005_Jatibarang Lor_52261
+.2006_Kalialang_52261
+.2007_Kalipucang_52261
+.2008_Karanglo_52261
+.2009_Kebogadung_52261
+.2010_Kebonagung_52261
+.2011_Kedungtukang_52261
+.2012_Kemiriamba_52261
+.2013_Kendawa_52261
+.2014_Kertasinduyasa_52261
+.2015_Klampis_52261
+.2016_Klikiran_52261
+.2017_Kramat_52261
+.2018_Pamengger_52261
+.2019_Pedeslohor_52261
+.2020_Rengasbandung_52261
+.2021_Tegalwulung_52261
+.2022_Tembelang_52261
+33.29.11_Kersana_52264
+.2001_Ciampel_52264
+.2002_Cigedog_52264
+.2003_Cikandang_52264
+.2004_Jagapura_52264
+.2005_Kemukten_52264
+.2007_Kersana_52264
+.2006_Kradenan_52264
+.2008_Kramatsampang_52264
+.2009_Kubangpari_52264
+.2010_Limbangan_52264
+.2011_Pende_52264
+.2012_Sindangjaya_52264
+.2013_Sutamaja_52264
+33.29.16_Ketanggungan_52263
+.2001_Baros_52263
+.2002_Buara_52263
+.2003_Bulakelor_52263
+.2004_Ciduwet_52263
+.2005_Cikeusal Kidul_52263
+.2006_Cikeusal Lor_52263
+.2007_Ciseureuh_52263
+.2008_Dukuhbadag_52263
+.2009_Dukuhtengah (Dukuh Tengah)_52263
+.2020_Dukuhturi_52263
+.2010_Jemasih_52263
+.2011_Karangbandung_52263
+.2019_Karangmalang_52263
+.2012_Ketanggungan_52263
+.2013_Kubangjati_52263
+.2015_Kubangsari_52263
+.2014_Kubangwungu_52263
+.2021_Padakaton_52263
+.2016_Pamedaran_52263
+.2017_Sindangjaya_52263
+.2018_Tanggungsari_52263
+33.29.15_Larangan_52262
+.2001_Kamal_52262
+.2002_Karangbale_52262
+.2003_Kedungbokor_52262
+.2004_Larangan_52262
+.2005_Luwunggede_52262
+.2006_Pamulihan_52262
+.2007_Rengaspendawa_52262
+.2011_Siandong_52262
+.2008_Sitanggal_52262
+.2009_Slatri_52262
+.2010_Wlahar_52262
+33.29.12_Losari_52255
+.2001_Babakan_52255
+.2002_Blubuk_52255
+.2003_Bojongsari_52255
+.2004_Dukuhsalam_52255
+.2005_Jatisawit (Jati Sawit)_52255
+.2006_Kalibuntu_52255
+.2007_Karangdempel_52255
+.2008_Karangjunti_52255
+.2009_Karangsambung_52255
+.2010_Kecipir_52255
+.2011_Kedungneng_52255
+.2012_Limbangan_52255
+.2013_Losari Kidul_52255
+.2014_Losari Lor_52255
+.2015_Negla_52255
+.2016_Pekauman_52255
+.2017_Pengabean_52255
+.2018_Prapag Kidul_52255
+.2019_Prapag Lor_52255
+.2020_Randegan (Radegan)_52255
+.2021_Randusari_52255
+.2022_Rungkang_52255
+33.29.04_Paguyangan_52276
+.2001_Cilibur_52276
+.2002_Cipetung_52276
+.2003_Kedungoleng_52276
+.2004_Kretek_52276
+.2005_Pagojengan_52276
+.2006_Paguyangan_52276
+.2007_Pakujati_52276
+.2008_Pandansari_52276
+.2009_Ragatunjung_52276
+.2010_Taraban_52276
+.2011_Wanatirta_52276
+.2012_Winduaji_52276
+33.29.01_Salem_52275
+.2001_Banjaran_52275
+.2002_Bentar_52275
+.2003_Bentarsari_52275
+.2004_Capar_52275
+.2005_Ciputih_52275
+.2006_Citimbang_52275
+.2008_Gandoang_52275
+.2007_Ganggawang_52275
+.2009_Gunungjaya (Gunung Jaya)_52275
+.2010_Gununglarang (Gunung Larang)_52275
+.2011_Gunungsugih (Gunung Sugih)_52275
+.2012_Gunungtajem (Gunung Tajem)_52275
+.2013_Indrajaya_52275
+.2014_Kadumanis_52275
+.2015_Pabuaran_52275
+.2016_Pasirpanjang (Pasir Panjang)_52275
+.2017_Salem_52275
+.2018_Tembongraja_52275
+.2019_Wanoja_52275
+.2020_Winduasri_52275
+.2021_Windusakti_52275
+33.29.05_Sirampog_52272
+.2001_Batursari_52272
+.2002_Benda_52272
+.2003_Buniwah_52272
+.2004_Dawuhan_52272
+.2005_Igirklanceng_52272
+.2006_Kaligiri_52272
+.2007_Kaliloka_52272
+.2008_Manggis_52272
+.2009_Mendala_52272
+.2010_Mlayang_52272
+.2012_Plompong_52272
+.2011_Sridadi_52272
+.2013_Wanareja_52272
+33.29.10_Songgom_52266
+.2001_Cenang_52266
+.2002_Dukuhmaja_52266
+.2008_Gegerkunci_52266
+.2009_Jatimakmur_52266
+.2003_Jatirokeh_52266
+.2004_Karangsembung_52266
+.2005_Songgom_52266
+.2010_Songgom Lor_52266
+.2006_Wanacala_52266
+.2007_Wanatawang_52266
+33.29.13_Tanjung_52254
+.2001_Karangreja_52254
+.2002_Kedawung_52254
+.2003_Kemurang Kulon_52254
+.2004_Kemurang Wetan_52254
+.2005_Krakahan_52254
+.2006_Kupangputat (Kubangputat)_52254
+.2008_Lemahabang (Lemah Abang)_52254
+.2009_Luwungbata_52254
+.2007_Luwunggede (Luwung Gede)_52254
+.2010_Mundu_52254
+.2011_Pejagan_52254
+.2012_Pengaradan_52254
+.2013_Sarireja_52254
+.2014_Sengon_52254
+.2015_Sidakaton_52254
+.2016_Tanjung_52254
+.2017_Tegongan_52254
+.2018_Tengguli_52254
+33.29.06_Tonjong_52271
+.2001_Galuhtimur (Galuh Timur)_52271
+.2002_Kalijurang_52271
+.2003_Karangjongkeng_52271
+.2004_Kutamendala_52271
+.2005_Kutayu_52271
+.2006_Linggapura_52271
+.2007_Negarayu_52271
+.2008_Pepedan_52271
+.2009_Purbayasa_52271
+.2011_Purwodadi_52271
+.2010_Rajawetan_52271
+.2012_Tanggeran_52271
+.2013_Tonjong_52271
+.2014_Watujaya_52271
+33.29.08_Wanasari_52221|52252
+.2002_Dukuhwringin_52252
+.2003_Dumeling_52252
+.2001_Glonggong_52252
+.2004_Jagalempeni_52252
+.2005_Keboledan_52252
+.2006_Kertabesuki_52252
+.2007_Klampok_52252
+.2008_Kupu_52252
+.2009_Lengkong_52252
+.2010_Pebatan_52222
+.2011_Pesantunan_52221
+.2012_Sawojajar_52252
+.2013_Siasem_52252
+.2014_Sidamulya_52252
+.2015_Sigentong_52252
+.2016_Sisalam_52252
+.2017_Siwungkuk_52252
+.2018_Tanjungsari_52252
+.2019_Tegalgandu_52252
+.2020_Wanasari_52252

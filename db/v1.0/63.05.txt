@@ -1,0 +1,147 @@
+63.05.07_Bakarangan_71152
+.2002_Bakarangan_71152
+.2006_Bundung_71152
+.2005_Gadung_71152
+.2009_Gadung Keramat (Gadung Karamat)_71152
+.2011_Ketapang_71152
+.2010_Masta_71152
+.2003_Parigi_71152
+.2001_Parigi Kecil_71152
+.2004_Paul_71152
+.2007_Tangkawang_71152
+.2012_Tangkawang Baru_71152
+.2008_Waringin_71152
+63.05.01_Binuang_71183
+.2006_A Yani Pura_71183
+.1001_Binuang_71183
+.2009_Gunungbatu (Gunung Batu)_71183
+.1017_Karang Putih_71183
+.2019_Mekarsari_71183
+.2016_Padang Sari_71183
+.2008_Pualam Sari_71183
+.2007_Pulaupinang (Pulau Pinang)_71183
+.2012_Pulaupinang Utara (Pulau Pinang Utara)_71183
+.1018_Raya Belanti_71183
+.2003_Tungkap_71183
+63.05.09_Bungur_71153
+.2002_Banua Padang_71153
+.2004_Banua Padang Hilir_71153
+.2003_Bungur_71153
+.2009_Bungur Baru_71153
+.2006_Hangui_71153
+.2001_Kalumpang_71153
+.2012_Linuh_71153
+.2011_Paring Guling_71153
+.2008_Purut_71153
+.2007_Rantau Bujur_71153
+.2005_Shabah_71153
+.2010_Timbung_71153
+63.05.05_Candi Laras Selatan_71162
+.2003_Baringin A_71162
+.2008_Baringin B_71162
+.2011_Baulin_71162
+.2002_Candi Laras_71162
+.2004_Marampiau_71162
+.2009_Marampiau Hilir_71162
+.2001_Margasari Hulu (Margasari Ulu)_71162
+.2005_Pabaungan Hilir_71162
+.2006_Pabaungan Hulu_71162
+.2012_Pabaungan Pantai_71162
+.2007_Sei/Sungai Rutas_71162
+.2010_Sei/Sungai Rutas Hulu_71162
+63.05.06_Candi Laras Utara_71171
+.2005_Batalas_71171
+.2007_Buas Buas_71171
+.2012_Buas Buas Hilir_71171
+.2001_Keladan (Kaladan)_71171
+.2004_Margasari Hilir (Margasari Ilir)_71171
+.2003_Pariok_71171
+.2006_Rawana_71171
+.2013_Rawana Hulu_71171
+.2010_Sawaja_71171
+.2009_Sei/Sungai Puting_71171
+.2002_Sungai Selai (Sei / Sungai Salai)_71171
+.2011_Sungai Selai Hilir (Sei / Sungai Salai Hilir)_71171
+.2008_Teluk Haur_71171
+63.05.12_Hatungun_71184
+.2007_Asam Randah_71184
+.2008_Bagak_71184
+.2005_Batu Hapu_71184
+.2004_Burakai_71184
+.2003_Hatungun_71184
+.2006_Kambang Kuning_71184
+.2002_Matang Batas_71184
+.2001_Tarungin_71184
+63.05.10_Lokpaikat_71154
+.2009_Ayunan Papan_71154
+.2004_Bataratat_71154
+.2001_Binderang_71154
+.1007_Bitahan_71154
+.2005_Bitahan Baru_71154
+.2008_Budi Mulya_71154
+.2003_Lokpaikat_71154
+.2002_Parandakan_71154
+.2006_Puncak Harapan_71154
+63.05.08_Piani_71191
+.2006_Balawaian_71191
+.2007_Baramban_71191
+.2003_Batu Ampar_71191
+.2005_Batung_71191
+.2008_Buniin Jaya (Buni In Jaya)_71191
+.2004_Harakit_71191
+.2002_Miawa_71191
+.2001_Pipitak Jaya_71191
+63.05.11_Salam Babaris_71185
+.2006_Kambang Habang Baru_71185
+.2003_Kambang Habang Lama_71185
+.2004_Pantai Cabe_71185
+.2001_Salam Babaris_71185
+.2005_Suato Baru_71185
+.2002_Suato Lama_71185
+63.05.02_Tapin Selatan_71181
+.2011_Cempaka_71181
+.2012_Harapan Masa_71181
+.2017_Hatiwin_71181
+.2006_Lawahan_71181
+.2009_Rumintin_71181
+.2005_Sawang_71181
+.2002_Suato Tatakan_71181
+.1004_Tambarangan_71181
+.2016_Tandui_71181
+.2001_Tatakan_71181
+.2007_Timbaan_71181
+63.05.03_Tapin Tengah_71161
+.2010_Andhika_71161
+.2014_Batang Lantik_71161
+.2009_Hiyung_71161
+.2013_Kepayang_71161
+.2002_Labung_71161
+.2003_Mandurian_71161
+.2015_Mandurian Hilir_71161
+.2007_Pandahan_71161
+.2001_Pandulangan_71161
+.2017_Papagan Makmur_71161
+.2006_Pematang Karangan_71161
+.2008_Pematang Karangan Hilir_71161
+.2005_Pematang Karangan Hulu_71161
+.2016_Sei/Sungai Bahalang_71161
+.2004_Serawi_71161
+.2011_Sukaramai_71161
+.2012_Tirik_71161
+63.05.04_Tapin Utara_71111|71114
+.2013_Antasan Hilir (Antasari Hilir)_71114
+.2006_Antasari_71114
+.2016_Badaun_71114
+.2015_Banua Halar Hulu (Banua Hanyar Hulu)_71114
+.2010_Banua Halat Kanan_71114
+.2009_Banua Halat Kiri_71114
+.2008_Banua Hanyar_71114
+.2007_Jingah Babaris_71114
+.2012_Kakaran_71114
+.2005_Keramat_71114
+.1002_Kupang_71113
+.2014_Lumbu Raya_71114
+.2011_Perintis Raya_71114
+.1001_Rangda Malingkung_71114
+.1003_Rantau Kanan_71112
+.1004_Rantau Kiwa_71111

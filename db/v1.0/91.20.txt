@@ -1,0 +1,68 @@
+91.20.07_Benuki_98683
+.2008_Baitanasa_98683
+.2002_Dadat_98683
+.2007_Gesa Baru_98683
+.2001_Kamai_98683
+.2003_Kerema_98683
+.2005_Teuw* (Teuw)_98683
+.2006_Watiaro_98683
+91.20.05_Mamberamo Hilir_98691
+.2003_Bagusa_98691
+.2001_Baudi_98691
+.2004_Kapeso_98691
+.2005_Suaseso_98691
+.2008_Taya_98683
+.2002_Trimuris_98691
+.2006_Warembori_98691
+.2007_Yoke_98691
+91.20.02_Mamberamo Hulu_98694
+.2001_Dabra_98694
+.2006_Dou_98694
+.2008_Fokri_98694
+.2003_Fuao_98694
+.2004_Pepasena I_98694
+.2005_Pepasena II_98694
+.2002_Taiyeve_98694
+.2015_Taria_98695
+91.20.01_Mamberamo Tengah_98692
+.2002_Anggreso_98692
+.2010_Babija_98692
+.2001_Burmeso_98692
+.2006_Danau Bira_98692
+.2003_Kasonaweja_98692
+.2008_Kwerba_98692
+.2011_Marina Valen_98692
+.2004_Metaweja_98692
+.2007_Muru Mare_98692
+.2005_Namunaweja_98692
+.2009_Sosawakwesar_98692
+91.20.04_Mamberamo Tengah Timur_98693
+.2004_Biri_98693
+.2006_Eri_98693
+.2001_Kustra_98693
+.2002_Noyadi_98693
+.2003_Obogai_98693
+.2007_Towae_98693
+.2005_Wakeyadi_98693
+91.20.03_Rufaer_98695
+.2003_Bareri_98695
+.2001_Fona_98695
+.2007_Haya_98694
+.2006_Kai_98695
+.2004_Sikari_98695
+.2002_Tayai_98695
+91.20.08_Sawai_98682
+.2006_Anasi_98682
+.2003_Bonoi_98682
+.2001_Poiwai_98682
+.2005_Rapambrei_98682
+.2004_Sorabi_98682
+.2002_Tamakuri_98682
+91.20.06_Waropen Atas_98681
+.2002_Barapasi_98681
+.2004_Bariwaro_98681
+.2005_Bensor_98681
+.2007_Marikai_98681
+.2001_Nadofoai_98681
+.2006_Rawiwa_98681
+.2003_Sipisi_98681

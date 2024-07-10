@@ -1,0 +1,111 @@
+91.15.13_Demba_98672
+.2018_Aiwa_98672
+.2003_Aniboi_98672
+.2019_Biati_98672
+.2008_Demba_98672
+.2009_Fafai_98672
+.2002_Mayaghaido_98672
+.2020_Ronarai_98672
+.2007_Tetui_98672
+.2001_Urato_98672
+.2017_Wudokuri_98672
+91.15.09_Inggerus_98661
+.2011_Awaso_98661
+.2006_Demisa_98661
+.2012_Firo_98661
+.2005_Harapan Jaya_98661
+.2008_Otodemo_98661
+.2002_Somiangga_98661
+.2004_Toire_98661
+91.15.10_Kirihi_98673
+.2007_Aru Antu (Antu Aru)_98673
+.2001_Dairi_98673
+.2004_Dirou_98673
+.2005_Diwah (Diwa)_98673
+.2008_Foira (Poira)_98673
+.2009_Kawari_98673
+.2006_Kuaisa_98673
+.2003_Sooh_98673
+.2002_Spoiri_98673
+.2010_Wafuka_98673
+91.15.03_Masirei_98671
+.2015_Bunggu_98671
+.2017_Emauri_98671
+.2013_Kali Baru_98671
+.2016_Kowogi_98671
+.2018_Obutay_98671
+.2006_Saurisirami_98671
+.2009_Sinonde_98671
+.2014_Sirami_98671
+.2019_Wairo_98671
+91.15.11_Oudate_98665
+.2003_Baino Jaya_98665
+.2001_Botawa_98665
+.2007_Moroa_98665
+.2004_Nau_98665
+.2008_Oiboa_98665
+.2005_Rasawa_98665
+.2006_Ruambak Jaya_98665
+.2002_Sowiwa_98665
+91.15.07_Risei Sayati_98674
+.2013_Aimasi_98674
+.2002_Fafado_98674
+.2016_Ghaiwando_98674
+.2020_Ghaiwaru_98674
+.2014_Mui_98674
+.2018_Orambin_98674
+.2019_Unareu_98674
+.2015_Waghare_98674
+.2003_Wobari_98674
+.2017_Womorisi_98674
+91.15.15_Soyoi Mambai_98675
+.2003_Daimboa_98675
+.2008_Dawoa_98675
+.2007_Fafarui_98675
+.2001_Mambai_98675
+.2004_Napani_98675
+.2005_Segha_98675
+.2009_Sinabo_98675
+.2002_Soyoi_98675
+.2006_Wainarisi_98675
+.2010_Woinui_98675
+91.15.08_Urei Faisei_98663
+.2005_Apainabo_98663
+.2010_Ghoyui_98663
+.2007_Khemoon Jaya (Kemon Jaya)_98663
+.2006_Mambui_98663
+.2003_Nubuai_98663
+.2009_Paradoi_98663
+.2012_Ronggaiwa_98663
+.2011_Rorisi_98663
+.2001_Ureifaisei I/Sanggae_98663
+.2004_Ureifaisei III/ Paradoi_98663
+.2002_Urfas II (Ureifasei Dua / II)_98663
+.2008_Usaiwa_98663
+91.15.12_Wapoga_98664
+.2003_Awera_98664
+.2007_Dokis_98664
+.2005_Kamarisano_98664
+.2002_Pirare_98664
+.2004_Syewa Merare_98664
+.2001_Wapoga_98664
+.2006_Waweri_98664
+91.15.01_Waropen Bawah_98662
+.2027_Batu Zaman_98662
+.2011_Nonomi_98662
+.2020_Sarafambai_98662
+.2029_Sawara Jaya_98662
+.2025_Uri_98662
+.2004_Waren Dua (II)_98662
+.2003_Waren Satu (I)_98662
+91.15.14_Wonti_98676
+.2003_Bakadaro_98676
+.2010_Borumei_98676
+.2008_Fimore_98676
+.2007_Gheroi_98676
+.2006_Ghoiwi Samberi_98676
+.2004_Moyufuri_98676
+.2001_Odase_98676
+.2009_Sifuisera_98676
+.2002_Wanda_98676
+.2005_Wonti Kai_98676

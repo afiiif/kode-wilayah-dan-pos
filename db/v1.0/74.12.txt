@@ -1,0 +1,103 @@
+74.12.01_Wawonii Barat_93391
+.2006_Bukit Permai_93391
+.2015_Kawa-Kawali_93391
+.2005_Lamoluo_93391
+.2004_Langara Indah_93391
+.2002_Langara Iwawo_93391
+.1001_Langara Laut_93391
+.2016_Langara Tanjung Batu_93391
+.2008_Langaro Bajo (Langara Bajo)_93391
+.2014_langkowala_93391
+.2011_Lanowatu_93391
+.2012_Lantula_93391
+.2010_Mata Baho_93391
+.2009_Mata Langara_93391
+.2013_Pasir Putih_93391
+.2007_Wawobili_93391
+.2003_Wawolaa (Wawola)_93391
+74.12.06_Wawonii Selatan_93392
+.2005_Baku Baku_93392
+.2002_Bobolio_93392
+.2011_Langgara Jaya_93392
+.2004_Lawey_93392
+.2009_Puuwatu_93392
+.1006_Sawaea_93392
+.2007_Sawapatani (Sawa Patani)_93392
+.2010_Wawoone (Wawo One)_93392
+.2003_Wawosou (Wawouso)_93392
+.2008_Wawouso Baru_93392
+.2001_Wungkolo_93392
+74.12.07_Wawonii Tengah_93393
+.2012_Baho Puu Wulu_93393
+.2001_Batumea_93393
+.2004_Lamongupa_93393
+.1003_Lampeapi_93393
+.2009_Lampeapi Baru_93393
+.2007_Mekar Sari_93393
+.2006_Morobea_93393
+.2010_Pesue_93393
+.2011_Puurau_93393
+.2008_Rawa Indah_93393
+.2005_Tumbu Tumbu Jaya_93393
+.2002_Wawo Indah_93393
+74.12.05_Wawonii Tenggara_93394
+.2015_Bahaba_93394
+.2007_Dompo-dompo Jaya_93394
+.2016_Kekea_93394
+.2002_Masolo (Mosolo)_93394
+.2001_Nambo Jaya_93394
+.1005_Polara_93394
+.2006_Roko Roko_93394
+.2011_Sainoa Indah_93394
+.2013_Sinar Masolo_93394
+.2003_Sinaulu Jaya_93394
+.2009_Sukarela Jaya_93394
+.2008_Teparoko_93394
+.2004_Tondonggito_93394
+.2014_Waturai_93394
+.2012_Wunse Jaya_93394
+74.12.04_Wawonii Timur_93396
+.2009_Butuea_93396
+.2006_Lapulu_93396
+.2007_Laywo Jaya (Laywo)_93396
+.2002_Lebo_93396
+.2010_Lembono_93396
+.1001_Munse_93396
+.2005_Munse Indah_93396
+.2008_Nanga_93396
+.2011_Saburano_93396
+.2003_Tekonea_93396
+.2004_Wakadawu_93396
+74.12.03_Wawonii Timur Laut_93397
+.2010_Baho Bubu_93397
+.2001_Bangun Mekar_93397
+.2005_Dimba_93397
+.1004_Ladianta_93397
+.2006_Mata Dimba_93397
+.2002_Noko_93397
+.2009_Patande_93397
+.2007_Puurau_93397
+.2003_Tangkombuno_93397
+.2008_Watuondo (Watu Ondo)_93397
+74.12.02_Wawonii Utara_93398
+.2002_Dongkalaea_93398
+.2003_Labeau_93398
+.2014_Labisa_93398
+.1008_Lansilowo_93398
+.2015_Mata Bubu_93398
+.2007_Mata Buranga_93398
+.2013_Mataiwoi (Mata Iwoi)_93398
+.2006_Mawa_93398
+.2005_Palingi_93398
+.2011_Palingi Barat_93398
+.2018_Palingi Timur_93398
+.2021_Sawa Indah_93398
+.2004_Tambaone (Tombaone)_93398
+.2009_Tambaone Utama (Tombaone Utama)_93398
+.2017_Tapum Batu_93398
+.2020_Tepolawa_93398
+.2019_Tongalere_93398
+.2012_Tumburano_93398
+.2016_Wawobeau (Wawo Beau)_93398
+.2010_Wawoea_93398
+.2001_Waworope_93398

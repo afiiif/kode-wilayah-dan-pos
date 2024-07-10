@@ -1,0 +1,72 @@
+11.73.02_Banda Sakti_24315|24351
+.2015_Banda Masen (Banda Masem)_24351
+.2018_Hagu Barat Laut_24351
+.2012_Hagu Selatan_24351
+.2009_Hagu Teungoh_24351
+.2017_Jawa Baru (Kampung Jawa Baru)_24315
+.2004_Kampung Jawa Lhokseumawe (Kampung Jawa Lama)_24351
+.2007_Keude Aceh_24351
+.2005_Kota Lhokseumawe (Lhokseumawe)_24314
+.2001_Kuta Blang_24351
+.2016_Lancang Garam_24351
+.2006_Mon Geudong_24351
+.2013_Pusong Baru_24314
+.2008_Pusong Lhokseumawe (Pusong Lama)_24351
+.2003_Simpang Empat_24313
+.2002_Tumpok Teungoh_24311
+.2011_Ujong Blang_24351
+.2014_Ulee Jalan_24351
+.2010_Uteun Bayi_24351
+11.73.03_Blang Mangat_24375
+.2017_Alue Lim_24375
+.2010_Asan Kareung_24375
+.2008_Baloi (Baloy)_24375
+.2018_Blang Buloh_24375
+.2002_Blang Cut_24375
+.2012_Blang Punteuet_24375
+.2006_Blang Teue_24375
+.2021_Blang Weu Baroh_24375
+.2019_Blang Weu Panjoe (Blang Weu Panjou)_24375
+.2003_Jambo Mesjid_24375
+.2004_Jambo Timu_24375
+.2020_Jeulikat_24375
+.2016_Keude Punteuet (Keude Panteuet)_24375
+.2001_Kuala_24375
+.2013_Kumbang Punteuet_24375
+.2009_Mane Kareung_24375
+.2014_Mesjid Punteuet_24375
+.2011_Rayeuk Kareung_24375
+.2022_Seuneubok_24375
+.2007_Teungoh_24375
+.2005_Tunong_24375
+.2015_Ulee Blang Mane_24375
+11.73.01_Muara Dua_24351
+.2002_Alue Awe_24351
+.2003_Blang Crum_24351
+.2016_Blang Poroh (Blang Pohroh)_24351
+.2006_Cot Girek Kandang_24351
+.2004_Cut Mamplam_24351
+.2007_Keude Cunda_24351
+.2009_Lhok Mon Puteh_24351
+.2014_Meunasah Alue_24351
+.2025_Meunasah Blang /Blt_24351
+.2024_Meunasah Manyang_24351
+.2005_Meunasah Mee_24351
+.2010_Meunasah Mesjid_24351
+.2011_Mns. Panggoi (Panggoi)_24351
+.2026_Paloh Batee_24351
+.2013_Paya Bili_24351
+.2015_Paya Punteut (Punteuet)_24351
+.2008_Uteunkot (Uteun Kot)_24351
+11.73.04_Muara Satu_24353
+.2001_Batu Phat Barat_24353
+.2006_Batu Phat Timur_24353
+.2007_Blang Naleung Mameh_24353
+.2002_Blang Panyang_24353
+.2005_Blang Pulo_24353
+.2008_Cot Trieng_24353
+.2003_Meunasah Dayah_24353
+.2010_Meuria Paloh_24353
+.2009_Padang Sakti_24353
+.2004_Paloh Punti_24353
+.2011_Ujong Pacu_24353

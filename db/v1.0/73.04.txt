@@ -1,0 +1,124 @@
+73.04.09_Arungkeke_92361
+.2002_Arungkeke_92361
+.2005_Arungkeke Pallantikang_92361
+.2004_Boronglamu (Borong Lamu)_92361
+.2001_Bulo-Bulo_92361
+.2006_Kalumpangloe (Kalumpang Loe)_92361
+.2007_Kampala_92361
+.2003_Palajau_92361
+73.04.01_Bangkala_92352
+.1001_Benteng_92352
+.2014_Bontomanai_92352
+.1004_Bontorannu_92352
+.2013_Gunung Silanu_92352
+.2011_Jenetallasa_92352
+.2006_Kalimporo_92352
+.2009_Kapita_92352
+.2008_Mallasoro_92352
+.2010_Marayoka_92352
+.2005_Pallantikang_92352
+.1002_Pallengu_92352
+.1003_Pantai Bahari_92352
+.2007_Punagaya_92352
+.2012_Tombo-Tombolo_92352
+73.04.06_Bangkala Barat_92353
+.2001_Banrimanurung_92353
+.2003_Barana_92353
+.2004_Beroanging_92353
+.1002_Bulu Jaya (Bulujaya)_92353
+.2006_Garassikang_92353
+.2008_Pappalluang_92353
+.2007_Pattiro_92353
+.2005_Tuju_92353
+73.04.04_Batang_92360
+.1002_Bonto Raya (Bontoraya)_92360
+.2014_Bungeng_92360
+.2008_Camba-Camba_92360
+.2009_Kaluku_92360
+.2003_Maccinibaji_92360
+.1001_Togo-Togo_92360
+73.04.03_Binamu_92311|92316
+.1002_Balang_92315
+.1005_Balang Beru_92316
+.1004_Balang Toa_92311
+.1010_Biring Kassi (Biringkassi)_92311
+.1012_Bontoa_92316
+.1003_Empoang_92311
+.1006_Empoang Selatan_92311
+.1008_Empoang Utara_92316
+.1009_Monro-Monro_92316
+.1001_Pabiringa_92316
+.1011_Panaikang_92311
+.2013_Sapanang_92314
+.1007_Sidenre_92311
+73.04.07_Bontoramba_92351
+.2003_Balumbungan (Balumbungang)_92351
+.2004_Bangkalaloe_92351
+.2012_Baraya_92351
+.2008_Batujala_92351
+.1002_Bontoramba_92351
+.2001_Bulusibatang_92351
+.2009_Bulusuka_92351
+.2005_Datara_92351
+.2007_Kareloe_92351
+.2011_Lentu_92351
+.2006_Maero_92351
+.2010_Tanammawang_92351
+73.04.05_Kelara_92371
+.2009_Bontolebang_92371
+.2010_Bontonompo (Bonto Nompo)_92371
+.2006_Gantarang_92371
+.2014_Samataring_92371
+.1001_Tolo_92371
+.1005_Tolo Barat_92371
+.1003_Tolo Selatan_92371
+.1004_Tolo Timur_92371
+.1002_Tolo Utara_92371
+.2021_Tombolo (Tombo)_92371
+73.04.10_Rumbia_92314|92572
+.2010_Bontocini (Bonto Cini)_92371
+.2003_Bontomanai_92371
+.2004_Bontotiro_92572
+.2011_Janetallasa (Jenetallasa)_92314
+.2007_Kassi_92371
+.2002_Lebangmanai (Lebang Manai)_92371
+.2009_Lebangmanai Utara (Lebang Manai Utara)_92371
+.2005_Loka_92516
+.2008_Pallantikang_92371
+.2001_Rumbia_92371
+.2006_Tompobulu_92371
+.2012_Ujung Bulu_92371
+73.04.02_Tamalatea_92350
+.1001_Bonto Tangnga (Bontotangnga)_92350
+.2011_Bontojai_92350
+.2008_Bontosunggu_92350
+.2007_Borongtala_92350
+.2010_Karelayu_92350
+.1006_Manjangloe_92350
+.1005_Taman Roya_92350
+.1002_Tonro Kassi (Tonrokassi)_92350
+.1003_Tonro Kassi Barat (Tonrokassi Barat)_92350
+.1004_Tonro Kassi Timur (Tonrokassi Timur)_92350
+.2009_Turatea_92350
+.2012_Turatea Timur_92350
+73.04.11_Tarowang_92362
+.2004_Allu Tarowang (Allu Taroang)_92362
+.2005_Balangbaru (Balang Baru)_92362
+.2006_Balangloe Tarowang (Balang Loe Tarowang)_92362
+.2007_Bonto Ujung_92362
+.2002_Bontorappo_92362
+.2001_Pao_92362
+.2003_Tarowang_92362
+.2008_Tino_92362
+73.04.08_Turatea_92312|92313
+.2002_Bonto Mate'ne (Bontomatene)_92313
+.2004_Bululoe_92313
+.2007_Bungungloe_92313
+.2009_Jombe_92313
+.2005_Kayuloe Barat_92312
+.2008_Kayuloe Timur_92313
+.2006_Langkura_92313
+.2003_Mangepong_92313
+.2001_Paitana_92313
+.2011_Parasanganberu (Parasangang Beru)_92313
+.2010_Tanjonga_92313

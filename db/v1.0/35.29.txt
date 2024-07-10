@@ -1,0 +1,361 @@
+35.29.12_Ambunten_69455
+.2001_Ambunten Barat_69455
+.2002_Ambunten Tengah_69455
+.2003_Ambunten Timur_69455
+.2013_Belluk Ares (Beluk Ares)_69455
+.2014_Belluk Kenek (Beluk Kenek)_69455
+.2015_Belluk Raja (Beluk Raja)_69455
+.2009_Bukabu_69455
+.2010_Campor Barat_69455
+.2012_Campor Timur_69455
+.2011_Keles_69455
+.2007_Sogian_69455
+.2006_Tambaagung Ares_69455
+.2004_Tambaagung Barat_69455
+.2005_Tambaagung Tengah_69455
+.2008_Tambaagung Timur_69455
+35.29.24_Arjasa_69491
+.2013_Angkatan_69491
+.2022_Angon Angon_69491
+.2020_Arjasa_69491
+.2015_Bilis Bilis_69491
+.2011_Buddi_69491
+.2018_Duko_69491
+.2010_Gelaman_69491
+.2019_Kalikatak_69491
+.2021_Kalinganyar (Kalianyar)_69491
+.2014_Kalisangka_69491
+.2012_Kolo Kolo_69491
+.2016_Laok Jangjang_69491
+.2025_Pabean (Pabian)_69491
+.2001_Pajanangger (Pajenangger)_69491
+.2024_Pandeman_69491
+.2009_Paseraman_69491
+.2023_Sambakati_69491
+.2008_Sawah Sumur (Sawahsumur)_69491
+.2017_Sumbernangka_69491
+35.29.16_Batang Batang_69473
+.2006_Banuaju Barat_69473
+.2007_Banuaju Timur_69473
+.2004_Batang-Batang Daya (Batangbatang Daya)_69473
+.2003_Batang-batang Laok (Batangbatang Laok)_69473
+.2015_Bilangan_69473
+.2014_Dapenda_69473
+.2011_Jangkong_69473
+.2008_Jenangger_69473
+.2001_Kolpo_69473
+.2012_Legung Barat_69473
+.2013_Legung Timur_69473
+.2016_Lombang_69473
+.2010_Nyabakan Barat_69473
+.2009_Nyabakan Timur_69473
+.2002_Tamidung (Tamedung)_69473
+.2005_Totosan_69473
+35.29.26_Batuan_69451
+.2002_Babbalan (Babalan)_69451
+.2005_Batuan_69451
+.2003_Gedungan_69451
+.2007_Gelugur_69451
+.2004_Gunggung_69451
+.2001_Patean_69451
+.2006_Torbang_69451
+35.29.17_Batuputih_69453
+.2001_Aengmerah_69453
+.2005_Badur_69453
+.2010_Bantelan_69453
+.2009_Batuputih Daya_69453
+.2007_Batuputih Kenek_69453
+.2008_Batuputih Laok_69453
+.2013_Bulla'an (Bulaan / Bullaan)_69453
+.2006_Gedang Gedang_69453
+.2004_Juruan Daya_69453
+.2003_Juruan Laok_69453
+.2011_Larangan Barma_69453
+.2012_Larangan Kerta_69453
+.2014_Sergang_69453
+.2002_Tengedan_69453
+35.29.05_Bluto_69466
+.2007_Aeng Baja Kenek (Aengbaja Kenek)_69466
+.2013_Aeng Baja Raja (Aengbaja Raja)_69466
+.2006_Aeng Dake (Aengdake)_69466
+.2008_Bluto_69466
+.2010_Bumbungan (Bungbungan)_69466
+.2019_Errabu_69466
+.2020_Gilang_69466
+.2018_Gingging (Ging Ging)_69466
+.2001_Guluk Manjung (Gulukmanjung)_69466
+.2002_Kapedi_69466
+.2014_Karang Campaka (Karang Cempaka)_69466
+.2009_Lobuk_69466
+.2011_Masaran_69466
+.2003_Pakandangan Barat_69466
+.2005_Pakandangan Sangra_69466
+.2004_Pakandangan Tengah_69466
+.2012_Palongan_69466
+.2015_Sera Barat_69466
+.2016_Sera Tengah_69466
+.2017_Sera Timur_69466
+35.29.14_Dasuk_69454
+.2006_Bates_69454
+.2003_Batubellah Barat (Batubelah Barat)_69454
+.2004_Batubellah Timur (Batubelah Timur)_69454
+.2007_Bringin_69454
+.2012_Dasuk Barat_69454
+.2014_Dasuk Laok_69454
+.2013_Dasuk Timur_69454
+.2008_Jelbudan_69454
+.2005_Kecer_69454
+.2009_Kerta Barat_69454
+.2010_Kerta Timur_69454
+.2015_Mantajun_69454
+.2011_Nyapar_69454
+.2002_Semaan_69454
+.2001_Slopeng_69454
+35.29.18_Dungkek_69474
+.2014_Bancamara_69474
+.2015_Banraas_69474
+.2007_Bicabbi (Bicabi)_69474
+.2010_Bungin Bungin_69474
+.2009_Bunpenang_69474
+.2001_Candi_69474
+.2008_Dungkek_69474
+.2002_Jadung_69474
+.2013_Lapa Daya_69474
+.2012_Lapa Laok_69474
+.2011_Lapa Taman_69474
+.2003_Romben Barat_69474
+.2005_Romben Guna_69474
+.2004_Romben Rana_69474
+.2006_Taman Sare (Tamansare)_69474
+35.29.10_Ganding_69462
+.2001_Bataal Barat_69462
+.2002_Bataal Timur_69462
+.2006_Billapora Barat (Bilapora Barat)_69462
+.2007_Billapora Timur (Bilapora Timur)_69462
+.2010_Gadu Barat_69462
+.2009_Gadu Timur_69462
+.2008_Ganding_69462
+.2013_Ketawang Daleman_69462
+.2014_Ketawang Karay_69462
+.2011_Ketawang Larangan_69462
+.2012_Ketawang Parebaan_69462
+.2003_Rombiya Barat_69462
+.2004_Rombiya Timur_69462
+.2005_Talaga_69462
+35.29.19_Gapura_69472
+.2003_Andulang_69472
+.2014_Baban_69472
+.2012_Banjar Barat_69472
+.2011_Banjar Timur_69472
+.2013_Batudinding_69472
+.2016_Braji (Beraji)_69472
+.2008_Gapura Barat_69472
+.2007_Gapura Tengah_69472
+.2004_Gapura Timur_69472
+.2006_Gersik Putih_69472
+.2001_Grujugan_69472
+.2015_Karangbudi (Karang Budi)_69472
+.2002_Longos_69472
+.2005_Mandala_69472
+.2010_Palo'lo'an (Palokloan / Paloloan)_69472
+.2009_Panagan_69472
+.2017_Poja_69472
+35.29.20_Gayam_69483
+.2006_Gayam_69483
+.2009_Gendang Barat_69483
+.2003_Gendang Timur_69483
+.2005_Jambuir_69483
+.2007_Kalowang_69483
+.2004_Karang Tengah (Karangtengah)_69483
+.2008_Nyamplong_69483
+.2001_Pancor_69483
+.2002_Prambanan_69483
+.2010_Tarebung_69483
+35.29.08_Giliginting (Gili Ginting)_69482
+.2004_Aenganyar_69482
+.2007_Banbaru_69482
+.2008_Banmaleng_69482
+.2003_Bringsang_69482
+.2001_Galis_69482
+.2002_Gedugan_69482
+.2006_Jate_69482
+.2005_Lombang_69482
+35.29.09_Guluk-Guluk (Guluk Guluk)_69463
+.2001_Bakeong (Bakeyong)_69463
+.2012_Batuampar_69463
+.2007_Bragung_69463
+.2004_Guluk Guluk_69463
+.2005_Ketawang Laok_69463
+.2006_Pananggungan_69463
+.2010_Payudan Daleman_69463
+.2002_Payudan Dundang_69463
+.2011_Payudan Karangsokon_69463
+.2009_Payudan Nangger_69463
+.2003_Pordapor_69463
+.2008_Tambuko_69463
+35.29.02_Kalianget_69471
+.2006_Kalianget Barat_69471
+.2007_Kalianget Timur_69471
+.2005_Kalimook (Kalimo'ok)_69471
+.2002_Karanganyar (Karang Anyar)_69471
+.2004_Kertasada_69471
+.2003_Marengan Laok_69471
+.2001_Pinggirpapas_69471
+35.29.27_Kangayan_69490
+.2006_Batuputih_69490
+.2004_Cangkramaan (Cangkreman)_69490
+.2007_Daandung_69490
+.2009_Jukong Jukong_69490
+.2002_Kangayan_69490
+.2001_Saobi_69490
+.2005_Tembayangan_69490
+.2008_Timur Jang-Jang (Timur Janjang)_69490
+.2003_Toerjek (Torjek)_69490
+35.29.01_Kota Sumenep_69412|69417
+.2011_Bangkal_69417
+.1017_Bangselok_69416
+.2008_Kacongan_69417
+.1018_Karangduak_69417
+.2020_Kebunagung (Kebonagung)_69413
+.2012_Kebunan_69417
+.1015_Kepanjin_69415
+.2005_Kolor_69417
+.2007_Marengan Daya_69417
+.2009_Paberasan_69417
+.2006_Pabian_69417
+.1016_Pajagalan_69416
+.2013_Pamolokan_69412
+.2019_Pandian_69414
+.2014_Pangarangan_69412
+.2010_Parsanga_69417
+35.29.07_Lenteng_69461
+.2011_Banaresep Barat_69461
+.2004_Banaresep Timur_69461
+.2012_Billapora Rebba (Bilapora Reba)_69461
+.2018_Cangkreng_69461
+.2016_Daramista (Daramesta)_69461
+.2015_Ellak Daya_69461
+.2014_Ellak Laok_69461
+.2017_Jambu_69461
+.2006_Kambingan Barat_69461
+.2013_Lembung Barat_69461
+.2009_Lembung Timur_69461
+.2010_Lenteng Barat_69461
+.2008_Lenteng Timur_69461
+.2019_Meddelan (Medelan)_69461
+.2001_Moncek Barat_69461
+.2002_Moncek Tengah_69461
+.2003_Moncek Timur_69461
+.2007_Poreh_69461
+.2020_Sendir_69461
+.2005_Tarogan_69461
+35.29.03_Manding_69452
+.2005_Gadding_69452
+.2006_Giring_69452
+.2007_Gunung Kembar_69452
+.2008_Jaba'an_69452
+.2001_Kasengan_69452
+.2002_Lalangon_69452
+.2004_Lanjuk_69452
+.2011_Manding Daya_69452
+.2009_Manding Laok_69452
+.2010_Manding Timur_69452
+.2003_Tenonan_69452
+35.29.23_Masalembu_69492
+.2004_Kramian (Karamian)_69492
+.2003_Masakambing_69492
+.2002_Masalima (Massalima)_69492
+.2001_Sukajeruk_69492
+35.29.21_Nonggunong_69484
+.2001_Nonggunong_69484
+.2007_Rosong_69484
+.2005_Sokarami Paseser (Sokarame Paseser)_69484
+.2004_Sokaramme Timur (Sokarame Timur)_69484
+.2002_Somber_69484
+.2008_Sonok_69484
+.2006_Talaga_69484
+.2003_Tanah Merah (Tanahmerah)_69484
+35.29.13_Pasongsongan_69457
+.2003_Campaka_69457
+.2006_Lebeng Barat_69457
+.2005_Lebeng Timur_69457
+.2001_Montorna_69457
+.2009_Padangdangan_69457
+.2010_Panaongan_69457
+.2008_Pasongsongan_69457
+.2002_Prancak_69457
+.2004_Rajun_69457
+.2007_Soddara_69457
+35.29.11_Pragaan_69465
+.2013_Aeng Panas (Aengpanas)_69465
+.2009_Jaddung_69465
+.2001_Kaduara Timur_69465
+.2014_Karduluk_69465
+.2005_Larangan Perreng (Larangan Pereng)_69465
+.2007_Pakamban Daya_69465
+.2008_Pakamban Laok_69465
+.2011_Pragaan Daya_69465
+.2010_Pragaan Laok_69465
+.2012_Prenduan_69465
+.2003_Rombasan_69465
+.2002_Sendang_69465
+.2006_Sentol Daya_69465
+.2004_Sentol Laok_69465
+35.29.22_Ra'as (Raas)_69485
+.2005_Alas Malang (Alasmalang)_69485
+.2007_Brakas_69485
+.2009_Guwa Guwa_69485
+.2002_Jungkat_69485
+.2004_Karangnangka_69485
+.2001_Ketupat_69485
+.2003_Kropoh (Karopoh)_69485
+.2006_Poteran_69485
+.2008_Tonduk_69485
+35.29.15_Rubaru_69456
+.2005_Banasare (Bana Sare)_69456
+.2008_Basoka_69456
+.2006_Bunbarat_69456
+.2009_Duko_69456
+.2011_Kalebengan_69456
+.2007_Karang Nangka (Karangnangka)_69456
+.2001_Mandala_69456
+.2003_Matanair_69456
+.2002_Pakondang_69456
+.2010_Rubaru_69456
+.2004_Tambaksari_69456
+35.29.25_Sapeken_69493
+.2004_Pagerungan Besar (Pagerrungan Besar)_69493
+.2005_Pagerungan Kecil (Pagerrungan Kecil)_69493
+.2009_Paliat (Paleyat)_69493
+.2008_Sabunten (Saunten)_69493
+.2010_Sadulang_69493
+.2003_Sakala_69493
+.2007_Sapeken (Sepeken)_69493
+.2006_Saseel (Sase'el)_69493
+.2011_Saur Saebus_69493
+.2001_Sepanjang_69493
+.2002_Tanjung Kiaok_69493
+35.29.06_Saronggi_69467
+.2012_Aengtongtong_69467
+.2011_Juluk_69467
+.2014_Kambingan Timur_69467
+.2005_Kebundadap Barat_69467
+.2003_Kebundadap Timur_69467
+.2004_Langsar_69467
+.2010_Moangan (Muangan)_69467
+.2008_Nambakor_69467
+.2001_Pagar Batu (Pagarbatu)_69467
+.2006_Saroka_69467
+.2009_Saronggi_69467
+.2013_Talang_69467
+.2007_Tanamerah (Tanah Merah)_69467
+.2002_Tanjung_69467
+35.29.04_Talango_69481
+.2003_Cabbiya_69481
+.2004_Essang_69481
+.2008_Gapurana_69481
+.2005_Kombang_69481
+.2002_Padike_69481
+.2007_Palasa_69481
+.2006_Poteran_69481
+.2001_Talango_69481

@@ -1,0 +1,79 @@
+82.08.03_Lede_97794
+.2005_Balohang (Balahong)_97794
+.2004_Langganu_97794
+.2001_Lede_97794
+.2002_Todoli_97794
+.2003_Tolong_97794
+82.08.08_Tabona_97794
+.2004_Fayaunana_97794
+.2005_Habunuha_97794
+.2002_Kabunu_97794
+.2006_Kataga_97794
+.2003_Peleng_97794
+.2001_Tabona_97794
+.2007_Wolio_97794
+82.08.01_Taliabu Barat_97794
+.2001_Bobong_97794
+.2007_Holbota_97794
+.2003_Kawalo_97794
+.2011_Kilong_97794
+.2006_Kramat_97794
+.2004_Limbo_97794
+.2010_Loho Bubba_97794
+.2005_Meranti Jaya (Maranti Jaya)_97794
+.2008_Pancoran_97794
+.2012_Ratahaya_97794
+.2002_Talo_97794
+.2009_Wayo_97794
+.2013_Woyo_97794
+82.08.02_Taliabu Barat Laut_97794
+.2003_Beringin Jaya_97794
+.2004_Kasango_97794
+.2001_Nggele_97794
+.2005_Onemay (Oneway)_97794
+.2002_Salati_97794
+82.08.07_Taliabu Selatan_97794
+.2001_Bahu_97794
+.2002_Bapenu_97794
+.2008_Galebo_97794
+.2003_Kilo_97794
+.2007_Maluli_97794
+.2005_Nggaki_97794
+.2009_Nggoli_97794
+.2004_Pancado_97794
+.2006_Sumbong_97794
+82.08.05_Taliabu Timur_97794
+.2002_Parigi_97794
+.2001_Penu_97794
+.2003_Samuya_97794
+.2004_Tubang_97794
+82.08.06_Taliabu Timur Selatan_97794
+.2006_Belo_97794
+.2007_Kamaya_97794
+.2003_Kawadang_97794
+.2002_Losseng_97794
+.2005_Mantarara_97794
+.2004_Sofan_97794
+.2001_Waikadai_97794
+.2009_Waikadai Sula_97794
+.2008_Waikoka_97794
+82.08.04_Taliabu Utara_97794
+.2012_Air Bulan_97794
+.2013_Air Kalimat_97794
+.2008_Bua Mbono (Mbono)_97794
+.2011_Dege_97794
+.2004_Gela_97794
+.2009_Hai_97794
+.2003_Jorjoga_97794
+.2018_London_97794
+.2001_Mananga_97794
+.2005_Minton_97794
+.2016_Natang Kuning_97794
+.2006_Nunca_97794
+.2017_Nunu_97794
+.2015_Padang_97794
+.2007_Sahu_97794
+.2002_Tanjung Una_97794
+.2010_Tikong_97794
+.2014_Ufung_97794
+.2019_Wahe_97794

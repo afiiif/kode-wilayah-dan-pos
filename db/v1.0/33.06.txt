@@ -1,0 +1,510 @@
+33.06.04_Bagelen_54174
+.2005_Bagelen_54174
+.2003_Bapangsari_54174
+.2004_Bugel_54174
+.2013_Clapar_54174
+.2001_Dadirejo_54174
+.2009_Durensari_54174
+.2008_Hargorojo_54174
+.2012_Kalirejo_54174
+.2017_Kemanukan_54174
+.2006_Krendetan_54174
+.2016_Piji_54174
+.2015_Semagung_54174
+.2010_Semono_54174
+.2014_Soko_54174
+.2011_Sokoagung_54174
+.2007_Somorejo_54174
+.2002_Tlogokotes_54174
+33.06.07_Banyuurip_54171
+.2003_Bajangrejo_54171
+.2012_Banyuurip (Banyu Urip)_54171
+.2004_Bencorejo_54171
+.1010_Borokulon (Boro Kulon)_54171
+.2009_Borowetan (Boro Wetan)_54171
+.2021_Candingasinan_54171
+.2024_Candisari_54171
+.2007_Cengkawakrejo_54171
+.2025_Condongsari_54171
+.2023_Golok_54171
+.2016_Kertosono_54171
+.1027_Kledung Karangdalem_54171
+.1026_Kledungkradenan (Kledung Kradenan)_54171
+.2015_Kliwonan_54171
+.2013_Malangrejo_54171
+.2020_Pakisrejo_54171
+.2008_Popongan_54171
+.2018_Sawit_54171
+.2001_Seborokrapyak_54171
+.2022_Sokowaten_54171
+.2019_Sumbersari (Sumber Sari)_54171
+.2005_Surorejo_54171
+.2017_Tanjunganom_54171
+.2014_Tegalkuning_54171
+.2011_Tegalrejo_54171
+.2002_Triwarno_54171
+.2006_Wangunrejo_54171
+33.06.08_Bayan_54222|54224
+.2012_Bandungkidul (Bandung Kidul)_54224
+.2013_Bandungrejo_54222
+.2004_Banjarejo_54224
+.2022_Bayan_54224
+.2014_Besole_54223
+.2016_Botodaleman (Boto Daleman)_54224
+.2015_Botorejo_54224
+.2021_Bringin_54224
+.2009_Dewi_54224
+.2017_Dukuhrejo_54224
+.2018_Grantung_54224
+.2011_Jatingarang_54224
+.2001_Jono_54224
+.2024_Jrakah_54224
+.2019_Kalimiru_54224
+.2006_Ketiwijayan_54224
+.2007_Krandegan_54224
+.2023_Pekutan_54224
+.2002_Pogungjurutengah (Pogung Juru Tengah)_54224
+.2005_Pogungkalangan_54224
+.2003_Pogungrejo_54224
+.2026_Pucangagung (Pucang Agung)_54224
+.2025_Sambeng_54224
+.1020_Sucenjurutengah (Sucenjuru Tengah)_54224
+.2010_Tangkisan_54224
+.2008_Tanjungrejo_54224
+33.06.16_Bener_54183
+.2015_Bener_54183
+.2001_Benowo_54183
+.2014_Bleber_54183
+.2010_Cacaban Kidul_54183
+.2011_Cacaban Lor_54183
+.2017_Guntur_54183
+.2021_Jati_54183
+.2006_Kaliboto_54183
+.2023_Kalijambe_54183
+.2002_Kalitapas_54183
+.2007_Kaliurip (Kali Urip)_54183
+.2003_Kaliwader_54183
+.2020_Kamijoro_54183
+.2016_Karangsari (Karang Sari)_54183
+.2008_Kedungloteng (Kedung Loteng)_54183
+.2004_Kedungpucang (Kedung Pucang)_54183
+.2019_Ketosari_54183
+.2018_Legetan_54183
+.2025_Limbangan_54183
+.2022_Mayungsari (Mayung Sari)_54183
+.2013_Medono_54183
+.2028_Ngasinan_54183
+.2026_Nglaris_54183
+.2012_Pekacangan_54183
+.2005_Sendangsari_54183
+.2027_Sidomukti_54183
+.2024_Sukowuwuh_54183
+.2009_Wadas_54183
+33.06.13_Bruno_54261
+.2007_Blimbing_54261
+.2009_Brondong_54261
+.2004_Brunorejo_54261
+.2005_Brunosari_54261
+.2010_Cepedak_54261
+.2014_Giyombong_54261
+.2008_Gowong_54261
+.2011_Gunungcondong (Gunung Condong)_54261
+.2017_Kaliwungu_54261
+.2015_Kambangan_54261
+.2013_Karanggedang_54261
+.2012_Kemranggen_54261
+.2003_Pakisarum_54261
+.2002_Plipiran_54261
+.2001_Puspo_54261
+.2006_Somoleter_54261
+.2018_Tegalsari_54261
+.2016_Watuduwur_54261
+33.06.10_Butuh_54116|54264
+.2034_Andong_54264
+.2038_Binangun_54264
+.2039_Butuh_54264
+.2033_Dlangu_54264
+.2035_Kaliwatubumi_54264
+.2036_Kaliwatukranggan_54264
+.2003_Karanganom_54264
+.2020_Kedungagung_54264
+.2001_Kedungmulyo_54264
+.2012_Kedungsari_54116
+.2019_Kedungsri_54264
+.2010_Ketug_54264
+.2040_Klepu_54264
+.2024_Kunir_54264
+.2017_Kunirejokulon (Kunirejo Kulon)_54264
+.2018_Kunirejowetan (Kunirejo Wetan)_54264
+.2007_Langenrejo_54264
+.2025_Lubangdukuh (Lubang Dukuh)_54264
+.2030_Lubangindangan (Lubang Indangan)_54264
+.2031_Lubangkidul (Lubang Kidul)_54264
+.2029_Lubanglor (Lubang Lor)_54264
+.2032_Lubangsampang (Lubang Sampang)_54264
+.2023_Lugu_54264
+.2022_Lugurejo_54264
+.2002_Mangunjayan_54264
+.2037_Panggeldlangu (Panggeldlanggu)_54264
+.2027_Polomarto_54264
+.2011_Rowodadi_54264
+.2005_Sidomulyo_54264
+.2013_Sruwohdukuh (Sruwoh Dukuh)_54264
+.2021_Sruwohrejo_54264
+.2006_Sumbersari_54264
+.2008_Tamansari_54264
+.2004_Tanjunganom_54264
+.2028_Tegalgondo_54264
+.2026_Tlogorejo_54264
+.2009_Wareng_54264
+.2041_Wironatan_54264
+.2014_Wonodadi_54264
+.2016_Wonorejokulon (Wonorejo Kulon)_54264
+.2015_Wonorejowetan (Wonorejo Wetan)_54264
+33.06.14_Gebang_54191|54262
+.2011_Bendosari_54191
+.2005_Bulus_54191
+.2012_Gebang_54191
+.2004_Gintungan_54191
+.2025_Kalitengkek_54191
+.2024_Kemiri_54262
+.2021_Kragilan_54191
+.2007_Kroyo_54191
+.1003_Lugosobo_54191
+.2009_Mlaran_54191
+.2023_Ngaglik_54191
+.2020_Ngemplak_54191
+.2014_Pakem_54191
+.2010_Pelutan_54191
+.2017_Penungkulan_54191
+.2022_Prumben_54191
+.2018_Redin_54191
+.2006_Rendeng_54191
+.2013_Salam_54191
+.2002_Seren_54191
+.2016_Sidoleren_54191
+.2019_Tlogosono_54191
+.2001_Winongkidul (Winong Kidul)_54191
+.2008_Winonglor (Winong Lor)_54191
+.2015_Wonotopo_54191
+33.06.01_Grabag_54265
+.2023_Aglik_54265
+.2012_Bakurejo_54265
+.2021_Banyuyoso_54265
+.2010_Bendungan_54265
+.2014_Dudukulon_54265
+.2013_Duduwetan_54265
+.2028_Dukuhdungus_54265
+.2022_Grabag_54265
+.2001_Harjobinangun_54265
+.2019_Kalirejo_54265
+.2026_Kedungkamal (Kedung Kamal)_54265
+.2005_Kertojayan_54265
+.2032_Kese_54265
+.2003_Ketawangrejo_54265
+.2031_Kumpulrejo_54265
+.2004_Munggangsari_54265
+.2008_Nambangan_54265
+.2006_Pasaranom_54265
+.2002_Patutrejo_54265
+.2015_Rejosari_54265
+.2011_Rowodadi_54265
+.2024_Roworejo_54265
+.2027_Sangubanyu_54265
+.2009_Sumberagung_54265
+.2018_Tegalrejo_54265
+.2030_Tlepokkulon (Tlepok Kulon)_54265
+.2029_Tlepokwetan (Tlepok Wetan)_54265
+.2016_Trimulyo_54265
+.2017_Tulusrejo_54265
+.2025_Tunggulrejo_54265
+.2007_Ukirsari_54265
+.2020_Wonoenggal_54265
+33.06.05_Kaligesing_54175
+.2003_Donorejo_54175
+.2016_Gunungwangi_54175
+.2017_Hardimulyo_54175
+.2004_Hulosobo_54175
+.2001_Jatirejo_54175
+.2014_Jelok_54175
+.2006_Kaligono_54175
+.2005_Kaliharjo_54175
+.2013_Kedunggubah_54175
+.2020_Ngadirejo_54175
+.2012_Ngaran_54175
+.2008_Pandanrejo_54175
+.2021_Pucungroto_54175
+.2011_Purbowono_54175
+.2002_Somongari_54175
+.2018_Sudorogo_54175
+.2019_Sumowono (Somowono)_54175
+.2009_Tawangsari_54175
+.2010_Tlogobulu_54175
+.2007_Tlogoguwo_54175
+.2015_Tlogorejo (Tlogo Rejo)_54175
+33.06.12_Kemiri_54262
+.2011_Bedono Karangduwur_54262
+.2009_Bedono Kluwung_54262
+.2010_Bedono Pageron_54262
+.2020_Dilem_54262
+.2006_Gedong_54262
+.2004_Gesikan_54262
+.2018_Girijoyo_54262
+.2017_Girimulyo_54262
+.2039_Gunungteges_54262
+.2016_Jatiwangsan_54262
+.2030_Kaliglagah_54262
+.2024_Kalimeneng_54262
+.2034_Kaliurip_54262
+.2031_Kapiteran_54262
+.2036_Karangluas_54262
+.2021_Kedunglo_54262
+.2037_Kedungpomahankulo n_54262
+.2035_Kedungpomahanweta n_54262
+.2008_Kemiri Kidul_54262
+.2025_Kemirilor (Kemiri Lor)_54262
+.2026_Kerep_54262
+.2002_Kroyokulon (Kroyo Kulon)_54262
+.2027_Kroyolor (Kroyo Lor)_54262
+.2013_Loning_54262
+.2005_Paitan_54262
+.2040_Purbayan_54262
+.2012_Rebug_54262
+.2003_Rejosari_54262
+.2033_Rejowinangun_54262
+.2007_Rowobayem_54262
+.2028_Samping_54262
+.2023_Sidodadi_54262
+.2038_Sukogelap (Sokogelap)_54262
+.2015_Sutoragan_54262
+.2019_Turus_54262
+.2001_Waled_54262
+.2032_Wanurojo_54262
+.2014_Winong_54262
+.2029_Wonosari_54262
+.2022_Wonosuko_54262
+33.06.09_Kutoarjo_54211|54251
+.1015_Bandung_54211
+.1009_Bayem_54215
+.2023_Kaligesing_54212
+.2026_Karangrejo_54212
+.2005_Karangwuluh_54212
+.1017_Katerban_54214
+.2001_Kebondalem_54212
+.2022_Kemadu Lor_54212
+.2007_Kepuh_54212
+.2003_Kiyangkongrejo_54212
+.1016_Kutoarjo_54251
+.2011_Kuwurejo_54212
+.2008_Majir_54212
+.2018_Pacor_54212
+.2012_Pringgowijayan_54212
+.2006_Purwosari_54212
+.1014_Semawung Daleman_54212
+.1010_Semawung Kembaran_54212
+.2013_Sidarum_54212
+.2021_Sokoharjo_54212
+.2004_Suren_54212
+.2020_Tepus Kulon_54212
+.2024_Tepus Wetan_54212
+.2019_Tunggorono_54212
+.2002_Tuntungpait (Tuntungpahit)_54212
+.2027_Tursino_54212
+.2025_Wirun_54212
+33.06.15_Loano_54181
+.2019_Banyuasin Kembaran_54181
+.2009_Banyuasin Separe_54181
+.2010_Guyangan_54181
+.2013_Jetis_54181
+.2007_Kaliglagah (Kali Glagah)_54181
+.2004_Kalikalong_54181
+.2001_Kalinongko_54181
+.2011_Kalisemo_54181
+.2003_Karangrejo_54181
+.2016_Kebongunung_54181
+.2014_Kedungpoh_54181
+.2018_Kemejing_54181
+.2012_Loano_54181
+.2015_Maron_54181
+.2017_Mudalrejo_54181
+.2021_Ngargosari_54181
+.2005_Rimun_54181
+.2020_Sedayu_54181
+.2006_Tepansari_54181
+.2008_Tridadi_54181
+.2002_Trirejo_54181
+33.06.02_Ngombol_54172
+.2008_Awu-awu (Awuawu)_54172
+.2028_Bojong_54172
+.2032_Briyan_54172
+.2035_Candi_54172
+.2027_Cokroyasan_54172
+.2050_Curug_54172
+.2006_Depokrejo_54172
+.2002_Girirejo_54172
+.2015_Jeruken_54172
+.2041_Jombang_54172
+.2034_Joso_54172
+.2017_Kalitanjung_54172
+.2025_Kaliwungukidul (Kaliwungu Kidul)_54172
+.2026_Kaliwungulor (Kaliwungu Lor)_54172
+.2029_Karangtalun_54172
+.2007_Keburuhan_54172
+.2019_Kedondong_54172
+.2040_Kembangkuning_54172
+.2010_Kesidan_54172
+.2031_Klandaran_54172
+.2009_Kumpulsari_54172
+.2018_Kuwukan_54172
+.2021_Laban_54172
+.2005_Malang_54172
+.2042_Mendiro_54172
+.2001_Ngentak_54172
+.2033_Ngombol_54172
+.2004_Pagak_54172
+.2012_Pejagran_54172
+.2054_Piyono_54172
+.2036_Pulutan_54172
+.2020_Rasukan_54172
+.2024_Ringgit_54172
+.2057_Seboropasar (Seboro Pasar)_54172
+.2056_Secang_54172
+.2047_Singkilkulon (Singkil Kulon)_54172
+.2048_Singkilwetan (Singkil Wetan)_54172
+.2038_Sruwoh_54172
+.2044_Sumberrejo (Sumberejo)_54172
+.2030_Susuk_54172
+.2055_Tanjung_54172
+.2016_Tanjungrejo_54172
+.2049_Tumenggungan_54172
+.2023_Tunjungan_54172
+.2037_Walikoro_54172
+.2022_Wasiat_54172
+.2003_Wero_54172
+.2046_Wingkoharjo_54172
+.2052_Wingkomulyo_54172
+.2051_Wingkosanggrahan (Wingko Sanggrahan)_54172
+.2045_Wingkosigromulyo (Wingko Sigromulyo)_54172
+.2053_Wingkotinumpuk (Wingko Tinumpuk)_54172
+.2039_Wonoboyo_54172
+.2011_Wonoroto_54172
+.2013_Wonosari_54172
+.2014_Wonosri_54172
+.2043_Wunut_54172
+33.06.11_Pituruh_54263
+.2016_Blekatuk_54263
+.2036_Brengkol_54263
+.2017_Dlisen Wetan_54263
+.2018_Dlisenkulon (Dlisen Kulon)_54263
+.2037_Girigondo_54263
+.2011_Gumawangrejo_54263
+.2046_Kaligintung_54263
+.2045_Kaligondang_54263
+.2043_Kalijering_54263
+.2039_Kalikotes_54263
+.2002_Kalimati_54263
+.2031_Karanganyar_54263
+.2022_Karanggetas_54263
+.2012_Keburusan_54263
+.2041_Kedungbatur (Kedung Batur)_54263
+.2034_Kembangkuning_54263
+.2001_Kendalrejo_54263
+.2040_Kesawen_54263
+.2023_Luweng Kidul_54263
+.2035_Luwenglor (Luweng Lor)_54263
+.2025_Megulungkidul (Megulung Kidul)_54263
+.2032_Megulunglor (Megulung Lor)_54263
+.2028_Ngampel_54263
+.2030_Ngandagan_54263
+.2049_Pamriyan_54263
+.2009_Pangkalan_54263
+.2021_Pekacangan_54263
+.2003_Pepe_54263
+.2020_Petuguran_54263
+.2026_Pituruh_54263
+.2042_Polowangi_54263
+.2033_Prapagkidul (Prapag Kidul)_54263
+.2038_Prapaglor (Prapag Lor)_54263
+.2029_Prigelan_54263
+.2024_Sambeng_54263
+.2047_Sawangan_54263
+.2005_Sekartejo_54263
+.2019_Semampir_54263
+.2027_Sikambang_54263
+.2044_Somogede_54263
+.2010_Sumber_54263
+.2014_Tapen_54263
+.2008_Tasikmadu_54263
+.2007_Tersidikidul (Tersidi Kidul)_54263
+.2006_Tersidilor (Tersidi Lor)_54263
+.2004_Tunjungtejo_54263
+.2015_Waru_54263
+.2048_Wonosido_54263
+.2013_Wonoyoso_54263
+33.06.03_Purwodadi_54173
+.2008_Banjarsari_54173
+.2021_Blendung_54173
+.2023_Bongkot_54173
+.2034_Bragolan_54173
+.2039_Brondongrejo_54173
+.2018_Bubutan_54173
+.2003_Gedangan_54173
+.2012_Geparang_54173
+.2016_Gesing_54173
+.2022_Guyangan_54173
+.2002_Jatikontal_54173
+.2001_Jatimalang_54173
+.2028_Jenarkidul (Jenar Kidul)_54173
+.2029_Jenarlor (Jenar Lor)_54173
+.2027_Jenarwetan (Jenar Wetan)_54173
+.2005_Jogoboyo_54173
+.2011_Jogoresan_54173
+.2004_Karanganyar_54173
+.2036_Karangmulyo_54173
+.2007_Karangsari_54173
+.2009_Kebonsari_54173
+.2037_Keduren_54173
+.2014_Kentengrejo_54173
+.2017_Keponggok_54173
+.2031_Kesugihan_54173
+.2035_Ketangi_54173
+.2015_Nampu_54173
+.2013_Nampurejo_54173
+.2033_Plandi_54173
+.2030_Pundensari_54173
+.2024_Purwodadi_54173
+.2026_Purwosari_54173
+.2040_Sendangsari_54173
+.2010_Sidoharjo_54173
+.2020_Sukomanah_54173
+.2038_Sumberrejo (Sumberejo)_54173
+.2025_Sumbersari_54173
+.2019_Tegalaren_54173
+.2032_Tlogorejo_54173
+.2006_Watukuro_54173
+33.06.06_Purworejo_54112|54151
+.1021_Baledono_54118
+.2003_Brenggong_54119
+.1007_Cangkrepkidul (Cangkrep Kidul)_54117
+.1008_Cangkreplor (Cangkrep Lor)_54117
+.2025_Donorati_54119
+.1014_Doplang_54114
+.2004_Ganggeng_54119
+.1011_Kedungsari (Kedung Sari)_54119
+.1020_Keseneng_54119
+.1018_Mranti_54112
+.1019_Mudal_54119
+.2001_Pacekelan_54119
+.1016_Paduroso_54112
+.1013_Pangenjurutengah (Pangenjuru Tengah)_54114
+.1012_Pangenrejo_54115
+.2002_Plipir_54119
+.1017_Purworejo_54151
+.2005_Semawung_54119
+.2023_Sidomulyo (Sido Mulyo)_54119
+.2009_Sidorejo_54119
+.1015_Sindurjan_54113
+.2024_Sudimoro_54119
+.1010_Tambakrejo_54118
+.2006_Wonoroto_54119
+.2022_Wonotulus_54119

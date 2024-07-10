@@ -1,0 +1,299 @@
+53.08.15_Detukeli_86371
+.2002_Detukeli_86371
+.2008_Detumbewa_86371
+.2014_Jeo Du'a_86371
+.2009_Kanganara_86371
+.2003_Kebesani_86371
+.2007_Maurole Selatan_86371
+.2001_Nggesa_86371
+.2012_Nggesabiri_86371
+.2006_Nida_86371
+.2011_Unggu_86371
+.2005_Watunggere_86371
+.2013_Watunggere Marilonga_86371
+.2004_Wolomuku_86371
+53.08.06_Detusoko_86370
+.1001_Detusoko_86370
+.2002_Detusoko Barat_86370
+.2018_Dile_86370
+.2021_Golulada_86370
+.2019_Ndito_86370
+.2007_Niowula_86370
+.2009_Nuaone_86370
+.2015_Randoria_86370
+.2022_Ranga_86370
+.2017_Rateroru_86370
+.2005_Roa_86370
+.2006_Saga_86370
+.2020_Sipijena_86370
+.2024_Turunalu_86370
+.2008_Wolofeo_86370
+.2010_Wologai_86370
+.2011_Wologai Tengah_86370
+.2013_Wolomage_86370
+.2016_Wolomasi_86370
+.2003_Wolotolo_86370
+.2004_Wolotolo Tengah_86370
+53.08.03_Ende_86319
+.2034_Embu Ngena_86319
+.2014_Emburia_86319
+.2030_Embutheru_86319
+.2013_Ja Moke Asa_86319
+.2025_Jejaraja_86319
+.2003_Mbotutenda_86319
+.2011_Nakuramba_86319
+.2007_Ndetundora I_86319
+.2008_Ndetundora II_86319
+.2019_Ndetundora III_86319
+.2033_Nemboramba_86319
+.2031_Nuaja_86319
+.2029_Peozakaramba_86319
+.2001_Raburia_86319
+.2027_Randorama_86319
+.2016_Randotonda_86319
+.2028_Ranoramba_86319
+.2002_Riaraja_86319
+.2017_Rukuramba (Ruku Ramba)_86319
+.2026_Tendambonggi_86319
+.2018_Tinabani_86319
+.2009_Tomberabu 1_86319
+.2010_Tomberabu II_86319
+.2021_Tonggopapa (Tonggopajoa)_86319
+.2020_Uzuramba_86319
+.2035_Uzuramba Barat_86319
+.2032_Wajakea Jaya_86319
+.2024_Wawonato_86319
+.2004_Wologai_86319
+.2022_Wologai Dua_86319
+.2012_Wolokaro_86319
+.2023_Worhopapa_86319
+53.08.04_Ende Selatan_86313|86316
+.1003_Mbongawani_86313
+.1006_Paupanda_86315
+.1004_Rukun Lima (Rukunlima)_86314
+.1014_Tanjung_86316
+.1008_Tetandara_86316
+53.08.19_Ende Tengah_86312|86319
+.1003_Kelimutu_86319
+.1002_Onekore_86318
+.1004_Paupire_86318
+.1001_Potulando_86312
+53.08.20_Ende Timur_86317|86361
+.2003_Kedebodu_86361
+.1001_Mautapaga_86317
+.2004_Ndungga_86361
+.1002_Rewarangga_86319
+.1006_Rewarangga Selatan_86361
+.2005_Tiwutewa_86361
+53.08.18_Ende Utara_86310
+.2005_Borokanda_86310
+.2009_Embundoa_86310
+.2004_Gheoghoma_86310
+.1001_Kota Raja_86310
+.1002_Kota Ratu_86310
+.2008_Mbomba_86310
+.2010_Raterua (Rateru)_86310
+.1003_Roworena_86310
+.1007_Roworena Barat_86310
+.2006_Watusipi_86310
+53.08.14_Kelimutu_86318
+.2009_Detuena_86318
+.2005_Koanara_86318
+.2002_Nduaria_86318
+.2003_Nuamuri_86318
+.2004_Nuamuri Barat_86318
+.2007_Pemo_86318
+.2011_Waturaka_86318
+.2006_Woloara_86318
+.2010_Wolokelo_86318
+53.08.13_Kota Baru_86111
+.2007_Hangalande_86111
+.2001_Kotabaru_86111
+.2013_Liselande_86111
+.2004_Loboniki_86111
+.2005_Ndondo_86111
+.2016_Neotonda_86111
+.2006_Niopanda_86111
+.2017_Nuanaga_86111
+.2015_Pise_86111
+.2014_Rangalaka_86111
+.2002_Tou_86111
+.2012_Tou Barat_86111
+.2003_Tou Timur_86111
+53.08.21_Lepembusu Kelisoke_86374|86379
+.2009_Detuara_86374
+.2004_Kuru_86375
+.2014_Kurusare (Kuru Sare)_86375
+.2011_Lisekuru (Lise Kuru)_86379
+.2002_Mukureku_86376
+.2013_Mukureku Sa'ate (Mukureku Sa Ate)_86376
+.2005_Ndenggarongge (Ndengga Rongge)_86375
+.2006_Ndikosapu_86378
+.2001_Nggumbelaka_86376
+.2012_Rutujeja (Rutu Jeja)_86377
+.2008_Tanalangi_86374
+.2007_Taniwoda_86374
+.2010_Tiwusora_86374
+.2003_Wologai Timur_86376
+53.08.12_Lio Timur_86361
+.2017_Bu Tanalagu_86361
+.2005_Detupera_86361
+.2013_Fatamari_86361
+.2002_Hubatuwa/Hobatua_86361
+.2007_Liabeke_86361
+.2018_Mbewawora_86361
+.2015_Nua Lima_86361
+.2014_Ranggatalo_86361
+.2016_Tanaroga_86361
+.1001_Watuneso_86361
+.2004_Woloaro/Woloara_86361
+.2006_Wololelea (Wololela A)_86361
+.2003_Wolosambi_86361
+53.08.11_Maukaro_86352
+.2005_Boafeo_86352
+.2003_Kamumbheka/Kamubheka_86352
+.2001_Kebirangga_86352
+.2002_Kebirangga Selatan_86352
+.2010_Kebirangga Tengah_86352
+.2007_Kobaleba_86352
+.2009_Kolikapa (Kolipaka)_86352
+.2004_Magekapa_86352
+.2008_Mundinggasa_86352
+.2006_Nabe_86352
+.2011_Natanangge_86352
+53.08.10_Maurole_86381
+.2003_Aewora_86381
+.2018_Detuwulu (Detuwala)_86381
+.2009_Keliwumbu_86381
+.2001_Maurole_86381
+.2005_Mausambi_86381
+.2021_Ngalukoja_86381
+.2022_Niranusa_86381
+.2019_Otogedu_86381
+.2006_Ranakolo_86381
+.2008_Ranakolo Selatan (Ranokolo Selatan)_86381
+.2023_Uludala_86381
+.2007_Watukamba_86381
+.2020_Woloau_86381
+53.08.01_Nangapanda_86351
+.2023_Anaraja_86351
+.2011_Bheramari_86351
+.2028_Embuzozo_86351
+.2017_Jegharangga (Jegharonggo)_86351
+.2027_Jemburea_86351
+.2024_Kekandere_86351
+.2005_Kerirea_86351
+.2022_Malawaru_86351
+.2021_Mbobhenga_86351
+.2014_Ndeturea_86351
+.1001_Ndorurea_86351
+.2015_Ndorurea I_86351
+.2009_Nggorea_86351
+.2002_Ondorea_86351
+.2018_Ondorea Barat_86351
+.2016_Penggajawa_86351
+.2010_Raporendu_86351
+.2008_Rapowawo_86351
+.2019_Romarea_86351
+.2013_Sanggarhorho_86351
+.2025_Tanazozo_86351
+.2026_Tenda Ondo_86351
+.2006_Tendambepa_86351
+.2004_Tendarea_86351
+.2020_Timbaria_86351
+.2012_Titwerea_86351
+.2029_Uzuzozo_86351
+.2003_Watumite_86351
+.2007_Zozozea_86351
+53.08.05_Ndona_86360
+.2014_Kekasewa_86360
+.2018_Kelikiku_86360
+.1002_Lokoboko_86360
+.2015_Manulondo (Manulando)_86360
+.2016_Nanganesa_86360
+.2007_Ngalupolo_86360
+.2012_Ngauroga/Ngaluroga_86360
+.2013_Nila_86360
+.1001_Onelako_86360
+.2006_Puutuga_86360
+.2020_Reka_86360
+.2017_Wolokota_86360
+.2004_Wolotolo Timur (Wolotopo Timur)_86360
+.2003_Wolotopo_86360
+53.08.16_Ndona Timur_86363
+.2003_Demulaka_86363
+.2001_Kurulimbu_86363
+.2005_Kurulimbu Selatan_86363
+.2006_Ngguwa_86363
+.2004_Roga_86363
+.2002_Sokoria_86363
+.2007_Sokoria Selatan_86363
+53.08.17_Ndori_86372
+.2008_Aebara_86372
+.2005_Kelisamba_86372
+.2007_Lungaria_86372
+.2001_Maubasa_86372
+.2010_Maubasa Barat_86372
+.2002_Maubasa Timur_86372
+.2006_Mole_86372
+.2009_Ratemangga_86372
+.2004_Serandori_86372
+.2003_Wonda_86372
+53.08.02_Pulau Ende_86362
+.2001_Aejeti_86362
+.2008_Kazo Kapo_86362
+.2004_Ndoriwoi_86362
+.2003_Paderape_86362
+.2002_Puutara_86362
+.2007_Redorory (Redodori)_86362
+.2006_Rendoraterua (Rendo Raterua)_86362
+.2009_Renga Menge_86362
+.2005_Rorurangga (Rendo Ranga)_86362
+53.08.07_Wewaria_86353
+.2023_Ae Ndoko_86353
+.2018_Aelipo_86353
+.2012_Aemuri_86353
+.2007_Detubela_86353
+.2011_Ekoae_86353
+.2022_Ekolea_86353
+.2008_Fataatu_86353
+.2009_Fataatu Timur_86353
+.2017_Kalitembu (Kelitembu)_86353
+.2003_Mautenda_86353
+.2004_Mautenda Barat_86353
+.2014_Mbotulaka_86353
+.2010_Mukusaki_86353
+.2002_Nuangenda_86353
+.2015_Numba_86353
+.2013_Ratewati_86353
+.2019_Ratewati Selatan_86353
+.2006_Tanali_86353
+.2020_Waka_86353
+.2001_Welamosa_86353
+.2005_Wewaria_86353
+.2021_Wolooja_86353
+53.08.09_Wolojita_86382
+.2006_Nggela_86382
+.2005_Nuamulu_86382
+.2004_Pora_86382
+.2002_Tenda_86382
+.2003_Wiwipemo_86382
+.1001_Wolojita_86382
+53.08.08_Wolowaru_86373
+.1001_Bokasape_86373
+.2002_Bokasape Timur_86373
+.2012_Jopu_86373
+.2020_Likanaka_86373
+.2024_Lise Pu'u_86373
+.2016_Lisedetu_86373
+.2019_Liselowobora (Lise Lowobora)_86373
+.2010_Mbuliloo (Mbuli Loo)_86373
+.2014_Mbuliwaralau_86373
+.2015_Mbuliwaralau Utara_86373
+.2021_Nakambara_86373
+.2022_Niramesi (Niromesi)_86373
+.2017_Nualise_86373
+.2011_Rindiwawo_86373
+.2023_Tana Lo'o_86373
+.2013_Wolokoli_86373
+.2018_Wolosoko_86373

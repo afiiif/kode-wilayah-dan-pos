@@ -1,0 +1,102 @@
+91.11.02_Arso_99471
+.2001_Arso Kota_99471
+.2011_Asyaman_99471
+.2016_Bagia_99471
+.2031_Bibiosi_99471
+.2003_Kwimi_99471
+.2030_Sawabuun_99471
+.2006_Sawanawa_99471
+.2004_Ubiyau_99471
+.2002_Workwana_99471
+.2012_Yamta_99471
+.2010_Yanamaa_99471
+.2009_Yuwanain_99471
+91.11.08_Arso Barat_99473
+.2007_Baburia_99473
+.2001_Dukwia_99473
+.2006_Ifia-fia_99473
+.2002_Sanggaria_99473
+.2004_Warbo_99473
+.2005_Yammua_99473
+.2003_Yatu Raharja_99473
+.2008_Yowong_99473
+91.11.06_Arso Timur_99472
+.2013_Amyu_99472
+.2008_Kibay_99472
+.2014_Kikere (Pikere)_99472
+.2006_Kriku_99472
+.2015_Petewi_99472
+.2009_Sangke_99472
+.2007_Skofro_99472
+.2011_Suskun_99472
+.2005_Yetti_99472
+91.11.11_Kaisenar_99465
+.2001_Kaisenar_99465
+.2002_Kiambra_99465
+.2003_Liket_99465
+.2004_Onam_99465
+.2005_Tefanma Satu_99465
+91.11.09_Mannem_99468
+.2004_Pyawi_99468
+.2005_Sawyatami_99468
+.2007_Uskwar_99468
+.2006_Wambes_99468
+.2002_Wembi_99468
+.2003_Wonorejo_99468
+.2001_Yamara_99468
+91.11.03_Senggi_99464
+.2001_Molof_99464
+.2010_Namla_99464
+.2002_Senggi_99464
+.2005_Usku_99464
+.2011_Waley_99464
+.2003_Warlef_99464
+.2006_Woslay_99464
+91.11.05_Skanto_99469
+.2012_Alang-alang Raya_99469
+.2003_Arsopura_99469
+.2009_Gudang Garam_99469
+.2006_Intaimelyan_99469
+.2002_Jaifuri_99469
+.2005_Naramben_99469
+.2010_Saefen Empat Dua_99469
+.2001_Skanto_99469
+.2007_Traimelyan_99469
+.2011_Walma_99469
+.2004_Wiantre_99469
+.2008_Wulukubun_99469
+91.11.07_Towe_99466
+.2005_Bias_99466
+.2009_Jember_99466
+.2007_Lules_99466
+.2006_Milki_99466
+.2010_Niliti_99466
+.2011_Pris_99466
+.2004_Tefalma (Tefanma)_99466
+.2003_Terfones_99466
+.2002_Towe Atas_99466
+.2001_Towe Hitam_99466
+91.11.01_Waris_99467
+.2006_Ampas_99467
+.2001_Banda_99467
+.2007_Bompai_99467
+.2003_Kalifam_99467
+.2005_Kalimala_99467
+.2002_Pund_99467
+.2008_Sack_99467
+.2004_Yuwainda_99467
+91.11.04_Web_99462
+.2001_Dubu_99462
+.2005_Embi_99462
+.2003_Semografi_99462
+.2017_Tatakra_99462
+.2002_Umuraf (Umuaf)_99462
+.2015_Yamraf Dua_99462
+91.11.10_Yaffi_99463
+.2007_Akarinda_99463
+.2003_Amgotro_99463
+.2006_Fafenumbu_99463
+.2004_Jifanggry_99463
+.2005_Monggoafi_99463
+.2001_Yabanda_99463
+.2002_Yuruf_99463

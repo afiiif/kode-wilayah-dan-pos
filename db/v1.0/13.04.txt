@@ -1,0 +1,89 @@
+13.04.14_Batipuah Selatan (Batipuh Selatan)_27266
+.2001_Batu Taba_27266
+.2004_Guguak Malalo_27266
+.2003_Padang Laweh Malalo_27266
+.2002_Sumpur_27266
+13.04.02_Batipuh_27265
+.2001_Andaleh_27265
+.2004_Batipuah Baruh_27265
+.2003_Batipuh Ateh (Batipuah Ateh)_27265
+.2008_Bungo Tanjung/Tanjuang_27265
+.2005_Gunung Rajo (Gunuang Rajo)_27265
+.2006_Pitalah_27265
+.2002_Sabu_27265
+.2007_Tanjung Barulak_27265
+13.04.04_Lima Kaum_27211|27216
+.2001_Baringin_27213
+.2004_Cubadak_27216
+.2005_Labuah/Labuh_27211
+.2002_Lima Kaum (Limo Kaum)_27211
+.2003_Parambahan_27211
+13.04.06_Lintau Buo_27292
+.2002_Buo_27292
+.2004_Pangian_27292
+.2001_Taluak_27292
+.2003_Tigo Jangko_27292
+13.04.13_Lintau Buo Utara_27293
+.2002_Balai Tangah_27293
+.2001_Batu Bulek_27293
+.2004_Lubuk/Lubuak Jantan_27293
+.2003_Tanjung/Tanjuang Bonai_27293
+.2005_Tapi/Tepi Selo_27293
+13.04.11_Padang Ganting_27282
+.2001_Atar_27282
+.2002_Padang Ganting_27282
+13.04.09_Pariangan_27264
+.2001_Batu Basa_27264
+.2005_Pariangan_27264
+.2003_Sawah Tangah_27264
+.2004_Simabur_27264
+.2006_Sungai Jambu_27264
+.2002_Tabek_27264
+13.04.03_Rambatan_27271
+.2002_Balimbing_27271
+.2003_III/Tigo Koto_27271
+.2004_Padang Magek_27271
+.2005_Rambatan_27271
+.2001_Simawang_27271
+13.04.10_Salimpaung (Salimpauang)_27262|27263
+.2003_Lawang Mandahiling/Mandahiliang_27263
+.2005_Salimpaung_27263
+.2002_Situmbuk (Situmbuak)_27263
+.2001_Sumanik (Sumaniak}_27263
+.2004_Supayang_27263
+.2006_Tabek Patah_27262
+13.04.08_Sungai Tarab_27261
+.2003_Gurun_27261
+.2010_Koto Baru_27261
+.2007_Koto Tuo_27261
+.2009_Kumango_27261
+.2005_Padang Laweh_27261
+.2006_Pasie/Pasir Laweh_27261
+.2008_Rao-Rao_27261
+.2001_Simpuruik_27261
+.2002_Sungai Tarab_27261
+.2004_Talang Tangah_27261
+13.04.07_Sungayang_27294
+.2002_Andaleh Baruh Bukik_27294
+.2005_Minang Kabau (Minangkabau)_27294
+.2001_Sungai Patai_27294
+.2004_Sungayang_27294
+.2003_Tanjung (Tanjuang)_27294
+13.04.12_Tanjuang Baru (Tanjung Baru)_27281
+.2002_Barulak_27281
+.2001_Tanjung Alam_27281
+13.04.05_Tanjung Emas_27280
+.2003_Koto Tangah_27280
+.2004_Pagaruyung (Pagaruyuang)_27280
+.2002_Saruaso_27280
+.2001_Tanjung Barulak_27280
+13.04.01_X Koto (Sepuluh Koto)_27151
+.2007_Aie Angek (Aia/Air Angek)_27151
+.2002_Jaho_27151
+.2009_Koto Baru_27151
+.2006_Koto Laweh_27151
+.2008_Pandai Sikek_27151
+.2004_Paninjauan_27151
+.2005_Panyalaian_27151
+.2003_Singgalang_27151
+.2001_Tambangan_27151

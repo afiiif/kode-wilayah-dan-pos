@@ -1,0 +1,178 @@
+53.11.02_Haharu_87153
+.2008_Kadahang_87153
+.2012_Kalamba_87153
+.2010_Mbatapuhu (Mbata Puhu)_87153
+.2009_Napu_87153
+.2006_Praibakul_87153
+.2003_Rambangaru_87153
+.2007_Wunga_87153
+53.11.14_Kahaungu Eti (Kahaunguweti)_87171
+.2001_Kamanggih_87171
+.2002_Kambatabundung (Kambata Bundung)_87171
+.2007_Kataka_87171
+.2005_Kota Kawau (Kotak Kawau)_87171
+.2004_Laimbonga (Lai Mbonga)_87171
+.2006_Matawai Katingga_87171
+.2008_Matawai Maringgu (Matawai Maringu)_87171
+.2009_Mauramba (Mau Ramba)_87171
+.2003_Meurumba (Meorumba)_87171
+53.11.17_Kambata Mapambuhang_87116|87171
+.2003_Laimeta (Lai Meta)_87171
+.2001_Lukuwingir (Luku Wingir / Wikir)_87116
+.2004_Mahubokul (Mahu Bokul)_87171
+.2006_Maidang_87171
+.2005_Marada Mundi_87171
+.2002_Waibidi (Waimbidi)_87171
+53.11.16_Kambera_87113|87116
+.1003_Kambaniru_87114
+.2008_Kiri Tana (Kiritana)_87114
+.1007_Lambanapu_87115
+.1006_Malumbi_87116
+.1005_Mau Hau (Mauhau)_87116
+.1004_Mauliru_87116
+.1002_Prailiu_87113
+.1001_Wangga_87116
+53.11.20_Kanatang_87154
+.2003_Hambapraing (Hamba Praing)_87154
+.2002_Kuta_87154
+.2004_Mondu_87154
+.2005_Ndapayami_87154
+.1001_Temu_87154
+53.11.13_Karera_87172
+.2011_Ananjaki_87172
+.2006_Janggamangu (Jangga Mangu)_87172
+.2005_Nangga_87172
+.2001_Nggongi_87172
+.2002_Praimadita_87172
+.2003_Praisalura_87172
+.2004_Tandula Jangga_87172
+53.11.19_Katala Hamu Lingu_87152
+.2001_Kompa Pari (Kombapari)_87152
+.2004_Lailara (Lai Lara)_87152
+.2003_Mandahu_87152
+.2002_Matawai Amahu_87152
+.2005_Praibakul (Prai Bakul)_87152
+53.11.01_Kota Waingapu_87111|87116
+.1002_Hambala_87112
+.1004_Kamalaputi_87111
+.1001_Kambajawa_87116
+.2012_Lukukamaru_87116
+.1003_Matawai_87116
+.2013_Mbatakapidu (Mbata Kapidu)_87116
+.2014_Pambotandjara (Pambola Njara / Pambotanjara)_87116
+53.11.03_Lewa_87150
+.2013_Bidi Hunga_87150
+.2003_Kambata Wundut_87150
+.2002_Kambuhapang (Kambu Hapang)_87150
+.2004_Kondamara_87150
+.1001_Lewa Paku (Lewapaku)_87150
+.2005_Matawai Pawali_87150
+.2006_Rakawatu_87150
+.2007_Tana Rara (Tanarara)_87150
+53.11.18_Lewa Tidahu_87151
+.2002_BidiPraing_87151
+.2005_Kangeli_87151
+.2006_Laihau (Laihawu)_87151
+.2004_Mondulambi (Mondu Lambi)_87151
+.2003_Umamanu_87151
+.2001_Watumbelar_87151
+53.11.22_Mahu_87170
+.2006_Haray (Harai)_87170
+.2001_Lahiru (La Hiru)_87170
+.2005_Lulundilu (Lujundilu)_87170
+.2002_Patamawai_87170
+.2004_Praikalala_87170
+.2003_Wairara_87170
+53.11.15_Matawai La Pawu (Lappau)_87174
+.2003_Karipi_87174
+.2006_Katiku Luku_87174
+.2005_Katiku Wai_87174
+.2002_Katikutana (Katiku Tana)_87174
+.2001_Prai Bokul/Bakul_87174
+.2004_Wangga Meti_87174
+53.11.21_Ngadu Ngala_87172
+.2003_Hambawutang (Hambautang / Hamba Wutang)_87172
+.2004_Kabanda_87172
+.2002_Kakaha_87172
+.2001_Praiwitu (Prai Witu)_87172
+.2005_Prauraming_87172
+53.11.04_Nggaha Ori Angu (Nggaha Oriangu)_87155
+.2004_Kahiri_87155
+.2001_Makamenggit_87155
+.2012_Ngadulanggi (Ngadulangi)_87155
+.2010_Praikarang (Prai Karang)_87155
+.2003_Praipaha (Prai Paha)_87155
+.2005_Pulu Panjang_87155
+.2011_Tanatuku_87155
+.2002_Tandula Jangga_87155
+53.11.12_Paberiwai_87175
+.2001_Kananggar_87175
+.2003_Karera Jangga_87175
+.2011_Laitaku_87175
+.2002_Mahangwatu (Mehang Mata)_87175
+.2005_Pabera Tanera/Manera_87175
+.2004_Praimbana (Prai Mbana)_87175
+.2010_Winumuru_87175
+53.11.10_Pahunga Lodu_87182
+.2001_Kaliuda_87182
+.2002_Kuruwaki_87182
+.2006_Lambakara_87182
+.2004_Mburukulu_87182
+.2009_Palanggai_87182
+.2005_Pamburu_87182
+.2007_Tamma_87182
+.2003_Tana Manang (Tanamanang)_87182
+53.11.07_Pandawai_87176
+.2008_Kadumbul_87176
+.2003_Kambatatana (Kambata Tana)_87176
+.1001_Kawangu_87176
+.2012_Laindeha_87176
+.2009_Maubokul_87176
+.2007_Palaka Hembi (Palakahembi)_87176
+.1002_Watumbaka_87176
+53.11.06_Pinu Pahar (Pinupahar / Pirapahar)_87161
+.2003_Lailunggi_87161
+.2006_Mahaniwa_87161
+.2001_Ramuk_87161
+.2004_Tawui_87161
+.2005_Wahang_87161
+.2002_Wangga Mbewa_87161
+53.11.09_Rindi_87181
+.2003_Haikatapu (Heikatapu)_87181
+.2005_Hanggaroru_87181
+.2004_Kabaru_87181
+.2008_Kayuri_87181
+.2006_Lailanjang (Lai Lanjang)_87181
+.2001_Rindi_87181
+.2007_Tamburi_87181
+.2002_Tanaraing_87181
+53.11.05_Tabundung_87160
+.2011_Bangga Watu_87160
+.2001_Billa_87160
+.2002_Karita_87160
+.2003_Kuki Talu_87160
+.2007_Pindu Horomi (Hurani)_87160
+.2008_Praing Kareha_87160
+.2004_Tapil_87160
+.2005_Tarimbang_87160
+.2006_Waikanabu_87160
+.2009_Wudi Pandak_87160
+53.11.08_Umalulu_87180
+.2007_Lairuru_87180
+.1001_Lumbukore_87180
+.2005_Matawai Atu_87180
+.2006_Mutunggeding_87180
+.2010_Ngaru Kanoru_87180
+.2003_Patawang_87180
+.2002_Umalulu_87180
+.2004_Wanga_87180
+.2008_Watuhadang (Watu Hadang)_87180
+.2009_Watupuda (Watukuda / Watu Puda)_87180
+53.11.11_Wulla Waijelu (Wula Waijelu)_87183
+.2002_Hadakamali_87183
+.2005_Lainjanji_87183
+.2006_Laipandak_87183
+.2004_Latena (La Tena)_87183
+.2003_Lumbu Manggit_87183
+.2008_Paranda_87183
+.2001_Wulla (Wula)_87183

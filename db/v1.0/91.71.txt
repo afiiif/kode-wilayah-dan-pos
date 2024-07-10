@@ -1,0 +1,44 @@
+91.71.03_Abepura_99321|99329
+.1011_Abepantai_99321
+.1002_Asano_99322
+.1008_Awiyo_99323
+.2004_Engros (Enggros)_99324
+.1012_Kota Baru_99325
+.2007_Koya Koso_99326
+.2001_Nafri_99327
+.1014_Vim_99225
+.1015_Wahno_99226
+.1016_Way Mhorock_99229
+.1010_Yobe_99329
+91.71.05_Heram_99331|99334
+.1001_Hedam_99331
+.1002_Waena_99332
+.2005_Waena II_99328
+.1004_Yabansai_99333
+.2003_Yoka_99334
+91.71.02_Jayapura Selatan_99220|99229
+.1002_Ardipura_99223
+.1001_Argapura_99222
+.1005_Entrop_99224
+.1006_Hamadi_99220
+.1003_Numbai (Numbay)_99227
+.2007_Tahima Sorama_99221
+.2008_Tobati_99228
+91.71.01_Jayapura Utara_99111|99118
+.1007_Angkasapura_99113
+.1002_Bayangkara (Bhayangkara)_99112
+.1001_Gurabesi_99111
+.1004_Imbi_99116
+.2008_Kayo Batu_99118
+.1006_Mandala_99115
+.1005_Tanjung Ria_99117
+.1003_Trikora_99114
+91.71.04_Muara Tami_99311|99318
+.2006_Holtekamp_99311
+.1004_Koya Barat_99312
+.2007_Koya Tengah_99313
+.1005_Koya Timur_99314
+.2008_Mosso_99318
+.2001_Skow Mabo (Skouw Mabo )_99316
+.2003_Skow Sae (Skouw Sae)_99317
+.2002_Skow Yambe (Skouw Yambe)_99315

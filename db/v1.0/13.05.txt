@@ -1,0 +1,120 @@
+13.05.04_2 x 11 Enam Lingkuang_25584
+.2003_Lubuk Pandan_25584
+.2002_Sicincin_25584
+.2004_Sungai Asam_25584
+13.05.15_2 x 11 Kayu Tanam_25585
+.2003_Anduring (Anduriang)_25585
+.2002_Guguak_25585
+.2004_Kapalo Hilalang_25585
+.2001_Kayu Tanam_25585
+13.05.02_Batang Anai_25586
+.2004_Buayan Lubuk Alung_25586
+.2002_Kasang_25586
+.2001_Katapiang_25586
+.2003_Sungai Buluah_25586
+.2006_Sungai Buluah Barat_25586
+.2008_Sungai Buluah Selatan_25586
+.2005_Sungai Buluah Timur_25586
+.2007_Sungai Buluah Utara_25586
+13.05.13_Batang Gasan_25563
+.2002_Gasan Gadang_25563
+.2001_Malai V Suku_25563
+.2003_Malai V Suku Timur_25563
+13.05.17_Enam Lingkung_25583
+.2005_Gadua/Gadur_25583
+.2002_Koto Tinggi_25583
+.2001_Pakandangan_25583
+.2004_Parit Malintang_25583
+.2003_Toboh Ketek_25583
+13.05.09_IV Koto Aur Malintang_25564
+.2005_Balai Baiak Malai III Koto_25564
+.2001_III Koto Aur Malintang_25564
+.2004_III Koto Aur Malintang Selatan_25564
+.2003_III Koto Aur Malintang Timur_25564
+.2002_III Koto Aur Malintang Utara_25564
+13.05.01_Lubuk Alung_25581
+.2004_Aie Tajun Lubuk Alung_25581
+.2001_Lubuk Alung_25581
+.2009_Nagari Balah Hilia Lubuk Alung_25581
+.2003_Pasie Laweh Lubuk Alung_25581
+.2002_Pungguang Kasiak Lubuk Alung_25581
+.2008_Salibutan Lubuk Alung_25581
+.2005_Sikabu Lubuk Alung_25581
+.2007_Singguliang Lubuk Alung_25581
+.2006_Sungai Abang Lubuk Alung_25581
+13.05.03_Nan Sabaris_25571
+.2001_Kapalo Koto_25571
+.2004_Kurai Taji_25571
+.2009_Kurai Taji Timur_25571
+.2003_Padang Bintungan_25571
+.2006_Padang Kandang Pulau Air Padang_25571
+.2002_Pauh Kambar_25571
+.2005_Sunua_25571
+.2008_Sunua Barat_25571
+.2007_Sunua Tengah_25571
+13.05.12_Padang Sago_25573
+.2003_Batu Kalang_25573
+.2006_Batu Kalang Utara (Koto Dalam Utara)_25573
+.2001_Koto Baru_25573
+.2002_Koto Dalam_25573
+.2004_Koto Dalam Barat_25573
+.2005_Koto Dalam Selatan_25573
+13.05.16_Patamuan_25574
+.2006_Kampuang Tanjuang Koto Mambang Sungai_25574
+.2001_Sungai Durian_25574
+.2002_Tandikek_25574
+.2005_Tandikek Barat_25574
+.2004_Tandikek Selatan_25574
+.2003_Tandikek Utara_25574
+13.05.11_Sintuak Toboh Gadang_25582
+.2001_Sintuak_25582
+.2002_Toboh Gadang_25582
+.2004_Toboh Gadang Barat_25582
+.2003_Toboh Gadang Selatan_25582
+.2005_Toboh Gadang Timur_25582
+13.05.07_Sungai Garingging_25562
+.2003_Batu Gadang Kuranji Hulu_25562
+.2001_Kuranji Hulu_25562
+.2002_Malai III Koto_25562
+.2004_Sungai Sirah Kuranji Hulu_25562
+13.05.08_Sungai Limau_25561
+.2003_Guguak Kuranji Hilir_25561
+.2004_Koto Tinggi Kuranji Hilir_25561
+.2001_Kuranji Hilir_25561
+.2002_Pilubang_25561
+13.05.10_Ulakan Tapakih_25572
+.2008_Kampuang Gelapuang Ulakan_25572
+.2006_Manggopoh Palak Gadang Ulakan_25572
+.2003_Padang Toboh Ulakan_25572
+.2007_Sandi Ulakan_25572
+.2005_Seulayat Ulakan_25572
+.2004_Sungai Gimba Ulakan_25572
+.2001_Tapakih_25572
+.2002_Ulakan_25572
+13.05.06_V Koto Kampung Dalam_25552
+.2001_Campago_25552
+.2003_Campago Barat_25552
+.2004_Campago Selatan_25552
+.2002_Sikucua_25552
+.2008_Sikucua Barat_25552
+.2007_Sikucua Tengah_25552
+.2006_Sikucua Timur_25552
+.2005_Sikucua Utara_25552
+13.05.14_V Koto Timur_25575
+.2003_Gunung Padang Alai_25575
+.2001_Kudu Gantiang_25575
+.2004_Kudu Gantiang Barat_25575
+.2002_Limau Puruik_25575
+13.05.05_VII Koto Sungai Sarik_25576
+.2008_Ambuang Kapua Sungai Sariak_25576
+.2001_Balah Aie_25576
+.2012_Balah Aie Timur_25576
+.2011_Balah Aie Utara_25576
+.2007_Bisati Sungai Sariak_25576
+.2004_Lareh Nan Panjang_25576
+.2006_Lareh Nan Panjang Barat_25576
+.2005_Lareh Nan Panjang Selatan_25576
+.2009_Lareh Nan Panjang Sungai Sariak_25576
+.2010_Limpato Sungai Sariak_25576
+.2003_Lurah Ampalu_25576
+.2002_Sungai Sariak_25576

@@ -1,0 +1,85 @@
+12.77.06_Padangsidimpuan Angkola Julu_22729
+.2002_Batu Layan_22729
+.2001_Joring Lombang_22729
+.2008_Joring Natobang_22729
+.2005_Mompang_22729
+.2004_Pintu Langit Jae_22729
+.2006_Rimba Soping_22729
+.2003_Simasom_22729
+.2007_Simatohir_22729
+12.77.03_Padangsidimpuan Batunadua_22731
+.2009_Aek Bayur_22731
+.2013_Aek Najaji_22731
+.2006_Aek Tuhul_22731
+.2015_Bargottopong (Bargot Topong)_22731
+.2007_Baruas_22731
+.2012_Batang Bahal_22731
+.1001_Batunadua Jae_22731
+.1002_Batunadua Julu_22731
+.2004_Gunung Hasahatan_22731
+.2010_Pudun Jae_22731
+.2011_Pudun Julu_22731
+.2003_Purwodadi_22731
+.2008_Siloting_22731
+.2014_Simirik_22731
+.2005_Ujunggurap (Ujung Gurab)_22731
+12.77.04_Padangsidimpuan Hutaimbaru_22700|22709
+.2008_Huta Padang_22700
+.1001_Hutaimbaru_22701
+.1004_Lembah Lubuk Manik_22702
+.1002_Lubuk Raya_22703
+.1005_Palopat Maria_22704
+.2009_Partihaman Saroha_22705
+.1003_Sabungan Jae_22706
+.2006_Sabungan Sipabangun_22707
+.2007_Singali_22708
+.2010_Tinjoman Lama_22709
+12.77.02_Padangsidimpuan Selatan_22721|22728
+.1006_Aek Tampang_22726
+.1010_Hanopan_22721
+.1003_Losung_22722
+.1007_Padang Matinggi_22727
+.1011_Padang Matinggi Lestari_22727
+.1009_Sidangkal_22721
+.1008_Silandit_22728
+.1004_Sitamiang_22723
+.1012_Sitamiang Baru_22723
+.1005_Ujung Padang_22725
+.1001_Wek V_22723
+.1002_Wek VI_22724
+12.77.05_Padangsidimpuan Tenggara_22730
+.2008_Goti_22730
+.2010_Huta Koje (Huta Koje Pijor Koling)_22730
+.2015_Huta Lombang_22730
+.2012_Huta Padang_22730
+.2011_Hutalimbong (Huta Limbong)_22730
+.2014_Labuhan Labo_22730
+.2017_Labuhan Rasoki_22730
+.2009_Manegen_22730
+.2016_Manunggang Jae_22730
+.2007_Manunggang Julu_22730
+.2003_Palopat (Pal IV) Pijor Koling_22730
+.2013_Perkebunan Pijor Koling_22730
+.1002_Pijor Koling_22730
+.2005_Purbatua Pijor Koling_22730
+.2004_Salambue_22730
+.2006_Sigulang_22730
+.1001_Sihitang_22730
+.2018_Tarutung Baru_22730
+12.77.01_Padangsidimpuan Utara_22711|22719
+.1007_Batang Ayumi Jae_22716
+.1008_Batang Ayumi Julu_22711
+.1014_Bincar_22711
+.1011_Bonan Dolok_22712
+.1015_Kantin_22711
+.1016_Kayu Ombun_22711
+.1012_Losung Batu_22713
+.1010_Panyanggar_22714
+.1009_Sadabuan_22715
+.1005_Tanobato (Tano Bato)_22716
+.1013_Timbangan_22711
+.1006_Tobat_22716
+.1001_Wek I_22715
+.1002_Wek II_22718
+.1003_Wek III_22719
+.1004_Wek IV_22719

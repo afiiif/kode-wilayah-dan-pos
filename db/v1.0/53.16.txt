@@ -1,0 +1,120 @@
+53.16.01_Aesesa_86472
+.2010_Aerama (Aeramo)_86472
+.1009_Danga_86472
+.1001_Dhawe_86472
+.2002_Labolewa_86472
+.1011_Lape_86472
+.2012_Marapokot_86472
+.1003_Mbay I_86472
+.1007_Mbay II_86472
+.2018_Nangadhero_86472
+.2015_Ngegedhawe_86472
+.2017_Nggolombay (Nggolo Mbay)_86472
+.2006_Nggolonio_86472
+.2008_Olaia_86472
+.2016_Tadakisa (Tedakisa)_86472
+.2004_Tedamude_86472
+.2013_Tonggurambang (Tonggu Rambang)_86472
+.1005_Towak_86472
+.2014_Waekokak_86472
+53.16.07_Aesesa Selatan_86470
+.2003_Langedhawe_86470
+.2001_Rendubutowe (Rendu Butowe)_86470
+.2007_Rendut Tutubhada_86470
+.2004_Renduteno (Rendutenoe)_86470
+.2005_Renduwawo_86470
+.2002_Tengatiba_86470
+.2006_Wajomara_86470
+53.16.03_Boawae_86462
+.2022_Alorawe_86462
+.2019_Dhereisa_86462
+.2023_Focolodorawe_86462
+.2018_Gerodhere_86462
+.2010_Kelewae_86462
+.2012_Kelimado_86462
+.2006_Legederu (Leguderu)_86462
+.2014_Mulakoli_86462
+.1005_Nageoga_86462
+.2008_Nagerawe_86462
+.1003_Nagesapadhi_86462
+.1001_Natanage_86462
+.1021_Natanage Timur_86462
+.1013_Olakile_86462
+.2016_Raja_86462
+.2027_Raja Selatan_86462
+.2026_Raja Timur_86462
+.1011_Ratongamobo_86462
+.1009_Rega_86462
+.2020_Rigi_86462
+.2002_Rowa_86462
+.2004_Solo_86462
+.2015_Wea Au_86462
+.1007_Wolopogo_86462
+.2017_Wolowea_86462
+.2025_Wolowea Barat_86462
+.2024_Wolowea Timur_86462
+53.16.06_Keo Tengah_86464
+.2011_Keli_86464
+.2008_Kotodirumali (Kotadirumali)_86464
+.2005_Kotowuji Barat (Kotawuji Barat)_86464
+.2004_Kotowuji Timur (Kotawuji Timur)_86464
+.2010_Ladolima_86464
+.2013_Ladolima Timur_86464
+.2014_Ladolima Utara (Ladolima Barat)_86464
+.2002_Lewangera_86464
+.2006_Mbaenuamuri_86464
+.2012_Ngera_86464
+.2016_Paumali_86464
+.2009_Pautola_86464
+.2007_Udiworowatu_86464
+.2003_Wajo_86464
+.2015_Wajo Timur_86464
+.2001_Witurombaua_86464
+53.16.04_Mauponggo_86463
+.2006_Aewoe_86463
+.2002_Bela_86463
+.2009_Jawapogo_86463
+.2019_Keliwatulewa_86463
+.2016_Kotagana_86463
+.2018_Lajawajo_86463
+.2011_Lodaolo_86463
+.2017_Lokalaba_86463
+.2005_Maukeli_86463
+.1001_Mauponggo (Mau Ponggo)_86463
+.2014_Salalejo (Selalejo)_86463
+.2008_Sawu_86463
+.2021_Selalejo Timur_86463
+.2015_Ua_86463
+.2010_Ululoga_86463
+.2013_Woewolo_86463
+.2012_Woloede_86463
+.2003_Wolokisa_86463
+.2020_Wololelu_86463
+.2007_Wolotelu_86463
+.2004_Wuliwalo_86463
+53.16.02_Nangaroro_86465
+.2010_Bidoa_86465
+.2008_Degalea_86465
+.2019_Kodaute_86465
+.2006_Kotakeo_86465
+.2018_Kotakeo Dua_86465
+.2017_Kotakeo Satu_86465
+.1001_Nangaroro_86465
+.2012_Nataute_86465
+.2007_Pagomogo_86465
+.2002_Podenura_86465
+.2005_Riti_86465
+.2003_Tonggo_86465
+.2009_Ulupulu_86465
+.2015_Ulupulu I_86465
+.2011_Utetoto_86465
+.2013_Woedoa_86465
+.2014_Woewutu_86465
+.2004_Wokodekororo_86465
+.2016_Wokowoe_86465
+53.16.05_Wolowae_86471
+.2004_Anakoli_86471
+.2005_Natatoto_86471
+.2003_Tendakinde (Tenda Kinde)_86471
+.2001_Tendatoto_86471
+.2002_Totomala_86471

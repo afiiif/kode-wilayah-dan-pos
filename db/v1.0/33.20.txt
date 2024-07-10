@@ -1,0 +1,211 @@
+33.20.08_Bangsri_59453
+.2006_Bangsri_59453
+.2012_Banjaragung (Banjar Agung)_59453
+.2007_Banjaran_59453
+.2011_Bondo_59453
+.2001_Guyangan_59453
+.2010_Jerukwangi_59453
+.2009_Kedungleper_59453
+.2002_Kepuk_59453
+.2003_Papasan_59453
+.2004_Srikandang_59453
+.2005_Tengguli_59453
+.2008_Wedelan_59453
+33.20.05_Batealit_59461
+.2009_Bantrung_59461
+.2007_Batealit_59461
+.2004_Bawu_59461
+.2008_Bringin_59461
+.2001_Geneng_59461
+.2005_Mindahan_59461
+.2011_Mindahan Kidul_59461
+.2003_Ngasem_59461
+.2010_Pekalongan_59461
+.2002_Raguklampitan_59461
+.2006_Somosari_59461
+33.20.16_Donorojo_59454
+.2006_Bandungharjo_59454
+.2004_Banyumanis_59454
+.2007_Blingoh_59454
+.2002_Clering_59454
+.2008_Jugo_59454
+.2001_Sumberrejo (Sumber Rejo)_59454
+.2005_Tulakan_59454
+.2003_Ujungwatu_59454
+33.20.06_Jepara_59411|59432
+.2016_Bandengan_59432
+.1004_Bapangan_59413
+.1008_Bulu_59418
+.1002_Demaan_59419
+.1009_Jobokuto_59416
+.1001_Karangkebagusan_59411
+.1007_Kauman_59417
+.2014_Kedungcino_59432
+.2015_Kuwasen_59431
+.2012_Mulyoharjo_59431
+.1006_Panggang_59411
+.1011_Pengkol_59415
+.1003_Potroyudan_59412
+.1005_Saripan_59414
+.1010_Ujungbatu_59416
+.2013_Wonorejo_59431
+33.20.13_Kalinyamatan_59462
+.2011_Bakalan_59462
+.2002_Bandungrejo_59462
+.2003_Banyuputih_59462
+.2001_Batukali_59462
+.2005_Damarjati_59462
+.2009_Kriyan_59462
+.2012_Manyargading_59462
+.2007_Margoyoso_59462
+.2004_Pendosawalan_59462
+.2006_Purwogondo_59462
+.2010_Robayan_59462
+.2008_Sendang_59462
+33.20.10_Karimunjawa (Karimun Jawa)_59455
+.2001_Karimunjawa_59455
+.2002_Kemojan (Kemujan)_59455
+.2004_Nyamuk_59455
+.2003_Parang_59455
+33.20.01_Kedung_59463
+.2012_Bugel_59463
+.2010_Bulak Baru (Bulakbaru)_59463
+.2013_Dongos_59463
+.2011_Jondang_59463
+.2002_Kalianyar_59463
+.2003_Karangaji_59463
+.2001_Kedungmalang_59463
+.2015_Kerso_59463
+.2014_Menganti_59463
+.2009_Panggung_59463
+.2017_Rau_59463
+.2006_Sowan Kidul_59463
+.2005_Sowan Lor_59463
+.2018_Sukosono_59463
+.2008_Surodadi_59463
+.2016_Tanggul Tlare (Tanggultlare)_59463
+.2004_Tedunan_59463
+.2007_Wanusobo_59463
+33.20.09_Keling_59456
+.2020_Bumiharjo_59456
+.2002_Damarwulan_59456
+.2009_Gelang_59456
+.2010_Jlegong_59456
+.2007_Kaligarang_59456
+.2011_Kelet_59456
+.2008_Keling_59456
+.2005_Klepu_59456
+.2003_Kunir_59456
+.2001_Tempur_59456
+.2006_Tunahan_59456
+.2004_Watuaji_59456
+33.20.14_Kembang_59457
+.2010_Balong_59457
+.2003_Bucu_59457
+.2004_Cepogo_59457
+.2007_Dermolo_59457
+.2001_Dudakawu_59457
+.2006_Jinggotan_59457
+.2008_Kaliaman_59457
+.2011_Kancilan_59457
+.2005_Pendem_59457
+.2002_Sumanding_59457
+.2009_Tubanan_59457
+33.20.04_Mayong_59465
+.2015_Bandung_59465
+.2010_Buaran_59465
+.2016_Bungu_59465
+.2013_Datar_59465
+.2007_Jebol_59465
+.2004_Kuanyar_59465
+.2018_Mayong Kidul_59465
+.2001_Mayong Lor_59465
+.2011_Ngroto_59465
+.2017_Pancur_59465
+.2003_Paren_59465
+.2005_Pelang_59465
+.2009_Pelemkerep_59465
+.2014_Pule_59465
+.2012_Rajekwesi_59465
+.2006_Sengonbugel_59465
+.2008_Singorojo_59465
+.2002_Tigojuru (Tigajuru)_59465
+33.20.07_Mlonggo_59452
+.2011_Jambu_59452
+.2015_Jambu Timur_59452
+.2014_Karanggondang_59452
+.2001_Mororejo_59452
+.2013_Sekuro_59452
+.2010_Sinanggul_59452
+.2012_Srobyong_59452
+.2009_Suwawal_59452
+33.20.12_Nalumsari_59466
+.2014_Bategede_59466
+.2012_Bedanpete (Bendanpete)_59466
+.2001_Blimbingrejo_59466
+.2009_Daren_59466
+.2015_Dorang_59466
+.2005_Gemiring Kidul_59466
+.2006_Gemiring Lor_59466
+.2004_Jatisari_59466
+.2010_Karangnongko_59466
+.2013_Muryolobo_59466
+.2007_Nalumsari_59466
+.2011_Ngetuk_59466
+.2003_Pringtulis_59466
+.2008_Tritis_59466
+.2002_Tunggulpandean_59466
+33.20.15_Pakis Aji_59450
+.2002_Bulungan_59450
+.2004_Kawak_59450
+.2001_Lebak_59450
+.2008_Mambak_59450
+.2006_Plajan_59450
+.2007_Slagi_59450
+.2003_Suwawal Timur_59450
+.2005_Tanjung_59450
+33.20.02_Pecangaan_59460
+.2010_Gemulung_59460
+.2003_Gerdu_59460
+.2001_Kaliombo_59460
+.2002_Karangrandu_59460
+.2012_Krasak_59460
+.2009_Lebuawu_59460
+.2007_Ngeling_59460
+.2004_Pecangaan Kulon_59460
+.2011_Pecangaan Wetan_59460
+.2008_Pulodarat_59460
+.2005_Rengging_59460
+.2006_Troso_59460
+33.20.11_Tahunan_59421|59451
+.2009_Demangan_59422
+.2013_Kecapi_59429
+.2015_Krapyak_59421
+.2002_Langon_59425
+.2005_Mangunan_59422
+.2011_Mantingan_59421
+.2001_Ngabul_59428
+.2004_Petekeyan_59423
+.2006_Platar_59423
+.2007_Semat_59424
+.2014_Senenan_59426
+.2003_Sukodono_59425
+.2012_Tahunan_59451
+.2010_Tegalsambi_59427
+.2008_Telukawur_59427
+33.20.03_Welahan_59464
+.2015_Brantak Sekarjati (Brantaksekarjati)_59464
+.2005_Bugo_59464
+.2007_Gedangan_59464
+.2011_Gidanglelo (Gidangelo)_59464
+.2003_Guwosobokerto_59464
+.2010_Kalipucang Kulon_59464
+.2009_Kalipucang Wetan_59464
+.2002_Karanganyar_59464
+.2004_Kedungsarimulyo_59464
+.2012_Kendengsidialit_59464
+.2008_Ketilengsingolelo_59464
+.2013_Sidigede_59464
+.2014_Teluk Wetan (Telukwetan)_59464
+.2001_Ujung Pandan (Ujungpandan)_59464
+.2006_Welahan_59464

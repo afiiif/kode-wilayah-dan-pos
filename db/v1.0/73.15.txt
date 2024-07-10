@@ -1,0 +1,121 @@
+73.15.12_Batulappa (Batu Lappa)_91253
+.2001_Batu Lappa (Batulappa)_91253
+.2005_Kaseralau_91253
+.1003_Kassa_91253
+.2004_Tapporang_91253
+.2006_Watang Kassa (Mattirowali)_91253
+73.15.08_Cempa_91262
+.1001_Cempa_91262
+.2002_Mangki_91262
+.2003_Matunru Tunrue (Mattunru Tunrue)_91262
+.2006_Salipolo_91262
+.2004_Sikkuale_91262
+.2005_Tadangpalie (Tadang Palie)_91262
+.2007_Tanra Tuo_91262
+73.15.06_Duampanua_91251
+.2014_Bababinanga (Baba Binanga)_91251
+.2015_Barugae_91251
+.1005_Bittoeng_91251
+.2012_Bungi_91251
+.2009_Buttusawe_91251
+.1004_Data_91251
+.2006_Kaballangan (Kaballangang)_91251
+.2008_Kaliang_91251
+.2011_Katomporang_91251
+.1003_Lampa_91251
+.2010_Maroneng_91251
+.2013_Massewae_91251
+.2007_Paria_91251
+.1001_Pekkabata_91251
+.1002_Tatae_91251
+73.15.10_Lansirang (Lanrisang)_91272
+.2004_Amassangeng (Amassangang)_91272
+.2005_Barang Palie_91272
+.1001_Lansirang (Lanrisang)_91272
+.2007_Lerang_91272
+.2003_Mallongi Longi_91272
+.2002_Samaulue_91272
+.2006_Waetuoe (Wae Tuwoe)_91272
+73.15.07_Lembang_91254
+.2015_Bakaru_91254
+.2008_Basseang_91254
+.2010_Benteng Paremba_91254
+.1002_Betteng_91254
+.2003_Binanga Karaeng_91254
+.2009_Kariango_91254
+.2012_Lembang Mesakada_91254
+.2005_Letta_91254
+.2011_Pakeng_91254
+.2016_Pangaparang_91254
+.2004_Rajang_91254
+.2014_Sabbang Paru_91254
+.2013_Sali Sali_91254
+.2007_Suppirang_91254
+.1001_Taddokong (Tadokkong)_91254
+.2006_Ulu Saddang (Ulusaddang)_91254
+73.15.03_Mattiro Bulu_91271
+.2006_Alitta_91271
+.2008_Bunga_91271
+.2009_Makkawaru_91271
+.1001_Manarang_91271
+.2005_Marannu_91271
+.2007_Padaelo_91271
+.1002_Padaidi_91271
+.2004_Padakkalawa_91271
+.2003_Pananrang (Pannanrang)_91271
+73.15.01_Mattiro Sompe (Matirro Sompe)_91261
+.1001_Langnga (Langa)_91261
+.2003_Massulowalie_91261
+.2008_Mattirotasi (Mattiro Tasi)_91261
+.2004_Mattombong_91261
+.2005_Mattongang Tongang_91261
+.1002_Pallameang_91261
+.2006_Patobong_91261
+.2007_Samaenre_91261
+.2009_Siwolong Polong_91261
+73.15.11_Paleteang_91213|91215
+.1006_Benteng Sawito (Benteng Sawitto)_91215
+.1005_Laleng Bata_91215
+.1002_Macinnae_91214
+.1004_Mamminasae_91215
+.1001_Pacongang_91215
+.1003_Temmassarangnge_91213
+73.15.05_Patampanua_91252
+.1001_Benteng_91252
+.2005_Leppangang_91252
+.1004_Maccirinna_91252
+.2006_Malimpung_91252
+.2011_Masolo_91252
+.2007_Mattiroade (Mattiro Ade)_91252
+.2009_Padang Loang_91252
+.2010_Pincara_91252
+.2008_Sipatuo_91252
+.1002_Teppo_91252
+.1003_Tonyamang_91252
+73.15.02_Suppa_91273
+.2003_Lero_91273
+.2008_Lotang Salo_91273
+.2005_Maritengngae_91273
+.2010_Polewali_91273
+.2006_Tasiwalie_91273
+.1002_Tellumpanua_91273
+.2009_Ujung Labuang_91273
+.2004_Watang Pulu_91273
+.1001_Watang Suppa_91273
+.2007_Wiring Tasi (Wiringtasi)_91273
+73.15.09_Tiroang_91256
+.1003_Fakkie (Pakkie)_91256
+.1002_Marawi_91256
+.1005_Mattiro Deceng_91256
+.1001_Pammase_91256
+.1006_Samaturue_91256
+.1004_Tiroang_91256
+73.15.04_Watang Sawitto (Watang Sawito)_91211|91221
+.1006_Bentengnge_91221
+.1001_Jaya_91213
+.1003_Maccorawalie_91212
+.1004_Penrang_91219
+.1005_Salo_91216
+.1002_Sawito (Sawitto)_91211
+.1008_Siparappe_91217
+.1007_Sipatokkong_91218

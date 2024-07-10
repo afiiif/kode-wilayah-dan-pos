@@ -1,0 +1,160 @@
+53.13.02_Atadei_86685
+.2001_Atakera (Atakore)_86685
+.2012_Dori Pewut_86685
+.2011_Dulir_86685
+.2010_Ile Kerbau_86685
+.2008_Ile Kimok_86685
+.2009_Katakeja_86685
+.2007_Lebaata_86685
+.2004_Lerek_86685
+.2016_Lewogroma_86685
+.2002_Lusilame_86685
+.2014_Nogo Doni_86685
+.2013_Nuba Atalojo_86685
+.2015_Nubaboli_86685
+.2005_Nubahaeraka_86685
+.2006_Tubukrajan (Tubuk Rajan)_86685
+53.13.07_Buyasuri_86692
+.2020_Atu Wa'lupang_86692
+.2003_Atulaleng_86692
+.2013_Bareng_86692
+.2015_Bean_86692
+.2002_Benihading I_86692
+.2016_Benihading II_86692
+.2010_Buriwutung_86692
+.2014_Kalikur_86692
+.2008_Kalikur WL_86692
+.2007_Kaohua_86692
+.2006_Leuburi_86692
+.2012_Leuwohung_86692
+.2005_Loyobohor_86692
+.2011_Mampir_86692
+.2001_Panama_86692
+.2004_Roho_86692
+.2019_Rumang_86692
+.2017_Tobotani_86692
+.2018_Tubung Walang_86692
+.2009_Umaleu_86692
+53.13.03_Ile Ape_86683
+.2005_Amakaka_86683
+.2025_Beutaran_86683
+.2006_Bungamuda_86683
+.2002_Dulitukan_86683
+.2001_Kolipadan_86683
+.2013_Kolontobo_86683
+.2024_Lamawara_86683
+.2014_Laranwutun_86683
+.2018_Muruona_86683
+.2007_Napasabok_86683
+.2022_Palilolon_86683
+.2012_Petuntawa_86683
+.2026_Riangbao_86683
+.2003_Tagawiti_86683
+.2016_Tanjung Batu_86683
+.2004_Waowala_86683
+.2015_Watodiri_86683
+53.13.09_Ile Ape Timur_86687
+.2007_Aulesa_86687
+.2005_Bao Lali Duli_86687
+.2002_Jontona_86687
+.2006_Lamaau_86687
+.2009_Lamagute_86687
+.2004_Lamatokan_86687
+.2003_Lamawolo_86687
+.2001_Todanara_86687
+.2008_Waimatan_86687
+53.13.04_Lebatukan_86681
+.2016_Atakowa_86681
+.2017_Banitobo_86681
+.2005_Baopama (Baopana)_86681
+.2012_Belorebong (Balurebong)_86681
+.2008_Dikesare_86681
+.2001_Hadakewa_86681
+.2013_Lamadale_86681
+.2015_Lamalela_86681
+.2002_Lamatuka_86681
+.2010_Lerahinga_86681
+.2007_Lewoeleng_86681
+.2004_Lodotodokowa_86681
+.2009_Merdeka_86681
+.2003_Seranggorang_86681
+.2011_Tapobarang (Tapobaran)_86681
+.2014_Tapolangu_86681
+.2006_Waienga_86681
+53.13.01_Naga Wutung_86684
+.2003_Atawai_86684
+.2007_Babokerong_86684
+.2012_Baobolak_86684
+.2009_Belobaja_86684
+.2014_Boli Bean_86684
+.2002_Duawutun_86684
+.2016_Idalolong_86684
+.2006_Ileboli_86684
+.2005_Labalimut_86684
+.2018_Liwulagang_86684
+.2010_Lolong_86684
+.2004_Lusiduawutun_86684
+.2001_Pasir Putih_86684
+.2008_Penikenek_86684
+.2017_Ria Bao_86684
+.2013_Tewaowutung_86684
+.2015_Warawatung_86684
+.2011_Wuakoreng_86684
+53.13.05_Nubatukan_86616|86682
+.2018_Bakalerek_86682
+.2006_Baolangu_86682
+.2009_Belobatang_86682
+.2019_Bour_86682
+.1001_Lewoleba_86611
+.1017_Lewoleba Barat_86613
+.1016_Lewoleba Selatan_86682
+.1003_Lewoleba Tengah_86615
+.1002_Lewoleba Timur_86616
+.1004_Lewoleba Utara_86612
+.2014_Lite Ulu Mado_86616
+.2007_Nubamado_86682
+.2013_Pada_86682
+.2012_Paubokol_86682
+.1015_Selandoro_86682
+.2011_Udak Melomata_86682
+.2010_Waijarang_86682
+.2008_Watokobu_86682
+53.13.06_Omesuri_86691
+.2006_Aramengi_86691
+.2001_Balauring_86691
+.2009_Dolulolong_86691
+.2008_Hingalamamengi_86691
+.2010_Hoelea I_86691
+.2016_Hoelea II_86691
+.2017_Lebewala_86691
+.2003_Leubatang_86691
+.2013_Leudanung_86691
+.2012_Leuwayang_86691
+.2005_Mahal I_86691
+.2018_Mahal II_86691
+.2007_Meluwiting_86691
+.2022_Meluwiting I_86691
+.2002_Nilanapo_86691
+.2014_Normal_86691
+.2021_Normal I_86691
+.2019_Peusawa_86691
+.2011_Roma_86691
+.2015_Wailolong_86691
+.2004_Walang Sawah_86691
+.2020_Wowong_86691
+53.13.08_Wulandoni_86686
+.2001_Alap Atadei_86686
+.2014_Ataili_86686
+.2002_Atakera_86686
+.2011_Belobao_86686
+.2006_Imu Lolong (Imulolong)_86686
+.2008_Lamalera A_86686
+.2007_Lamalera B_86686
+.2009_Lelata_86686
+.2003_Leworaja_86686
+.2004_Pantai Harapan_86686
+.2012_Posiwatu_86686
+.2005_Puor_86686
+.2013_Puor B_86686
+.2015_Tapobali_86686
+.2010_Wulandoni_86686

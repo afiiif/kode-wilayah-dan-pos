@@ -1,0 +1,146 @@
+73.02.03_Bonto Bahari_92571
+.2006_Ara_92571
+.1003_Benjala_92571
+.2005_Bira_92571
+.2007_Darudiah (Darubiah)_92571
+.2008_Lembanna_92571
+.1002_Sapo Lohe (Sapolohe)_92571
+.1004_Tanah Beru_92571
+.1001_Tanahl Lemo (Tanah Lemo)_92571
+73.02.04_Bonto Tiro (Bontotiro)_92572
+.2004_Batang_92572
+.2008_Bonto Barua_92572
+.2011_Bonto Bulaeng_92572
+.2010_Bonto Marannu_92572
+.2005_Bonto Tangnga_92572
+.2012_Buhung Bundang_92572
+.2006_Caramming_92572
+.2002_Dwi Tiro_92572
+.1001_Eka Tiro (Ekatiro)_92572
+.2013_Lamanda_92572
+.2009_Paku Balaho (Pakubalaho)_92572
+.2007_Tamalanrea_92572
+.2003_Tri Tiro (Tritiro)_92572
+73.02.07_Bulukumpa (Bulukumba)_92552
+.2014_Balang Pesoang_92552
+.2007_Balang Taroang_92552
+.1003_Balla Saraja (Ballasaraja)_92552
+.2017_Baruga Riattang_92552
+.2008_Barugae_92552
+.2015_Batulohe_92552
+.2004_Bonto Bulaeng_92552
+.2016_Bonto Mangiring (Bontomangiring)_92552
+.2006_Bonto Minasa_92552
+.2005_Bulo-Bulo_92552
+.1002_Jawi - Jawi_92552
+.2011_Jojjolo_92552
+.2010_Kambuno_92552
+.2009_Salassae_92552
+.2012_Sapo Bonto_92552
+.1001_Tanete_92552
+.2013_Tibona_92552
+73.02.01_Gantarang (Gantorang, Gangking)_92561
+.2019_Barombong_92561
+.2015_Benteng Gattareng (Benteng Gatareng)_92561
+.2011_Benteng Melawang (Benteng Malewang)_92561
+.2004_Bialo_92561
+.2005_Bonto Macinna_92561
+.2018_Bonto Masila (Bontomasila)_92561
+.2010_Bonto Nyeleng (Bontonyeleng)_92561
+.2013_Bonto Raja (Bontoraja)_92561
+.2008_Bonto Sunggu_92561
+.2016_Bukit Harapan_92561
+.2020_Bukit Tinggi_92561
+.2007_Dampang_92561
+.2006_Gattareng_92561
+.1002_Jalanjang_92561
+.1003_Mario Rennu (Mariorennu)_92561
+.1001_Matekko (Mattekko)_92561
+.2012_Padang_92561
+.2014_Paenre Lampoe (Paenre Lompoe)_92561
+.2009_Palang Barae (Palambarae)_92561
+.2017_Polewali_92561
+.2021_Taccorong_92561
+73.02.05_Herlang (Hero Lange Lange)_92573
+.1002_Bonto Kamase_92573
+.2006_Borong_92573
+.2005_Gunturu_92573
+.2003_Karassing_92573
+.2008_Pataro_92573
+.2004_Singa_92573
+.1001_Tanuntung_92573
+.2007_Tugondeng_92573
+73.02.06_Kajang_92574
+.2009_Batu Nilamung (Batunilamung)_92574
+.2012_Bonto Baji_92574
+.2007_Bonto Biraeng_92574
+.2013_Bonto Rannu (Bontorannu)_92574
+.1002_Laikang_92574
+.2008_Lembang_92574
+.2017_Lembang Lohe (Lembanglohe)_92574
+.2004_Lembanna_92574
+.2018_Lolisang_92574
+.2011_Malleleng_92574
+.2010_Mattoanging_92574
+.2019_Pantama_92574
+.2014_Pattiroang_92574
+.2005_Possi Tanah_92574
+.2016_Sangkala_92574
+.2015_Sapanang_92574
+.2003_Tambangan_92574
+.1001_Tanah Jaya_92574
+.2006_Tanah Toa (Tanah Towa)_92574
+73.02.08_Kindang_92517
+.2004_Arinhua (Anrihua)_92517
+.2007_Balibo_92517
+.2006_Benteng Palioi_92517
+.1001_Borong Rappoa_92517
+.2008_Garuntungan_92517
+.2011_Kahayya_92517
+.2003_Kindang_92517
+.2002_Mattiro Walie (Mattirowalie)_92517
+.2009_Oro Gading_92517
+.2010_Sipaenre_92517
+.2012_Somba Palioli_92517
+.2013_Sopa_92517
+.2005_Tamaona_92517
+73.02.10_Rilauale (Rilau Ale)_92553
+.2013_Anrang_92553
+.2006_Baji Minasa (Bajiminasa)_92553
+.2009_Batukaroppa_92553
+.2003_Bonto Bangun (Bontobangun)_92553
+.2010_Bonto Haru (Bontoharu)_92553
+.2005_Bonto Lohe (Bontolohe)_92553
+.2001_Bonto Manai (Bontomanai)_92553
+.2007_Bonto Matene_92553
+.2012_Bulo Lohe (Bulolohe)_92553
+.2004_Karama_92553
+.1002_Palampang_92553
+.2014_Pangalloang_92553
+.2011_Swatani_92553
+.2008_Tanah Harapan_92553
+.2015_Topanda_92553
+73.02.02_Ujung Bulu_92511|92518
+.1002_Bentengnge_92511
+.1005_Bintarore_92514
+.1007_Caile_92517
+.1009_Ela-Ela_92511
+.1004_Kalumeme_92518
+.1006_Kasimpureng_92511
+.1008_L O K A (Loka)_92511
+.1001_Tanah Kongkong_92513
+.1003_Terang-Terang_92511
+73.02.09_Ujungloe (Ujung Loe)_92562
+.2003_Balle Angin (Balleanging / Balleangin)_92562
+.2004_Balong_92562
+.2012_Bijawang_92562
+.1001_Dannuang_92562
+.2002_Garanta_92562
+.2010_Lonrong_92562
+.2009_Manjalling_92562
+.2006_Manyampa_92562
+.2013_Paccaramengang_92562
+.2008_Padang Loang_92562
+.2011_Salemba_92562
+.2005_Seppang_92562
+.2007_Tammatto (Tamatto)_92562

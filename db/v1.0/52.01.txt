@@ -1,0 +1,132 @@
+52.01.14_Batu Layar_83355
+.2009_Batu Layar Barat_83355
+.2001_Batulayar (Batu Layar)_83355
+.2007_Bengkaung_83355
+.2004_Lembah Sari_83355
+.2002_Meninting_83355
+.2008_Pusuk Lestari_83355
+.2003_Sandik_83355
+.2006_Senggigi_83355
+.2005_Senteluk_83355
+52.01.01_Gerung_83363
+.2007_Babussalam_83363
+.2006_Banyu Urip_83363
+.2009_Beleke_83363
+.1004_Dasan Geres_83363
+.2008_Dasan Tapen_83363
+.2003_Gapuk_83363
+.1011_Gerung Selatan_83363
+.1001_Gerung Utara_83363
+.2014_Giri Tembesi_83363
+.2002_Kebon Ayu (Kebunayu)_83363
+.2012_Mesanggok_83363
+.2005_Suka Makmur (Sukamakmur)_83363
+.2013_Taman Ayu_83363
+.2010_Tempos_83363
+52.01.09_Gunungsari_83351
+.2016_Bukittinggi_83351
+.2007_Dopang_83351
+.2014_Gelangsar_83351
+.2011_Guntur Macan_83351
+.2001_Gunungsari (Gunung Sari)_83351
+.2010_Jatisela_83351
+.2015_Jeringo (Jeringgo)_83351
+.2004_Kekait_83351
+.2005_Kekeri_83351
+.2012_Mekar Sari (Mekarsari)_83351
+.2002_Midang_83351
+.2006_Nambalan (Mambalan)_83351
+.2008_Penimbung_83351
+.2013_Ranjok_83351
+.2003_Sesele (Sesela)_83351
+.2009_Taman Sari_83351
+52.01.02_Kediri_83362
+.2006_Banyumulek_83362
+.2008_Dasan Baru_83362
+.2004_Gelogor_83362
+.2003_Jagaraga Indah_83362
+.2001_Kediri_83362
+.2009_Kediri Selatan_83362
+.2010_Lelede_83362
+.2002_Montong Are_83362
+.2007_Ombe Baru_83362
+.2005_Rumak_83362
+52.01.15_Kuripan_83360
+.2006_Giri Sasak_83360
+.2002_Jagaraga_83360
+.2001_Kuripan_83360
+.2004_Kuripan Selatan_83360
+.2005_Kuripan Timur_83360
+.2003_Kuripan Utara_83360
+52.01.08_Labuapi_83361
+.2003_Bagik Polak_83361
+.2011_Bagik Polak Barat_83361
+.2006_Bajur_83361
+.2001_Bengkel_83361
+.2009_Karang Bongkot_83361
+.2008_Kuranji_83361
+.2012_Kuranji Dalang_83361
+.2010_Labuapi_83361
+.2002_Merembu_83361
+.2005_Perampuan_83361
+.2004_Telagawaru_83361
+.2007_Terong Tawah_83361
+52.01.13_Lembar_83364
+.2010_Eyat Mayang_83364
+.2006_Jembatan Gantung_83364
+.2002_Jembatan Kembar_83364
+.2009_Jembatan Kembar Timur_83364
+.2005_Labuan Tereng_83364
+.2001_Lembar_83364
+.2007_Lembar Selatan_83364
+.2003_Mareje_83364
+.2008_Mareje Timur_83364
+.2004_Sekotong Timur_83364
+52.01.12_Lingsar_83371
+.2002_Batu Kumbang (Batu Kumbung)_83371
+.2010_Batu Mekar_83371
+.2012_Bug-Bug_83371
+.2007_Dasan Geria_83371
+.2004_Duman_83371
+.2013_Gegelang_83371
+.2009_Gegerung_83371
+.2011_Giri Madia_83371
+.2015_Gontoran_83371
+.2005_Karang Bayan_83371
+.2006_Langko_83371
+.2001_Lingsar_83371
+.2008_Peteluan Indah_83371
+.2014_Saribaye_83371
+.2003_Sigerongan_83371
+52.01.03_Narmada_83370
+.2013_Badrain_83370
+.2005_Batu Kuta_83370
+.2020_Buwun Sejati_83370
+.2012_Dasan Tereng_83370
+.2018_Golong_83370
+.2016_Grimax Indah (Gerimak Indah)_83370
+.2015_Kramat Jaya (Krama Jaya)_83370
+.2010_Lebah Sempage (Lebah Sempaga)_83370
+.2001_Lembuak_83370
+.2019_Mekarsari_83370
+.2021_Narmada_83370
+.2002_Nyur Lembang_83370
+.2017_Pakuan_83370
+.2003_Peresak_83370
+.2004_Peru (Keru)_83370
+.2007_Sedau_83370
+.2009_Selat_83370
+.2014_Sembung_83370
+.2011_Sesaot_83370
+.2008_Suranadi_83370
+.2006_Tanah/Tanak Beak_83370
+52.01.07_Sekotong_83365
+.2006_Batu Putih_83365
+.2004_Buwun Mas_83365
+.2008_Cendi Manik_83365
+.2007_Gili Gede Indah_83365
+.2005_Kedaro_83365
+.2003_Pelangan_83365
+.2002_Sekotong Barat_83365
+.2001_Sekotong Tengah_83365
+.2009_Taman Baru_83365

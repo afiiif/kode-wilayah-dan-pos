@@ -1,0 +1,213 @@
+81.05.01_Bula_97521
+.2003_Bula_97521
+.2011_Bula Air Fatolo_97521
+.2010_Englas_97521
+.2026_Fattolo_97521
+.2024_Kampung Gorom_97521
+.2023_Kampung Wailola_97521
+.2025_Limumir_97521
+.2004_Salas_97521
+.2012_Sesar_97521
+.2022_Tansi Ambon_97521
+81.05.12_Bula Barat_97522
+.2006_Aki Jaya_97522
+.2002_Banggoi_97522
+.2013_Banggoi Pancorang_97522
+.2012_Dreamland Hills_97522
+.2001_Hote_97522
+.2007_Jakarta Baru_97522
+.2011_Jembatan Basah_97522
+.2010_Rukun Jaya_97522
+.2008_Silohan_97522
+.2009_Sumber Agung_97522
+.2003_Waematakabo_97522
+.2004_Waiketam Baru_97522
+.2005_Waisamet_97522
+81.05.11_Gorom Timur_97596
+.2016_Adar_97596
+.2004_Amarwatu_97596
+.2005_Aran_97596
+.2010_Armada_97596
+.2007_Bas_97596
+.2012_Basarin_97596
+.2018_Etaralu_97596
+.2013_Goha_97596
+.2001_Kilkoda_97596
+.2019_Kiltufa_97596
+.2003_Kota Sirih_97596
+.2002_Miran_97596
+.2015_Miran Gota_97596
+.2021_Miran Keledar_97596
+.2020_Miran Kilian_97596
+.2022_Miran Manaban_97596
+.2023_Miran Rumuar_97596
+.2014_Rarat_97596
+.2009_Sagey_97596
+.2017_Tinarin_97596
+.2006_Tuha_97596
+.2008_Tunas Ilur_97596
+.2011_Waisalan_97596
+81.05.13_Kian Darat_97590
+.2003_Angar_97590
+.2002_Artafela_97590
+.2005_Kelaba_97590
+.2001_Kian Darat_97590
+.2009_Kileser_97590
+.2006_Kilga Kilwouw_97590
+.2007_Kilga Watubau_97590
+.2008_Rumfakar_97590
+.2010_Rumoga_97590
+.2004_Watu Watu_97590
+81.05.08_Kilmury_97591
+.2004_Afang Defol_97591
+.2003_Afang Kota_97591
+.2013_Bitorik_97591
+.2008_Gunak_97591
+.2007_Kamar_97591
+.2011_Kilbon Kway_97591
+.2010_Kilmury_97591
+.2005_Kumelang_97591
+.2012_Mising_97591
+.2002_Nekan_97591
+.2001_Selor_97591
+.2009_Sumbawa_97591
+.2014_Taa_97591
+.2006_Undur_97591
+81.05.04_Pulau Gorom_97593
+.2003_Amarsekaru_97593
+.2048_Arewang_97593
+.2053_Aroa Kataloka_97593
+.2050_Buan Kataloka_97593
+.2054_Dada Kataloka_97593
+.2005_Day_97593
+.2043_Dulak_97593
+.2032_Ilili_97593
+.2047_Kaforing_97593
+.2001_Kataloka_97593
+.2031_Kelibingan_97593
+.2044_Kilalir Kilwouw_97593
+.2046_Kilean_97593
+.2045_Kilotak_97593
+.2023_Kulugowa_97593
+.2021_Loko_97593
+.2006_Mida_97593
+.2042_Namalean_97593
+.2004_Ondor_97593
+.2051_Rumanama Kotawouw Kataloka_97593
+.2024_Rumeon_97593
+.2022_Sera_97593
+.2052_Sikaro Kataloka_97593
+.2049_Usun Kataloka_97593
+81.05.09_Pulau Panjang_97599
+.2002_Argam_97599
+.2003_Lalasa_97599
+.2004_Magat_97599
+.2006_Perik Basaranggi_97599
+.2001_Pulau Panjang_97599
+.2005_Ruku Ruku_97599
+81.05.02_Seram Timur_97592
+.2052_Ainena_97592
+.2054_Akatfadedo_97592
+.2001_Geser_97592
+.2050_Guli-Guli_97592
+.2005_Keffing_97592
+.2004_Kellu_97592
+.2028_Kilfura_97592
+.2002_Kiltay_97592
+.2003_Kilwaru_97592
+.2048_Kwawor Besar Ena_97592
+.2049_Kwawor Besar Witau_97592
+.2046_Kwawor Kecil Mata Ata_97592
+.2047_Kwawor Kecil Mata Wawa_97592
+.2051_Manggis_97592
+.2053_Mugusinis_97592
+.2006_Urung_97592
+81.05.14_Siritaun Wida Timur_97598
+.2009_Air Nanang_97598
+.2005_Aruan Gaur_97598
+.2008_Keta_97598
+.2006_Keta Rumadan_97598
+.2001_Kian Laut_97598
+.2002_Kwaos (Kuwaos)_97598
+.2007_Lian Tasik_97598
+.2003_Salagor Air_97598
+.2004_Salagor Kota_97598
+.2010_Suru_97598
+81.05.07_Siwalalat_97523
+.2011_Abulate_97523
+.2012_Adabai_97523
+.2009_Atiahu_97523
+.2001_Dihil_97523
+.2008_Elnusa_97523
+.2006_Lapela_97523
+.2002_Liliama_97523
+.2003_Naiwel Ahinulin_97523
+.2007_Nayet_97523
+.2004_Polin_97523
+.2010_Sabuai_97523
+.2005_Tunsai_97523
+81.05.15_Teluk Waru_97524
+.2002_Bellis_97524
+.2010_Boinfia_97524
+.2003_Dawang_97524
+.2009_Kampung Baru_97524
+.2005_Karay_97524
+.2011_Madak_97524
+.2007_Nama Andan_97524
+.2006_Nama Lena_97524
+.2004_Solang_97524
+.2008_Tubir Wasiwang_97524
+.2001_Waru_97524
+81.05.10_Teor_97597
+.2004_Duryar Rumoy_97597
+.2007_Kampung Baru_97597
+.2006_Kampung Tengah Wermaf_97597
+.2010_Karlokin_97597
+.2002_Kartutin Kartenga_97597
+.2003_Ker Ker_97597
+.2009_Kiliwouw_97597
+.2005_Lapang Kampung Jawa_97597
+.2008_Mamur_97597
+.2001_Teor_97597
+81.05.06_Tutuk Tolu_97594
+.2005_Airkasar_97594
+.2009_Bati Kilwouw_97594
+.2001_Danama_97594
+.2007_Gah_97594
+.2003_Kilbat_97594
+.2002_Kilmoy_97594
+.2011_Kufar_97594
+.2004_Sesar_97594
+.2010_Taruy_97594
+.2008_Walang Tenga_97594
+.2006_Waras-Waras_97594
+81.05.05_Wakate_97595
+.2006_Amarlaut_97595
+.2002_Effa_97595
+.2022_Guliar_97595
+.2001_Ilili_97595
+.2023_Karlomin_97595
+.2005_Kelangan_97595
+.2011_Keldor_97595
+.2026_Kilbutak_97595
+.2025_Kurwara_97595
+.2003_Lahema_97595
+.2024_Otademan_97595
+.2027_Ruma Durun_97595
+.2008_Tamher Timur_97595
+.2007_Tamher Warat_97595
+.2028_Tana Soa_97595
+.2021_Tanah Baru_97595
+.2004_Utta_97595
+.2010_Wunin Eldedora_97595
+81.05.03_Werinama_97525
+.2001_Batuasa_97525
+.2004_Bemo_97525
+.2021_Bemo Perak_97525
+.2022_Funa Naibaya_97525
+.2016_Gusalaut_97525
+.2002_Hatuimeten_97525
+.2017_Osong_97525
+.2018_Tobo_97525
+.2015_Tum_97525
+.2003_Werinama_97525

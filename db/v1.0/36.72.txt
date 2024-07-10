@@ -1,0 +1,51 @@
+36.72.01_Cibeber_42422|42427
+.1003_Bulakan_42426
+.1001_Cibeber_42423
+.1004_Cikerai_42427
+.1006_Kalitimbang_42424
+.1005_Karang Asem (Karangasem)_42425
+.1002_Kedaleman_42422
+36.72.02_Cilegon_42415|42419
+.1001_Bagendung_42419
+.1003_Bendungan_42417
+.1005_Ciwaduk_42415
+.1002_Ciwedus_42418
+.1004_Ketileng_42416
+36.72.08_Citangkil_42441|42444
+.1007_Citangkil_42441
+.1002_Dringo (Deringo)_42444
+.1005_Kebonsari_42442
+.1003_Lebak Denok (Lebakdenok)_42442
+.1006_Samangraya_42443
+.1004_Taman Baru (Tamanbaru)_42441
+.1001_Warnasari_42443
+36.72.04_Ciwandan_42441|42447
+.1001_Banjar Negara_42441
+.1004_Gunung Sugih (Gunungsugih)_42447
+.1005_Kepuh_42446
+.1003_Kubangsari_42445
+.1006_Randakari_42446
+.1002_Tegal Ratu (Tegalratu)_42445
+36.72.06_Gerogol_42436|42438
+.1004_Gerem_42438
+.1002_Grogol (Gerogol)_42436
+.1001_Kotasari_42436
+.1003_Rawa Arum_42436
+36.72.05_Jombang_42411|42416
+.1005_Gedong Dalem_42413
+.1002_Jombang Wetan_42411
+.1003_Masigit_42414
+.1004_Panggung Rawi_42412
+.1001_Sukmajaya_42416
+36.72.03_Pulomerak_42431|42439
+.1002_Lebakgede (Lebak Gede)_42431
+.1003_Mekarsari_42438
+.1004_Suralaya_42439
+.1001_Tamansari_42438
+36.72.07_Purwakarta_42431|42437
+.1003_Kebon Dalem (Kebondalem)_42433
+.1002_Kotabumi_42434
+.1006_Pabean_42437
+.1004_Purwakarta_42437
+.1001_Ramanuju_42431
+.1005_Tegal Bunder_42437

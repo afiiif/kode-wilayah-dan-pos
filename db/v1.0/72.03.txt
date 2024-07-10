@@ -1,0 +1,183 @@
+72.03.12_Balaesang_94355
+.2020_Kampung Baru Sibayu_94355
+.2006_Labean_94355
+.2007_Lombonga_94355
+.2015_Malino_94355
+.2016_Mapane Tambu_94355
+.2008_Meli_94355
+.2012_Sibayu_94355
+.2011_Sibualong_94355
+.2021_Simagaya_94355
+.2019_Sipure_94355
+.2010_Siweli_94355
+.2009_Tambu_94355
+.2017_Tovia Tambu_94355
+72.03.31_Balaesang Tanjung_94359
+.2003_Kamonji_94359
+.2004_Ketong_94359
+.2002_Malei_94359
+.2008_Manimbaya_94359
+.2007_Palau_94359
+.2006_Pomolulu_94359
+.2005_Rano_94359
+.2001_Walandano_94359
+72.03.08_Banawa_94351
+.1028_Boneoge_94351
+.1026_Boya_94351
+.1020_Ganti_94351
+.1023_Gunung Bale_94351
+.1021_Kabonga Besar_94351
+.1022_Kabonga Kecil_94351
+.1027_Labuan Bajo_94351
+.2030_Loli Dondo_94351
+.2012_Loli Oge (Lolioge)_94351
+.2029_Loli Pesua_94351
+.2031_Loli Saluran_94351
+.2013_Loli Tasibori (Tasiburi)_94351
+.1024_Maleni_94351
+.1025_Tanjung Batu_94351
+72.03.18_Banawa Selatan_94350
+.2007_Bambarimi_94350
+.2005_Lalombi_94350
+.2016_Lembasada_94350
+.2012_Lumbu Tarombo_94350
+.2013_Lumbulama_94350
+.2009_Lumbumamara_94350
+.2015_Malino_94350
+.2001_Mbuwu_94350
+.2014_Ongulara_94350
+.2002_Salumpaku_94350
+.2008_Salungkaenu_94350
+.2018_Salusumpu_94350
+.2017_Sarombaya_94350
+.2004_Surumana_94350
+.2006_Tanamea (Tanahmea)_94350
+.2019_Tanampulu_94350
+.2010_Tolongano_94350
+.2011_Tosale_94350
+.2003_Watatu_94350
+72.03.27_Banawa Tengah_94341
+.2003_Kola-Kola_94341
+.2008_Lampo_94341
+.2004_Limboro_94341
+.2002_Lumbudolo_94341
+.2007_Mekar Baru_94341
+.2001_Powelua_94341
+.2006_Salubomba_94341
+.2005_Towale_94341
+72.03.06_Dampelas_94356
+.2009_Budi Mukti (Budimukti)_94356
+.2014_Karya Mukti (Karyamukti)_94356
+.2001_Kembayang (Kambayang)_94356
+.2010_Lembah Mukti (Lemba Mukti)_94356
+.2015_Long_94356
+.2011_Malonas_94356
+.2005_Pani'i (Panii)_94356
+.2013_Parisan Agung_94356
+.2006_Ponggerang_94356
+.2007_Rerang_94356
+.2003_Sabang_94356
+.2004_Sioyong_94356
+.2002_Talaga_94356
+72.03.09_Labuan_94352
+.2001_Labuan (Labuan Induk)_94352
+.2011_Labuan Kungguma_94352
+.2010_Labuan Lelea_94352
+.2013_Labuan Lumbubaka_94352
+.2009_Labuan Panimba_94352
+.2008_Labuan Salumbone_94352
+.2012_Labuan Toposo_94352
+72.03.21_Pinembani (Panembani)_94345
+.2005_Bambakaenu_94345
+.2004_Bambakanini_94345
+.2003_Dangara'a (Dangaraa)_94345
+.2002_Gimpubia_94345
+.2007_Kanagalongga_94345
+.2008_Karavia_94345
+.2001_Palintuma_94345
+.2009_Tavanggeli_94345
+.2006_Tomodo (Tamodo)_94345
+72.03.04_Rio Pakava_94346
+.2002_Bonemarawa_94346
+.2013_Bukit Indah_94346
+.2004_Lalundu_94346
+.2014_Mbulawa (Mbulava)_94346
+.2006_Minti Makmur_94346
+.2012_Ngovi (Ngovi Vacava)_94346
+.2015_Pakava (Vacava)_94346
+.2010_Panca Mukti_94346
+.2001_Pantolobete (Pantalobete)_94346
+.2008_Polando Jaya_94346
+.2007_Polanto Jaya_94346
+.2009_Rio Mukti_94346
+.2003_Tinauka_94346
+.2005_Toviora (Towiora)_94346
+72.03.10_Sindue_94353
+.2019_Ape Maliko (Amal)_94353
+.2001_Dalaka_94353
+.2008_Enu_94353
+.2018_Gumbasa (Kumbasa)_94353
+.2020_Kavaya_94353
+.2002_Lero_94353
+.2016_Lero Tatari_94353
+.2007_Marana_94353
+.2006_Masaingi_94353
+.2004_Sumari_94353
+.2003_Taripa_94353
+.2005_Toaya_94353
+.2017_Toaya Vunta/Funta_94353
+72.03.25_Sindue Tobata_94343
+.2002_Alindau_94343
+.2003_Oti_94343
+.2001_Sikara Tobata_94343
+.2006_Sindosa_94343
+.2005_Sipeso_94343
+.2004_Tamarenja_94343
+72.03.24_Sindue Tombusabora_94344
+.2003_Batusuya_94344
+.2005_Batusuya Go'o_94344
+.2002_Kaliburu_94344
+.2006_Kaliburu Kata_94344
+.2004_Saloya_94344
+.2001_Tibo_94344
+72.03.11_Sirenja_94354
+.2007_Balintuma_94354
+.2004_Dampal_94354
+.2003_Jonooge_94354
+.2011_Lende_94354
+.2012_Lende Tovea_94354
+.2010_Lompio_94354
+.2001_Ombo_94354
+.2008_Sibado_94354
+.2005_Sipi_94354
+.2006_Tanjung Padang_94354
+.2009_Tompe_94354
+.2002_Tondo_94354
+.2013_Ujumbou. (Ujumbo)_94354
+72.03.14_Sojol_94357
+.2001_Balukang_94357
+.2014_Balukang II_94357
+.2005_Bou_94357
+.2012_Bukit Harapan_94357
+.2013_Pangalasiang (Panggalasiang / Pangalaseang)_94357
+.2011_Samalili_94357
+.2003_Siboalong (Siboang)_94357
+.2002_Siwalempu_94357
+.2004_Tonggolobibi_94357
+72.03.30_Sojol Utara_94358
+.2005_Bengkoli_94358
+.2003_Lenju_94358
+.2001_Ogoamas I_94358
+.2002_Ogoamas II_94358
+.2004_Pesik_94358
+72.03.19_Tanantovea_94342
+.2006_Bale_94342
+.2005_Guntarano_94342
+.2003_Nupa Bomba_94342
+.2002_Wani Dua / II_94342
+.2010_Wani Lumbumpetigo_94342
+.2001_Wani Satu / I_94342
+.2009_Wani Tiga_94342
+.2004_Wombo_94342
+.2008_Wombo Kalonggo_94342
+.2007_Wombo Mpanau (Panau)_94342

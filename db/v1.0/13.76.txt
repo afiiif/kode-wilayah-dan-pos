@@ -1,0 +1,52 @@
+13.76.04_Lamposi Tigo Nagori / Nagari_26219
+.1006_Koto Panjang Dalam_26219
+.1005_Koto Panjang Padang (Koto Panjang)_26219
+.1004_Padang Sikabu_26219
+.1003_Parambahan_26219
+.1002_Parik Muko Aie (Parit Muka Air)_26219
+.1001_Sei/Sungai Durian_26219
+13.76.01_Payakumbuh Barat_26221|26229
+.1004_Bulakan Balai Kandi_26225
+.1021_Ibuah_26229
+.1011_Koto Tangah_26223
+.1003_Kubu Gadang_26226
+.1020_Labuah Basilang_26229
+.1018_Nunang Daya Bangun_26221
+.1009_Padang Tinggi Piliang_26224
+.1034_Padangdata Tanahmati_26223
+.1033_Padangtongah Balainanduo_26224
+.1002_Pakan Sinayan_26226
+.1017_Parak Batuang_26222
+.1016_Parik Rantang_26222
+.1005_Payolansek_26225
+.1013_Subarang Batuang_26223
+.1007_Talang_26225
+.1022_Tanjuang Pauh_26229
+.1032_Tanjuanggodang Sungai Pinago_26225
+13.76.05_Payakumbuh Selatan_26226|26228
+.1005_Balai Panjang_26226
+.1006_Kapalo Koto Ampangan_26228
+.1002_Kototuo Limokampuang_26226
+.1003_Limbukan_26227
+.1001_Padang Karambia_26227
+.1010_Sawahpadang Aua Kuniang_26228
+13.76.03_Payakumbuh Timur_26231|26237
+.1001_Balai Jaring_26235
+.1011_Koto Baru_26237
+.1010_Koto Panjang_26237
+.1002_Padang Alai Bodi_26236
+.1003_Padang Tangah Payobadar_26231
+.1007_Padang Tiakar_26232
+.1009_Payobasung_26237
+.1005_Sicincin_26233
+.1015_Tiakar_26231
+13.76.02_Payakumbuh Utara_26211|26218
+.1037_Balai Tongah Koto_26214
+.1036_Ikua Koto Dibalai_26212
+.1038_Kapalo Koto Dibalai_26211
+.1039_Kotokociak Kubu Tapakrajo_26213
+.1002_Napar_26218
+.1032_Ompang Tanah Sirah_26216
+.1033_Taratak Padang Kampuang_26217
+.1035_Tigo Koto Diate_26218
+.1034_Tigo Koto Dibaruah_26215

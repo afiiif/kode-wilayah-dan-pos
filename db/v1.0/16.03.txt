@@ -1,0 +1,277 @@
+16.03.24_Belida Darat_31171
+.2002_Babat_31171
+.2010_Gaung Asam_31171
+.2009_Ibul_31171
+.2004_Lubuk Getam_31171
+.2003_Lubuk Semantung_31171
+.2007_Sialingan_31171
+.2005_Talang Balai_31171
+.2006_Talang Beliung_31171
+.2001_Tanjung Bunut_31171
+.2008_Tanjung Tiga_31171
+16.03.23_Belimbing_31352
+.2006_Belimbing_31352
+.2008_Belimbing Jaya_31352
+.2005_Berugo_31352
+.2007_Bulang_31352
+.2003_Cinta Kasih_31352
+.2010_Dalam_31352
+.2009_Darmo Kasih_31352
+.2002_Simpang Tanjung_31352
+.2001_Tanjung_31352
+.2004_Teluk Lubuk_31352
+16.03.19_Benakat_31626
+.2002_Betung_31626
+.2005_Hidup Baru_31626
+.2001_Padang Bindu_31626
+.2003_Pagar Dewa_31626
+.2004_Pagarjati (Pagar Jati)_31626
+.2006_Rami Pasai_31626
+16.03.26_Empat Petulai Dangku_31172
+.2005_Banuayu_31172
+.2008_Batu Raja_31172
+.2009_Dangku_31172
+.2004_Gunung Raja_31172
+.2002_Kahuripan Baru_31172
+.2006_Kuripan_31172
+.2007_Kuripan Selatan_31172
+.2001_Muara Niru_31172
+.2003_Pangkalan Babat_31172
+.2010_Siku_31172
+16.03.06_Gelumbang_31170
+.2032_Betung_31170
+.2023_Bitis_31170
+.2004_Gaung Telang_31170
+.1010_Gelumbang_31170
+.2024_Gumai_31170
+.2014_Jambu_31170
+.2013_Karang Endah_31170
+.2031_Karang Endah Selatan_31170
+.2019_Kerta Mulya (Kartamulia/Kerta Mulia)_31170
+.2015_Midar_31170
+.2016_Mililian (Melilian)_31170
+.2022_Payabakal_31170
+.2017_Pedataran_31170
+.2006_Pinang Banjar_31170
+.2025_Putak_31170
+.2020_Sebau_31170
+.2008_Segayam_31170
+.2021_Sigam_31170
+.2030_Suka Jaya_31170
+.2011_Suka Menang_31170
+.2026_Talang Taling_31170
+.2009_Tambangan Kelekar_31170
+.2018_Teluk Limau_31170
+16.03.04_Gunung Megang_31353
+.2016_Bangun Sari_31353
+.2003_Gunung Megang Dalam_31353
+.2002_Gunung Megang Luar_31353
+.2020_Kayu Ara Sakti_31353
+.2004_Lubuk Mumpo_31353
+.2019_Pajar Indah (Fajar Indah)_31353
+.2021_Panang Jaya_31353
+.2001_Penanggiran_31353
+.2005_Perjito_31353
+.2018_Sidomulyo_31353
+.2017_Sumaja Makmur_31353
+.2006_Tanjung Muning_31353
+.2007_Tanjung Terang_31353
+16.03.21_Kelekar_31176
+.2001_Embacang Kelekar_31176
+.2002_Menanti_31176
+.2003_Menanti Selatan_31176
+.2005_Pelempang_31176
+.2004_Suban Baru_31176
+.2007_Tanjung Medang_31176
+.2006_Teluk Jaya_31176
+16.03.07_Lawang Kidul_31711|31713
+.2007_Darmo_31711
+.2006_Keban Agung_31711
+.2005_Lingga_31711
+.1002_Pasar Tanjung Enim_31712
+.1001_Tanjung Enim_31711
+.1003_Tanjung Enim Selatan_31711
+.2004_Tegal Rejo_31713
+16.03.17_Lembak_31177
+.2009_Alai_31177
+.2015_Alai Selatan_31177
+.2013_Kemang_31177
+.2012_Lembak_31177
+.2014_Lubuk Enau_31177
+.2007_Petanang_31177
+.2010_Sungai Duren_31177
+.2008_Talang Nangka_31177
+.2019_Tanjung Baru_31177
+.2011_Tapus_31177
+16.03.14_Lubai_31173
+.2020_Air Asam (Air Masam)_31173
+.2005_Aur_31173
+.2006_Beringin_31173
+.2009_Gunung Raja_31173
+.2014_Jiwa Baru_31173
+.2007_Kota Baru_31173
+.2021_Menanti (Lubai Menanti)_31173
+.2008_Pagar Gunung_31173
+.2011_Suka Merindu_31173
+.2010_Tanjung Kemala_31173
+16.03.25_Lubai Ulu_31174
+.2001_Karang Agung_31174
+.2003_Karang Mulya (Karang Mulia)_31174
+.2002_Karang Sari_31174
+.2008_Lecah_31174
+.2011_Lubai Makmur_31174
+.2010_Lubai Persada_31174
+.2009_Mekar Jaya_31174
+.2006_Pagar Dewa_31174
+.2007_Prabumenang_31174
+.2005_Sumber Asri_31174
+.2004_Sumber Mulya_31174
+16.03.22_Muara Belida_31178
+.2002_Arisan Musi_31178
+.2005_Arisan Musi Timur_31178
+.2001_Gedung Buruk_31178
+.2003_Harapan Mulya/Mulia_31178
+.2008_Kayu Ara Batu_31178
+.2004_Mulia Abadi_31178
+.2006_Patra Tani_31178
+.2007_Tanjung Baru_31178
+16.03.02_Muara Enim_31311|31315
+.1016_Air Lintang_31311
+.2015_Harapan Jaya_31311
+.2002_Karang Raja_31311
+.2011_Kepur_31311
+.2005_Lubuk Emplas (Lubuk Empelas)_31311
+.1010_Muara Enim_31312
+.2013_Muara Harapan_31311
+.2003_Muara Lawai_31311
+.1009_Pasar I Muara Enim (Pasar I)_31311
+.1007_Pasar II Muara Enim (Pasar II)_31315
+.1008_Pasar III Muara Enim (Pasar III)_31314
+.2014_Saka Jaya_31311
+.2004_Tanjung Jati_31311
+.2001_Tanjung Raja_31311
+.2012_Tanjung Serian_31311
+.1006_Tungkal_31313
+16.03.27_Panang Enim_31354
+.2010_Bedegung_31354
+.2009_Inderamayu_31354
+.2002_Lambur_31354
+.2001_Lebak Budi_31354
+.2012_Lubuk Nipis_31354
+.2007_Muara Meo_31354
+.2011_Padang Bindu_31354
+.2003_Pagar Jati_31354
+.2006_Pandan Dulang_31354
+.2008_Sugih Waras_31354
+.2005_Sukaraja_31354
+.2004_Tanjung Baru_31354
+16.03.15_Rambang_31175
+.2013_Air Keruh_31175
+.2001_Baru Rambang_31175
+.2010_Kencana Mulia_31175
+.2009_Marga Mulya (Marga Mulia)_31175
+.2011_Negeri Agung_31175
+.2006_Pagar Agung_31175
+.2007_Sugih Waras_31175
+.2002_Sugihan_31175
+.2012_Sugihwaras Barat (Sugih Waras Barat)_31175
+.2005_Sukarami_31175
+.2008_Sumber Rahayu_31175
+.2004_Tanjung Dalam_31175
+.2003_Tanjung Raya_31175
+16.03.03_Rambang Niru (Rambang Dangku)_31172
+.2024_Air Cekdam_31172
+.2019_Air Enau_31172
+.2015_Air Limau_31172
+.2018_Air Talas_31172
+.2021_Aur Duri_31172
+.2001_Gemawang_31172
+.2006_Gerinam_31172
+.2003_Jemenang_31172
+.2023_Kasih Dewa_31172
+.2002_Lubuk Raman_31172
+.2017_Manunggal Jaya_31172
+.2020_Manunggal Makmur_31172
+.2016_Muara Emburung_31172
+.2014_Suban Jeriji_31172
+.2004_Tanjung Menang_31172
+.2005_Tebat Agung_31172
+16.03.08_Semende Darat Laut_31358
+.2002_Babatan_31358
+.2009_Karya Nyata_31358
+.2004_Muara Danau_31358
+.2003_Muara Dua_31358
+.2007_Pagar Agung_31358
+.2001_Penindaian_31358
+.2005_Penyandingan_31358
+.2010_Perapau_31358
+.2008_Pulau Panggung_31358
+.2006_Tanah Abang_31358
+16.03.09_Semende Darat Tengah_31359
+.2006_Batu Surau_31359
+.2003_Gunung Agung_31359
+.2011_Kota Agung_31359
+.2002_Kota Padang_31359
+.2008_Muara Tenang_31359
+.2010_Palak Tanah_31359
+.2009_Rekimai Jaya_31359
+.2004_Sri Tanjung (Seri Tanjung)_31359
+.2012_Swarna Dwipa_31359
+.2007_Tanjung Raya_31359
+.2005_Tebing Abang_31359
+.2001_Tenam Bungkuk_31359
+16.03.10_Semende Darat Ulu_31355
+.2006_Aremantai_31355
+.2002_Cahaya Alam_31355
+.2010_Danau Gerak_31355
+.2003_Datar Lebar_31355
+.2008_Pajar Bulan_31355
+.2009_Pelakat_31355
+.2004_Segamit_31355
+.2005_Siring Agung_31355
+.2007_Tanjung Agung_31355
+.2001_Tanjung Tiga_31355
+16.03.16_Sungai Rotan_31357
+.2018_Danau Baru_31357
+.2012_Danau Rata_31357
+.2002_Danau Tampang_31357
+.2003_Kasai_31357
+.2009_Modong_31357
+.2007_Muara Lematang_31357
+.2013_Paya Angus_31357
+.2011_Penandingan_31357
+.2015_Petar Dalam_31357
+.2019_Petar Luar_31357
+.2010_Sukacinta (Suka Cinta)_31357
+.2008_Sukadana (Suka Dana)_31357
+.2016_Sukajadi (Suka Jadi)_31357
+.2017_Sukamaju (Suka Maju)_31357
+.2005_Sukamerindu (Suka Merindu)_31357
+.2014_Sukarami_31357
+.2004_Sungai Rotan_31357
+.2006_Tanding Marga_31357
+.2001_Tanjung Miring_31357
+16.03.01_Tanjung Agung_31354
+.2011_Embawang_31354
+.2014_Lesung Batu_31354
+.2017_Matas_31354
+.2019_Muara Emil_31354
+.2016_Paduraksa_31354
+.2012_Pagar Dewa_31354
+.2015_Pandan Enim_31354
+.2022_Penyandingan_31354
+.2024_Pulau Panggung_31354
+.2021_Seleman_31354
+.2018_Tanjung Agung_31354
+.2013_Tanjung Bulan_31354
+.2020_Tanjung Karangan_31354
+.2023_Tanjung Lalang_31354
+16.03.11_Ujan Mas_31351
+.2007_Guci_31351
+.2005_Muara Gula Baru_31351
+.2006_Muara Gula Lama_31351
+.2001_Pinang Belarik_31351
+.2004_Tanjung Raman_31351
+.2003_Ujan Mas Baru_31351
+.2002_Ujan Mas Lama_31351
+.2008_Ulak Bandung_31351

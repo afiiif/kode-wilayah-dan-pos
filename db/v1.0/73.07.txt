@@ -1,0 +1,89 @@
+73.07.06_Bulupoddo_92654
+.2003_Bulu Tellue_92654
+.2004_Duampanuae_92654
+.2002_Lamatti Riaja_92654
+.2001_Lamatti Riattang_92654
+.2006_Lamatti Riawang_92654
+.2007_Lappacinrana_92654
+.2005_Tompobulu_92654
+73.07.09_Pulau Sembilan_92616
+.2002_Pulau Buhung Pitue_92616
+.2001_Pulau Harapan_92616
+.2003_Pulau Padaelo_92616
+.2004_Pulau Persatuan_92616
+73.07.01_Sinjai Barat_92653
+.2004_Arabika_92653
+.1002_Balakia_92653
+.2007_Barania_92653
+.2005_Bonto Salama_92653
+.2008_Boto Lempangan_92653
+.2003_Gunung Perak_92653
+.1001_Tassililu_92653
+.2009_Terasa_92653
+.2006_Turungan Baji_92653
+73.07.07_Sinjai Borong_92662
+.2004_Barambang_92662
+.2002_Batu Belerang_92662
+.2003_Biji Nangka_92662
+.2007_Bonto Katute_92662
+.2005_Bonto Sinala_92662
+.2008_Bonto Tengnga_92662
+.2006_Kassi Buleng_92662
+.1001_Pasir Putih_92662
+73.07.02_Sinjai Selatan_92661
+.2011_Alenangka_92661
+.2004_Aska_92661
+.2007_Bulu Kamase_92661
+.2010_Gareccing_92661
+.2006_Palae_92661
+.2008_Palangka_92661
+.2009_Polewali_92661
+.2002_Puncak_92661
+.1001_Sangianseri (Sangiasseri)_92661
+.2003_Songing_92661
+.2005_Talle_92661
+73.07.04_Sinjai Tengah_92652
+.2004_Baru_92652
+.2010_Bonto_92652
+.2011_Gantarang_92652
+.2008_Kanrung_92652
+.2003_Kompang_92652
+.2002_Mattunreng Tellue_92652
+.2005_Pattongko_92652
+.1001_Samaenre_92652
+.2007_Saohiring_92652
+.2009_Saotanre_92652
+.2006_Saotengnga_92652
+73.07.03_Sinjai Timur_92671
+.2008_Biroro_92671
+.2013_Bongki Lengkese_92671
+.2009_Kaloling_92671
+.2006_Kampala_92671
+.2007_Lasiai_92671
+.2004_Panaikang_92671
+.2010_Pasimarannu_92671
+.2003_Pattalassang_92671
+.2012_Salohe_92671
+.2002_Sanjai_92671
+.2005_Saukang_92671
+.1001_Semataring (Samataring)_92671
+.2011_Tongke-Tongke_92671
+73.07.05_Sinjai Utara_92611|92616
+.1006_Alehanuae (Alewanuae)_92616
+.1003_Balangnipa_92612
+.1001_Biringere_92611
+.1005_Bongki_92615
+.1002_Lamatti Rilau_92613
+.1004_Lappa_92614
+73.07.08_Tellu Limpoe_92681
+.2008_Bua_92681
+.2010_Era Baru (Erabaru)_92681
+.2003_Kalobba_92681
+.2006_Lembang Lohe_92681
+.1001_Mannanti_92681
+.2005_Massaile_92681
+.2007_Pattongko_92681
+.2011_Samaturue_92681
+.2002_Saotengah_92681
+.2009_Suka Maju (Sukamaju)_92681
+.2004_Tellu Limpoe_92681

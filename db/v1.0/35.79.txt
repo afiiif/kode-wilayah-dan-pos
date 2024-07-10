@@ -1,0 +1,27 @@
+35.79.01_Batu_65311|65318
+.1002_Ngaglik_65311
+.2006_Oro-Oro Ombo_65316
+.2008_Pesanggrahan_65313
+.2007_Sidomulyo_65317
+.1004_Sisir_65314
+.1003_Songgokerto (Songgo Kerto)_65312
+.2005_Sumberejo (Sumber Rejo)_65318
+.1001_Temas_65315
+35.79.02_Bumiaji_65331|65338
+.2008_Bulukerto_65334
+.2006_Bumiaji_65331
+.2007_Giripurno_65333
+.2002_Gunungsari (Gunung Sari)_65337
+.2005_Pandanrejo (Pandan Rejo)_65332
+.2001_Punten_65338
+.2009_Sumberbrantas (Sumber Brantas)_65338
+.2004_Sumbergondo (Sumber Gondo)_65335
+.2003_Tulungrejo (Tulung Rejo)_65336
+35.79.03_Junrejo_65321|65327
+.2002_Beji_65326
+.1001_Dadaprejo_65323
+.2003_Junrejo_65321
+.2005_Mojorejo_65322
+.2006_Pendem_65324
+.2004_Tlekung_65327
+.2007_Torongrejo_65325

@@ -1,0 +1,40 @@
+12.76.04_Bajenis_20611|20621
+.1005_Bandar Sakti_20613
+.1004_Berohol_20611
+.1003_Bulian_20612
+.1001_Durian_20621
+.1002_Pelita_20621
+.1006_Pinang Mancung_20612
+.1007_Teluk Karang_20612
+12.76.03_Padang Hilir_20631|20636
+.1001_Bagelen_20634
+.1007_Damar Sari_20636
+.1009_Deblod Sundoro_20636
+.1006_Satria_20636
+.1002_Tambangan_20631
+.1008_Tambangan Hulu_20636
+.1004_Tebing Tinggi_20631
+12.76.01_Padang Hulu_20622|20625
+.1007_Bandar Sono (Bandarsono)_20625
+.1002_Lubuk Baru_20622
+.1012_Lubuk Raya_20624
+.1001_Pabatu_20623
+.1011_Padang Merbau_20624
+.1006_Persiakan_20624
+.1010_Tualang_20624
+12.76.02_Rambutan_20611|20616
+.1007_Karya Jaya_20611
+.1009_Lalang_20614
+.1013_Mekar Sentosa_20616
+.1004_Rantau Laban_20614
+.1011_Sri Padang_20616
+.1010_Tanjung Marulak_20616
+.1012_Tanjung Marulak Hilir_20616
+12.76.05_Tebing Tinggi Kota_20613|20633
+.1004_Badak Bejuang_20615
+.1005_Bandar Utama_20613
+.1001_Mandailing_20626
+.1002_Pasar Baru_20627
+.1003_Pasar Gambir_20628
+.1006_Rambung_20633
+.1007_Tebing Tinggi Lama_20632

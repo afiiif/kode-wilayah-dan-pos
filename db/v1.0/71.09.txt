@@ -1,0 +1,103 @@
+71.09.07_Biaro_95864
+.2001_Buang_95864
+.2004_Dalinsaheng_95864
+.2002_Karungo_95864
+.2003_Lamanggo_95864
+.2005_Tope_95864
+71.09.02_Siau Barat_95862
+.2006_Bumbiha_95862
+.2005_Kanawong_95862
+.2008_Lehi_95862
+.2010_Makalehi_95862
+.2012_Makalehi Timur_95862
+.2011_Makalehi Utara_95862
+.1004_Ondong_95862
+.1003_Paniki_95862
+.1002_Paseng_95862
+.2007_Pehe_95862
+.2009_Peling_95862
+.2001_Peling Sawang (Pelingsawang)_95862
+71.09.05_Siau Barat Selatan_95868
+.2006_Batusenggo_95868
+.2002_Kapeta_95868
+.2004_Laghaeng_95868
+.2007_Mahuneni_95868
+.2005_Makoa (Mekar Sari)_95868
+.2003_Talawid_95868
+.2001_Tanaki_95868
+71.09.08_Siau Barat Utara_95869
+.2005_Batubulan_95869
+.2002_Hiung_95869
+.2004_Kawahang_95869
+.2003_Kiawang_95869
+.2001_Kinali_95869
+.2007_Mini_95869
+.2006_Nameng_95869
+.2008_Winangun_95869
+71.09.09_Siau Tengah_95860
+.2002_Beong_95860
+.2004_Dompase_95860
+.2003_Lai_95860
+.2001_Salili_95860
+71.09.01_Siau Timur_95861
+.1012_Akesimbeka_95861
+.2002_Apelawo_95861
+.1013_Bahu_95861
+.1009_Bebali_95861
+.2006_Buise_95861
+.2001_Bukide_95861
+.2008_Dame_95861
+.2014_Dame I_95861
+.2003_Deahe (Beaha)_95861
+.2005_Kanang_95861
+.2007_Karalung_95861
+.2016_Karalung Satu_95861
+.2004_Lia_95861
+.2015_Lia Satu_95861
+.1011_Tarorane_95861
+.1010_Tatahadeng (Tatehadeng)_95861
+71.09.04_Siau Timur Selatan_95867
+.2006_Balirangeng (Balirangen)_95867
+.2004_Bandil_95867
+.2005_Biau_95867
+.2013_Biau Seha_95867
+.2010_Binalu_95867
+.2007_Buhias_95867
+.2011_Kalihiang_95867
+.2009_Lahopang_95867
+.2001_Mala_95867
+.2014_Matole_95867
+.2012_Pahepa_95867
+.2002_Pangirolong_95867
+.2003_Sawang_95867
+.2008_Tapile_95867
+71.09.03_Tagulandang_95863
+.2006_Apengsala_95863
+.1001_Bahoi_95863
+.1002_Balehumara_95863
+.2014_Barangka Pehe_95863
+.2004_Boto_95863
+.2010_Haasi_95863
+.2012_Laingpatehi_95863
+.2003_Lesah_95863
+.2013_Lesah Rende_95863
+.2008_Mahangiang_95863
+.2005_Mohongsawang (Mohonsawang)_95863
+.2007_Mulengan (Mulengen)_95863
+.2015_Pahiama_95863
+.2011_Pumpente_95863
+.2009_Tulusang (Tulusan)_95863
+71.09.10_Tagulandang Selatan_95866
+.2005_Batumawira_95866
+.2003_Bira Kiama (Bira Kimia / Birakiama)_95866
+.2006_Birarikei_95866
+.2004_Buha_95866
+.2001_Humbia_95866
+.2002_Kisihang_95866
+71.09.06_Tagulandang Utara_95865
+.2006_Bawo_95865
+.2004_Bawoleu_95865
+.2001_Bulangan_95865
+.2005_Lumbo_95865
+.2002_Minanga_95865
+.2003_Wo (W O)_95865

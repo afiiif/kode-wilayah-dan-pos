@@ -1,0 +1,15 @@
+13.72.01_Lubuk Sikarah_27311|27317
+.1006_Aro IV Korong_27317
+.1004_IX Korong_27314
+.1005_Kampai Tabu Kerambil/Karambia_27315
+.1007_Simpang Rumbio_27316
+.1003_Sinapa Piliang_27313
+.1001_Tanah Garam_27312
+.1002_VI Suku_27311
+13.72.02_Tanjung Harapan_27321|27326
+.1005_Kampung Jawa_27321
+.1001_Koto Panjang_27323
+.1006_Laing_27325
+.1004_Nan Balimo_27326
+.1002_Pasar Pandan Air Mati_27322
+.1003_Tanjung Paku_27324

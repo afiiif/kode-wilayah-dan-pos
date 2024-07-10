@@ -1,0 +1,165 @@
+74.06.05_Kabaena_93781
+.2010_Rahadopi_93781
+.1016_Rahampuu_93781
+.1009_Teomokole_93781
+.2011_Tirongkotua_93781
+74.06.14_Kabaena Barat_93780
+.2002_Baliara_93780
+.2004_Baliara Kepulauan_93780
+.2005_Baliara Selatan_93780
+.2003_Rahantari_93780
+.1001_Sikeli_93780
+74.06.13_Kabaena Selatan_93782
+.2002_Batuawu_93782
+.2001_Langkema_93782
+.2003_Pongkalaero_93782
+.2004_Puu Nunu_93782
+74.06.16_Kabaena Tengah_93783
+.2004_Enano_93783
+.2001_Lamonggi_93783
+.2003_Lengora_93783
+.2007_Lengora Pantai_93783
+.2006_Lengora Selatan_93783
+.2002_Tangkeno_93783
+.2005_Ulungkura_93783
+74.06.06_Kabaena Timur_93784
+.2006_Balo_93784
+.2011_Bungi-bungi_93784
+.1009_Dongkala_93784
+.1010_Lambale_93784
+.2008_Tapuhaka_93784
+.2007_Toli-Toli_93784
+.2005_Wumbuburo (Wumbubura)_93784
+74.06.15_Kabaena Utara_93785
+.2004_Eemokolo (Eeomokola)_93785
+.2006_Larolanu (Laromanu)_93785
+.2001_Mapila_93785
+.2003_Sangia Makmur_93785
+.2005_Tedubara_93785
+.2002_Wumbulasa_93785
+74.06.17_Kepulauan Masaloka Raya_93778
+.2002_Batu Lamburi_93778
+.2001_Masaloka_93778
+.2005_Masaloka Barat (Tengah)_93778
+.2003_Masaloka Selatan_93778
+.2004_Masaloka Timur_93778
+74.06.21_Lantari Jaya_93774
+.2006_Anugerah_93774
+.2007_Kalaero_93774
+.2001_Lambikasi_93774
+.2003_Langkowala_93774
+.2002_Lantari_93774
+.2004_Pasare Apua_93774
+.2009_Rarongkeu_93774
+.2008_Tinabite_93774
+.2010_Watu-Watu_93774
+74.06.08_Mata Oleo_93770
+.2009_Batusampe Indah_93770
+.2010_Hambawa_93770
+.2008_Laloa_93770
+.2002_Liano_93770
+.2004_Lora_93770
+.2007_Mawar_93770
+.2001_Pomontoro_93770
+.2011_Pu'u Waeya_93770
+.2003_Pulau Tambako_93770
+.2006_Tajuncu_93770
+.2005_Toli-Toli_93770
+74.06.22_Mata Usu_93786
+.2001_Kolombi Matausu_93786
+.2004_Lamuru_93786
+.2002_Morengke_93786
+.2005_Totole_93786
+.2003_Wia-Wia_93786
+74.06.01_Poleang_93772
+.1016_Barangka (Barangga)_93772
+.1007_Boeara_93772
+.1010_Boepinang_93772
+.1015_Boepinang Barat_93772
+.1017_Kasabolo_93772
+.1008_Kastarib_93772
+.2019_Matiro Walie_93772
+.2011_Pallimae_93772
+.2009_Pukurumba (Pokorumba)_93772
+.2018_Salosa_93772
+74.06.07_Poleang Barat_93772
+.2011_Analere_93772
+.2001_Babamolingku (Baba Molingku)_93772
+.2008_Balasari_93772
+.2009_Bulumanai_93772
+.2006_Lameong-Meong_93772
+.2010_Matabundu_93772
+.2007_Pabiring_93772
+.2005_Rakadua_93772
+.2004_Ranokomea (Rano Komea)_93772
+.2003_Timbala_93772
+.2002_Toari Bombana (Toari Buton)_93772
+74.06.11_Poleang Selatan_93773
+.2004_Akacipong_93773
+.2001_Batu Putih_93773
+.2003_Kali Baru_93773
+.2005_La Ea_93773
+.2002_Waemputang_93773
+74.06.19_Poleang Tengah_93779
+.2002_Lebo Ea_93779
+.2001_Mulaeno_93779
+.2003_Paria_93779
+.2004_Poleondro_93779
+74.06.12_Poleang Tenggara_93775
+.2004_Lamoare_93775
+.2001_Larete_93775
+.2002_Lemo_93775
+.2005_Rambaha_93775
+.2003_Terapung_93775
+74.06.02_Poleang Timur_93776
+.1011_Bambaea_93776
+.2004_Biru_93776
+.2010_Mambo_93776
+.1015_Puu Lemo_93776
+.2003_Teppoe_93776
+74.06.10_Poleang Utara_93777
+.2003_Karya Baru_93777
+.2007_Lawatu Ea (Es)_93777
+.2006_Pulau Ea (Es)_93777
+.2005_Rompu Rompu_93777
+.2001_Tampawulu (Tanpabulu)_93777
+.2002_Tanah Poleang_93777
+.2004_Toburi_93777
+.2008_Wambarema_93777
+74.06.03_Rarowatu_93787
+.2008_Ladumpi_93787
+.2011_Lakomea_93787
+.2013_Lampeantani_93787
+.2012_Pangkuri_93787
+.2009_Rarowatu_93787
+.2001_Rau-Rau_93787
+.2015_Tahi ite_93787
+.1010_Taubonto_93787
+.2014_Watu Kalangkari_93787
+74.06.09_Rarowatu Utara_93788
+.1008_Aneka Marga_93788
+.2002_Hukaea_93788
+.2003_Lantowua_93788
+.2006_Marga Jaya_93788
+.2004_Tembe_93788
+.2007_Tunas Baru_93788
+.2005_Watu Mende (Watu Mentade)_93788
+.2001_Wumbubangka (Wumbu Bangka)_93788
+74.06.04_Rumbia_93771
+.1004_Doule_93771
+.1005_Kasipute_93771
+.1002_Lameroro_93771
+.1003_Lampopala_93771
+.2001_Lanto Wonua (Lantawonua)_93771
+74.06.18_Rumbia Tengah_93771
+.1003_Kampung Baru_93771
+.2005_Lampata_93771
+.1001_Lauru_93771
+.1002_Poea_93771
+.2004_Tapuhahi_93771
+74.06.20_Tontonunu_93789
+.2005_Puu Wonua_93789
+.2003_Tete Haka_93789
+.2002_Tongkoseng_93789
+.2001_Tontonunu_93789
+.2004_Watu Melomba_93789

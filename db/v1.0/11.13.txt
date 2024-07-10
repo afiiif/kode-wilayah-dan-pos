@@ -1,0 +1,147 @@
+11.13.09_Blangjerango (Blang Jerango)_24655
+.2003_Akul_24655
+.2010_Blang Jerango_24655
+.2004_Gegarang_24655
+.2008_Ketukah_24655
+.2001_Penosan_24655
+.2006_Penosan Sepakat_24655
+.2009_Peparik Dekat_24655
+.2005_Peparik Gaib_24655
+.2002_Sekuelen_24655
+.2007_Tingkem_24655
+11.13.01_Blangkejeren (Blang Kejeren)_24655
+.2027_Agusan (Agusen)_24655
+.2004_Bacang_24655
+.2003_Bukit_24655
+.2031_Bustanussalam_24655
+.2018_Cempa_24655
+.2005_Durin_24655
+.2016_Gele_24655
+.2007_Kampung Jawa_24655
+.2001_Kota Blangkejeren (Kota Blang Kejeren)_24655
+.2011_Kute Lintang (Kuta Lintang)_24655
+.2014_Leme_24655
+.2019_Lempuh_24655
+.2021_Palok_24655
+.2002_Penampaan (Penampaan Toa)_24655
+.2032_Penampaan Uken_24655
+.2022_Penggalangan_24655
+.2008_Porang_24655
+.2033_Raklunung_24655
+.2034_Sepang_24655
+.2017_Sere (Kute Sere)_24655
+11.13.06_Blangpegayon (Blang Pegayon)_24653
+.2012_Akang Siwah_24653
+.2010_Anak Reje_24653
+.2003_Bener Baru_24653
+.2004_Blang Bengkik (Blangbengkik)_24653
+.2007_Cinta Maju_24653
+.2001_Gantung Geluni_24653
+.2005_Kong_24653
+.2002_Kutebukit (Kute / Kuta Bukit)_24653
+.2008_Porang Ayu_24653
+.2011_Rak Lintang_24653
+.2009_Tetingi_24653
+.2006_Ume Lah_24653
+11.13.08_Dabun Gelang (Debun Gelang)_24652
+.2002_Badak_24652
+.2006_Blangtemung_24652
+.2003_Kendawi_24652
+.2005_Panglima/Panglime Linting_24652
+.2001_Pangur_24652
+.2007_Rerebe_24652
+.2004_Sangir_24652
+.2008_Uning Gelung_24652
+.2009_Uning Sepakat_24652
+11.13.02_Kutapanjang (Kuta Panjang)_24650
+.2004_Bener_24650
+.2008_Beranang_24650
+.2015_Cike_24650
+.2016_Kerukunan Kota (Kuta Panjang)_24650
+.2021_Kong Paluh_24650
+.2006_Kuta Ujung_24650
+.2011_Rema_24650
+.2014_Rema Baru_24650
+.2010_Rikit Dekat_24650
+.2002_Tampeng_24650
+.2020_Tampeng Musara_24650
+.2005_Ulun Tanoh (Ulon Tanoh)_24650
+11.13.11_Pantan Cuaca_24654
+.2005_Atu Kapur_24654
+.2008_Cane Baru_24654
+.2003_Kenyaran_24654
+.2009_Kuning Kurnia_24654
+.2002_Remukut_24654
+.2001_Seneren_24654
+.2006_Suri Musara_24654
+.2004_Tetingi (Tetinggi)_24654
+.2007_UPT. Aih Selah (Aih Selah)_24654
+11.13.05_Pining (Pinding)_24659
+.2003_Ekan_24659
+.2005_Gajah_24659
+.2009_Lesten_24659
+.2008_Pasir Putih_24659
+.2007_Pepelah_24659
+.2002_Pertik_24659
+.2001_Pining (Pinding)_24659
+.2006_Pintu Rime_24659
+.2004_Uring_24659
+11.13.07_Puteri Betung (Putri Betung)_24658
+.2001_Gumpang_24658
+.2008_Gumpang Lempuh_24658
+.2005_Kutelengat Sepakat_24658
+.2002_Marpunge Gabungan (Marpunge)_24658
+.2004_Meloak Sepakat_24658
+.2009_Putri Betung_24658
+.2003_Ramung Musara_24658
+.2006_Singah Mulo_24658
+.2007_Uning Pune_24658
+11.13.03_Rikit Gaib_24651
+.2001_Ampa Kolak_24651
+.2002_Cane Toa_24651
+.2012_Cane Uken_24651
+.2014_Kota Rikit Gaib_24651
+.2006_Kuning_24651
+.2016_Lukup Baru_24651
+.2008_Mangang_24651
+.2003_Padang Pasir_24651
+.2017_Penomon Jaya_24651
+.2005_Pinang Rugub_24651
+.2011_Rempelam_24651
+.2013_Tungel_24651
+.2018_Tungel Baru_24651
+11.13.04_Terangun (Terangon)_24656
+.2015_Berhut_24656
+.2029_Blang Kala_24656
+.2020_Blang Kuncir_24656
+.2007_Bukut_24656
+.2024_Garut_24656
+.2028_Gawar Belangi_24656
+.2016_Gewat_24656
+.2001_Jabo_24656
+.2013_Kutereje (Kute Reje)_24656
+.2002_Kutesange_24656
+.2027_Lestari_24656
+.2018_Makmur Jaya_24656
+.2003_Padang_24656
+.2017_Pantan Lues_24656
+.2014_Persada Tongra_24656
+.2023_Reje Pudung_24656
+.2010_Rempelam Pinang (Rempelan Pinang)_24656
+.2026_Rime Raya (Rime Jaya)_24656
+.2006_Rumpi_24656
+.2011_Soyo_24656
+.2025_Telege Jernih_24656
+.2008_Terangun (Terangon)_24656
+.2012_Terlis_24656
+11.13.10_Teripe Jaya (Tripe Jaya)_24657
+.2007_Buntul Musara_24657
+.2008_Kuala Jernih_24657
+.2003_Pasir_24657
+.2001_Perlak_24657
+.2010_Pulo Gelime_24657
+.2002_Rerebe_24657
+.2004_Setul_24657
+.2006_UPT. Pantan Kela (Pantan Kela)_24657
+.2005_UPT. Paya Kumer (Paya Kumer)_24657
+.2009_Uyem Beriring_24657

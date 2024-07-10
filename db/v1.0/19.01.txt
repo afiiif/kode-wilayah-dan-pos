@@ -1,0 +1,89 @@
+19.01.06_Bakam_33252
+.2001_Bakam_33252
+.2008_Bukit Layang_33252
+.2003_Dalil_33252
+.2002_Kapuk_33252
+.2007_Mabat_33252
+.2006_Mangka_33252
+.2009_Maras Senang_33252
+.2004_Neknang_33252
+.2005_Tiang Tarah (Tiang Tara)_33252
+19.01.02_Belinyu_33253
+.1010_Air Asam_33253
+.1002_Air Jukung_33253
+.1012_Belinyu_33253
+.2008_Bintet_33253
+.1003_Bukit Ketok_33253
+.2004_Gunung Muda_33253
+.2005_Gunung Pelawan_33253
+.1001_Kuto Panji_33253
+.2007_Lumut_33253
+.1011_Mantung_33253
+.1009_Remodong Indah_33253
+.2006_Riding Panjang_33253
+19.01.04_Mendo Barat_33173
+.2011_Air Buluh_33173
+.2009_Air Duren_33173
+.2006_Cengkong Abang_33173
+.2007_Kace_33173
+.2014_Kace Timur_33173
+.2008_Kemuja_33173
+.2010_Kota Kapur_33173
+.2013_Labuh Air Pandan_33173
+.2004_Mendo (Menduk)_33173
+.2005_Paya Benua (Payabenua)_33173
+.2002_Penagan_33173
+.2001_Petaling_33173
+.2015_Petaling Banjar_33173
+.2012_Rukam_33173
+.2003_Zed_33173
+19.01.03_Merawang_33172
+.2008_Air Anyir_33172
+.2002_Balun Ijuk_33172
+.2001_Batu Rusa (Baturusa)_33172
+.2009_Dwi Makmur_33172
+.2010_Jada Bahrin_33172
+.2004_Jurung_33172
+.2005_Kimak_33172
+.2007_Merawang_33172
+.2006_Pagarawan_33172
+.2003_Riding Panjang_33172
+19.01.05_Pemali_33251|33255
+.2002_Air Duren_33255
+.2001_Air Ruai_33255
+.2006_Karya Makmur_33255
+.2005_Pemali_33255
+.2003_Penyamun_33251
+.2004_Sempan_33251
+19.01.08_Puding Besar_33179
+.2007_Kayu Besi_33179
+.2006_Kota Waringin_33179
+.2002_Labu_33179
+.2003_Nibung_33179
+.2001_Puding Besar (Pudingbesar)_33179
+.2005_Saing_33179
+.2004_Tanah Bawah_33179
+19.01.07_Riau Silip_33254
+.2008_Banyu Asin_33254
+.2009_Berbura_33254
+.2004_Cit_33254
+.2005_Deniang_33254
+.2007_Mapur_33254
+.2002_Pangkal Niur_33254
+.2003_Pugul_33254
+.2001_Riau_33254
+.2006_Silip_33254
+19.01.01_Sungailiat (Sungai Liat)_33211|33215
+.1013_Bukit Betung_33211
+.1010_Jelitik_33211
+.1005_Kenanga_33211
+.1003_Kudai_33213
+.1012_Lubuk Kelik_33211
+.1009_Matras_33212
+.1006_Parit Padang_33215
+.2007_Rebo_33211
+.1004_Sinar Baru_33212
+.1008_Sinar Jaya Jelutung_33212
+.1002_Sri Menanti_33214
+.1001_Sungailiat_33211
+.1011_Surya Timur_33211

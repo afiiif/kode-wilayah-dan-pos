@@ -1,0 +1,183 @@
+53.10.06_Cibal_86591
+.2009_Barang_86591
+.2011_Bea Mese_86591
+.2025_Gapong_86591
+.2008_Golo_86591
+.2027_Golo Ncuang_86591
+.2014_Kentol_86591
+.2013_Ladur_86591
+.2024_Lando_86591
+.2012_Langkas_86591
+.2001_Nenu_86591
+.1026_Pagal_86591
+.2010_Perak_86591
+.2022_Pinggang_86591
+.2002_Rado_86591
+.2015_Riung_86591
+.2007_Welu_86591
+.2006_Wudi_86591
+53.10.17_Cibal Barat_86590
+.2008_Bangka Ara_86590
+.2001_Bere_86590
+.2009_Compang Cibal_86590
+.2004_Golo Lanak_86590
+.2003_Golo Woi_86590
+.2005_Latung_86590
+.2010_Lenda_86590
+.2007_Timbu_86590
+.2002_Wae Codi_86590
+.2006_Wae Renca_86590
+53.10.12_Langke Rembong_86511|86519
+.1019_Bangka Leda_86515
+.1012_Bangka Nekang_86511
+.1011_Carep_86519
+.1015_Compang Carep_86519
+.1020_Compang Tuke_86514
+.1001_Golo Dukal_86515
+.1003_Karot_86512
+.1016_Laci Carep_86519
+.1005_Lawir_86516
+.1009_Mbaumuku (Mbau Muku)_86511
+.1006_Pau_86516
+.1004_Pitak_86513
+.1014_Poco Mal_86518
+.1018_Rowang_86517
+.1013_Satar Tacik_86518
+.1017_Tadong_86512
+.1010_Tenda_86518
+.1002_Wali_86514
+.1007_Waso_86517
+.1008_Watu_86511
+53.10.15_Lelak_86521
+.2006_Bangka Dese_86521
+.2001_Bangka Lelak_86521
+.2009_Bangka Tonggur_86521
+.2002_Gelong_86521
+.2004_Ketang_86521
+.2010_Lentang_86521
+.2007_Nati_86521
+.2008_Ndiwar_86521
+.2005_Pong Umpu (Pong Ompu)_86521
+.2003_Urang_86521
+53.10.14_Rahong Utara_86522
+.2005_Bangka Ajang_86522
+.2011_Bangka Ruang_86522
+.2002_Benteng Tubi_86522
+.2001_Buar_86522
+.2003_Compang Dari_86522
+.2004_Dimpong_86522
+.2008_Golo Langkok_86522
+.2006_Liang Bua_86522
+.2010_Manong_86522
+.2009_Pong Lengor_86522
+.2007_Tengku Lese_86522
+.2012_Wae Mantang_86522
+53.10.11_Reok_86592
+.2010_Bajak_86592
+.1019_Baru_86592
+.1018_Mata Air_86592
+.1017_Reo_86592
+.2001_Robek_86592
+.2009_Ruis_86592
+.2012_Salama_86592
+.1020_Wangkung_86592
+.2011_Watu Baur_86592
+.2016_Watu Tango_86592
+53.10.16_Reok Barat_86593
+.2001_Kajong (Wae Kajong)_86593
+.2002_Lante_86593
+.2007_Lemarang_86593
+.2006_Loce_86593
+.2005_Nggalak_86593
+.2009_Para Lando_86593
+.2010_Rura_86593
+.2004_Sambi_86593
+.2003_Toe_86593
+.2008_Torong Koe_86593
+53.10.03_Ruteng_86523
+.2029_Bangka Lao_86523
+.2031_Bea Kakor (Beokakor)_86523
+.2022_Belang Turi_86523
+.2021_Benteng Kuwu_86523
+.2011_Beo Rahong_86523
+.2006_Bulan_86523
+.2030_Compang Dalo_86523
+.2032_Compang Namut_86523
+.2002_Cumbi_86523
+.2019_Golo Worok_86523
+.2003_Kakor_86523
+.2020_Meler_86523
+.2025_Poco Likang (Poco Liking)_86523
+.2033_Pong Lale_86523
+.2010_Pong Lao_86523
+.2023_Pong Leko_86523
+.2004_Pong Murung_86523
+.2024_Rai_86523
+.1005_Wae Belang_86523
+53.10.05_Satar Mese_86561
+.2035_Gara_86561
+.2031_Golo Lambo_86561
+.2036_Golo Muntas_86561
+.2039_Iteng_86561
+.2003_Jaong_86561
+.2022_Koak_86561
+.2023_Langgo_86561
+.2024_Legu_86561
+.2041_Lolang_86561
+.2020_Lungar_86561
+.2021_Mocok_86561
+.2032_Ngkaer_86561
+.2025_Paka_86561
+.2018_Papang_86561
+.2038_Ponggeok_86561
+.2004_Pongkor_86561
+.2040_Satar Loung_86561
+.2034_Tado_86561
+.2028_Tal_86561
+.2042_Ulu Belang_86561
+.2033_Umung_86561
+.2005_Wae Ajang_86561
+.2019_Wewo_86561
+53.10.13_Satar Mese Barat_86560
+.2005_Bea Kondo_86560
+.2019_Borik_86560
+.2021_Cambir Leca_86560
+.2014_Ceka Luju_86560
+.2012_Golo Ropong_86560
+.2002_Hilihintir_86560
+.2018_Nuca Molas_86560
+.2016_Satar Lenda_86560
+.2015_Satar Luju_86560
+.2017_Satar Ruwuk_86560
+.2013_Terong_86560
+.2022_Wongka_86560
+53.10.18_Satar Mese Utara_86562
+.2009_Cireng_86562
+.2003_Gulung_86562
+.2006_Kole_86562
+.2005_Lia_86562
+.2007_Ling_86562
+.2011_Mata Wae_86562
+.2008_Nao_86562
+.2004_Popo_86562
+.2001_Renda_86562
+.2010_Ruang_86562
+.2002_Todo_86562
+53.10.01_Wae Rii_86594
+.2010_Bangka Jong (Bangkajong)_86594
+.2012_Bangka Kenda_86594
+.2018_Benteng Poco_86594
+.2009_Compang Ndehes_86594
+.2006_Golo Cador_86594
+.2013_Golo Mendo_86594
+.2017_Golo Watu/Wutu_86594
+.2014_Golo Wua (Golo Wuas)_86594
+.2002_Lalong_86594
+.2007_Longko_86594
+.2005_Ndehes_86594
+.2003_Poco_86594
+.2016_Ranaka/Renaka_86594
+.2008_Ranggi_86594
+.2001_Satar Ngkeling_86594
+.2004_Wae Mulu_86594
+.2015_Wae Rii_86594

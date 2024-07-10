@@ -1,0 +1,117 @@
+73.09.03_Bantimurung_90561
+.2003_Alatengae_90561
+.2008_Baruga_90561
+.1001_Kalabbirang_90561
+.1002_Leang Leang (Leang-Leang)_90561
+.2007_Mangeloreng_90561
+.2006_Mattoanging (Mattoangin)_90561
+.2004_Minasa Baji_90561
+.2005_Tukamasea_90561
+73.09.05_Bontoa (Maros Utara)_90554
+.2008_Ampikale (Ampekale)_90554
+.2009_Bonto Bahari_90554
+.1001_Bontoa_90554
+.2005_Botolempangang_90554
+.2007_Minasupa (Minasa Upa)_90554
+.2002_Pajukukang_90554
+.2006_Salenrang_90554
+.2003_Tunikamaseang_90554
+.2004_Tuppabiring (Tupabiring)_90554
+73.09.02_Camba_90562
+.2008_Benteng_90562
+.1001_Cempaniga_90562
+.2004_Cenrana_90562
+.1002_Mario Pulana_90562
+.2006_Patanyamang (Pattanyamang)_90562
+.2007_Pattiro Deceng_90562
+.2005_Sawaru_90562
+.2003_Timpuseng_90562
+73.09.10_Cenrana_90524
+.2006_Baji Pa'mai_90524
+.2007_Cenrana Baru_90524
+.2002_Labuaja_90524
+.2001_Laiya_90524
+.2004_Lebbotengngae_90524
+.2003_Limapoccoe_90524
+.2005_Rompegading (Rompe Gading)_90524
+73.09.12_Lau_90513|90514
+.1001_Allepolea_90514
+.2006_Bonto Marrannu_90513
+.1002_Maccini Baji_90513
+.2005_Marannu (Marrannu)_90513
+.1004_Mattirodeceng (Mattiro Deceng)_90513
+.1003_Soreang_90513
+73.09.06_Malllawa (Mallawa)_90563
+.2011_Barugae_90563
+.2003_Batu Putih_90563
+.2007_Bentenge_90563
+.2010_Gatarang Matinggi (Gattareng Matinggi)_90563
+.2008_Matampapole_90563
+.2002_Padaelo_90563
+.1001_Sabila_90563
+.2006_Samaenre_90563
+.2005_Tellupanuae_90563
+.2009_Uludaya_90563
+.2004_Wanua Waru_90563
+73.09.01_Mandai_90552
+.2006_Baji Mangngai_90552
+.2005_Bonto Mate'ne_90552
+.1002_Bontoa_90552
+.1001_Hasanuddin_90552
+.2004_Pattontongang (Pattontongan)_90552
+.2003_Tenrigangkae_90552
+73.09.04_Maros Baru_90511|90516
+.1001_Baji Pamai_90516
+.1003_Baju Bodoa_90515
+.2004_Bori Kamase_90512
+.2007_Bori Masunggu (Borimasunggu)_90511
+.2006_Majannang_90511
+.2005_Mattiro Tasi_90511
+.1002_Pallantikang_90516
+73.09.08_Marusu_90551
+.2006_Abulosibatang_90551
+.2005_Bonto Mate'ne_90551
+.2004_Ma'rumpa_90551
+.2002_Nisombalia_90551
+.2007_Pa'bentengang_90551
+.2003_Tellum Poccoe (Tellumpoccoe)_90551
+.2001_Temmapaduae (Temappadduae)_90551
+73.09.13_Moncongloe (Moncong Loe)_90564
+.2004_Bonto Bunga_90564
+.2005_Bonto Marannu_90564
+.2001_Moncong Loe (Moncongloe)_90564
+.2002_Moncong Loe Bulu (Moncongloe Bulu)_90564
+.2003_Moncong Loe Lappara (Moncongloe Lappara)_90564
+73.09.09_Simbang_90560
+.2002_Bonto Tallasa_90560
+.2001_Jenetaesa_90560
+.2005_Samangki_90560
+.2003_Sambueja_90560
+.2006_Simbang_90560
+.2004_Tanete_90560
+73.09.07_Tanralili_90553
+.2002_Allaere_90553
+.1001_Borong_90553
+.2006_Damai_90553
+.2004_Kurusumange (Kuru Sumange)_90553
+.2005_Lekopancing (Leko Pancing)_90553
+.2008_Purnakarya (Purna Karya)_90553
+.2007_Sudirman_90553
+.2003_Toddopulia (Toddo Pulia)_90553
+73.09.11_Tompobulu (Tompu Bulu)_90565
+.2002_Benteng Gajah_90565
+.2003_Bonto Manai_90565
+.2008_Bonto Manurung_90565
+.2007_Bonto Matinggi (Bontomatinggi)_90565
+.2004_Bonto Somba_90565
+.2006_Pucak_90565
+.2005_Toddolimae_90565
+.2001_Tompobulu (Tompo Bulu)_90565
+73.09.14_Turikale_90511|90516
+.1007_Adatongeng_90516
+.1003_Alliri Tengae (Alliritengae)_90511
+.1002_Bori Bellaya_90512
+.1001_Pettuadae_90516
+.1006_Raya_90511
+.1005_Taroada_90516
+.1004_Turikale_90511

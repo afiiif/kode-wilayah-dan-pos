@@ -1,0 +1,137 @@
+92.04.24_Fokour_98231
+.2003_Bemus_98231
+.2001_Pasir Putih_98231
+.2002_Wandum_98231
+.2004_Welek_98231
+92.04.04_Inanwatan_98223
+.2009_Isogo_98223
+.2001_Mate_98223
+.2020_Mogibi_98223
+.2026_Odeare_98223
+.2004_Serkos_98223
+.2013_Sibae_98223
+.2027_Siri-siri_98223
+.2006_Solta Baru_98223
+.2008_Wadoi_98223
+92.04.14_Kais_98222
+.2004_Benawa I_98222
+.2001_Kais_98222
+.2006_Sumano_98222
+.2002_Tapuri_98222
+.2003_Yahadian_98222
+92.04.26_Kais Darat_98226
+.2003_Haemaran_98226
+.2002_Ikana_98226
+.2007_Makaroro_98226
+.2005_Mogatemin_98226
+.2001_Mukamat_98226
+.2006_Onimsefa_98226
+.2004_Siranggo_98226
+92.04.09_Kokoda_98221
+.2014_Arbasina_98221
+.2015_Birawaku_98221
+.2021_Daimar_98221
+.2010_Daubak_98221
+.2004_Kasuweri_98221
+.2016_Korewatara_98221
+.2005_Migori_98221
+.2020_Migrito_98221
+.2012_Nayakore_98221
+.2002_Negeri Besar_98221
+.2003_Siwatori_98221
+.2006_Tambani_98221
+.2017_Tapas_98221
+.2001_Tarof_98221
+.2018_Topdan_98221
+.2011_Totona_98221
+92.04.21_Kokoda Utara_98224
+.2003_Adona_98224
+.2005_Atori_98224
+.2004_Benawa II_98224
+.2008_Bubuko_98224
+.2009_Kamundan Dua_98224
+.2006_Kamundan Satu_98224
+.2007_Karirif_98224
+.2002_Kayubiro_98224
+.2001_Udagaga_98224
+92.04.15_Konda_98211
+.2003_Bariat_98211
+.2001_Konda_98211
+.2004_Manelek_98211
+.2005_Nagna_98211
+.2002_Wamargege_98211
+92.04.20_Matemani_98225
+.2006_Bedare_98225
+.2001_Mugim_98225
+.2002_Nusa_98225
+.2004_Puragi_98225
+.2003_Saga_98225
+.2005_Tawanggire_98225
+92.04.10_Moswaren_98212
+.2004_Bumi Ajo_98212
+.2003_Hararo_98212
+.2005_Hasik Jaya_98212
+.2002_Johsiro (Joshiro)_98212
+.2006_Kamisabe_98212
+.2001_Moswaren_98212
+.2007_Tokass_98212
+92.04.22_Saifi_98213
+.2004_Kayabo_98213
+.2009_Kenaya_98213
+.2002_Komanggaret_98213
+.2007_Kwowok_98213
+.2001_Manggroholo_98213
+.2006_Mlaswat_98213
+.2003_Sayal_98213
+.2008_Sira_98213
+.2005_Sisir_98213
+92.04.25_Salkma_98233
+.2005_Alma_98233
+.2002_Klamit_98233
+.2004_Kofalit_98233
+.2003_Mlabolo_98233
+.2001_Wenslolo_98233
+92.04.06_Sawiat_98232
+.2009_Elles_98232
+.2008_Sasnek_98232
+.2001_Sawiat_98232
+.2012_Sfakyo_98232
+.2011_Sodrofoyo_98232
+.2014_Ween_98232
+.2015_Wendi_98232
+.2013_Wensough_98232
+92.04.11_Seremuk_98214
+.2001_Haha_98214
+.2009_Kakas_98214
+.2008_Kamaro_98214
+.2003_Klaogin_98214
+.2005_Sbir_98214
+.2006_Srer_98214
+.2004_Tofot_98214
+.2007_Woloin_98214
+92.04.01_Teminabuan_98216
+.2010_Aibobor_98216
+.2045_Ani Sesna_98216
+.2040_Gorolo_98216
+.1005_Kaibus_98216
+.2018_Keyen_98216
+.1006_Kohoin_98216
+.2025_Magis_98216
+.2041_Nambro_98216
+.2044_Seyolo_98216
+.2021_Siribau_98216
+.2035_Tapiri_98216
+.2026_Tegirolo_98216
+.2009_Wehali_98216
+.2017_Wermit_98216
+.2034_Wernas_98216
+.2004_Wersar_98216
+92.04.12_Wayer_98215
+.2006_Bagraga (Bagaraga)_98215
+.2003_Baldon (Boldon)_98215
+.2004_Sesor_98215
+.2001_Sungguer_98215
+.2002_Unggi (Ungi)_98215
+.2005_Waigo_98215
+.2007_Wardik_98215
+.2008_Wayer_98215
